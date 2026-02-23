@@ -73,7 +73,7 @@
       <div class="brand">
         <div class="dot"></div>
         <div class="title">AI News / Automation / Notion</div>
-        <div class="subtitle" id="subTitle">핵심 이슈만 자동 요약</div>
+        <div class="subtitle" id="subTitle">매일 자동 요약</div>
       </div>
       <div class="controls">
         <div class="pill" id="statusPill">로딩 준비</div>
@@ -143,30 +143,27 @@ const SUBTABS = {
 };
 
 const RULES = [
-  { bucket:"llm", tag:"GPT/OpenAI", w:40, k:["gpt","openai","chatgpt","assistants api","responses api","gpt-4","gpt-5","oai"] },
+  { bucket:"llm", tag:"GPT/OpenAI", w:40, k:["gpt","openai","chatgpt","gpt-4","gpt-5","responses api","assistants api"] },
   { bucket:"llm", tag:"Claude/Anthropic", w:40, k:["claude","anthropic"] },
   { bucket:"llm", tag:"Gemini/Google", w:35, k:["gemini","google ai","deepmind","vertex ai"] },
 
   { bucket:"agents", tag:"Agents", w:24, k:["agent","agentic","tool use","function calling","mcp","model context protocol","langgraph","autogen","crewai"] },
-  { bucket:"workflow", tag:"Workflows", w:18, k:["workflow","orchestration","pipeline","dag","scheduler"] },
+  { bucket:"workflow", tag:"Workflows", w:18, k:["workflow","orchestration","pipeline","dag"] },
 
   { bucket:"rag", tag:"RAG/Vector", w:20, k:["rag","retrieval","vector","embedding","semantic search","rerank","pinecone","weaviate","milvus","qdrant"] },
-
-  { bucket:"eval", tag:"Eval/Observability", w:18, k:["eval","evaluation","observability","tracing","langfuse","helicone","ragas","wandb","weights & bias"] },
-
+  { bucket:"eval", tag:"Eval/Observability", w:18, k:["eval","evaluation","observability","tracing","langfuse","helicone","ragas","wandb"] },
   { bucket:"multimodal", tag:"Multimodal", w:16, k:["multimodal","vision","image generation","video generation","runway","pika","midjourney","sora"] },
 
   { bucket:"prod", tag:"NotebookLM", w:22, k:["notebooklm","notebook lm","notebooklm plus","workspace updates","sources","studio"] },
 
-  { bucket:"make", tag:"Make", w:24, k:["make.com","integromat","scenario","iterator","make module"] },
-  { bucket:"n8n", tag:"n8n", w:24, k:["n8n","n8n node","n8n workflow","n8n cloud"] },
-  { bucket:"zapier", tag:"Zapier", w:20, k:["zapier","zap","zaps","zapier ai"] },
-  { bucket:"opal", tag:"Google Opal", w:20, k:["google opal","opal ai","opal no-code","opal"] },
-  { bucket:"automation", tag:"Automation", w:16, k:["automation","rpa","integration","webhook","iPaaS","no-code","low-code"] },
+  { bucket:"make", tag:"Make", w:24, k:["make.com","integromat","scenario","iterator"] },
+  { bucket:"n8n", tag:"n8n", w:24, k:["n8n","n8n node","n8n workflow"] },
+  { bucket:"zapier", tag:"Zapier", w:20, k:["zapier","zap","zaps"] },
+  { bucket:"opal", tag:"Google Opal", w:20, k:["google opal","opal no-code","opal ai","opal"] },
 
   { bucket:"update", tag:"Notion Update", w:22, k:["notion update","release notes","what's new","database view","formula"] },
   { bucket:"status", tag:"Notion Status", w:20, k:["notion status","incident","outage","downtime","degraded"] },
-  { bucket:"creators", tag:"Creators", w:18, k:["template","creator","marketplace","notion creators","ambassador"] },
+  { bucket:"creators", tag:"Creators", w:18, k:["template","creator","marketplace","notion creators"] },
 
   { bucket:"hot", tag:"Hot", w:20, k:["security","vulnerability","cve","rce","breach","leak","policy","pricing","rate limit","outage","incident","lawsuit"] },
   { bucket:"hot", tag:"Release", w:10, k:["release","launch","update","beta","preview","ga"] },
@@ -205,8 +202,8 @@ function escapeAttr(str){ return (str||"").replace(/"/g, "&quot;"); }
 function scoreAndClassify(item){
   const text = ((item.title||"") + " " + (item.summary_ko||"") + " " + (item.source||"")).toLowerCase();
   let score = 0;
-  let tags = new Set(item.tags || []);
-  let buckets = new Set(item.buckets || []);
+  const tags = new Set(item.tags || []);
+  const buckets = new Set(item.buckets || []);
 
   for (const r of RULES){
     const hit = r.k.some(x => text.includes(String(x).toLowerCase()));
@@ -221,7 +218,7 @@ function scoreAndClassify(item){
   if (h <= 24) score += 25;
   else if (h <= 72) score += 12;
 
-  return { ...item, score: typeof item.score==="number"?item.score:score, tags:[...tags], buckets:[...buckets] };
+  return { ...item, score, tags:[...tags], buckets:[...buckets] };
 }
 
 function normalize(items){
@@ -231,7 +228,7 @@ function normalize(items){
       url: it.url || it.link || "",
       source: it.source || it.site || "Unknown",
       published_at: it.published_at || it.pubDate || it.published || "",
-      summary_ko: it.summary_ko || it.summary || it.description_ko || "",
+      summary_ko: it.summary_ko || "",
       tags: Array.isArray(it.tags) ? it.tags : [],
       buckets: Array.isArray(it.buckets) ? it.buckets : [],
       score: typeof it.score === "number" ? it.score : undefined
@@ -243,7 +240,7 @@ function normalize(items){
 function badgeClass(tag){
   const t = (tag||"").toLowerCase();
   if (t.includes("gpt") || t.includes("claude") || t.includes("gemini") || t.includes("llm")) return "badge b1";
-  if (t.includes("make") || t.includes("n8n") || t.includes("zapier") || t.includes("opal") || t.includes("automation") || t.includes("workflow")) return "badge b2";
+  if (t.includes("make") || t.includes("n8n") || t.includes("zapier") || t.includes("opal") || t.includes("workflow")) return "badge b2";
   if (t.includes("hot") || t.includes("security") || t.includes("policy") || t.includes("pricing") || t.includes("release")) return "badge b3";
   if (t.includes("notion") || t.includes("notebooklm") || t.includes("creators") || t.includes("status")) return "badge b4";
   return "badge";
@@ -277,7 +274,6 @@ function applyFilters(){
   if (q){
     items = items.filter(x => (x.title+" "+x.summary_ko+" "+x.source+" "+(x.tags||[]).join(" ")).toLowerCase().includes(q));
   }
-
   STATE.filtered = items;
 }
 
@@ -311,8 +307,8 @@ function render(){
 }
 
 function subtitleByTab(){
-  if (STATE.tab === "ai") return "LLM/에이전트/RAG/멀티모달/NotebookLM 중심";
-  if (STATE.tab === "automation") return "Make/n8n/Zapier/Google Opal + 워크플로우";
+  if (STATE.tab === "ai") return "LLM/에이전트/RAG/멀티모달/NotebookLM";
+  if (STATE.tab === "automation") return "Make/n8n/Zapier/Google Opal";
   return "Notion 업데이트/장애/크리에이터";
 }
 
@@ -331,7 +327,7 @@ async function fetchNews(){
   }catch(err){
     console.error(err);
     els.pill.textContent = "로드 실패";
-    els.subTitle.textContent = "data/*.json 생성 여부 확인";
+    els.subTitle.textContent = "첫 실행 전이면 정상(곧 data/*.json 생성됨)";
     STATE.raw = [];
     buildSubTabs();
     render();
