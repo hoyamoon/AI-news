@@ -1,0 +1,560 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>AI News + Notion News Widget</title>
+  <style>
+    :root{
+      --bg:#0b0f19;
+      --card:#101827;
+      --muted:#92a0b3;
+      --text:#e8eef7;
+      --line:#1b2a43;
+      --accent:#6ee7ff;
+      --accent2:#a78bfa;
+      --good:#34d399;
+      --warn:#fbbf24;
+      --bad:#fb7185;
+      --shadow: 0 10px 30px rgba(0,0,0,.35);
+      --radius:16px;
+      --mono: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono","Courier New", monospace;
+      --sans: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, "Apple SD Gothic Neo", "Noto Sans KR", Arial, "Helvetica Neue", Helvetica, sans-serif;
+    }
+    html,body{height:100%; background:transparent; margin:0;}
+    body{font-family:var(--sans); color:var(--text);}
+    .wrap{
+      background:linear-gradient(180deg, rgba(16,24,39,.92), rgba(11,15,25,.92));
+      border:1px solid var(--line);
+      box-shadow:var(--shadow);
+      border-radius:var(--radius);
+      overflow:hidden;
+      max-width:920px;
+      margin:0 auto;
+    }
+    header{
+      display:flex; align-items:center; justify-content:space-between;
+      padding:14px 16px;
+      border-bottom:1px solid var(--line);
+      gap:12px;
+    }
+    .brand{display:flex; align-items:center; gap:10px; min-width:0;}
+    .dot{
+      width:10px; height:10px; border-radius:999px;
+      background: radial-gradient(circle at 30% 30%, var(--accent), var(--accent2));
+      box-shadow:0 0 16px rgba(110,231,255,.35);
+      flex:0 0 auto;
+    }
+    .title{
+      font-weight:800; letter-spacing:-0.2px; font-size:14px;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+    }
+    .subtitle{
+      color:var(--muted); font-size:12px; margin-left:8px;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+    }
+    .controls{display:flex; align-items:center; gap:8px; flex:0 0 auto;}
+    .btn{
+      appearance:none; border:1px solid var(--line);
+      background:rgba(255,255,255,.03);
+      color:var(--text);
+      padding:8px 10px;
+      border-radius:12px;
+      cursor:pointer;
+      font-size:12px;
+    }
+    .btn:hover{border-color:rgba(110,231,255,.45);}
+    .pill{
+      font-family:var(--mono);
+      font-size:11px;
+      color:var(--muted);
+      padding:6px 10px;
+      border:1px solid var(--line);
+      border-radius:999px;
+      background:rgba(255,255,255,.02);
+      max-width:260px;
+      white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
+    }
+
+    .tabs{
+      display:flex; gap:8px;
+      padding:10px 12px;
+      border-bottom:1px solid var(--line);
+      background:rgba(255,255,255,.02);
+    }
+    .tab{
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.02);
+      padding:8px 10px;
+      font-size:12px;
+      border-radius:999px;
+      cursor:pointer;
+      color:var(--muted);
+    }
+    .tab.active{
+      color:var(--text);
+      border-color:rgba(110,231,255,.55);
+      box-shadow:0 0 0 3px rgba(110,231,255,.12) inset;
+    }
+
+    .bar{
+      display:flex;
+      gap:10px;
+      align-items:center;
+      padding:10px 12px;
+      border-bottom:1px solid var(--line);
+      flex-wrap:wrap;
+    }
+    .search{
+      flex:1 1 220px;
+      display:flex; align-items:center;
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.02);
+      border-radius:12px;
+      padding:8px 10px;
+      gap:8px;
+    }
+    .search input{
+      width:100%;
+      border:0; outline:0;
+      background:transparent;
+      color:var(--text);
+      font-size:12px;
+    }
+    .meta{
+      display:flex; gap:8px; align-items:center; flex:0 0 auto;
+      color:var(--muted); font-size:12px;
+    }
+    .chip{
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.02);
+      border-radius:999px;
+      padding:6px 10px;
+      font-size:11px;
+      color:var(--muted);
+      cursor:pointer;
+      user-select:none;
+    }
+    .chip.on{
+      color:var(--text);
+      border-color:rgba(167,139,250,.6);
+      box-shadow:0 0 0 3px rgba(167,139,250,.12) inset;
+    }
+
+    main{padding:12px;}
+    .grid{
+      display:grid;
+      grid-template-columns: 1fr;
+      gap:10px;
+    }
+    .card{
+      border:1px solid var(--line);
+      border-radius:14px;
+      background:rgba(255,255,255,.02);
+      padding:12px 12px 10px;
+    }
+    .row{
+      display:flex; align-items:flex-start; justify-content:space-between; gap:10px;
+    }
+    .h{
+      font-size:13px; font-weight:800; letter-spacing:-.2px;
+      margin:0; line-height:1.35;
+    }
+    .badges{display:flex; gap:6px; flex-wrap:wrap; justify-content:flex-end;}
+    .badge{
+      font-size:10px;
+      border-radius:999px;
+      padding:4px 8px;
+      border:1px solid var(--line);
+      color:var(--muted);
+      background:rgba(255,255,255,.02);
+      white-space:nowrap;
+    }
+    .b1{border-color:rgba(110,231,255,.35); color:rgba(110,231,255,.95);}
+    .b2{border-color:rgba(167,139,250,.35); color:rgba(167,139,250,.95);}
+    .b3{border-color:rgba(52,211,153,.35); color:rgba(52,211,153,.95);}
+    .b4{border-color:rgba(251,191,36,.35); color:rgba(251,191,36,.95);}
+
+    .sum{
+      color:rgba(232,238,247,.92);
+      font-size:12px;
+      margin:8px 0 10px;
+      line-height:1.55;
+      white-space:pre-wrap;
+    }
+    .foot{
+      display:flex; align-items:center; justify-content:space-between; gap:10px;
+      border-top:1px solid rgba(27,42,67,.7);
+      padding-top:10px;
+      color:var(--muted);
+      font-size:11px;
+      flex-wrap:wrap;
+    }
+    a{color:var(--accent); text-decoration:none;}
+    a:hover{text-decoration:underline;}
+    .small{
+      font-family:var(--mono);
+      opacity:.95;
+    }
+
+    .empty{
+      padding:24px 12px;
+      color:var(--muted);
+      font-size:12px;
+      text-align:center;
+      border:1px dashed rgba(27,42,67,.9);
+      border-radius:14px;
+      background:rgba(255,255,255,.01);
+    }
+
+    /* Notion embed friendly height */
+    .wrap{min-height:520px;}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <header>
+      <div class="brand">
+        <div class="dot"></div>
+        <div class="title">AI News + Notion News</div>
+        <div class="subtitle" id="subTitle">오늘의 핵심 이슈만 요약</div>
+      </div>
+      <div class="controls">
+        <div class="pill" id="statusPill">로딩 준비</div>
+        <button class="btn" id="refreshBtn">새로고침</button>
+      </div>
+    </header>
+
+    <div class="tabs">
+      <div class="tab active" data-tab="ai">AI News</div>
+      <div class="tab" data-tab="notion">Notion News</div>
+    </div>
+
+    <div class="bar">
+      <div class="search">
+        <span style="opacity:.7">🔎</span>
+        <input id="q" placeholder="키워드 검색: GPT, Claude, Gemini, automation, Notion..." />
+      </div>
+      <div class="meta">
+        <div class="chip on" id="onlyFresh">최근 24h</div>
+        <div class="chip" id="onlyTop">상위만</div>
+      </div>
+    </div>
+
+    <main>
+      <div class="grid" id="list"></div>
+      <div class="empty" id="empty" style="display:none">
+        표시할 뉴스가 없습니다. (필터/검색 조건을 줄이거나 새로고침 해보세요)
+      </div>
+    </main>
+  </div>
+
+<script>
+/**
+ * =========================
+ * 설정 (필수)
+ * =========================
+ * 1) 추천: 백엔드(서버리스)에서 뉴스 수집+요약+번역 후 JSON으로 제공
+ *    - 이 위젯은 그 JSON을 표시만 함 (Notion embed에서 CORS 이슈 최소화)
+ *
+ * 2) API 형태(권장):
+ *    GET {API_BASE}?type=ai|notion&hours=24&top=0|1
+ *    -> { updated_at, items:[ {title, url, source, published_at, summary_ko, tags:[...], score } ] }
+ *
+ * 3) 지금은 API_BASE를 본인 엔드포인트로 바꿔주세요.
+ */
+const API_BASE = ""; // 예: "https://your-domain.com/api/news" (비워두면 데모 모드)
+
+/**
+ * =========================
+ * 우선순위 규칙 (가중치)
+ * =========================
+ * 대형 LLM/핵심 키워드: Claude / GPT / Gemini / OpenAI / Anthropic / Google / DeepMind / 모델 출시 등
+ * 자동화: agent, workflow, RPA, MCP, function calling 등
+ * 이슈성: outage, policy, pricing, security, jailbreak, lawsuit 등
+ */
+const PRIORITY_KEYWORDS = [
+  { k: ["claude","anthropic"], w: 40, tag:"Claude" },
+  { k: ["gpt","openai","chatgpt"], w: 40, tag:"GPT/OpenAI" },
+  { k: ["gemini","google ai","vertex","bard"], w: 35, tag:"Gemini/Google" },
+  { k: ["llm","reasoning","multimodal","agent","tool use","function calling","mcp"], w: 22, tag:"LLM/Agent" },
+  { k: ["automation","workflow","rpa","zapier","make.com","integromat","n8n"], w: 18, tag:"Automation" },
+  { k: ["release","launch","update","beta","preview"], w: 12, tag:"Release" },
+  { k: ["security","leak","breach","policy","pricing","outage","downtime","lawsuit"], w: 14, tag:"Hot" },
+];
+
+const STATE = {
+  tab: "ai",
+  q: "",
+  onlyFresh: true,
+  onlyTop: false,
+  raw: [],
+  filtered: []
+};
+
+const els = {
+  tabs: [...document.querySelectorAll(".tab")],
+  list: document.getElementById("list"),
+  empty: document.getElementById("empty"),
+  pill: document.getElementById("statusPill"),
+  subTitle: document.getElementById("subTitle"),
+  refreshBtn: document.getElementById("refreshBtn"),
+  q: document.getElementById("q"),
+  onlyFresh: document.getElementById("onlyFresh"),
+  onlyTop: document.getElementById("onlyTop"),
+};
+
+function nowKST() {
+  // Asia/Seoul 표시 목적 (실제 Date는 로컬일 수 있음)
+  return new Date();
+}
+
+function fmtKST(iso) {
+  try{
+    const d = new Date(iso);
+    return d.toLocaleString("ko-KR", { timeZone: "Asia/Seoul", hour12: false });
+  }catch(e){
+    return iso || "";
+  }
+}
+
+function hoursAgo(iso){
+  const t = new Date(iso).getTime();
+  return (Date.now() - t) / (1000*60*60);
+}
+
+function scoreItem(item){
+  const text = ((item.title||"") + " " + (item.summary_ko||"") + " " + (item.source||"")).toLowerCase();
+  let s = 0;
+  let tags = new Set(item.tags || []);
+  for (const rule of PRIORITY_KEYWORDS){
+    const hit = rule.k.some(x => text.includes(x));
+    if (hit){
+      s += rule.w;
+      tags.add(rule.tag);
+    }
+  }
+  // 최신성 가점: 24시간 이내 크게, 72시간 이내 중간
+  const h = item.published_at ? hoursAgo(item.published_at) : 999;
+  if (h <= 24) s += 25;
+  else if (h <= 72) s += 12;
+
+  item.score = item.score ?? s;
+  item.tags = [...tags];
+  return item;
+}
+
+function normalize(items){
+  return (items||[])
+    .map(it => ({
+      title: it.title || "",
+      url: it.url || it.link || "",
+      source: it.source || it.site || "Unknown",
+      published_at: it.published_at || it.pubDate || it.published || "",
+      summary_ko: it.summary_ko || it.summary || it.description_ko || "",
+      tags: Array.isArray(it.tags) ? it.tags : [],
+      score: typeof it.score === "number" ? it.score : undefined
+    }))
+    .map(scoreItem)
+    .sort((a,b) => (b.score||0) - (a.score||0));
+}
+
+function applyFilters(){
+  const q = STATE.q.trim().toLowerCase();
+  let items = [...STATE.raw];
+
+  if (STATE.onlyFresh){
+    items = items.filter(x => x.published_at && hoursAgo(x.published_at) <= 24);
+  }
+  if (STATE.onlyTop){
+    // 상위 10개만 (필요하면 바꾸세요)
+    items = items.slice(0, 10);
+  }
+  if (q){
+    items = items.filter(x => (x.title+" "+x.summary_ko+" "+x.source).toLowerCase().includes(q));
+  }
+
+  STATE.filtered = items;
+}
+
+function badgeClass(tag){
+  const t = (tag||"").toLowerCase();
+  if (t.includes("gpt") || t.includes("openai")) return "badge b1";
+  if (t.includes("claude") || t.includes("anthropic")) return "badge b2";
+  if (t.includes("gemini") || t.includes("google")) return "badge b4";
+  if (t.includes("automation") || t.includes("agent")) return "badge b3";
+  return "badge";
+}
+
+function render(){
+  applyFilters();
+  els.list.innerHTML = "";
+  els.empty.style.display = STATE.filtered.length ? "none" : "block";
+
+  for (const it of STATE.filtered){
+    const card = document.createElement("div");
+    card.className = "card";
+
+    const tags = (it.tags||[]).slice(0, 6).map(t => `<span class="${badgeClass(t)}">${escapeHtml(t)}</span>`).join("");
+
+    card.innerHTML = `
+      <div class="row">
+        <h3 class="h">${escapeHtml(it.title)}</h3>
+        <div class="badges">${tags}</div>
+      </div>
+      <div class="sum">${escapeHtml(it.summary_ko || "요약이 없습니다. (백엔드에서 번역/요약을 제공하도록 설정하세요)")}</div>
+      <div class="foot">
+        <div>
+          <span class="small">출처:</span> ${escapeHtml(it.source)}
+          <span style="margin:0 8px; opacity:.5">|</span>
+          <span class="small">시간(KST):</span> ${escapeHtml(fmtKST(it.published_at))}
+        </div>
+        <div><a href="${escapeAttr(it.url)}" target="_blank" rel="noopener">전문 보기 ↗</a></div>
+      </div>
+    `;
+    els.list.appendChild(card);
+  }
+}
+
+function escapeHtml(str){
+  return (str||"").replace(/[&<>"']/g, m => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[m]));
+}
+function escapeAttr(str){
+  // 최소한의 속성 이스케이프
+  return (str||"").replace(/"/g, "&quot;");
+}
+
+async function fetchNews(){
+  const hours = STATE.onlyFresh ? 24 : 168;
+  const top = STATE.onlyTop ? 1 : 0;
+
+  // API 없으면 데모
+  if (!API_BASE){
+    const demo = demoData(STATE.tab);
+    STATE.raw = normalize(demo.items);
+    els.pill.textContent = "데모 모드";
+    els.subTitle.textContent = `샘플 데이터 표시 중 (API_BASE 설정 필요)`;
+    render();
+    return;
+  }
+
+  const url = `${API_BASE}?type=${encodeURIComponent(STATE.tab)}&hours=${hours}&top=${top}`;
+  els.pill.textContent = "가져오는 중…";
+  try{
+    const res = await fetch(url, { cache: "no-store" });
+    if (!res.ok) throw new Error("API 응답 오류: " + res.status);
+    const data = await res.json();
+
+    const items = normalize(data.items);
+    STATE.raw = items;
+
+    const ts = data.updated_at ? fmtKST(data.updated_at) : fmtKST(new Date().toISOString());
+    els.pill.textContent = "업데이트: " + ts;
+    els.subTitle.textContent = STATE.tab === "ai"
+      ? "대형 LLM/자동화/핫이슈 우선 정렬"
+      : "Notion 업데이트/이슈/크리에이터 혜택";
+    render();
+  }catch(err){
+    console.error(err);
+    els.pill.textContent = "로드 실패";
+    els.subTitle.textContent = "API 연결 실패 (CORS/엔드포인트 확인)";
+    // 실패해도 데모 데이터라도 보여주기
+    const demo = demoData(STATE.tab);
+    STATE.raw = normalize(demo.items);
+    render();
+  }
+}
+
+function demoData(type){
+  const base = new Date();
+  const iso = (hAgo) => new Date(base.getTime() - hAgo*3600*1000).toISOString();
+  if (type === "notion"){
+    return {
+      updated_at: iso(0.2),
+      items: [
+        {
+          title: "Notion 업데이트: 데이터베이스 보기/필터 UX 개선",
+          url: "https://www.notion.so/",
+          source: "Notion (demo)",
+          published_at: iso(4),
+          summary_ko: "데이터베이스 보기 전환과 필터 편집 경험이 개선되었고, 팀 단위 작업에서 설정 충돌이 줄었습니다. 운영 중인 템플릿/대시보드는 필터 조건을 한번 더 점검하는 게 좋습니다.",
+          tags: ["Notion Update"]
+        },
+        {
+          title: "Notion 크리에이터 혜택: 템플릿 홍보/노출 정책 변경(예시)",
+          url: "https://www.notion.so/",
+          source: "Notion (demo)",
+          published_at: iso(18),
+          summary_ko: "크리에이터 템플릿 노출/추천 로직이 바뀌었다고 가정한 데모 항목입니다. 실제로는 공식 공지/블로그/RSS를 백엔드에서 수집하도록 구성하세요.",
+          tags: ["Creators", "Hot"]
+        }
+      ]
+    };
+  }
+  return {
+    updated_at: iso(0.2),
+    items: [
+      {
+        title: "GPT 관련: 새 모델/기능 업데이트 루머 및 초기 반응",
+        url: "https://openai.com/",
+        source: "OpenAI (demo)",
+        published_at: iso(2),
+        summary_ko: "대형 LLM 업데이트는 ‘성능’보다 ‘워크플로우 통합’(도구호출/에이전트/안전성) 변화가 실사용에 더 크게 영향을 줍니다. 릴리즈 노트가 나오면: (1) 모델 라인업, (2) 요금/제한, (3) 툴 사용 정책부터 확인하세요.",
+        tags: ["GPT/OpenAI", "Release"]
+      },
+      {
+        title: "Claude: 도구 사용(에이전트) 자동화 활용 사례 확산",
+        url: "https://www.anthropic.com/",
+        source: "Anthropic (demo)",
+        published_at: iso(10),
+        summary_ko: "Claude 계열은 ‘문서/업무 자동화’에서 강점을 보이기 때문에, 프롬프트보다 ‘입력 데이터 구조(스키마) + 반복 실행 방식’이 성과를 좌우합니다. Make/Zapier/n8n에서 JSON 스키마 고정이 핵심입니다.",
+        tags: ["Claude", "Automation", "LLM/Agent"]
+      },
+      {
+        title: "Gemini: 워크스페이스/클라우드 연동 강화 움직임",
+        url: "https://ai.googleblog.com/",
+        source: "Google AI Blog (demo)",
+        published_at: iso(20),
+        summary_ko: "Gemini 계열은 구글 생태계(Workspace/Cloud) 연결성이 커지면 도입 장벽이 내려갑니다. 조직에서 쓰면: 권한/감사로그/데이터 보존 정책을 먼저 확인해야 안전합니다.",
+        tags: ["Gemini/Google", "Hot"]
+      }
+    ]
+  };
+}
+
+/** UI 이벤트 */
+els.tabs.forEach(t => t.addEventListener("click", () => {
+  els.tabs.forEach(x => x.classList.remove("active"));
+  t.classList.add("active");
+  STATE.tab = t.dataset.tab;
+  fetchNews();
+}));
+
+els.refreshBtn.addEventListener("click", fetchNews);
+
+els.q.addEventListener("input", (e) => {
+  STATE.q = e.target.value || "";
+  render();
+});
+
+els.onlyFresh.addEventListener("click", () => {
+  STATE.onlyFresh = !STATE.onlyFresh;
+  els.onlyFresh.classList.toggle("on", STATE.onlyFresh);
+  fetchNews();
+});
+
+els.onlyTop.addEventListener("click", () => {
+  STATE.onlyTop = !STATE.onlyTop;
+  els.onlyTop.classList.toggle("on", STATE.onlyTop);
+  fetchNews();
+});
+
+// 최초 로드
+fetchNews();
+// 10분마다 자동 갱신(원하면 변경)
+setInterval(fetchNews, 10 * 60 * 1000);
+</script>
+</body>
+</html>
