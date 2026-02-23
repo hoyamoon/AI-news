@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>AI News + Notion News Widget</title>
+  <title>AI News + Automation + Notion Widget</title>
   <style>
     :root{
       --bg:#0b0f19;
@@ -29,8 +29,9 @@
       box-shadow:var(--shadow);
       border-radius:var(--radius);
       overflow:hidden;
-      max-width:920px;
+      max-width:980px;
       margin:0 auto;
+      min-height:560px;
     }
     header{
       display:flex; align-items:center; justify-content:space-between;
@@ -46,7 +47,7 @@
       flex:0 0 auto;
     }
     .title{
-      font-weight:800; letter-spacing:-0.2px; font-size:14px;
+      font-weight:900; letter-spacing:-0.2px; font-size:14px;
       white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
     }
     .subtitle{
@@ -72,7 +73,7 @@
       border:1px solid var(--line);
       border-radius:999px;
       background:rgba(255,255,255,.02);
-      max-width:260px;
+      max-width:320px;
       white-space:nowrap; overflow:hidden; text-overflow:ellipsis;
     }
 
@@ -81,6 +82,7 @@
       padding:10px 12px;
       border-bottom:1px solid var(--line);
       background:rgba(255,255,255,.02);
+      flex-wrap:wrap;
     }
     .tab{
       border:1px solid var(--line);
@@ -90,11 +92,35 @@
       border-radius:999px;
       cursor:pointer;
       color:var(--muted);
+      user-select:none;
     }
     .tab.active{
       color:var(--text);
       border-color:rgba(110,231,255,.55);
       box-shadow:0 0 0 3px rgba(110,231,255,.12) inset;
+    }
+
+    .subtabs{
+      display:flex; gap:8px;
+      padding:10px 12px;
+      border-bottom:1px solid var(--line);
+      background:rgba(255,255,255,.015);
+      flex-wrap:wrap;
+    }
+    .subtab{
+      border:1px solid var(--line);
+      background:rgba(255,255,255,.02);
+      padding:7px 10px;
+      font-size:11px;
+      border-radius:999px;
+      cursor:pointer;
+      color:var(--muted);
+      user-select:none;
+    }
+    .subtab.active{
+      color:var(--text);
+      border-color:rgba(167,139,250,.6);
+      box-shadow:0 0 0 3px rgba(167,139,250,.12) inset;
     }
 
     .bar{
@@ -142,24 +168,15 @@
     }
 
     main{padding:12px;}
-    .grid{
-      display:grid;
-      grid-template-columns: 1fr;
-      gap:10px;
-    }
+    .grid{display:grid; grid-template-columns: 1fr; gap:10px;}
     .card{
       border:1px solid var(--line);
       border-radius:14px;
       background:rgba(255,255,255,.02);
       padding:12px 12px 10px;
     }
-    .row{
-      display:flex; align-items:flex-start; justify-content:space-between; gap:10px;
-    }
-    .h{
-      font-size:13px; font-weight:800; letter-spacing:-.2px;
-      margin:0; line-height:1.35;
-    }
+    .row{display:flex; align-items:flex-start; justify-content:space-between; gap:10px;}
+    .h{font-size:13px; font-weight:900; letter-spacing:-.2px; margin:0; line-height:1.35;}
     .badges{display:flex; gap:6px; flex-wrap:wrap; justify-content:flex-end;}
     .badge{
       font-size:10px;
@@ -170,11 +187,10 @@
       background:rgba(255,255,255,.02);
       white-space:nowrap;
     }
-    .b1{border-color:rgba(110,231,255,.35); color:rgba(110,231,255,.95);}
-    .b2{border-color:rgba(167,139,250,.35); color:rgba(167,139,250,.95);}
-    .b3{border-color:rgba(52,211,153,.35); color:rgba(52,211,153,.95);}
-    .b4{border-color:rgba(251,191,36,.35); color:rgba(251,191,36,.95);}
-
+    .b1{border-color:rgba(110,231,255,.35); color:rgba(110,231,255,.95);}   /* LLM */
+    .b2{border-color:rgba(167,139,250,.35); color:rgba(167,139,250,.95);}  /* Automation */
+    .b3{border-color:rgba(52,211,153,.35); color:rgba(52,211,153,.95);}    /* Hot */
+    .b4{border-color:rgba(251,191,36,.35); color:rgba(251,191,36,.95);}    /* Notion/Prod */
     .sum{
       color:rgba(232,238,247,.92);
       font-size:12px;
@@ -192,11 +208,7 @@
     }
     a{color:var(--accent); text-decoration:none;}
     a:hover{text-decoration:underline;}
-    .small{
-      font-family:var(--mono);
-      opacity:.95;
-    }
-
+    .small{font-family:var(--mono); opacity:.95;}
     .empty{
       padding:24px 12px;
       color:var(--muted);
@@ -206,9 +218,6 @@
       border-radius:14px;
       background:rgba(255,255,255,.01);
     }
-
-    /* Notion embed friendly height */
-    .wrap{min-height:520px;}
   </style>
 </head>
 <body>
@@ -216,8 +225,8 @@
     <header>
       <div class="brand">
         <div class="dot"></div>
-        <div class="title">AI News + Notion News</div>
-        <div class="subtitle" id="subTitle">오늘의 핵심 이슈만 요약</div>
+        <div class="title">AI News / Automation / Notion</div>
+        <div class="subtitle" id="subTitle">핵심 이슈만 자동 요약</div>
       </div>
       <div class="controls">
         <div class="pill" id="statusPill">로딩 준비</div>
@@ -225,15 +234,21 @@
       </div>
     </header>
 
-    <div class="tabs">
-      <div class="tab active" data-tab="ai">AI News</div>
-      <div class="tab" data-tab="notion">Notion News</div>
+    <!-- Main Tabs -->
+    <div class="tabs" id="mainTabs">
+      <div class="tab active" data-tab="ai">AI</div>
+      <div class="tab" data-tab="automation">Automation</div>
+      <div class="tab" data-tab="notion">Notion</div>
     </div>
 
+    <!-- Sub Tabs -->
+    <div class="subtabs" id="subTabs"></div>
+
+    <!-- Filters -->
     <div class="bar">
       <div class="search">
         <span style="opacity:.7">🔎</span>
-        <input id="q" placeholder="키워드 검색: GPT, Claude, Gemini, automation, Notion..." />
+        <input id="q" placeholder="검색: GPT, Claude, Gemini, NotebookLM, n8n, Make, Zapier..." />
       </div>
       <div class="meta">
         <div class="chip on" id="onlyFresh">최근 24h</div>
@@ -254,37 +269,98 @@
  * =========================
  * 설정 (필수)
  * =========================
- * 1) 추천: 백엔드(서버리스)에서 뉴스 수집+요약+번역 후 JSON으로 제공
- *    - 이 위젯은 그 JSON을 표시만 함 (Notion embed에서 CORS 이슈 최소화)
- *
- * 2) API 형태(권장):
- *    GET {API_BASE}?type=ai|notion&hours=24&top=0|1
- *    -> { updated_at, items:[ {title, url, source, published_at, summary_ko, tags:[...], score } ] }
- *
- * 3) 지금은 API_BASE를 본인 엔드포인트로 바꿔주세요.
+ * API 권장 형태:
+ * GET {API_BASE}?type=ai|automation|notion&hours=24|168&top=0|1
+ * -> { updated_at, items:[ {title,url,source,published_at,summary_ko,tags:[...]} ] }
  */
 const API_BASE = ""; // 예: "https://your-domain.com/api/news" (비워두면 데모 모드)
 
 /**
  * =========================
- * 우선순위 규칙 (가중치)
+ * 탭 정의
  * =========================
- * 대형 LLM/핵심 키워드: Claude / GPT / Gemini / OpenAI / Anthropic / Google / DeepMind / 모델 출시 등
- * 자동화: agent, workflow, RPA, MCP, function calling 등
- * 이슈성: outage, policy, pricing, security, jailbreak, lawsuit 등
  */
-const PRIORITY_KEYWORDS = [
-  { k: ["claude","anthropic"], w: 40, tag:"Claude" },
-  { k: ["gpt","openai","chatgpt"], w: 40, tag:"GPT/OpenAI" },
-  { k: ["gemini","google ai","vertex","bard"], w: 35, tag:"Gemini/Google" },
-  { k: ["llm","reasoning","multimodal","agent","tool use","function calling","mcp"], w: 22, tag:"LLM/Agent" },
-  { k: ["automation","workflow","rpa","zapier","make.com","integromat","n8n"], w: 18, tag:"Automation" },
-  { k: ["release","launch","update","beta","preview"], w: 12, tag:"Release" },
-  { k: ["security","leak","breach","policy","pricing","outage","downtime","lawsuit"], w: 14, tag:"Hot" },
+const SUBTABS = {
+  ai: [
+    { id:"all", label:"All" },
+    { id:"llm", label:"LLM" },
+    { id:"agents", label:"Agents" },
+    { id:"rag", label:"RAG/Vector" },
+    { id:"eval", label:"Eval/Observability" },
+    { id:"multimodal", label:"Multimodal" },
+    { id:"prod", label:"Productivity (NotebookLM)" },
+    { id:"hot", label:"Hot/Policy/Security" }
+  ],
+  automation: [
+    { id:"all", label:"All" },
+    { id:"make", label:"Make" },
+    { id:"n8n", label:"n8n" },
+    { id:"zapier", label:"Zapier" },
+    { id:"opal", label:"Google Opal" },
+    { id:"workflow", label:"Workflows/Orchestration" },
+    { id:"hot", label:"Hot/Security" }
+  ],
+  notion: [
+    { id:"all", label:"All" },
+    { id:"update", label:"Updates" },
+    { id:"status", label:"Status/Incident" },
+    { id:"creators", label:"Creators" },
+    { id:"hot", label:"Hot" }
+  ]
+};
+
+/**
+ * =========================
+ * 키워드 기반 분류/스코어링
+ * =========================
+ * - score: 우선순위 정렬
+ * - tags: 카드 뱃지
+ * - bucket: 서브탭 분류용
+ */
+const RULES = [
+  // LLM vendors
+  { bucket:"llm", tag:"GPT/OpenAI", w:40, k:["gpt","openai","chatgpt","oai","gpt-4","gpt-5","assistants api","responses api"] },
+  { bucket:"llm", tag:"Claude/Anthropic", w:40, k:["claude","anthropic","constitutional ai"] },
+  { bucket:"llm", tag:"Gemini/Google", w:35, k:["gemini","google ai","deepmind","vertex ai","google model","bard"] },
+
+  // Agents / tool-use / MCP / orchestration
+  { bucket:"agents", tag:"Agents", w:24, k:["agent","agentic","tool use","tool-use","function calling","functions","mcp","model context protocol","planner","orchestration","langgraph","autogen","crewai"] },
+  { bucket:"workflow", tag:"Workflows", w:18, k:["workflow","orchestration","pipeline","dag","scheduler"] },
+
+  // RAG & Vector DB
+  { bucket:"rag", tag:"RAG/Vector", w:20, k:["rag","retrieval","vector","embedding","semantic search","hybrid search","rerank","reranker","pinecone","weaviate","milvus","qdrant","elasticsearch vector","opensearch vector"] },
+
+  // Eval / Observability
+  { bucket:"eval", tag:"Eval/Observability", w:18, k:["eval","evaluation","observability","tracing","prompt eval","hallucination","grounding","langfuse","helicone","ragas","weights & biases","wandb","opik"] },
+
+  // Multimodal / Image / Video
+  { bucket:"multimodal", tag:"Multimodal", w:16, k:["multimodal","vision","image generation","text-to-image","video generation","text-to-video","runway","pika","midjourney","stable diffusion","sora"] },
+
+  // Productivity / NotebookLM
+  { bucket:"prod", tag:"NotebookLM", w:22, k:["notebooklm","notebook lm","notebooklm plus","sources","studio","workspace updates"] },
+
+  // Automation tools
+  { bucket:"make", tag:"Make", w:24, k:["make.com","integromat","scenario","router","iterator","make module"] },
+  { bucket:"n8n", tag:"n8n", w:24, k:["n8n","n8n node","n8n workflow","n8n cloud"] },
+  { bucket:"zapier", tag:"Zapier", w:20, k:["zapier","zap","zaps","zapier ai"] },
+  { bucket:"opal", tag:"Google Opal", w:20, k:["google opal","opal (google)","opal ai","opal no-code","opal"] }, // opal은 문맥상 google로 취급
+  { bucket:"automation", tag:"Automation", w:16, k:["automation","rpa","integration","webhook","api connector","iPaaS","no-code","low-code","noco"] },
+
+  // Notion
+  { bucket:"update", tag:"Notion Update", w:22, k:["notion update","release notes","what's new","whats new","feature rollout","database view","formula","automation in notion"] },
+  { bucket:"status", tag:"Notion Status", w:20, k:["notion status","incident","outage","downtime","degraded performance"] },
+  { bucket:"creators", tag:"Creators", w:18, k:["template","creator","marketplace","notion creators","ambassador"] },
+
+  // Hot: security/policy/pricing/outage
+  { bucket:"hot", tag:"Hot", w:20, k:["security","vulnerability","cve","rce","breach","leak","policy","pricing","price","rate limit","outage","incident","downtime","abuse","jailbreak","lawsuit"] },
+
+  // Release / Launch
+  { bucket:"hot", tag:"Release", w:10, k:["release","launch","update","beta","preview","ga","general availability"] },
 ];
 
 const STATE = {
   tab: "ai",
+  sub: "all",
   q: "",
   onlyFresh: true,
   onlyTop: false,
@@ -293,7 +369,8 @@ const STATE = {
 };
 
 const els = {
-  tabs: [...document.querySelectorAll(".tab")],
+  mainTabs: [...document.querySelectorAll("#mainTabs .tab")],
+  subTabs: document.getElementById("subTabs"),
   list: document.getElementById("list"),
   empty: document.getElementById("empty"),
   pill: document.getElementById("statusPill"),
@@ -304,44 +381,49 @@ const els = {
   onlyTop: document.getElementById("onlyTop"),
 };
 
-function nowKST() {
-  // Asia/Seoul 표시 목적 (실제 Date는 로컬일 수 있음)
-  return new Date();
-}
-
 function fmtKST(iso) {
   try{
     const d = new Date(iso);
     return d.toLocaleString("ko-KR", { timeZone: "Asia/Seoul", hour12: false });
-  }catch(e){
-    return iso || "";
-  }
+  }catch(e){ return iso || ""; }
 }
-
 function hoursAgo(iso){
   const t = new Date(iso).getTime();
   return (Date.now() - t) / (1000*60*60);
 }
+function escapeHtml(str){
+  return (str||"").replace(/[&<>"']/g, m => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
+  }[m]));
+}
+function escapeAttr(str){ return (str||"").replace(/"/g, "&quot;"); }
 
-function scoreItem(item){
+function scoreAndClassify(item){
   const text = ((item.title||"") + " " + (item.summary_ko||"") + " " + (item.source||"")).toLowerCase();
-  let s = 0;
+  let score = 0;
   let tags = new Set(item.tags || []);
-  for (const rule of PRIORITY_KEYWORDS){
-    const hit = rule.k.some(x => text.includes(x));
+  let buckets = new Set(item.buckets || []);
+
+  for (const r of RULES){
+    const hit = r.k.some(x => text.includes(x.toLowerCase()));
     if (hit){
-      s += rule.w;
-      tags.add(rule.tag);
+      score += r.w;
+      tags.add(r.tag);
+      buckets.add(r.bucket);
     }
   }
-  // 최신성 가점: 24시간 이내 크게, 72시간 이내 중간
-  const h = item.published_at ? hoursAgo(item.published_at) : 999;
-  if (h <= 24) s += 25;
-  else if (h <= 72) s += 12;
 
-  item.score = item.score ?? s;
-  item.tags = [...tags];
-  return item;
+  // 최신성 가점
+  const h = item.published_at ? hoursAgo(item.published_at) : 999;
+  if (h <= 24) score += 25;
+  else if (h <= 72) score += 12;
+
+  return {
+    ...item,
+    score: typeof item.score === "number" ? item.score : score,
+    tags: [...tags],
+    buckets: [...buckets],
+  };
 }
 
 function normalize(items){
@@ -353,37 +435,79 @@ function normalize(items){
       published_at: it.published_at || it.pubDate || it.published || "",
       summary_ko: it.summary_ko || it.summary || it.description_ko || "",
       tags: Array.isArray(it.tags) ? it.tags : [],
+      buckets: Array.isArray(it.buckets) ? it.buckets : [],
       score: typeof it.score === "number" ? it.score : undefined
     }))
-    .map(scoreItem)
+    .map(scoreAndClassify)
     .sort((a,b) => (b.score||0) - (a.score||0));
+}
+
+function badgeClass(tag){
+  const t = (tag||"").toLowerCase();
+  if (t.includes("gpt") || t.includes("claude") || t.includes("gemini") || t.includes("llm")) return "badge b1";
+  if (t.includes("make") || t.includes("n8n") || t.includes("zapier") || t.includes("opal") || t.includes("automation") || t.includes("workflows")) return "badge b2";
+  if (t.includes("hot") || t.includes("security") || t.includes("policy") || t.includes("pricing") || t.includes("release")) return "badge b3";
+  if (t.includes("notion") || t.includes("notebooklm") || t.includes("creators") || t.includes("status")) return "badge b4";
+  return "badge";
+}
+
+function buildSubTabs(){
+  els.subTabs.innerHTML = "";
+  const list = SUBTABS[STATE.tab] || [{id:"all",label:"All"}];
+  for (const t of list){
+    const el = document.createElement("div");
+    el.className = "subtab" + (t.id === STATE.sub ? " active" : "");
+    el.dataset.sub = t.id;
+    el.textContent = t.label;
+    el.addEventListener("click", () => {
+      STATE.sub = t.id;
+      buildSubTabs();
+      render();
+    });
+    els.subTabs.appendChild(el);
+  }
 }
 
 function applyFilters(){
   const q = STATE.q.trim().toLowerCase();
   let items = [...STATE.raw];
 
+  // (1) 최근 24h 필터
   if (STATE.onlyFresh){
     items = items.filter(x => x.published_at && hoursAgo(x.published_at) <= 24);
   }
+
+  // (2) 상위만
   if (STATE.onlyTop){
-    // 상위 10개만 (필요하면 바꾸세요)
-    items = items.slice(0, 10);
+    items = items.slice(0, 12);
   }
+
+  // (3) 서브탭 분류 필터
+  if (STATE.sub !== "all"){
+    items = items.filter(x => (x.buckets||[]).includes(STATE.sub));
+  }
+
+  // (4) 검색
   if (q){
-    items = items.filter(x => (x.title+" "+x.summary_ko+" "+x.source).toLowerCase().includes(q));
+    items = items.filter(x => (x.title+" "+x.summary_ko+" "+x.source+" "+(x.tags||[]).join(" ")).toLowerCase().includes(q));
+  }
+
+  // (5) 메인 탭별 최소 정리: 너무 섞이면 의미 없어서 약한 가드
+  if (STATE.tab === "ai"){
+    // AI 탭에서는 notion-only 같은 건 제거(대충)
+    items = items.filter(x => !((x.tags||[]).some(t => String(t).toLowerCase().includes("notion")) && !(x.tags||[]).some(t => String(t).toLowerCase().includes("gpt") || String(t).toLowerCase().includes("claude") || String(t).toLowerCase().includes("gemini") || String(t).toLowerCase().includes("notebooklm"))));
+  }
+  if (STATE.tab === "automation"){
+    // automation 탭에서는 automation 계열 태그가 아예 없으면 뒤로
+    items.sort((a,b)=>{
+      const aAuto = (a.tags||[]).some(t => /make|n8n|zapier|opal|automation|workflows/i.test(t));
+      const bAuto = (b.tags||[]).some(t => /make|n8n|zapier|opal|automation|workflows/i.test(t));
+      if (aAuto !== bAuto) return bAuto - aAuto;
+      return (b.score||0)-(a.score||0);
+    });
   }
 
   STATE.filtered = items;
-}
-
-function badgeClass(tag){
-  const t = (tag||"").toLowerCase();
-  if (t.includes("gpt") || t.includes("openai")) return "badge b1";
-  if (t.includes("claude") || t.includes("anthropic")) return "badge b2";
-  if (t.includes("gemini") || t.includes("google")) return "badge b4";
-  if (t.includes("automation") || t.includes("agent")) return "badge b3";
-  return "badge";
 }
 
 function render(){
@@ -395,7 +519,8 @@ function render(){
     const card = document.createElement("div");
     card.className = "card";
 
-    const tags = (it.tags||[]).slice(0, 6).map(t => `<span class="${badgeClass(t)}">${escapeHtml(t)}</span>`).join("");
+    const tags = (it.tags||[]).slice(0, 7)
+      .map(t => `<span class="${badgeClass(t)}">${escapeHtml(t)}</span>`).join("");
 
     card.innerHTML = `
       <div class="row">
@@ -416,26 +541,16 @@ function render(){
   }
 }
 
-function escapeHtml(str){
-  return (str||"").replace(/[&<>"']/g, m => ({
-    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"
-  }[m]));
-}
-function escapeAttr(str){
-  // 최소한의 속성 이스케이프
-  return (str||"").replace(/"/g, "&quot;");
-}
-
 async function fetchNews(){
   const hours = STATE.onlyFresh ? 24 : 168;
   const top = STATE.onlyTop ? 1 : 0;
 
-  // API 없으면 데모
   if (!API_BASE){
     const demo = demoData(STATE.tab);
     STATE.raw = normalize(demo.items);
     els.pill.textContent = "데모 모드";
-    els.subTitle.textContent = `샘플 데이터 표시 중 (API_BASE 설정 필요)`;
+    els.subTitle.textContent = subtitleByTab();
+    buildSubTabs();
     render();
     return;
   }
@@ -446,89 +561,166 @@ async function fetchNews(){
     const res = await fetch(url, { cache: "no-store" });
     if (!res.ok) throw new Error("API 응답 오류: " + res.status);
     const data = await res.json();
-
-    const items = normalize(data.items);
-    STATE.raw = items;
+    STATE.raw = normalize(data.items);
 
     const ts = data.updated_at ? fmtKST(data.updated_at) : fmtKST(new Date().toISOString());
     els.pill.textContent = "업데이트: " + ts;
-    els.subTitle.textContent = STATE.tab === "ai"
-      ? "대형 LLM/자동화/핫이슈 우선 정렬"
-      : "Notion 업데이트/이슈/크리에이터 혜택";
+    els.subTitle.textContent = subtitleByTab();
+    buildSubTabs();
     render();
   }catch(err){
     console.error(err);
     els.pill.textContent = "로드 실패";
     els.subTitle.textContent = "API 연결 실패 (CORS/엔드포인트 확인)";
-    // 실패해도 데모 데이터라도 보여주기
     const demo = demoData(STATE.tab);
     STATE.raw = normalize(demo.items);
+    buildSubTabs();
     render();
   }
 }
 
+function subtitleByTab(){
+  if (STATE.tab === "ai") return "LLM/에이전트/RAG/멀티모달/NotebookLM 중심";
+  if (STATE.tab === "automation") return "Make/n8n/Zapier/Google Opal + 워크플로우 이슈";
+  return "Notion 업데이트/장애/크리에이터 이슈";
+}
+
+/**
+ * =========================
+ * 데모 데이터 (카테고리/툴 포함)
+ * =========================
+ */
 function demoData(type){
   const base = new Date();
   const iso = (hAgo) => new Date(base.getTime() - hAgo*3600*1000).toISOString();
+
   if (type === "notion"){
     return {
       updated_at: iso(0.2),
       items: [
         {
-          title: "Notion 업데이트: 데이터베이스 보기/필터 UX 개선",
+          title: "Notion 업데이트: 데이터베이스 보기/필터 UX 개선(데모)",
           url: "https://www.notion.so/",
           source: "Notion (demo)",
           published_at: iso(4),
-          summary_ko: "데이터베이스 보기 전환과 필터 편집 경험이 개선되었고, 팀 단위 작업에서 설정 충돌이 줄었습니다. 운영 중인 템플릿/대시보드는 필터 조건을 한번 더 점검하는 게 좋습니다.",
-          tags: ["Notion Update"]
+          summary_ko: "데이터베이스 보기 전환과 필터 편집 경험이 개선되었다는 데모 항목입니다. 실제 공지는 백엔드에서 공식 소스를 수집하세요.",
+          tags: ["Notion Update"],
         },
         {
-          title: "Notion 크리에이터 혜택: 템플릿 홍보/노출 정책 변경(예시)",
+          title: "Notion Status: 장애/지연 이슈(데모)",
+          url: "https://www.notion.so/",
+          source: "Notion (demo)",
+          published_at: iso(14),
+          summary_ko: "상태 페이지/커뮤니티에서 장애 신호를 빠르게 감지하는 흐름이 중요합니다.",
+          tags: ["Notion Status","Hot"]
+        },
+        {
+          title: "Notion Creators: 템플릿 노출/혜택 관련 소식(데모)",
           url: "https://www.notion.so/",
           source: "Notion (demo)",
           published_at: iso(18),
-          summary_ko: "크리에이터 템플릿 노출/추천 로직이 바뀌었다고 가정한 데모 항목입니다. 실제로는 공식 공지/블로그/RSS를 백엔드에서 수집하도록 구성하세요.",
-          tags: ["Creators", "Hot"]
+          summary_ko: "크리에이터 혜택/정책 변경은 수익화에 직결되므로 별도 탭으로 분리했습니다.",
+          tags: ["Creators","Hot"]
         }
       ]
     };
   }
+
+  if (type === "automation"){
+    return {
+      updated_at: iso(0.2),
+      items: [
+        {
+          title: "Make.com: 새 모듈/릴리즈 노트 업데이트(데모)",
+          url: "https://www.make.com/",
+          source: "Make (demo)",
+          published_at: iso(3),
+          summary_ko: "Make는 모듈/커넥터 릴리즈가 잦아서 ‘변경사항 요약 + 영향도’가 핵심입니다.",
+          tags: ["Make","Automation","Release"]
+        },
+        {
+          title: "n8n: 보안 패치/취약점 공지(데모)",
+          url: "https://n8n.io/",
+          source: "n8n (demo)",
+          published_at: iso(9),
+          summary_ko: "자동화 서버 운영 시 보안 이슈(CVE/RCE)는 최상단으로 올려야 합니다.",
+          tags: ["n8n","Hot","security"]
+        },
+        {
+          title: "Zapier: AI/에이전트 기반 자동화 기능 확장(데모)",
+          url: "https://zapier.com/",
+          source: "Zapier (demo)",
+          published_at: iso(20),
+          summary_ko: "Zapier는 AI 기능 업데이트를 ‘기존 워크플로우에 어떻게 붙이는지’ 관점으로 요약하는게 실전입니다.",
+          tags: ["Zapier","Automation"]
+        },
+        {
+          title: "Google Opal: 노코드/미니앱 빌더 관련 소식(데모)",
+          url: "https://developers.googleblog.com/",
+          source: "Google (demo)",
+          published_at: iso(22),
+          summary_ko: "Opal(구글)은 ‘빠른 프로토타이핑/미니앱’ 흐름에서 이슈가 잘 생깁니다. 출시/확장/정책 변경 위주로 수집하세요.",
+          tags: ["Google Opal","Release"]
+        }
+      ]
+    };
+  }
+
+  // AI
   return {
     updated_at: iso(0.2),
     items: [
       {
-        title: "GPT 관련: 새 모델/기능 업데이트 루머 및 초기 반응",
+        title: "GPT/OpenAI: 새 모델/툴 사용 정책 변화(데모)",
         url: "https://openai.com/",
         source: "OpenAI (demo)",
         published_at: iso(2),
-        summary_ko: "대형 LLM 업데이트는 ‘성능’보다 ‘워크플로우 통합’(도구호출/에이전트/안전성) 변화가 실사용에 더 크게 영향을 줍니다. 릴리즈 노트가 나오면: (1) 모델 라인업, (2) 요금/제한, (3) 툴 사용 정책부터 확인하세요.",
-        tags: ["GPT/OpenAI", "Release"]
+        summary_ko: "대형 LLM 업데이트는 기능보다 ‘정책/가격/제한’ 변화가 실사용에 더 큽니다. 릴리즈 노트가 나오면 그 순서로 확인하세요.",
+        tags: ["GPT/OpenAI","Hot","policy"]
       },
       {
-        title: "Claude: 도구 사용(에이전트) 자동화 활용 사례 확산",
+        title: "Claude: 에이전트/도구 사용 사례 확산(데모)",
         url: "https://www.anthropic.com/",
         source: "Anthropic (demo)",
-        published_at: iso(10),
-        summary_ko: "Claude 계열은 ‘문서/업무 자동화’에서 강점을 보이기 때문에, 프롬프트보다 ‘입력 데이터 구조(스키마) + 반복 실행 방식’이 성과를 좌우합니다. Make/Zapier/n8n에서 JSON 스키마 고정이 핵심입니다.",
-        tags: ["Claude", "Automation", "LLM/Agent"]
+        published_at: iso(8),
+        summary_ko: "에이전트는 프롬프트보다 ‘입력 스키마 고정 + 반복 실행 구조’가 성과를 좌우합니다.",
+        tags: ["Claude/Anthropic","Agents","Automation"]
       },
       {
-        title: "Gemini: 워크스페이스/클라우드 연동 강화 움직임",
+        title: "Gemini/Google: 워크스페이스/클라우드 연동 강화(데모)",
         url: "https://ai.googleblog.com/",
-        source: "Google AI Blog (demo)",
-        published_at: iso(20),
-        summary_ko: "Gemini 계열은 구글 생태계(Workspace/Cloud) 연결성이 커지면 도입 장벽이 내려갑니다. 조직에서 쓰면: 권한/감사로그/데이터 보존 정책을 먼저 확인해야 안전합니다.",
-        tags: ["Gemini/Google", "Hot"]
+        source: "Google AI (demo)",
+        published_at: iso(12),
+        summary_ko: "조직 도입이면 권한/감사로그/데이터 보존 정책을 먼저 확인해야 안전합니다.",
+        tags: ["Gemini/Google","Hot"]
+      },
+      {
+        title: "NotebookLM: 소스/스튜디오 기능 개선 소식(데모)",
+        url: "https://blog.google/",
+        source: "Google (demo)",
+        published_at: iso(16),
+        summary_ko: "NotebookLM은 문서 기반 요약/정리 워크플로우에서 체감이 커서 별도 카테고리로 분리했습니다.",
+        tags: ["NotebookLM","Productivity","Release"]
+      },
+      {
+        title: "RAG/Vector: Pinecone/Weaviate 등 검색 품질 이슈(데모)",
+        url: "https://www.pinecone.io/",
+        source: "Vector DB (demo)",
+        published_at: iso(22),
+        summary_ko: "RAG 품질은 ‘데이터 정합성 + 리랭킹 + 평가’ 삼각형으로 봐야 합니다.",
+        tags: ["RAG/Vector","Eval/Observability"]
       }
     ]
   };
 }
 
-/** UI 이벤트 */
-els.tabs.forEach(t => t.addEventListener("click", () => {
-  els.tabs.forEach(x => x.classList.remove("active"));
+/** UI events */
+els.mainTabs.forEach(t => t.addEventListener("click", () => {
+  els.mainTabs.forEach(x => x.classList.remove("active"));
   t.classList.add("active");
   STATE.tab = t.dataset.tab;
+  // 탭 바뀌면 서브탭은 기본 all로
+  STATE.sub = "all";
   fetchNews();
 }));
 
@@ -551,9 +743,10 @@ els.onlyTop.addEventListener("click", () => {
   fetchNews();
 });
 
-// 최초 로드
+// init
+buildSubTabs();
 fetchNews();
-// 10분마다 자동 갱신(원하면 변경)
+// auto refresh (10 min)
 setInterval(fetchNews, 10 * 60 * 1000);
 </script>
 </body>
