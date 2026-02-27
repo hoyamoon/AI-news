@@ -112,38 +112,57 @@ async function fetchFeedWithFallback(src) {
                         }));
                         if (items.length > 0) {
                                       SOURCE_HEALTH_LOG[src.name] = { status: "ok", url, fetchedAt: nowISO() };
-                                      console.log("  [OK] " + src.name + ": " + items.length + "개 (" + url + ")");
+                                      console.log("  [OK] " + src.name + ": " + items.length + "ê° (" + url + ")");
                                       return items;
                         }
-                        console.log("  [WARN] " + src.name + ": 항목없음, 다음 URL...");
+                        console.log("  [WARN] " + src.name + ": í­ëª©ìì, ë¤ì URL...");
             } catch (e) {
                         const errMsg = e?.message || String(e);
                         const m = errMsg.match(/\b([3-5]\d{2})\b/);
                         const statusCode = m ? parseInt(m[1]) : 0;
                         SOURCE_HEALTH_LOG[src.name] = { status: "fail", url, statusCode, error: errMsg, checkedAt: nowISO() };
                         console.log("  [FAIL] " + src.name + ": " + errMsg);
-                        if (statusCode === 429) { console.log("  [WAIT] Rate limit - 5초 대기..."); await sleep(5000); }
+                        if (statusCode === 429) { console.log("  [WAIT] Rate limit - 5ì´ ëê¸°..."); await sleep(5000); }
             }
   }
-        console.log("  [SKIP] " + src.name + ": 모든 URL 실패");
+        console.log("  [SKIP] " + src.name + ": ëª¨ë  URL ì¤í¨");
         return [];
 }
 
 async function summarizeKo(it) {
         if (!OPENAI_API_KEY) return "";
         const input = [
-                  "다음 뉴스 항목을 한국어로 요약해줘.", "규칙:", "- 3~5문장",
-                  "- 마지막 줄: \"왜 중요한지(실무 관점)\" 1문장",
-                  "- 과장 금지, 추측 금지, 사실 기반", "- 출력은 요약만 (링크/출처 넣지 말 것)", "",
-                  "[제목] " + it.title, "[출처] " + it.source, "[URL] " + it.url, "[내용] " + it.content
+                  "ë¤ì ë´ì¤ í­ëª©ì íêµ­ì´ë¡ ìì½í´ì¤.", "ê·ì¹:", "- 3~5ë¬¸ì¥",
+                  "- ë§ì§ë§ ì¤: \"ì ì¤ìíì§(ì¤ë¬´ ê´ì )\" 1ë¬¸ì¥",
+                  "- ê³¼ì¥ ê¸ì§, ì¶ì¸¡ ê¸ì§, ì¬ì¤ ê¸°ë°", "- ì¶ë ¥ì ìì½ë§ (ë§í¬/ì¶ì² ë£ì§ ë§ ê²)", "",
+                  "[ì ëª©] " + it.title, "[ì¶ì²] " + it.source, "[URL] " + it.url, "[ë´ì©] " + it.content
                 ].join("\n");
-        const res = await fetch("https://api.openai.com/v1/chat/completions", {
-                  method: "POST",
-                  headers: { "Authorization": "Bearer " + OPENAI_API_KEY, "Content-Type": "application/json" },
-                  body: JSON.stringify({ model: "gpt-4o-mini", messages: [{ role: "system", content: "You are a helpful assistant that writes concise Korean summaries." }, { role: "user", content: input }], temperature: 0.2, max_tokens: 350 })
-        });
-        if (!res.ok) { const t = await res.text().catch(() => ""); throw new Error("OpenAI error " + res.status + ": " + t); }
-        const data = await res.json();
+        const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), 30000); // 30초 타임아웃
+  let res;
+  try {
+    res = await fetch("https://api.openai.com/v1/chat/completions", {
+      signal: controller.signal,
+      method: "POST",
+      headers: {
+        "Authorization": "Bearer " + OPENAI_API_KEY,
+        "Content-Type": "application/json"
+      },
+      body: JSON.stringify({
+        model: "gpt-4o-mini",
+        messages: [{ role: "system", content: "You are a helpful assistant that writes concise Korean summaries." }, { role: "user", content: input }],
+        temperature: 0.2,
+        max_tokens: 350
+      })
+    });
+  } finally {
+    clearTimeout(timeoutId);
+  }
+  if (!res || !res.ok) {
+    const t = res ? await res.text().catch(() => "") : "timeout";
+    throw new Error("OpenAI error " + (res ? res.status : "abort") + ": " + t);
+  }
+    const data = await res.json();
         return (data.choices?.[0]?.message?.content || "").trim();
 }
 
@@ -154,7 +173,7 @@ async function buildTab(tab) {
                   await sleep(1000);
         }
         items = dedupe(items).map(scoreAndClassify).sort((a, b) => (b.score || 0) - (a.score || 0)).slice(0, MAX_ITEMS_PER_TAB);
-        console.log("[GPT] " + tab + " 요약 중... " + items.length + "개");
+        console.log("[GPT] " + tab + " ìì½ ì¤... " + items.length + "ê°");
         for (let i = 0; i < Math.min(SUMMARIZE_TOP_N, items.length); i++) {
                   try { items[i].summary_ko = await summarizeKo(items[i]); }
                   catch (e) { items[i].summary_ko = ""; console.log("[" + tab + "] summarize fail: " + (e?.message || e)); }
@@ -162,7 +181,7 @@ async function buildTab(tab) {
         items = items.map(it => {
                   if (it.summary_ko && it.summary_ko.trim()) return it;
                   const fb = (it.content || "").replace(/\s+/g, " ").trim().slice(0, 180);
-                  return { ...it, summary_ko: fb ? "요약 생성 실패. 원문 일부: " + fb : "요약 생성 실패." };
+                  return { ...it, summary_ko: fb ? "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: " + fb : "ìì½ ìì± ì¤í¨." };
         });
         return { updated_at: nowISO(), items: items.map(it => ({ title: it.title, url: it.url, source: it.source, published_at: it.published_at, summary_ko: it.summary_ko, tags: it.tags, buckets: it.buckets, score: it.score })) };
 }
@@ -170,26 +189,26 @@ async function buildTab(tab) {
 function saveHealthReport(dataDir) {
         const reportPath = path.join(dataDir, "source-health.json");
         fs.writeFileSync(reportPath, JSON.stringify({ generated_at: nowISO(), sources: SOURCE_HEALTH_LOG }, null, 2), "utf-8");
-        console.log("\n=== 소스 헬스 리포트 ===");
+        console.log("\n=== ìì¤ í¬ì¤ ë¦¬í¬í¸ ===");
         for (const [name, info] of Object.entries(SOURCE_HEALTH_LOG)) {
                   if (info.status === "ok") console.log("  OK " + name + " (" + info.url + ")");
                   else console.log("  FAIL " + name + " [" + (info.statusCode || "ERR") + "] " + (info.error || ""));
         }
-        console.log("헬스 리포트: data/source-health.json\n");
+        console.log("í¬ì¤ ë¦¬í¬í¸: data/source-health.json\n");
 }
 
 async function main() {
-        console.log("=== AI News Builder 시작 ===");
+        console.log("=== AI News Builder ìì ===");
         const dataDir = path.join(process.cwd(), "data");
         if (!fs.existsSync(dataDir)) fs.mkdirSync(dataDir, { recursive: true });
         for (const tab of ["ai", "automation", "notion"]) {
-                  console.log("\n[BUILD] " + tab + " 수집 시작...");
+                  console.log("\n[BUILD] " + tab + " ìì§ ìì...");
                   const out = await buildTab(tab);
                   fs.writeFileSync(path.join(dataDir, tab + ".json"), JSON.stringify(out, null, 2), "utf-8");
-                  console.log("[DONE] data/" + tab + ".json 저장 완료 (" + out.items.length + "개)");
+                  console.log("[DONE] data/" + tab + ".json ì ì¥ ìë£ (" + out.items.length + "ê°)");
         }
         saveHealthReport(dataDir);
-        console.log("=== 전체 완료 ===");
+        console.log("=== ì ì²´ ìë£ ===");
 }
 
 main().catch(err => { console.error(err); process.exit(1); });
