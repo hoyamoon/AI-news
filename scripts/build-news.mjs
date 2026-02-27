@@ -2,13 +2,8 @@ import fs from "fs";
 import path from "path";
 import RSSParser from "rss-parser";
 
-const parser = new RSSParser();
 
-const OPENAI_API_KEY = process.env.OPENAI_API_KEY;import fs from "fs";
-import path from "path";
-import RSSParser from "rss-parser";
 
-const parser = new RSSParser();
 const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
 const MAX_ITEMS_PER_TAB = 60;
 const SUMMARIZE_TOP_N = 25;
