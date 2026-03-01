@@ -1,0 +1,77 @@
+{
+  "generated_at": "2026-03-01T02:10:54.872Z",
+  "sources": {
+    "Google AI Blog": {
+      "status": "ok",
+      "url": "https://blog.google/technology/ai/rss/",
+      "fetchedAt": "2026-03-01T02:10:19.675Z"
+    },
+    "Hacker News (LLM)": {
+      "status": "ok",
+      "url": "https://hnrss.org/frontpage",
+      "fetchedAt": "2026-03-01T02:10:28.335Z"
+    },
+    "Reddit r/MachineLearning": {
+      "status": "fail",
+      "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=week",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-01T02:10:29.511Z"
+    },
+    "MIT News AI": {
+      "status": "fail",
+      "url": "https://news.mit.edu/topic/artificial-intelligence2/rss",
+      "statusCode": 404,
+      "error": "Status code 404",
+      "checkedAt": "2026-03-01T02:10:30.888Z"
+    },
+    "The Verge AI": {
+      "status": "ok",
+      "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
+      "fetchedAt": "2026-03-01T02:10:31.944Z"
+    },
+    "Reddit r/n8n": {
+      "status": "fail",
+      "url": "https://www.reddit.com/r/n8n/top/.rss?t=week",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-01T02:10:44.050Z"
+    },
+    "Reddit r/automation": {
+      "status": "fail",
+      "url": "https://www.reddit.com/r/automation/new/.rss",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-01T02:10:45.185Z"
+    },
+    "Dev.to Automation": {
+      "status": "ok",
+      "url": "https://dev.to/feed/tag/automation",
+      "fetchedAt": "2026-03-01T02:10:46.537Z"
+    },
+    "Dev.to n8n": {
+      "status": "ok",
+      "url": "https://dev.to/feed/tag/n8n",
+      "fetchedAt": "2026-03-01T02:10:48.278Z"
+    },
+    "Notion Blog": {
+      "status": "fail",
+      "url": "https://notion.ghost.io/rss/",
+      "statusCode": 404,
+      "error": "Status code 404",
+      "checkedAt": "2026-03-01T02:10:51.330Z"
+    },
+    "Reddit r/Notion": {
+      "status": "fail",
+      "url": "https://www.reddit.com/r/Notion/top/.rss?t=week",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-01T02:10:52.489Z"
+    },
+    "Dev.to Notion": {
+      "status": "ok",
+      "url": "https://dev.to/feed/tag/notion",
+      "fetchedAt": "2026-03-01T02:10:53.866Z"
+    }
+  }
+}
