@@ -1,6 +1,24 @@
 {
-  "updated_at": "2026-03-02T02:01:27.804Z",
+  "updated_at": "2026-03-03T02:02:55.067Z",
   "items": [
+    {
+      "title": "Anthropic upgrades Claude’s memory to attract AI switchers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "source": "The Verge AI",
+      "published_at": "2026-03-02T22:29:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic is making it easier to switch to its Claude AI from other chatbots with an update that brings Claude's memory feature to users on the free plan, along with a new prompt a",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 150
+    },
     {
       "title": "AI vs. the Pentagon: killer robots, mass surveillance, and red lines",
       "url": "https://www.theverge.com/ai-artificial-intelligence/886082/ai-vs-the-pentagon-killer-robots-mass-surveillance-and-red-lines",
@@ -17,31 +35,35 @@
         "llm",
         "hot"
       ],
-      "score": 122
+      "score": 110
     },
     {
-      "title": "Trump orders federal agencies to drop Anthropic’s AI",
-      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
-      "source": "The Verge AI",
-      "published_at": "2026-02-27T21:30:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencie",
+      "title": "Launch HN: OctaPulse (YC W26) – Robotics and computer vision for fish farming",
+      "url": "https://news.ycombinator.com/item?id=47220320",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T16:39:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi HN! My name is Rohan and, together with Paul, I’m the co-founder of OctaPulse (https://www.tryoctapulse.com/). We’re building a robotics layer for seafood production, starting w",
       "tags": [
-        "Claude/Anthropic",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "rag",
+        "eval",
+        "multimodal",
         "hot"
       ],
-      "score": 82
+      "score": 109
     },
     {
-      "title": "Anthropic refuses Pentagon’s new terms, standing firm on lethal autonomous weapons and mass surveillance",
-      "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei",
+      "title": "How OpenAI caved to the Pentagon on AI surveillance",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
       "source": "The Verge AI",
-      "published_at": "2026-02-26T23:22:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Less than 24 hours before the deadline in an ultimatum issued by the Pentagon, Anthropic has refused the Department of Defense's demands for unrestricted access to its AI. It's the",
+      "published_at": "2026-03-02T14:22:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Friday evening, amidst fallout from a standoff between the Department of Defense and Anthropic, OpenAI CEO Sam Altman announced that his own company had successfully negotiated ",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic"
@@ -49,7 +71,25 @@
       "buckets": [
         "llm"
       ],
-      "score": 80
+      "score": 105
+    },
+    {
+      "title": "Show HN: Govbase – Follow a bill from source text to news bias to social posts",
+      "url": "https://govbase.com",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T17:08:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Govbase tracks every bill, executive order, and federal regulation from official sources (Congress.gov, Federal Register, White House). An AI pipeline breaks each one down into pla",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "hot"
+      ],
+      "score": 87
     },
     {
       "title": "Defense secretary Pete Hegseth designates Anthropic a supply chain risk",
@@ -66,6 +106,39 @@
         "hot"
       ],
       "score": 72
+    },
+    {
+      "title": "Trump orders federal agencies to drop Anthropic’s AI",
+      "url": "https://www.theverge.com/policy/886489/pentagon-anthropic-trump-dod",
+      "source": "The Verge AI",
+      "published_at": "2026-02-27T21:30:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Friday afternoon, Donald Trump posted on Truth Social, accusing Anthropic, the AI company behind Claude, of attempting to \"STRONG-ARM\" the Pentagon and directing federal agencie",
+      "tags": [
+        "Claude/Anthropic",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 70
+    },
+    {
+      "title": "Show HN: I built a sub-500ms latency voice agent from scratch",
+      "url": "https://www.ntik.me/posts/voice-agent",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T21:23:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I built a voice agent from scratch that averages ~400ms end-to-end latency (phone stop → first syllable). That’s with full STT → LLM → TTS in the loop, clean barge-ins, and no prec",
+      "tags": [
+        "Agents",
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "agents",
+        "rag"
+      ],
+      "score": 69
     },
     {
       "title": "Helping kids and teens learn and grow online on Safer Internet Day",
@@ -85,90 +158,18 @@
       "score": 65
     },
     {
-      "title": "Why XML tags are so fundamental to Claude",
-      "url": "https://glthr.com/XML-fundamental-to-Claude",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T14:52:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://glthr.com/XML-fundamental-to-Claude Comments URL: https://news.ycombinator.com/item?id=47207236 Points: 159 # Comments: 114",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Microgpt explained interactively",
-      "url": "https://growingswe.com/blog/microgpt",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T09:43:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://growingswe.com/blog/microgpt Comments URL: https://news.ycombinator.com/item?id=47205208 Points: 193 # Comments: 24",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "WebMCP is available for early preview",
-      "url": "https://developer.chrome.com/blog/webmcp-epp",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T22:13:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://developer.chrome.com/blog/webmcp-epp Comments URL: https://news.ycombinator.com/item?id=47211249 Points: 114 # Comments: 70",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 59
-    },
-    {
-      "title": "Microgpt",
-      "url": "http://karpathy.github.io/2026/02/12/microgpt/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T01:39:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: http://karpathy.github.io/2026/02/12/microgpt/ Comments URL: https://news.ycombinator.com/item?id=47202708 Points: 1691 # Comments: 293",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 52
-    },
-    {
-      "title": "We don&#8217;t have to have unsupervised killer robots",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+      "title": "Apple might use Google servers to store data for its upgraded AI Siri",
+      "url": "https://www.theverge.com/tech/887802/apple-ai-siri-google-servers",
       "source": "The Verge AI",
-      "published_at": "2026-02-27T16:18:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous letha",
+      "published_at": "2026-03-02T20:22:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple has asked Google to look into \"setting up servers\" for a new version of Siri that's Gemini-powered and meets Apple's privacy requirements, The Information reports. Apple had ",
       "tags": [
-        "Claude/Anthropic"
+        "Gemini/Google"
       ],
       "buckets": [
         "llm"
       ],
-      "score": 52
-    },
-    {
-      "title": "OpenAI snags $110 billion in investments from Amazon, Nvidia, and Softbank",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/885958/openai-amazon-nvidia-softback-110-billion-investment",
-      "source": "The Verge AI",
-      "published_at": "2026-02-27T14:55:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI has closed another round of funding, totalling $110 billion being newly committed to the maker of ChatGPT, which it says has more than 900 million weekly active users and ov",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 52
+      "score": 60
     },
     {
       "title": "Build with Nano Banana 2, our best image generation and editing model",
@@ -203,25 +204,11 @@
       "score": 51
     },
     {
-      "title": "When does MCP make sense vs CLI?",
-      "url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+      "title": "Parallel coding agents with tmux and Markdown specs",
+      "url": "https://schipper.ai/posts/parallel-coding-agents/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T16:54:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html Comments URL: https://news.ycombinator.com/item?id=47208398 Points: 259 # Comments: 175",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
-    },
-    {
-      "title": "Show HN: Audio Toolkit for Agents",
-      "url": "https://github.com/shiehn/sas-audio-processor",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T15:52:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/shiehn/sas-audio-processor Comments URL: https://news.ycombinator.com/item?id=47207806 Points: 51 # Comments: 6",
+      "published_at": "2026-03-02T14:24:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://schipper.ai/posts/parallel-coding-agents/ Comments URL: https://news.ycombinator.com/item?id=47218318 Points: 121 # Comments: 90",
       "tags": [
         "Agents"
       ],
@@ -359,6 +346,34 @@
       "score": 45
     },
     {
+      "title": "AI-generated art can&#8217;t be copyrighted after Supreme Court declines to review the rule",
+      "url": "https://www.theverge.com/policy/887678/supreme-court-ai-art-copyright",
+      "source": "The Verge AI",
+      "published_at": "2026-03-02T17:58:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The US Supreme Court has declined to hear a case over whether AI-generated art can obtain a copyright, as reported earlier by Reuters. The Monday decision comes after Stephen Thale",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "We don&#8217;t have to have unsupervised killer robots",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/885963/anthropic-dod-pentagon-tech-workers-ai-labs-react",
+      "source": "The Verge AI",
+      "published_at": "2026-02-27T16:18:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It's the day of the Pentagon's looming ultimatum for Anthropic: allow the US military unchecked access to its technology, including for mass surveillance and fully autonomous letha",
+      "tags": [
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 40
+    },
+    {
       "title": "AI Impact Summit 2026",
       "url": "https://blog.google/innovation-and-ai/technology/ai/ai-impact-summit-2026-collection/",
       "source": "Google AI Blog",
@@ -485,60 +500,174 @@
       "score": 35
     },
     {
-      "title": "Allegations of insider trading over prediction-market bets tied to Iran conflict",
-      "url": "https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict",
+      "title": "Show HN: PHP 8 disable_functions bypass PoC",
+      "url": "https://github.com/m0x41nos/TimeAfterFree",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T22:39:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.morningstar.com/news/marketwatch/20260301140/allegations-of-insider-trading-over-prediction-market-bets-tied-to-iran-conflict Comments URL: https://news.yc",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-03-03T01:12:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/m0x41nos/TimeAfterFree Comments URL: https://news.ycombinator.com/item?id=47226605 Points: 12 # Comments: 0",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
-      "title": "Are the Mysteries of Quantum Mechanics Beginning to Dissolve?",
-      "url": "https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/",
+      "title": "How to Build Your Own Quantum Computer",
+      "url": "https://physics.aps.org/articles/v19/24",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T21:33:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.quantamagazine.org/are-the-mysteries-of-quantum-mechanics-beginning-to-dissolve-20260213/ Comments URL: https://news.ycombinator.com/item?id=47210903 Point",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-03-02T23:22:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://physics.aps.org/articles/v19/24 Comments URL: https://news.ycombinator.com/item?id=47225726 Points: 22 # Comments: 4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
-      "title": "How the Government Deceived Congress in the Debate over Surveillance Powers (2013)",
-      "url": "https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived",
+      "title": "Closure of the Weatheradio Service in Canada",
+      "url": "https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T20:55:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.eff.org/deeplinks/2013/06/director-national-intelligences-word-games-explained-how-government-deceived Comments URL: https://news.ycombinator.com/item?id=4",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-03-02T23:03:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.rac.ca/rac-responds-to-the-closure-of-the-weatherradio-service-in-canada/ Comments URL: https://news.ycombinator.com/item?id=47225505 Points: 56 # Comments",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
-      "title": "New iron nanomaterial wipes out cancer cells without harming healthy tissue",
-      "url": "https://www.sciencedaily.com/releases/2026/02/260228093456.htm",
+      "title": "Seed of Might Color Correction Process (2023) [pdf]",
+      "url": "https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T15:09:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.sciencedaily.com/releases/2026/02/260228093456.htm Comments URL: https://news.ycombinator.com/item?id=47207404 Points: 239 # Comments: 80",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-03-02T22:49:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://andrewvanner.github.io/som/SoM_CC_Process_Day.pdf Comments URL: https://news.ycombinator.com/item?id=47225318 Points: 64 # Comments: 15",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The workers behind Meta’s smart glasses can see everything",
+      "url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T22:32:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything Comments URL: https://news.ycombinator.com/item?id=47225130 ",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The 185-Microsecond Type Hint",
+      "url": "https://blog.sturdystatistics.com/posts/type_hint/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T22:04:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.sturdystatistics.com/posts/type_hint/ Comments URL: https://news.ycombinator.com/item?id=47224832 Points: 40 # Comments: 2",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Welcome (back) to Macintosh",
+      "url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T21:09:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://take.surf/2026/03/01/welcome-back-to-macintosh Comments URL: https://news.ycombinator.com/item?id=47224118 Points: 245 # Comments: 156",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Show HN: Pianoterm – Run shell commands from your Piano. A Linux CLI tool",
+      "url": "https://github.com/vustagc/pianoterm",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T20:50:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A little weekend project, made so I can pause/play/rewind directly on the piano, when learning a song by ear. Comments URL: https://news.ycombinator.com/item?id=47223863 Points: 39",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "British Columbia to end time changes, adopt year-round daylight time",
+      "url": "https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T20:30:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cbc.ca/news/canada/british-columbia/b-c-adopting-year-round-daylight-time-9.7111657 Comments URL: https://news.ycombinator.com/item?id=47223620 Points: 413",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Show HN: uBlock filter list to blur all Instagram Reels",
+      "url": "https://gist.github.com/shraiwi/009c652da6ce8c99a6e1e0c86fe66886",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T19:50:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A filter list for uBO that blurs all video and non-follower content from Instagram. Works on mobile with uBO Lite. related: https://news.ycombinator.com/item?id=47016443 Comments U",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "\"That Shape Had None\" – A Horror of Substrate Independence (Short Fiction)",
+      "url": "https://starlightconvenience.net/#that-shape-had-none",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T18:45:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://starlightconvenience.net/#that-shape-had-none Comments URL: https://news.ycombinator.com/item?id=47222226 Points: 80 # Comments: 14",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Reflex (YC W23) Is Hiring Software Engineers – Python",
+      "url": "https://www.ycombinator.com/companies/reflex/jobs",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T17:01:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/reflex/jobs Comments URL: https://news.ycombinator.com/item?id=47220666 Points: 0 # Comments: 0",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Ask HN: Who is hiring? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47219668",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T16:00:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please state the location and include REMOTE for remote work, REMOTE (US) or similar if the country is restricted, and ONSITE when remote work is not an option. Please only post if",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Ask HN: Who wants to be hired? (March 2026)",
+      "url": "https://news.ycombinator.com/item?id=47219667",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T16:00:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Share your information if you are looking for work. Please use this format: Location: Remote: Willing to relocate: Technologies: Résumé/CV: Email: Readers: please only email these ",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "First in-utero stem cell therapy for fetal spina bifida repair is safe: study",
+      "url": "https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T14:54:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://health.ucdavis.edu/news/headlines/first-ever-in-utero-stem-cell-therapy-for-fetal-spina-bifida-repair-is-safe-study-finds/2026/02 Comments URL: https://news.yc",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "New iPad Air, powered by M4",
+      "url": "https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-02T14:11:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-ipad-air-powered-by-m4/ Comments URL: https://news.ycombinator.com/item?id=47218175 Points: 323 # Comme",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Nvidia&#8217;s spending $4 billion on photonics to stay ahead of the curve in AI",
+      "url": "https://www.theverge.com/tech/887635/nvidia-ai-photonics-lumentum-coherent",
+      "source": "The Verge AI",
+      "published_at": "2026-03-02T16:56:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nvidia announced on Monday that it's investing $2 billion each into Lumentum and Coherent, which are both developing photonics technology for data centers, like optical transceiver",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
       "title": "A robot arm with puppy dog eyes is just one of Lenovo&#8217;s new desktop AI concepts",
@@ -552,150 +681,7 @@
       "buckets": [
         "hot"
       ],
-      "score": 35
-    },
-    {
-      "title": "Jack Dorsey’s Block cuts nearly half of its staff in AI gamble",
-      "url": "https://www.theverge.com/tech/885710/jack-dorsey-block-layoffs-job-cuts-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-02-26T22:11:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Jack Dorsey's Block, the financial tech company that runs Square and the Cash app, is cutting its workforce by \"nearly half\" and axing more than 4,000 jobs. The company will shrink",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 30
-    },
-    {
-      "title": "Little Free Library Books",
-      "url": "https://littlefreelibrary.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T22:18:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://littlefreelibrary.org/ Comments URL: https://news.ycombinator.com/item?id=47211280 Points: 42 # Comments: 8",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "South Korean Police Lose Seized Crypto by Posting Password Online",
-      "url": "https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T21:52:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gizmodo.com/south-korean-police-lose-seized-crypto-by-posting-password-online-2000728191 Comments URL: https://news.ycombinator.com/item?id=47211081 Points: 58",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Operational issue – Multiple services (UAE)",
-      "url": "https://health.aws.amazon.com/health/status",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T19:24:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://health.aws.amazon.com/health/status Comments URL: https://news.ycombinator.com/item?id=47209781 Points: 165 # Comments: 72",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Ghostty – Terminal Emulator",
-      "url": "https://ghostty.org/docs",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T12:13:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ghostty.org/docs Comments URL: https://news.ycombinator.com/item?id=47206009 Points: 610 # Comments: 273",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "I built a demo of what AI chat will look like when it's \"free\" and ad-supported",
-      "url": "https://99helpers.com/tools/ad-supported-chat",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T11:49:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://99helpers.com/tools/ad-supported-chat Comments URL: https://news.ycombinator.com/item?id=47205890 Points: 466 # Comments: 267",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Flightradar24 for Ships",
-      "url": "https://atlas.flexport.com/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T11:01:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://atlas.flexport.com/ Comments URL: https://news.ycombinator.com/item?id=47205637 Points: 185 # Comments: 43",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Decision trees – the unreasonable power of nested decision rules",
-      "url": "https://mlu-explain.github.io/decision-tree/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T08:55:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mlu-explain.github.io/decision-tree/ Comments URL: https://news.ycombinator.com/item?id=47204964 Points: 397 # Comments: 69",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "10-202: Introduction to Modern AI (CMU)",
-      "url": "https://modernaicourse.org",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-01T07:35:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://modernaicourse.org Comments URL: https://news.ycombinator.com/item?id=47204559 Points: 224 # Comments: 50",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The Galaxy S26 is a photography nightmare",
-      "url": "https://www.theverge.com/podcast/885942/samsung-galaxy-s26-ai-camera-nightmare-vergecast",
-      "source": "The Verge AI",
-      "published_at": "2026-02-27T15:15:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In many ways, Samsung's new phones are fairly normal upgrades. The S26 lines come with some useful new things - particularly the Privacy Display on the S26 Ultra, which looks like ",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
       "score": 22
-    },
-    {
-      "title": "Obsidian Sync now has a headless client",
-      "url": "https://help.obsidian.md/sync/headless",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-02-28T16:31:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://help.obsidian.md/sync/headless Comments URL: https://news.ycombinator.com/item?id=47197267 Points: 565 # Comments: 203",
-      "tags": [],
-      "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "Kyber (YC W23) Is Hiring an Enterprise Account Executive",
-      "url": "https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-02-27T18:37:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/kyber/jobs/59yPaCs-enterprise-account-executive-ae Comments URL: https://news.ycombinator.com/item?id=47183907 Points: 0 # Commen",
-      "tags": [],
-      "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "Microsoft&#8217;s Copilot Tasks AI uses its own computer to get things done",
-      "url": "https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-02-26T22:56:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft is previewing a new AI system, Copilot Tasks, that it says is designed to take care of busywork for you in the background, the company announced on Thursday. The feature ",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
     }
   ]
 }
