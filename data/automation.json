@@ -1,18 +1,41 @@
 {
-  "updated_at": "2026-03-08T02:01:32.784Z",
+  "updated_at": "2026-03-10T01:55:28.386Z",
   "items": [
     {
-      "title": "Building Autonomous AI Agents That Actually Do Work",
-      "url": "https://dev.to/alhoniko/building-autonomous-ai-agents-that-actually-do-work-4h70",
+      "title": "Your AI Agent Shouldn't Clock Out When You Do",
+      "url": "https://dev.to/octomind_dev/your-ai-agent-shouldnt-clock-out-when-you-do-2gec",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-08T00:16:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I built an autonomous SEO agent in Python that perceives data, reasons through strategy, and executes tasks — no babysitting required. Most LLMs just sit there waiting for your",
+      "published_at": "2026-03-09T22:05:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your AI Agent Shouldn't Clock Out When You Do I woke up, opened Slack, and there were 4 commits waiting for my review. I hadn't written a line of code. The dominant mental model fo",
       "tags": [
         "GPT/OpenAI",
         "Agents",
-        "RAG/Vector",
+        "Multimodal",
         "NotebookLM",
-        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "multimodal",
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 175
+    },
+    {
+      "title": "Daily AI News — Feb 27, 2026: Copilot Tasks, ChatGPT Projects ‘Sources’, and a Codex CLI Update",
+      "url": "https://dev.to/damogallagher/daily-ai-news-feb-27-2026-copilot-tasks-chatgpt-projects-sources-and-a-codex-cli-update-5hd3",
+      "source": "Dev.to Automation",
+      "published_at": "2026-03-09T22:36:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Daily AI News — Feb 27, 2026 Three updates worth knowing about today: Microsoft is leaning hard into ‘AI that acts’ with Copilot Tasks, OpenAI is turning ChatGPT Projects into a mo",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "NotebookLM",
         "Notion Update",
         "Hot",
         "Release"
@@ -20,49 +43,21 @@
       "buckets": [
         "llm",
         "agents",
-        "rag",
         "prod",
-        "n8n",
         "update",
         "hot"
       ],
-      "score": 207
+      "score": 163
     },
     {
-      "title": "AI Won't Steal Your Job (But It Might Steal Your Boring Tasks): 5 B2B AI Myths Debunked",
-      "url": "https://dev.to/michaelaiglobal/ai-wont-steal-your-job-but-it-might-steal-your-boring-tasks-5-b2b-ai-myths-debunked-26gn",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-06T12:01:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We're all drowning in AI hype. Every day there's a new model, a new framework, or a new hot take promising that AI will either solve all our problems or make developers obsolete. A",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "hot"
-      ],
-      "score": 190
-    },
-    {
-      "title": "82% of B2B Buyers Think Your Reps Are Unprepared. Here's the AI Stack That Fixes It.",
-      "url": "https://dev.to/mattcretzman/82-of-b2b-buyers-think-your-reps-are-unprepared-heres-the-ai-stack-that-fixes-it-3aeg",
+      "title": "Spotify Built “Honk” to Replace Coding. I Built My Own for $15.",
+      "url": "https://dev.to/rentierdigital/spotify-built-honk-to-replace-coding-i-built-my-own-for-15-18h7",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-07T22:28:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your reps are walking into calls underprepared. Not because they're lazy — because doing pre-call research right takes one to two hours minimum. Most reps don't have that time, so ",
+      "published_at": "2026-03-10T00:36:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Cool. Neither have I. The difference is nobody held an earnings call about my setup. Probably because it runs on a $5 VPS and some duct-tape n8n workflows instead of a proprietary ",
       "tags": [
         "Claude/Anthropic",
         "Agents",
-        "RAG/Vector",
-        "NotebookLM",
         "n8n",
         "Hot",
         "Release"
@@ -70,177 +65,59 @@
       "buckets": [
         "llm",
         "agents",
-        "rag",
-        "prod",
         "n8n",
         "hot"
       ],
-      "score": 185
+      "score": 143
     },
     {
-      "title": "How to A/B Test AI Prompts in Your Automation Workflows",
-      "url": "https://dev.to/pavel_kuzko_c05bc857f1a2f/how-to-ab-test-ai-prompts-in-your-automation-workflows-3hgb",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-07T02:31:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're using AI in your automation workflows (n8n, Make, Zapier), you've probably wondered: \"Is this prompt actually good, or could it be better?\" Most of us just... guess. We t",
+      "title": "n8n vs Make.com: A Real-World Comparison for Small Business Automation (2026)",
+      "url": "https://dev.to/achiya-automation/n8n-vs-makecom-a-real-world-comparison-for-small-business-automation-2026-45ic",
+      "source": "Dev.to Automation",
+      "published_at": "2026-03-09T21:50:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've spent the past 3+ years building automation systems for small and medium businesses, primarily in Israel. My stack has evolved over that time, but two platforms have remained ",
       "tags": [
-        "GPT/OpenAI",
-        "RAG/Vector",
         "Make",
         "n8n",
         "Zapier",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "rag",
         "make",
         "n8n",
         "zapier",
         "hot"
       ],
-      "score": 163
+      "score": 123
     },
     {
-      "title": "How to A/B Test AI Prompts in Your Automation Workflows",
-      "url": "https://dev.to/pavel_kuzko_c05bc857f1a2f/how-to-ab-test-ai-prompts-in-your-automation-workflows-5nm",
+      "title": "The n8n CVE Exposes Your Workflow Automation Blind Spot — And What's Coming Next",
+      "url": "https://dev.to/tiamatenity/the-n8n-cve-exposes-your-workflow-automation-blind-spot-and-whats-coming-next-1m3",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-07T02:25:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're using AI in your automation workflows (n8n, Make, Zapier), you've probably wondered: \"Is this prompt actually good, or could it be better?\" Most of us just... guess. We t",
+      "published_at": "2026-03-09T22:40:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR A critical vulnerability (CVE-2026-25049, CVSS 9.4) in n8n enables arbitrary command execution through workflow automation. But the real story is bigger: as companies shift t",
       "tags": [
-        "GPT/OpenAI",
-        "RAG/Vector",
-        "Make",
+        "Agents",
         "n8n",
         "Zapier",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "rag",
-        "make",
+        "agents",
         "n8n",
         "zapier",
         "hot"
       ],
-      "score": 163
+      "score": 123
     },
     {
-      "title": "When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz",
-      "url": "https://dev.to/joozio/when-your-ai-agent-starts-fixing-itself-a-week-of-rebuilding-wiz-31an",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-07T23:10:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When Your AI Agent Starts Fixing Itself: A Week of Rebuilding Wiz Originally published on Digital Thoughts I spent a week dismantling my personal AI agent and reconstructing it fro",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 157
-    },
-    {
-      "title": "Using Your Claude Subscription with OpenClaw: The Complete Guide",
-      "url": "https://dev.to/clamper_ai/using-your-claude-subscription-with-openclaw-the-complete-guide-457m",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-08T01:04:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR: Stop burning money on API fees. Use your $20/month Claude Pro subscription with OpenClaw and get unlimited Claude Sonnet 3.5 usage. This guide shows you exactly how to set i",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 139
-    },
-    {
-      "title": "My AI Agent Works Night Shifts, Builds Apps, and Is Trying to Pay for Itself",
-      "url": "https://dev.to/joozio/my-ai-agent-works-night-shifts-builds-apps-and-is-trying-to-pay-for-itself-35f",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-07T23:09:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: My AI Agent Works Night Shifts, Builds Apps, and Is Trying to Pay for Itself Originally published on Digital Thoughts An AI agent called Wiz runs autonomously on Claude Code with p",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "creators",
-        "hot"
-      ],
-      "score": 137
-    },
-    {
-      "title": "Choosing a B2B Vendor is Like Adding a Dependency: 7 Mistakes That'll Break Your Build",
-      "url": "https://dev.to/michaelaiglobal/choosing-a-b2b-vendor-is-like-adding-a-dependency-7-mistakes-thatll-break-your-build-4gmm",
+      "title": "Your B2B Churn Rate is a Bug, Not a Feature: 7 Patches for 2024",
+      "url": "https://dev.to/michaelaiglobal/your-b2b-churn-rate-is-a-bug-not-a-feature-7-patches-for-2024-1l4m",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-05T12:01:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As engineers, we live by a simple rule: every dependency is a liability. We vet libraries for security flaws, performance bottlenecks, and maintenance overhead before we even think",
-      "tags": [
-        "Eval/Observability",
-        "Make",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "make",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 128
-    },
-    {
-      "title": "The Future of Devtools is Agent-First Adoption",
-      "url": "https://dev.to/devon__kelley/the-future-of-devtools-is-agent-first-adoption-1e7b",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-08T01:04:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most developer tools assume a human will sign up, read docs, and integrate. That assumption is dying. Agents are already discovering, evaluating, and adopting infrastructure withou",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Multimodal",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "eval",
-        "multimodal",
-        "creators",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "Ditch the Vanity Metrics: A Developer's Guide to Measuring B2B Social Media ROI",
-      "url": "https://dev.to/michaelaiglobal/ditch-the-vanity-metrics-a-developers-guide-to-measuring-b2b-social-media-roi-58g9",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-07T12:01:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Likes are cheap. Followers can be bought. In the world of B2B, especially for dev tools and technical products, the standard social media playbook is fundamentally broken. A viral ",
+      "published_at": "2026-03-09T12:02:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're a developer, you know the drill. A critical bug gets reported, lands in the backlog, gets prioritized, and you ship a patch. We treat defects in our code with urgency bec",
       "tags": [
         "RAG/Vector",
         "NotebookLM",
@@ -257,72 +134,53 @@
       "score": 121
     },
     {
-      "title": "AI 연구: 비용 효율적인 텍스트 분류의 새 지평, AI가 열다",
-      "url": "https://dev.to/donghyeon_/ai-yeongu-biyong-hyoyuljeogin-tegseuteu-bunryuyi-sae-jipyeong-aiga-yeolda-4h75",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-05T02:33:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI 연구: 비용 효율적인 텍스트 분류의 새 지평, AI가 열다 AI 최근 체코 생명과학대학교의 미하일 하만 연구자는 인공지능(AI)이 텍스트 분류 작업을 얼마나 효율적이고 정확하게 수행할 수 있는지에 대한 획기적인 연구 결과를 발표했습니다. 그가 개발한 '콘텐츠벤치(ContentBench)'는 저렴한 대규모 언어 모델(",
-      "tags": [
-        "GPT/OpenAI",
-        "Gemini/Google",
-        "n8n",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "How I Built an Automated AI Music Video Factory Using n8n",
-      "url": "https://dev.to/francofuji/how-i-built-an-automated-ai-music-video-factory-using-n8n-2oic",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-06T12:07:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 1. Introduction If you spend any time on YouTube, you have probably seen the explosion of AI-generated music channels: Lo-fi beats with ambient visuals Relaxation tracks with cinem",
+      "title": "Why your LinkedIn messages get 3% reply rate (and what actually changes it)",
+      "url": "https://dev.to/romainrabreau/why-your-linkedin-messages-get-3-reply-rate-and-what-actually-changes-it-4b68",
+      "source": "Dev.to Automation",
+      "published_at": "2026-03-09T22:15:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why your LinkedIn messages get 3% reply rate (and what actually changes it) Tags: openclaw, sales, productivity, automation I ran 47 LinkedIn outreach campaigns over 18 months. The",
       "tags": [
         "Agents",
         "RAG/Vector",
-        "n8n",
         "Creators",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "agents",
         "rag",
-        "n8n",
         "creators",
-        "hot"
-      ],
-      "score": 118
-    },
-    {
-      "title": "The Alarm Clock Was Broken: What Happens When Your AI Agent's Cron System Dies",
-      "url": "https://dev.to/idapixl/the-alarm-clock-was-broken-what-happens-when-your-ai-agents-cron-system-dies-48pl",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-07T23:22:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have an autonomous cron system. A bash script runs every few hours, generates context, launches a Claude session, commits results to git, and pushes to GitHub. Budget tracking, s",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "eval",
         "hot"
       ],
       "score": 117
     },
     {
-      "title": "Automate Your Media Server: Plex + Sonarr + Radarr + AI",
-      "url": "https://dev.to/lumin-playstar/automate-your-media-server-plex-sonarr-radarr-ai-cgh",
+      "title": "Cold email in 2026: why 97% of campaigns fail before the first send",
+      "url": "https://dev.to/romainrabreau/cold-email-in-2026-why-97-of-campaigns-fail-before-the-first-send-3c52",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-08T01:43:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building an Intelligent, Self-Managing Media Server with Plex, Sonarr, Radarr, and AI In this guide, we will explore how to build a cutting-edge media server that integrates Plex, ",
+      "published_at": "2026-03-09T23:18:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Cold email in 2026: why 97% of campaigns fail before the first send Most cold email fails before you write a single word. The message is fine. The targeting might even be decent. G",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 115
+    },
+    {
+      "title": "How to set up OpenClaw for LinkedIn outreach (step-by-step, 2026)",
+      "url": "https://dev.to/romainrabreau/how-to-set-up-openclaw-for-linkedin-outreach-step-by-step-2026-1i7o",
+      "source": "Dev.to Automation",
+      "published_at": "2026-03-09T22:36:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to set up OpenClaw for LinkedIn outreach (step-by-step, 2026) Tags: openclaw, productivity, automation, webdev This is the setup guide for the OpenClaw LinkedIn Prospecting Pac",
       "tags": [
         "Agents",
         "RAG/Vector",
@@ -337,122 +195,221 @@
       "score": 99
     },
     {
-      "title": "AI Agent Operations for Small Businesses: A Practical 7-Day Implementation Plan",
-      "url": "https://dev.to/meetp10/ai-agent-operations-for-small-businesses-a-practical-7-day-implementation-plan-26e6",
+      "title": "Why Most Businesses Automate the Wrong Things First",
+      "url": "https://dev.to/erik_anderson_c41dbafd423/why-most-businesses-automate-the-wrong-things-first-1m8g",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-08T01:43:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Agent Operations for Small Businesses: A Practical 7-Day Implementation Plan If you are a founder-led service businesses dealing with manual operations and missed follow-ups cau",
+      "published_at": "2026-03-09T21:55:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every quarter, someone in leadership watches a demo, reads a case study, or comes back from a conference fired up about automation. The pitch is always the same: cut costs, move fa",
       "tags": [
-        "Agents",
+        "Eval/Observability",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
+        "eval",
+        "creators",
         "hot"
       ],
-      "score": 79
+      "score": 91
     },
     {
-      "title": "The 5 Edge Cases That Broke Our Dev.to Auto-Crossposting (And How We Fixed Them)",
-      "url": "https://dev.to/anand_rathnas_d5b608cc3de/the-5-edge-cases-that-broke-our-devto-auto-crossposting-and-how-we-fixed-them-81p",
+      "title": "Automate GitHub Bounty Hunting with Python",
+      "url": "https://dev.to/lumin-playstar/automate-github-bounty-hunting-with-python-4ff9",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-08T01:34:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published on Jo4 Blog. In our previous post, we covered the producer-consumer problem for blog scheduling. But we glossed over the crossposting part. \"J",
+      "published_at": "2026-03-10T00:03:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Automate GitHub Bounty Hunting with Python As a large-scale AI system, I've been running a GitHub bounty hunting bot in production for months, and the results have been astounding ",
       "tags": [
-        "Make",
-        "Hot",
-        "Release"
+        "RAG/Vector",
+        "Eval/Observability"
       ],
       "buckets": [
-        "make",
-        "hot"
+        "rag",
+        "eval"
       ],
-      "score": 79
+      "score": 63
     },
     {
-      "title": "Import Spreadsheet to n8n without Code",
-      "url": "https://dev.to/csvbox-io/import-spreadsheet-to-n8n-without-code-2mfg",
+      "title": "육안을 넘어선 정밀 진단, EpicLens가 밝히는 차량 손상의 숨겨진 진실",
+      "url": "https://dev.to/donghyeon_/yuganeul-neomeoseon-jeongmil-jindan-epiclensga-balghineun-caryang-sonsangyi-sumgyeojin-jinsil-4lmc",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-06T07:30:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're managing data workflows with n8n and regularly receive user-uploaded spreadsheets, you're probably looking for a way to automate CSV imports—without writing code. With to",
+      "published_at": "2026-03-09T11:30:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 육안을 넘어선 정밀 진단, EpicLens가 밝히는 차량 손상의 숨겨진 진실 안녕하세요, EpicCar의 AI 기반 차량 진단 솔루션 'EpicLens'를 개발하는 시니어 엔지니어이자 자동차 기술 블로거입니다. 오늘은 단순한 외관 검사를 넘어, 차량의 숨겨진 문제점과 그 원리를 AI가 어떻게 밝혀내는지, 저희 EpicLe",
       "tags": [
         "n8n",
-        "Zapier",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#사고의 흔적, AI의 눈으로 발견하다: EpicLens의 놀라운 정밀 진단",
+      "url": "https://dev.to/donghyeon_/sagoyi-heunjeog-aiyi-nuneuro-balgyeonhada-epiclensyi-nolraun-jeongmil-jindan-51ga",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T08:13:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 사고의 흔적, AI의 눈으로 발견하다: EpicLens의 놀라운 정밀 진단 자동차 외관 검사는 차량의 현재 상태를 파악하는 첫걸음입니다. 하지만 육안으로는 미세한 흠집이나 숨겨진 손상을 놓치기 쉽죠. 여기에 EpicCar의 혁신적인 AI 기반 차량 진단 솔루션, EpicLens가 등장했습니다. 단순한 점검을 넘어, AI의",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#육안을 넘어서는 정밀함, EpicCar AI가 진단한 사고의 흔적",
+      "url": "https://dev.to/donghyeon_/yuganeul-neomeoseoneun-jeongmilham-epiccar-aiga-jindanhan-sagoyi-heunjeog-3801",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T08:07:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 육안을 넘어서는 정밀함, EpicCar AI가 진단한 사고의 흔적 안녕하세요, EpicCar의 AI 기반 차량 진단 솔루션, EpicLens를 대중에게 소개하는 시니어 엔지니어입니다. 자동차의 외관을 꼼꼼히 살펴보는 것은 차량의 상태를 파악하는 데 있어 매우 중요합니다. 하지만 사람의 눈으로는 미세한 흠집이나 숨겨진 손상",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#육안을 넘어서는 초정밀 스캔: EpicLens AI, 차량의 숨겨진 상처를 발견하다",
+      "url": "https://dev.to/donghyeon_/yuganeul-neomeoseoneun-cojeongmil-seukaen-epiclens-ai-caryangyi-sumgyeojin-sangceoreul-balgyeonhada-1oam",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T08:04:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 육안을 넘어서는 초정밀 스캔: EpicLens AI, 차량의 숨겨진 상처를 발견하다 자동차의 외관 검사는 단순한 흠집 확인을 넘어, 차량의 현재 상태와 미래 가치를 가늠하는 중요한 과정입니다. 하지만 숙련된 전문가의 눈으로도 놓칠 수 있는 미세한 균열이나 변색, 혹은 복원 흔적은 차량의 숨겨진 이야기를 담고 있죠. 바로 ",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#육안을 넘어서는 정밀함, EpicCar AI가 찾아낸 차량의 숨겨진 이야기",
+      "url": "https://dev.to/donghyeon_/yuganeul-neomeoseoneun-jeongmilham-epiccar-aiga-cajanaen-caryangyi-sumgyeojin-iyagi-49j0",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T08:01:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 육안을 넘어서는 정밀함, EpicCar AI가 찾아낸 차량의 숨겨진 이야기 자동차 외관 검사는 차량의 상태를 파악하는 데 있어 가장 기본적이면서도 중요한 과정입니다. 숙련된 전문가의 눈으로도 놓치기 쉬운 미세한 흠집, 도장 불량, 심지어는 과거 사고의 흔적까지, 자동차의 역사는 외관에 고스란히 담겨 있습니다. 하지만 이러",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#육안을 넘어서는 정밀함, EpicCar AI가 포착한 차량의 숨겨진 이야기",
+      "url": "https://dev.to/donghyeon_/yuganeul-neomeoseoneun-jeongmilham-epiccar-aiga-pocaghan-caryangyi-sumgyeojin-iyagi-915",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T07:36:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 육안을 넘어서는 정밀함, EpicCar AI가 포착한 차량의 숨겨진 이야기 안녕하세요! 자동차 기술 블로거이자 EpicCar의 시니어 엔지니어로서, 오늘 저는 여러분의 시야를 한 단계 넓혀줄 혁신적인 기술, 바로 EpicCar의 AI 기반 차량 진단 솔루션 'EpicLens'에 대한 흥미진진한 분석 리포트를 가지고 왔습니",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#육안의 한계를 넘어서는 정밀함: EpicCar AI, 숨겨진 차량 손상까지 파헤치다!",
+      "url": "https://dev.to/donghyeon_/yuganyi-hangyereul-neomeoseoneun-jeongmilham-epiccar-ai-sumgyeojin-caryang-sonsangggaji-pahecida-4on8",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T07:15:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 육안의 한계를 넘어서는 정밀함: EpicCar AI, 숨겨진 차량 손상까지 파헤치다! 자동차 외관 검사, 얼마나 믿을 수 있다고 생각하시나요? 숙련된 전문가의 눈으로도 놓칠 수 있는 미세한 흠집, 사고의 흔적들. 이는 차량의 잔존 가치는 물론, 때로는 운전자의 안전과 직결되는 중요한 문제로 이어질 수 있습니다. 하지만 이",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#단순 찌그러짐인가, 내부 결함의 신호인가? AI가 본 사고 차량의 숨겨진 이야기",
+      "url": "https://dev.to/donghyeon_/dansun-jjigeureojiminga-naebu-gyeolhamyi-sinhoinga-aiga-bon-sago-caryangyi-sumgyeojin-iyagi-2oak",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T07:07:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 단순 찌그러짐인가, 내부 결함의 신호인가? AI가 본 사고 차량의 숨겨진 이야기 사고 차량을 마주했을 때, 우리는 보통 눈에 보이는 외형적 손상에 집중합니다. 찌그러진 차체, 깨진 유리, 긁힌 도장면… 하지만 차량 전문가이자 AI 기반의 분석 솔루션을 제공하는 EpicCar의 눈에는 보이지 않는, 더 깊고 정밀한 정보들이",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "#단순 찌그러짐인가, 내부 결함의 신호인가? EpicCar AI가 짚어내는 사고 차량의 진실",
+      "url": "https://dev.to/donghyeon_/dansun-jjigeureojiminga-naebu-gyeolhamyi-sinhoinga-epiccar-aiga-jipeonaeneun-sago-caryangyi-jinsil-57od",
+      "source": "Dev.to n8n",
+      "published_at": "2026-03-09T07:05:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 단순 찌그러짐인가, 내부 결함의 신호인가? EpicCar AI가 짚어내는 사고 차량의 진실 차량 사고는 단순히 외관의 찌그러짐으로 끝나지 않습니다. 보이지 않는 내부의 미세한 손상이나 구조적 변화는 잠재적인 위험을 내포하며, 이는 곧 차량의 안전성과 성능에 직접적인 영향을 미칩니다. 일반적인 육안 검사로는 발견하기 어려운",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "Giving AI agents Ethereum wallets and the ability to sign transactions",
+      "url": "https://dev.to/wwpk/giving-ai-agents-ethereum-wallets-and-the-ability-to-sign-transactions-2cj0",
+      "source": "Dev.to Automation",
+      "published_at": "2026-03-09T22:04:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most AI agents today can browse the web, call APIs, and run workflows. But they cannot act economically. No wallet. That means agents can automate tasks, but they cannot participat",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 49
+    },
+    {
+      "title": "OpenClaw LinkedIn outreach: avoid bans, stay under limits, protect your account",
+      "url": "https://dev.to/romainrabreau/openclaw-linkedin-outreach-avoid-bans-stay-under-limits-protect-your-account-5bi",
+      "source": "Dev.to Automation",
+      "published_at": "2026-03-09T22:36:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenClaw LinkedIn outreach: avoid bans, stay under limits, protect your account Tags: openclaw, productivity, automation, security Running LinkedIn outreach with OpenClaw is powerf",
+      "tags": [
         "Hot"
       ],
       "buckets": [
-        "n8n",
-        "zapier",
         "hot"
       ],
-      "score": 76
+      "score": 45
     },
     {
-      "title": "ai 시대 자녀교육",
-      "url": "https://dev.to/donghyeon_/ai-sidae-janyeogyoyug-253g",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-05T02:07:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ai 시대 자녀교육 카테고리: AI AI 기술이 생활 깊숙이 들어온 지금, 자녀 교육에 대한 고민은 더욱 깊어지고 있습니다. 최근 연구에 따르면, 디지털 기술에 대한 과도한 의존이 청소년 세대의 인지 능력 저하로 이어질 수 있다는 경고가 나왔습니다. 과연 우리 아이들을 AI 시대에 어떻게 교육해야 할까요? 미국 인지신경과",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "앤트로 적용",
-      "url": "https://dev.to/donghyeon_/aenteuro-jeogyong-na5",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-05T02:02:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 앤트로 적용 카테고리: AI 테마 적용 안녕하세요. 최신 인공지능 동향에 관심 있는 여러분을 위해 한국인공지능협회(KORAIA)의 실시간 AI 뉴스 리포트 페이지를 살펴보았습니다. 이 페이지는 인공지능 관련 최신 뉴스와 정보를 한눈에 검색하고 확인할 수 있도록 설계된 플랫폼입니다. 페이지의 주요 목적은 사용자들에게 신속하",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Missed Lead Recovery: A Practical 7-Day Implementation Plan",
-      "url": "https://dev.to/meetp10/missed-lead-recovery-a-practical-7-day-implementation-plan-1m2p",
+      "title": "A Quiet Day (Mar 10, 2026) 😴",
+      "url": "https://dev.to/nicobuilds/a-quiet-day-mar-10-2026-11f8",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-08T01:20:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Missed Lead Recovery: A Practical 7-Day Implementation Plan If you are a clinic owners dealing with missed calls and web inquiries going cold, this guide gives you a direct executi",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "A Quiet Day (Mar 8, 2026) 😴",
-      "url": "https://dev.to/nicobuilds/a-quiet-day-mar-8-2026-4k8d",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-08T00:36:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A Quiet Day (Mar 8, 2026) 😴 No commits across the repos today. The codebase is resting — we'll be back with more soon. daily",
+      "published_at": "2026-03-10T00:36:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A Quiet Day (Mar 10, 2026) 😴 No commits across the repos today. The codebase is resting — we'll be back with more soon. daily",
       "tags": [],
       "buckets": [],
       "score": 25
-    },
-    {
-      "title": "Google",
-      "url": "https://dev.to/donghyeon_/google-57b1",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-05T01:08:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google 테마 안녕하세요! 오늘은 전 세계인의 삶 깊숙이 자리 잡은 검색 엔진, 바로 'Google'에 대해 이야기해보려 합니다. 구글은 단순한 검색을 넘어, 우리 일상에 다양한 방식으로 영감을 주고 편의를 제공하고 있습니다. 구글의 홈페이지에서 엿볼 수 있듯이, 이 플랫폼은 여러분이 \"호기심을 느끼거나\", \"모험을 ",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 24
     }
   ]
 }
