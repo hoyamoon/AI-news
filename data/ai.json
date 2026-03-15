@@ -1,157 +1,106 @@
 {
-  "updated_at": "2026-03-10T01:55:10.461Z",
+  "updated_at": "2026-03-15T02:13:05.460Z",
   "items": [
     {
-      "title": "Launch HN: Terminal Use (YC W26) – Vercel for filesystem-based agents",
-      "url": "https://news.ycombinator.com/item?id=47311657",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T16:53:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello Hacker News! We're Filip, Stavros, and Vivek from Terminal Use (https://www.terminaluse.com/). We built Terminal Use to make it easier to deploy agents that work in a sandbox",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "Make",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "prod",
-        "make",
-        "hot"
-      ],
-      "score": 185
-    },
-    {
-      "title": "Employees across OpenAI and Google support Anthropic’s lawsuit against the Pentagon",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/891514/anthropic-pentagon-lawsuit-amicus-brief-openai-google",
+      "title": "Anthropic doesn’t trust the Pentagon, and neither should you",
+      "url": "https://www.theverge.com/podcast/893370/anthropic-pentagon-ai-mass-surveillance-nsa-privacy-spying",
       "source": "The Verge AI",
-      "published_at": "2026-03-09T20:45:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Monday, Anthropic filed its lawsuit against the Department of Defense over being designated as a supply chain risk. Hours later, nearly 40 employees from OpenAI and Google - inc",
+      "published_at": "2026-03-12T14:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Today we’re talking about the messy, fast-moving situation at Anthropic, the maker of Claude that now finds itself in a very ugly legal battle with the Pentagon. The back-and-forth",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
-        "Gemini/Google",
+        "RAG/Vector",
         "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "hot"
+      ],
+      "score": 142
+    },
+    {
+      "title": "Launching the Claude Partner Network",
+      "url": "https://www.anthropic.com/news/claude-partner-network",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T21:23:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.anthropic.com/news/claude-partner-network Comments URL: https://news.ycombinator.com/item?id=47381340 Points: 81 # Comments: 29",
+      "tags": [
+        "Claude/Anthropic",
         "Release"
       ],
       "buckets": [
         "llm",
         "hot"
       ],
-      "score": 170
+      "score": 75
     },
     {
-      "title": "Show HN: The Mog Programming Language",
-      "url": "https://moglang.org",
+      "title": "Show HN: Ichinichi – One note per day, E2E encrypted, local-first",
+      "url": "https://news.ycombinator.com/item?id=47379898",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T17:57:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi, Ted here, creator of Mog. - Mog is a statically typed, compiled, embedded language (think statically typed Lua) designed to be written by LLMs -- the full spec fits in 3,200 to",
+      "published_at": "2026-03-14T18:57:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Look, every journaling app out there wants you to organize things into folders and tags and templates. I just wanted to write something down every day. So I built this. One note pe",
       "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "NotebookLM",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "agents",
-        "prod",
         "creators",
         "hot"
       ],
-      "score": 159
+      "score": 73
     },
     {
-      "title": "Anthropic is suing the Department of Defense",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/891377/anthropic-dod-lawsuit",
+      "title": "Anthropic&#8217;s Claude AI can respond with charts, diagrams, and other visuals now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893625/anthropic-claude-ai-charts-diagrams",
       "source": "The Verge AI",
-      "published_at": "2026-03-09T16:37:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic has sued the US government over its designation as a supply-chain risk, the latest move in a weekslong battle between it and the Pentagon over the acceptable use cases fo",
+      "published_at": "2026-03-12T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic's latest update to Claude will allow the AI chatbot to generate custom charts, diagrams, and other visualizations during your conversation. If Claude determines a visual ",
       "tags": [
         "Claude/Anthropic",
-        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "hot"
       ],
-      "score": 95
+      "score": 62
     },
     {
-      "title": "Show HN: DenchClaw – Local CRM on Top of OpenClaw",
-      "url": "https://github.com/DenchHQ/DenchClaw",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T14:55:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone, I am Kumar, co-founder of Dench (https://denchclaw.com). We were part of YC S24, an agentic workflow company that previously worked with sales floors automating niche ",
-      "tags": [
-        "Agents",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 79
-    },
-    {
-      "title": "OpenAI’s new GPT-5.4 model is a big step toward autonomous agents",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/889926/openai-gpt-5-4-model-release-ai-agents",
+      "title": "Gemini’s task automation is here and it’s wild",
+      "url": "https://www.theverge.com/tech/893820/gemini-task-automation-samsung-s26-google-pixel-10",
       "source": "The Verge AI",
-      "published_at": "2026-03-05T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI is launching GPT-5.4, the latest version of its AI model that the company says combines advancements in reasoning, coding, and professional work involving spreadsheets, docu",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "hot"
-      ],
-      "score": 74
-    },
-    {
-      "title": "Helping kids and teens learn and grow online on Safer Internet Day",
-      "url": "https://blog.google/innovation-and-ai/technology/safety-security/safer-internet-day-2026-kids-teens/",
-      "source": "Google AI Blog",
-      "published_at": "2026-02-10T02:30:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’re sharing our latest updates designed to support families, kids and teens in the digital world.",
+      "published_at": "2026-03-12T16:59:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Computers ordering cappuccinos. A couple of weeks ago, Google and Samsung announced a big Gemini development coming to their newest devices: task automation. Starting with food del",
       "tags": [
         "Gemini/Google",
-        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "hot"
       ],
-      "score": 65
+      "score": 57
     },
     {
-      "title": "The Pentagon formally labels Anthropic a supply-chain risk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk",
+      "title": "You can now ask Google Maps ‘complex, real-world questions’ — and Gemini will answer",
+      "url": "https://www.theverge.com/tech/893262/google-maps-gemini-ai-ask-maps-immersive-navigation",
       "source": "The Verge AI",
-      "published_at": "2026-03-05T23:02:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: US Defense Secretary Pete Hegseth speaks during a press conference on US military action in Iran, at the Pentagon in Washington, DC, on March 2, 2026. | Brendan Smialowski/AFP via ",
+      "published_at": "2026-03-12T12:30:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is continuing to weave Gemini into the firmament of its most-used products. Today, it announced that Google Maps was getting a new AI-powered \"Ask Maps\" feature that allows ",
       "tags": [
-        "Claude/Anthropic",
-        "Hot"
+        "Gemini/Google",
+        "Release"
       ],
       "buckets": [
         "llm",
         "hot"
       ],
-      "score": 60
+      "score": 57
     },
     {
       "title": "How our open-source AI model SpeciesNet is helping to promote wildlife conservation",
@@ -165,21 +114,6 @@
       ],
       "buckets": [
         "llm",
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Apple smart home display rumors now point to a fall launch with iOS 27",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/891723/apple-homepad-delay-rumor",
-      "source": "The Verge AI",
-      "published_at": "2026-03-09T22:26:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The rumored \"HomePod with a screen\" we've heard so much about was reportedly lined up for launch in 2025, and then this spring, and now, according to the latest updates, it's on th",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
         "hot"
       ],
       "score": 55
@@ -215,6 +149,52 @@
         "multimodal"
       ],
       "score": 51
+    },
+    {
+      "title": "How AI is helping improve heart health in rural Australia",
+      "url": "https://blog.google/innovation-and-ai/technology/health/google-ai-heart-health-australia/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-12T15:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A new Google AI initiative aims to improve heart health outcomes for people living in remote Australian communities.",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 47
+    },
+    {
+      "title": "Perplexity&#8217;s Personal Computer turns your spare Mac into an AI agent",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893536/perplexitys-personal-computer-turns-your-spare-mac-into-an-ai-agent",
+      "source": "The Verge AI",
+      "published_at": "2026-03-12T12:00:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Perplexity wants to be more than just an answer engine. On Wednesday, it launched Personal Computer, a new AI agent tool that can turn a spare Mac into a locally run AI system, pit",
+      "tags": [
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 46
+    },
+    {
+      "title": "Gemini in Google Sheets just achieved state-of-the-art performance.",
+      "url": "https://blog.google/products-and-platforms/products/workspace/gemini-google-sheets-state-of-the-art/",
+      "source": "Google AI Blog",
+      "published_at": "2026-03-10T13:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Today we announced new beta features for Gemini in Sheets to help you create, organize and edit entire sheets, from basic tasks to complex data analysis — just describe …",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 45
     },
     {
       "title": "The latest AI news we announced in February",
@@ -265,11 +245,11 @@
       "score": 45
     },
     {
-      "title": "A more intelligent Android on Samsung Galaxy S26",
-      "url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
+      "title": "See the whole picture and find the look with Circle to Search",
+      "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
       "source": "Google AI Blog",
       "published_at": "2026-02-25T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’ve updated Circle to Search so you can now explore multiple items in a single image.",
       "tags": [
         "Gemini/Google",
         "Release"
@@ -281,11 +261,11 @@
       "score": 45
     },
     {
-      "title": "See the whole picture and find the look with Circle to Search",
-      "url": "https://blog.google/products-and-platforms/products/search/circle-to-search-february-2026/",
+      "title": "A more intelligent Android on Samsung Galaxy S26",
+      "url": "https://blog.google/products-and-platforms/platforms/android/samsung-unpacked-2026/",
       "source": "Google AI Blog",
       "published_at": "2026-02-25T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’ve updated Circle to Search so you can now explore multiple items in a single image.",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: At Samsung Unpacked 2026, we showcased how Samsung Galaxy S26 devices are getting the latest in Android’s AI features.",
       "tags": [
         "Gemini/Google",
         "Release"
@@ -313,19 +293,18 @@
       "score": 45
     },
     {
-      "title": "The OpenClaw superfan meetup serves optimism and lobster",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/890517/openclaw-clawcon-meetup-nyc-open-source-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-03-07T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The woman at the door wore a plush lobster headdress. She sat in the front hallway of a multistory event venue in Manhattan, beside a bundle of wristbands. If she granted you one, ",
+      "title": "FCC chairman threatens TV broadcast licenses over news coverage",
+      "url": "https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-15T00:08:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fortune.com/2026/03/14/fcc-brendan-carr-tv-broadcast-licenses-news-coverage-us-war-iran-trump/ Comments URL: https://news.ycombinator.com/item?id=47382739 Poin",
       "tags": [
-        "Hot",
-        "Release"
+        "RAG/Vector"
       ],
       "buckets": [
-        "hot"
+        "rag"
       ],
-      "score": 42
+      "score": 45
     },
     {
       "title": "Ask a Techspert: How does AI understand my visual searches?",
@@ -454,25 +433,11 @@
       "score": 35
     },
     {
-      "title": "9 fun questions to try asking Google Photos",
-      "url": "https://blog.google/products-and-platforms/products/photos/ask-button-ask-photos-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-02-10T17:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Learn more about Google Photos’ new Ask button as well as other functions of its Ask Photos feature.",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Fixfest is a global gathering of repairers, tinkerers, and activists",
-      "url": "https://fixfest.therestartproject.org/",
+      "title": "Federal Surveillance Tech Becomes Mandatory in New Cars by 2027",
+      "url": "https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T17:34:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fixfest.therestartproject.org/ Comments URL: https://news.ycombinator.com/item?id=47312329 Points: 144 # Comments: 16",
+      "published_at": "2026-03-15T01:27:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.gadgetreview.com/federal-surveillance-tech-becomes-mandatory-in-new-cars-by-2027 Comments URL: https://news.ycombinator.com/item?id=47383298 Points: 38 # C",
       "tags": [
         "Release"
       ],
@@ -482,11 +447,11 @@
       "score": 35
     },
     {
-      "title": "Is legal the same as legitimate: AI reimplementation and the erosion of copyleft",
-      "url": "https://writings.hongminhee.org/2026/03/legal-vs-legitimate/",
+      "title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
+      "url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T15:12:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://writings.hongminhee.org/2026/03/legal-vs-legitimate/ Comments URL: https://news.ycombinator.com/item?id=47310160 Points: 347 # Comments: 374",
+      "published_at": "2026-03-15T00:15:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/ Comments URL: https://news.ycombinator.com/item?id=47382791 Points: 17 # Comments: 1",
       "tags": [
         "Release"
       ],
@@ -496,11 +461,53 @@
       "score": 35
     },
     {
-      "title": "Grammarly is using our identities without permission",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/890921/grammarly-ai-expert-reviews",
+      "title": "Airbus is preparing two uncrewed combat aircraft",
+      "url": "https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T23:10:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.airbus.com/en/newsroom/press-releases/2026-03-airbus-is-preparing-two-uncrewed-combat-aircraft-from-kratos-for-first-flight-with-a-european Comments URL: h",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "An ode to bzip",
+      "url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T16:01:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://purplesyringa.moe/blog/an-ode-to-bzip/ Comments URL: https://news.ycombinator.com/item?id=47377998 Points: 97 # Comments: 54",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Facebook Marketplace adds AI auto-replies for annoying ‘Is this still available?’ messages",
+      "url": "https://www.theverge.com/tech/893907/facebook-marketplace-ai-auto-reply-listings",
       "source": "The Verge AI",
-      "published_at": "2026-03-06T20:58:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Grammarly's \"expert review\" feature offers to give users writing advice \"inspired by\" subject matter experts, including recently deceased professors, as Wired reported on Wednesday",
+      "published_at": "2026-03-12T17:59:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Facebook Marketplace is adding a bunch of new AI-powered tools that are supposed to make selling items on the platform a little more efficient. One feature will use Meta AI to auto",
+      "tags": [
+        "Creators"
+      ],
+      "buckets": [
+        "creators"
+      ],
+      "score": 30
+    },
+    {
+      "title": "One of Grammarly’s ‘experts’ is suing the company over its identity-stealing AI feature",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin",
+      "source": "The Verge AI",
+      "published_at": "2026-03-11T22:51:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Journalist Julia Angwin is one of the writers whose likeness was used in Grammarly’s “expert review” feature. | Photo: Eóin Noonan / Sportsfile via Getty Images For months, Grammar",
       "tags": [
         "Hot",
         "Release"
@@ -511,192 +518,176 @@
       "score": 30
     },
     {
-      "title": "It looks like the “JVG algorithm” only wins on tiny numbers",
-      "url": "https://scottaaronson.blog/?p=9615",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-10T00:35:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://scottaaronson.blog/?p=9615 Comments URL: https://news.ycombinator.com/item?id=47317739 Points: 20 # Comments: 7",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor",
-      "url": "https://www.rahuljuliato.com/posts/emacs-solo-two-years",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-10T00:16:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.rahuljuliato.com/posts/emacs-solo-two-years Comments URL: https://news.ycombinator.com/item?id=47317616 Points: 58 # Comments: 3",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "So you want to write an “app” (2025)",
-      "url": "https://arcanenibble.github.io/so-you-want-to-write-an-app.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T20:50:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arcanenibble.github.io/so-you-want-to-write-an-app.html Comments URL: https://news.ycombinator.com/item?id=47315341 Points: 52 # Comments: 21",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Oracle is building yesterday's data centers with tomorrow's debt",
-      "url": "https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T20:36:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cnbc.com/2026/03/09/oracle-is-building-yesterdays-data-centers-with-tomorrows-debt.html Comments URL: https://news.ycombinator.com/item?id=47315128 Points:",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The first airplane fatality",
-      "url": "https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T20:32:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.amusingplanet.com/2026/03/thomas-selfridge-first-airplane-fatality.html Comments URL: https://news.ycombinator.com/item?id=47315079 Points: 57 # Comments: ",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Notes on Baking at the South Pole",
-      "url": "https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T19:12:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.newyorker.com/culture/the-weekend-essay/the-most-beautiful-freezer-in-the-world Comments URL: https://news.ycombinator.com/item?id=47313934 Points: 35 # Co",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Bluesky CEO Jay Graber is stepping down",
-      "url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T19:09:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.wired.com/story/bluesky-ceo-jay-graber-is-steppi... (https://web.archive.org/web/20260309191134/https://www.wired...) https://toni.org/2026/03/09/coming-off-the-bench-f",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Durdraw – ANSI art editor for Unix-like systems",
-      "url": "https://durdraw.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T18:59:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://durdraw.org/ Comments URL: https://news.ycombinator.com/item?id=47313721 Points: 43 # Comments: 18",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Florida judge rules red light camera tickets are unconstitutional",
-      "url": "https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T17:20:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://cbs12.com/news/local/florida-news-judge-rules-red-light-camera-tickets-unconstitutional Comments URL: https://news.ycombinator.com/item?id=47312090 Points: 334",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Building a Procedural Hex Map with Wave Function Collapse",
-      "url": "https://felixturner.github.io/hex-map-wfc/article/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T17:02:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://felixturner.github.io/hex-map-wfc/article/ Comments URL: https://news.ycombinator.com/item?id=47311815 Points: 386 # Comments: 57",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "DARPA’s new X-76",
-      "url": "https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T16:54:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.darpa.mil/news/2026/darpa-new-x-76-speed-of-jet-freedom-of-helicopter Comments URL: https://news.ycombinator.com/item?id=47311669 Points: 156 # Comments: 1",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "JSLinux Now Supports x86_64",
-      "url": "https://bellard.org/jslinux/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T16:43:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://bellard.org/jslinux/ Comments URL: https://news.ycombinator.com/item?id=47311484 Points: 244 # Comments: 70",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "An opinionated take on how to do important research that matters",
-      "url": "https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T16:24:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nicholas.carlini.com/writing/2026/how-to-win-a-best-paper-award.html Comments URL: https://news.ycombinator.com/item?id=47311179 Points: 77 # Comments: 15",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Restoring a Sun SPARCstation IPX part 1: PSU and NVRAM (2020)",
-      "url": "https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T15:23:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.rs-online.com/designspark/restoring-a-sun-sparcstation-ipx-part-1-psu-and-nvram Comments URL: https://news.ycombinator.com/item?id=47310296 Points: 94 # Co",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Algebraic topology: knots links and braids",
-      "url": "https://aeb.win.tue.nl/at/algtop-5.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-03-09T14:28:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://aeb.win.tue.nl/at/algtop-5.html Comments URL: https://news.ycombinator.com/item?id=47309605 Points: 72 # Comments: 8",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "X says you can block Grok from editing your photos",
-      "url": "https://www.theverge.com/tech/891352/x-grok-xai-edit-blocker-photo-toggle",
+      "title": "Bespoke AI models are the next big thing in filmmaking",
+      "url": "https://www.theverge.com/streaming/893538/ai-model-netflix-interpositive-ben-affleck",
       "source": "The Verge AI",
-      "published_at": "2026-03-09T15:24:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Pay attention to that small print about tagging @Grok, this new toggle has disappointing limitations. | Image by The Verge / xAI X has introduced a new feature that makes it slight",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Netflix is buying Ben Affleck’s AI startup",
-      "url": "https://www.theverge.com/streaming/889973/netflix-ben-affleck-interpositive-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-03-05T18:27:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Though Netflix lost the war for Warner Bros., it has just bought an AI startup from the internet's favorite Dunkin' Donuts aficionado. Today, Netflix announced that it has acquired",
+      "published_at": "2026-03-12T13:56:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Though many AI boosters have convinced themselves that the technology can spit out films and television series whole cloth, claims of Hollywood being cooked feel very premature whe",
       "tags": [
         "Multimodal"
       ],
       "buckets": [
         "multimodal"
       ],
-      "score": 16
+      "score": 28
     },
     {
-      "title": "The AI Doc is an overwrought hype piece for doomers and accelerationists alike",
-      "url": "https://www.theverge.com/entertainment/890806/the-ai-doc-or-how-i-became-an-apocaloptimist-review",
+      "title": "Tree Search Distillation for Language Models Using PPO",
+      "url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-15T00:51:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/ Comments URL: https://news.ycombinator.com/item?id=47383059 Points: 6 # Comments: ",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "SBCL Fibers – Lightweight Cooperative Threads",
+      "url": "https://atgreen.github.io/repl-yell/posts/sbcl-fibers/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T23:22:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://atgreen.github.io/repl-yell/posts/sbcl-fibers/ Comments URL: https://news.ycombinator.com/item?id=47382398 Points: 24 # Comments: 2",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Hazardous substances found in all headphones tested by ToxFREE project",
+      "url": "https://arnika.org/en/news/the-sound-of-contamination-all-analysed-headphones-on-the-central-european-market-found-to-contain-hormone-disrupting-chemicals",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T23:00:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://arnika.org/en/publications/download/2128_f40ae4eb2e6... https://www.theguardian.com/technology/2026/feb/18/hazardous... Comments URL: https://news.ycombinator.com/item?id=4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Show HN: GrobPaint: Somewhere Between MS Paint and Paint.net",
+      "url": "https://github.com/groverburger/grobpaint",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T22:41:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/groverburger/grobpaint Comments URL: https://news.ycombinator.com/item?id=47382072 Points: 16 # Comments: 1",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Ageless Linux – Software for humans of indeterminate age",
+      "url": "https://agelesslinux.org/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T22:10:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://agelesslinux.org/ Comments URL: https://news.ycombinator.com/item?id=47381791 Points: 296 # Comments: 192",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Changes to OpenTTD Distribution on Steam",
+      "url": "https://www.openttd.org/news/2026/03/14/steam-changes",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T22:04:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.openttd.org/news/2026/03/14/steam-changes Comments URL: https://news.ycombinator.com/item?id=47381746 Points: 124 # Comments: 75",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Learning Creative Coding",
+      "url": "https://stigmollerhansen.dk/resume/learning-creative-coding/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T22:02:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://stigmollerhansen.dk/resume/learning-creative-coding/ Comments URL: https://news.ycombinator.com/item?id=47381731 Points: 37 # Comments: 8",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Show HN: Han – A Korean programming language written in Rust",
+      "url": "https://github.com/xodn348/han",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T21:27:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A few weeks ago I saw a post about someone converting an entire C++ codebase to Rust using AI in under two weeks. That inspired me — if AI can rewrite a whole language stack that f",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Postgres with Builtin File Systems",
+      "url": "https://db9.ai/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T21:14:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://db9.ai/ Comments URL: https://news.ycombinator.com/item?id=47381238 Points: 34 # Comments: 9",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Bumblebee queens breathe underwater to survive drowning",
+      "url": "https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T20:49:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.smithsonianmag.com/science-nature/bumblebee-queens-breathe-underwater-to-survive-drowning-revealing-how-they-can-live-submerged-for-a-week-180988330/ Comme",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Library of Short Stories",
+      "url": "https://www.libraryofshortstories.com/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T20:16:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.libraryofshortstories.com/ Comments URL: https://news.ycombinator.com/item?id=47380726 Points: 42 # Comments: 1",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Fedora 44 on the Raspberry Pi 5",
+      "url": "https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T19:56:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nullr0ute.com/2026/03/fedora-44-on-the-raspberry-pi-5/ Comments URL: https://news.ycombinator.com/item?id=47380512 Points: 67 # Comments: 21",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Marketing for Founders",
+      "url": "https://github.com/EdoStra/Marketing-for-Founders",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-03-14T19:35:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/EdoStra/Marketing-for-Founders Comments URL: https://news.ycombinator.com/item?id=47380295 Points: 114 # Comments: 33",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Microsoft’s Copilot AI assistant is coming to current-gen Xbox consoles this year",
+      "url": "https://www.theverge.com/games/894799/microsoft-gaming-copilot-ai-xbox-consoles",
       "source": "The Verge AI",
-      "published_at": "2026-03-06T19:05:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Co-director Daniel Roher. | Image: Focus Features We are in the thick of a massive push to incorporate generative AI into almost every aspect of our lives, but it is still easy to ",
+      "published_at": "2026-03-13T20:51:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Xbox is getting ready to launch its Gaming Copilot AI assistant on \"current-generation consoles\" this year, according to a report from GamesRadar. Sonali Yadav, Xbox's product mana",
       "tags": [
         "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 10
+      "score": 22
+    },
+    {
+      "title": "Microsoft’s Copilot Health can connect to your medical records and wearables",
+      "url": "https://www.theverge.com/tech/893594/microsoft-copilot-health-launch",
+      "source": "The Verge AI",
+      "published_at": "2026-03-12T13:01:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft announced on Thursday that it's launching Copilot Health, a \"separate, secure space\" in Copilot for asking questions about lab results and medical records, searching for ",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 22
     }
   ]
 }
