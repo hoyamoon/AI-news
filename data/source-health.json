@@ -1,69 +1,77 @@
 {
-  "generated_at": "2026-03-28T02:03:56.419Z",
+  "generated_at": "2026-03-31T02:13:00.664Z",
   "sources": {
     "Google AI Blog": {
       "status": "ok",
       "url": "https://blog.google/technology/ai/rss/",
-      "fetchedAt": "2026-03-28T02:03:36.628Z"
+      "fetchedAt": "2026-03-31T02:12:44.149Z"
     },
     "Hacker News (LLM)": {
       "status": "ok",
       "url": "https://hnrss.org/frontpage",
-      "fetchedAt": "2026-03-28T02:03:38.406Z"
+      "fetchedAt": "2026-03-31T02:12:45.519Z"
     },
     "Reddit r/MachineLearning": {
-      "status": "ok",
-      "url": "https://www.reddit.com/r/MachineLearning/.rss",
-      "fetchedAt": "2026-03-28T02:03:40.298Z"
+      "status": "fail",
+      "url": "https://www.reddit.com/r/MachineLearning/top/.rss?t=week",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-31T02:12:46.703Z"
     },
     "MIT News AI": {
       "status": "fail",
       "url": "https://news.mit.edu/topic/artificial-intelligence2/rss",
       "statusCode": 404,
       "error": "Status code 404",
-      "checkedAt": "2026-03-28T02:03:41.588Z"
+      "checkedAt": "2026-03-31T02:12:47.782Z"
     },
     "The Verge AI": {
       "status": "ok",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "fetchedAt": "2026-03-28T02:03:42.638Z"
+      "fetchedAt": "2026-03-31T02:12:48.861Z"
     },
     "Reddit r/n8n": {
-      "status": "ok",
-      "url": "https://www.reddit.com/r/n8n/.rss",
-      "fetchedAt": "2026-03-28T02:03:46.141Z"
+      "status": "fail",
+      "url": "https://www.reddit.com/r/n8n/top/.rss?t=week",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-31T02:12:51.448Z"
     },
     "Reddit r/automation": {
-      "status": "ok",
-      "url": "https://www.reddit.com/r/automation/.rss",
-      "fetchedAt": "2026-03-28T02:03:47.996Z"
+      "status": "fail",
+      "url": "https://www.reddit.com/r/automation/new/.rss",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-31T02:12:52.543Z"
     },
     "Dev.to Automation": {
       "status": "ok",
       "url": "https://dev.to/feed/tag/automation",
-      "fetchedAt": "2026-03-28T02:03:49.052Z"
+      "fetchedAt": "2026-03-31T02:12:53.661Z"
     },
     "Dev.to n8n": {
       "status": "ok",
       "url": "https://dev.to/feed/tag/n8n",
-      "fetchedAt": "2026-03-28T02:03:50.485Z"
+      "fetchedAt": "2026-03-31T02:12:55.275Z"
     },
     "Notion Blog": {
       "status": "fail",
       "url": "https://notion.ghost.io/rss/",
       "statusCode": 404,
       "error": "Status code 404",
-      "checkedAt": "2026-03-28T02:03:51.979Z"
+      "checkedAt": "2026-03-31T02:12:57.085Z"
     },
     "Reddit r/Notion": {
-      "status": "ok",
-      "url": "https://www.reddit.com/r/Notion/.rss",
-      "fetchedAt": "2026-03-28T02:03:53.828Z"
+      "status": "fail",
+      "url": "https://www.reddit.com/r/Notion/top/.rss?t=week",
+      "statusCode": 403,
+      "error": "Status code 403",
+      "checkedAt": "2026-03-31T02:12:58.229Z"
     },
     "Dev.to Notion": {
       "status": "ok",
       "url": "https://dev.to/feed/tag/notion",
-      "fetchedAt": "2026-03-28T02:03:55.410Z"
+      "fetchedAt": "2026-03-31T02:12:59.658Z"
     }
   }
 }
