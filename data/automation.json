@@ -1,20 +1,53 @@
 {
-  "updated_at": "2026-03-31T02:12:56.286Z",
+  "updated_at": "2026-04-07T02:13:57.038Z",
   "items": [
     {
-      "title": "OpenClaw Hit 250K GitHub Stars in 60 Days. Jensen Huang Called It 'The Next ChatGPT.' Here's What That Actually Means for Developers.",
-      "url": "https://dev.to/tahseen_rahman/openclaw-hit-250k-github-stars-in-60-days-jensen-huang-called-it-the-next-chatgpt-heres-what-3mmg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-30T23:38:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenClaw Hit 250K GitHub Stars in 60 Days. Jensen Huang Called It \"The Next ChatGPT.\" Here's What That Actually Means for Developers. Three months ago, if you told me an AI framewo",
+      "title": "I Compared Make.com and n8n Across 20+ Client Deployments. Here Is My Verdict.",
+      "url": "https://dev.to/jahanzaibai/i-compared-makecom-and-n8n-across-20-client-deployments-here-is-my-verdict-mlb",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-05T13:20:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A client came to me in January with a Make.com scenario that had started as a simple lead routing workflow and mutated into a 47-step monster. It was timing out. It was burning thr",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
-        "Gemini/Google",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "n8n",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "prod",
+        "make",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 274
+    },
+    {
+      "title": "How I Automated 80% of My Freelance Workflow with n8n + AI Agents (4 Patterns That Actually Work in Production)",
+      "url": "https://dev.to/merzouk_ayaden/how-i-automated-80-of-my-freelance-workflow-with-n8n-ai-agents-4-patterns-that-actually-work-in-10e3",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-05T19:43:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been running n8n in production for 18+ months across dozens of client deployments. In this post, I'll share the 4 workflow patterns that appear in virtually every serious auto",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
         "Multimodal",
-        "Notion Status",
+        "NotebookLM",
+        "Make",
+        "n8n",
         "Creators",
         "Hot",
         "Release"
@@ -24,231 +57,271 @@
         "agents",
         "rag",
         "multimodal",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 268
-    },
-    {
-      "title": "I Replaced 3 SaaS Tools With n8n + OpenRouter (Saving $80/month)",
-      "url": "https://dev.to/ale_santini_c2c79b33a953a/i-replaced-3-saas-tools-with-n8n-openrouter-saving-80month-3c77",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-24T01:59:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I Replaced 3 SaaS Tools With n8n + OpenRouter (Saving $80/month) Last year I was paying for 6 SaaS tools. Now I pay for one. The shift wasn't about being cheap. It was about contro",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "RAG/Vector",
-        "NotebookLM",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
         "prod",
+        "make",
         "n8n",
-        "zapier",
         "creators",
         "hot"
       ],
-      "score": 214
+      "score": 270
     },
     {
-      "title": "5 n8n Workflows Every Small Business Should Automate in 2026",
-      "url": "https://dev.to/automatewithai/5-n8n-workflows-every-small-business-should-automate-in-2026-2c6e",
+      "title": "Behind the Build: How We Run a Full Digital Agency on a Production-Grade Stack with Zero Marketing Staff",
+      "url": "https://dev.to/emperorakashi20/behind-the-build-how-we-run-a-full-digital-agency-on-a-production-grade-stack-with-zero-marketing-36c",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-28T15:59:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 5 n8n Workflows Every Small Business Should Automate in 2026 Last quarter, we deployed n8n workflow automations for 12 small businesses. The average result: 43 hours saved per mont",
-      "tags": [
-        "GPT/OpenAI",
-        "RAG/Vector",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "n8n",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 164
-    },
-    {
-      "title": "I Built an n8n Workflow That Auto-Triages Every GitHub Issue with AI",
-      "url": "https://dev.to/automatewithai/i-built-an-n8n-workflow-that-auto-triages-every-github-issue-with-ai-49bh",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-27T15:40:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you run a GitHub repo with more than a handful of contributors, you know the pain: issues pile up, PRs go unreviewed, and critical bugs sit next to typo fixes with no way to tel",
-      "tags": [
-        "GPT/OpenAI",
-        "Eval/Observability",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "eval",
-        "n8n",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 150
-    },
-    {
-      "title": "\"How I Automate 3 Blogs, 24 APIs, and 50+ Tasks with Claude Code CLI\"",
-      "url": "https://dev.to/miccho27/how-i-automate-3-blogs-24-apis-and-50-tasks-with-claude-code-cli-k2l",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-30T23:17:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Automate 3 Blogs, 24 APIs, and 50+ Tasks with Claude Code CLI I run a one-person digital business from Paraguay: 3 WordPress blogs (460+ articles) 24 APIs on RapidAPI (Cloudf",
+      "published_at": "2026-04-06T04:34:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Behind the Build: How We Run a Full Digital Agency on a Production-Grade Stack with Zero Marketing Staff This website is operated by one person. No content team. No DevOps engineer",
       "tags": [
         "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "n8n",
+        "Zapier",
         "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
         "rag",
+        "eval",
+        "prod",
+        "make",
+        "n8n",
+        "zapier",
         "creators",
+        "hot"
+      ],
+      "score": 265
+    },
+    {
+      "title": "Most Clients Come to Me Wanting AI Agents. Most Leave With Zapier Instead.",
+      "url": "https://dev.to/jahanzaibai/most-clients-come-to-me-wanting-ai-agents-most-leave-with-zapier-instead-3kji",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-05T13:54:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build AI agents for a living. Custom multistep orchestration systems, retrieval pipelines, tool calling architectures. The whole thing. I run AgenticMode and spend most of my wor",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "n8n",
+        "Zapier",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "prod",
+        "make",
+        "n8n",
+        "zapier",
+        "creators",
+        "hot"
+      ],
+      "score": 252
+    },
+    {
+      "title": "Why Use Skillsbase to Maintain Your Own Skills Collection Repository",
+      "url": "https://dev.to/newbe36524/why-use-skillsbase-to-maintain-your-own-skills-collection-repository-58f2",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-07T02:03:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why Use Skillsbase to Maintain Your Own Skills Collection Repository It's kind of funny—the era of AI programming is here, and we have more and more Agent Skills at our disposal, b",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "NotebookLM",
+        "Make",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "make",
+        "creators",
+        "hot"
+      ],
+      "score": 223
+    },
+    {
+      "title": "I Analyzed 3,000 AI Prompt Products on Gumroad — Here's What the Data Says",
+      "url": "https://dev.to/merzouk_ayaden/i-analyzed-3000-ai-prompt-products-on-gumroad-heres-what-the-data-says-3obp",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-05T22:33:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I spent the last week analyzing the AI prompt market on Gumroad. Here's what I found — and why most builders are leaving money on the table. I scraped and analyzed 3,000+ AI prompt",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "Multimodal",
+        "Make",
+        "n8n",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "multimodal",
+        "make",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 168
+    },
+    {
+      "title": "Unlock Your Metabolic Potential: A Science-Driven Guide to Enhanced Wellness",
+      "url": "https://dev.to/aria_agent_bf2de60449d2c6/unlock-your-metabolic-potential-a-science-driven-guide-to-enhanced-wellness-36p9",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-07T01:58:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In a world brimming with health trends and quick-fix promises, the quest to understand and optimise our metabolism can often feel overwhelming. Many of us have navigated the confus",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "NotebookLM",
+        "Notion Update",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "prod",
+        "update",
+        "hot"
+      ],
+      "score": 143
+    },
+    {
+      "title": "Advancing DevOps/Cloud Learning: Strategies for Post-Foundational Skill Development",
+      "url": "https://dev.to/maricode/advancing-devopscloud-learning-strategies-for-post-foundational-skill-development-3be0",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-06T23:35:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction: Navigating the DevOps/Cloud Learning Journey You’ve nailed the basics—Linux, networking, AWS fundamentals, and even wrestled with Nginx and S3 permissions. Now, the r",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "prod",
+        "make",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "How I cut my OpenClaw costs in half (Lumin)",
+      "url": "https://dev.to/ryan_cloto_de1067a32e8a7f/how-i-cut-my-openclaw-costs-in-half-lumin-3ga",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-06T22:55:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been spending a lot of time working with agentic workflows, especially OpenClaw-style loops where the model re-uses big chunks of context every turn. Most of the cost was comi",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
         "hot"
       ],
       "score": 137
     },
     {
-      "title": "n8n Has a Free Self-Hosted API — Here's How to Automate Anything Without Zapier",
-      "url": "https://dev.to/0012303/n8n-has-a-free-self-hosted-api-heres-how-to-automate-anything-without-zapier-2b28",
+      "title": "Hacking B2B CLV: A Developer's Guide to Calculating and Boosting Customer Value",
+      "url": "https://dev.to/michaelaiglobal/hacking-b2b-clv-a-developers-guide-to-calculating-and-boosting-customer-value-9l8",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-29T08:26:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A marketing team I know was paying $300/month for Zapier to connect 15 integrations. They switched to self-hosted n8n — same automations, unlimited executions, $5/month for the VPS",
+      "published_at": "2026-04-05T11:02:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we live by metrics: latency, uptime, bug counts, test coverage. We ship a feature, merge the PR, and move on. But how do we measure the real business impact of our w",
       "tags": [
-        "GPT/OpenAI",
         "RAG/Vector",
+        "Eval/Observability",
         "n8n",
-        "Zapier",
+        "Notion Update",
         "Hot"
       ],
       "buckets": [
-        "llm",
         "rag",
+        "eval",
         "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 136
-    },
-    {
-      "title": "Last week I showed you your AI coding agent can read your SSH keys. Turns out that was the easy part. I run 5 MCP servers con...",
-      "url": "https://dev.to/connectengine/last-week-i-showed-you-your-ai-coding-agent-can-read-your-ssh-keys-turns-out-that-was-the-easy-29bg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-31T01:33:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Setup MCP (Model Context Protocol) lets AI agents call external tools. Instead of just reading files and running bash, the agent gets structured access to APIs, databases, and ",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "status",
-        "hot"
-      ],
-      "score": 119
-    },
-    {
-      "title": "GitHub Actions for Content Creators: Automate Your Publishing Workflow",
-      "url": "https://dev.to/lufumeiying/github-actions-for-content-creators-automate-your-publishing-workflow-5ck4",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-31T01:20:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: GitHub Actions for Content Creators: Automate Your Publishing Workflow Have you ever forgotten to publish an article on time? Or spent hours manually checking your blog stats acros",
-      "tags": [
-        "RAG/Vector",
-        "Make",
-        "Zapier",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "make",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "I Replaced Zapier with n8n for 12 Clients — Here's What Actually Happened",
-      "url": "https://dev.to/achiya-automation/i-replaced-zapier-with-n8n-for-12-clients-heres-what-actually-happened-5546",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-26T18:49:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I moved 12 small business clients from Zapier to self-hosted n8n in 2025. Total savings: $47,000/year. But it wasn't all sunshine — here's the honest breakdown of what worked, what",
-      "tags": [
-        "Agents",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "zapier",
-        "creators",
+        "update",
         "hot"
       ],
       "score": 116
     },
     {
-      "title": "Self-Hosting n8n on Contabo VPS: Enterprise Automation for $0/Month",
-      "url": "https://dev.to/jeremy_longshore/self-hosting-n8n-on-contabo-vps-enterprise-automation-for-0month-2j01",
+      "title": "Automate Blog Image using Python and n8n",
+      "url": "https://dev.to/kfuras/automate-blog-image-using-python-and-n8n-4km",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-25T22:51:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We just deployed a production-ready n8n instance at n8n.intentsolutions.io with zero monthly software costs. Here's the complete technical architecture and deployment process. Befo",
+      "published_at": "2026-04-06T20:16:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A while back I wrote about how I automate blog image creation using Python. It worked, but I had to open a CSV file, type in the title, and then open the terminal to run the script",
       "tags": [
-        "Agents",
-        "RAG/Vector",
+        "Multimodal",
         "n8n",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
-        "rag",
+        "multimodal",
         "n8n",
         "creators",
         "hot"
       ],
-      "score": 116
+      "score": 113
     },
     {
-      "title": "Building a “Non-Yes-Man” AI: My Experiment with a Validation-First Cognitive System (Daemon's Project)",
-      "url": "https://dev.to/ramarondonuwu/building-a-non-yes-man-ai-my-experiment-with-a-validation-first-cognitive-system-daemons-32mn",
+      "title": "Transformer l'Expérience Client avec un Agent IA : Répondez Automatiquement à vos Clients",
+      "url": "https://dev.to/ali_lachir_104c0d41a32f16/transformer-lexperience-client-avec-un-agent-ia-repondez-automatiquement-a-vos-clients-2hj2",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-24T11:02:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building a “Non-Yes-Man” AI: My Experiment with a Validation-First Cognitive System This observation comes from building real automation pipelines, where small AI errors can break ",
+      "published_at": "2026-04-05T20:40:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Dans un monde où la réactivité est reine, offrir à vos clients des réponses rapides et précises est un atout majeur. Pour les PME marocaines, disposer d'un agent intelligent capabl",
       "tags": [
         "Agents",
+        "NotebookLM",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "prod",
+        "n8n",
+        "hot"
+      ],
+      "score": 112
+    },
+    {
+      "title": "How I Turned Vinted Listings Into Instant Deal Alerts With Apify and n8n",
+      "url": "https://dev.to/datakaz/how-i-turned-vinted-listings-into-instant-deal-alerts-with-apify-and-n8n-49m0",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-05T11:43:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I was not losing money because I had no ideas. I was losing speed because my workflow was slow, noisy, and embarrassingly manual. For a while, my Vinted routine looked productive f",
+      "tags": [
         "RAG/Vector",
         "Eval/Observability",
         "n8n",
@@ -256,178 +329,111 @@
         "Release"
       ],
       "buckets": [
-        "agents",
         "rag",
         "eval",
         "n8n",
         "hot"
       ],
-      "score": 116
+      "score": 104
     },
     {
-      "title": "n8n + AI: The Automation Stack That Saves Me 20 Hours Per Week",
-      "url": "https://dev.to/eqhoids/n8n-ai-the-automation-stack-that-saves-me-20-hours-per-week-lmh",
+      "title": "AI Automation Tools for Small Business 2026: Top Picks",
+      "url": "https://dev.to/shakeel_ahmed/ai-automation-tools-for-small-business-2026-top-picks-4a4c",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-25T11:00:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: { Workflow Overview:\\n\\n1. **Trigger (Cron):* Runs every day at 7:00 AM.\\n2. Google Sheets: Reads a list of predefined topics and keywords from a Google Sheet.\\n3. OpenAI (Completi",
+      "published_at": "2026-04-06T09:30:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published at DigiMateAI Blog Right now, small business owners are drowning in repetitive tasks — manually answering customer queries, copying data betwe",
       "tags": [
-        "GPT/OpenAI",
-        "RAG/Vector",
+        "Eval/Observability",
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "rag",
+        "eval",
         "n8n",
         "hot"
       ],
-      "score": 114
+      "score": 97
     },
     {
-      "title": "Stop over-engineering your n8n RAG pipeline before you've shipped anything",
-      "url": "https://dev.to/jennapederson/stop-over-engineering-your-n8n-rag-pipeline-before-youve-shipped-anything-2gc0",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-23T15:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I see this pattern a lot in n8n: a developer sets out to build a RAG-powered feature and ends up three days deep configuring (and reconfiguring) text splitters, embedding models, r",
+      "title": "AI Workflow Automation for Small Business: A 2026 Guide",
+      "url": "https://dev.to/samshustlebarn/ai-workflow-automation-for-small-business-a-2026-guide-12cg",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-07T02:13:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at samshustlebarn.com Your Business Is Leaking Hours — AI Workflow Automation Plugs the Gaps What AI Workflow Automation Actually Means (Without the Jargon) Th",
       "tags": [
         "RAG/Vector",
-        "Eval/Observability",
-        "Make",
-        "n8n",
         "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
-        "eval",
-        "make",
-        "n8n",
         "creators",
         "hot"
       ],
-      "score": 114
+      "score": 93
     },
     {
-      "title": "Beyond AdSense: Building a Multi-Funnel AI Channel",
-      "url": "https://dev.to/ken_deng_ai/beyond-adsense-building-a-multi-funnel-ai-channel-81o",
+      "title": "AI's Insatiable Appetite for Memory: Unpacking the DRAM Shortage and Its Consequences",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/ais-insatiable-appetite-for-memory-unpacking-the-dram-shortage-and-its-consequences-1ign",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-31T00:11:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Stuck in the AdSense hamster wheel? You’re creating AI-powered faceless videos, but revenue is inconsistent and tied purely to the volatile algorithm. It’s time to stop trading jus",
+      "published_at": "2026-04-07T00:20:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI's Insatiable Appetite for Memory: Unpacking the DRAM Shortage and Its Consequences The rapid growth of artificial intelligence (AI) has been a game-changer for various industrie",
       "tags": [
+        "Multimodal",
         "NotebookLM",
-        "Make",
-        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "prod",
+        "hot"
+      ],
+      "score": 93
+    },
+    {
+      "title": "From Code to Customer: Architecting a Modern B2B Lead Generation Funnel",
+      "url": "https://dev.to/michaelaiglobal/from-code-to-customer-architecting-a-modern-b2b-lead-generation-funnel-2a3e",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-06T11:02:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers and engineers, we're trained to think in systems. We build APIs, design databases, and architect scalable infrastructure. So why is it that when we talk about B2B lea",
+      "tags": [
+        "Eval/Observability",
+        "n8n",
         "Hot"
       ],
       "buckets": [
-        "prod",
-        "make",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 87
+    },
+    {
+      "title": "Why Smart Creators Are Automating Instagram DMs in 2026",
+      "url": "https://dev.to/shivam_kumar1342/why-smart-creators-are-automating-instagram-dms-in-2026-4hkc",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-06T22:40:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instagram growth has changed. It’s no longer just about posting reels or going viral. what happens after the engagement — inside DMs. Every comment, every reply, every message is a",
+      "tags": [
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
         "creators",
         "hot"
       ],
-      "score": 109
+      "score": 73
     },
     {
-      "title": "How I Run Local AI with n8n on a Schedule (No Server, No API Costs)",
-      "url": "https://dev.to/pigeoncodeur/how-i-run-local-ai-with-n8n-on-a-schedule-no-server-no-api-costs-4d6g",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-25T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most AI workflows run 24/7 and waste resources. Mine runs once a day, on my own machine, processes everything, and shuts down before I even wake up. A lot of AI workflows are set u",
-      "tags": [
-        "Agents",
-        "NotebookLM",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "prod",
-        "n8n",
-        "hot"
-      ],
-      "score": 100
-    },
-    {
-      "title": "OpenClaw Proactive Agents: How the Cron System Turns Your AI From Reactive to Always On",
-      "url": "https://dev.to/helen_mireille_47b02db70c/openclaw-proactive-agents-how-the-cron-system-turns-your-ai-from-reactive-to-always-on-k8c",
+      "title": "Lowering Insulin Costs: A Bipartisan Bill Brings Hope to Diabetes Advocates",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/lowering-insulin-costs-a-bipartisan-bill-brings-hope-to-diabetes-advocates-574",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-30T23:19:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most AI agents wait for you to say something. You open a chat, type a prompt, get a response. Close the tab, and the agent goes dark until you come back. That is the default. And f",
-      "tags": [
-        "Agents",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "status",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "I automated competitor price tracking with Python (saved 4 hours per week)",
-      "url": "https://dev.to/nicodev__/i-automated-competitor-price-tracking-with-python-saved-4-hours-per-week-34gi",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-30T22:35:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I automated competitor price tracking with Python (saved 4 hours per week) Was spending every Monday morning checking 23 competitor product pages. Copy URL, open tab, scroll to pri",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "DLSS 5: The Unimpressive Evolution of AI-Generated Game Enhancement",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/dlss-5-the-unimpressive-evolution-of-ai-generated-game-enhancement-22mp",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-31T00:25:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: DLSS 5: The Unimpressive Evolution of AI-Generated Game Enhancement The gaming community has been abuzz with the release of DLSS 5, a new AI-generated game enhancement technology t",
-      "tags": [
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 77
-    },
-    {
-      "title": "Avatar Legends: A Disappointing Start for Fans of The Legend of Korra",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/avatar-legends-a-disappointing-start-for-fans-of-the-legend-of-korra-1am5",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-31T00:15:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Avatar Legends: A Disappointing Start for Fans of The Legend of Korra The highly anticipated fighting game, Avatar Legends, has finally arrived, and fans of the beloved series are ",
-      "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 75
-    },
-    {
-      "title": "Crypto ATM Count Falls to 38,928: A Shift in the Market?",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/crypto-atm-count-falls-to-38928-a-shift-in-the-market-3bdm",
-      "source": "Dev.to Automation",
-      "published_at": "2026-03-31T00:20:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Crypto ATM Count Falls to 38,928: A Shift in the Market? The crypto space has been abuzz with activity, and the latest figures from coinatmradar.com have shed light on a significan",
+      "published_at": "2026-04-07T00:15:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Lowering Insulin Costs: A Bipartisan Bill Brings Hope to Diabetes Advocates The high cost of insulin has been a long-standing issue for individuals with diabetes, and the recent ne",
       "tags": [
         "RAG/Vector",
         "Hot"
@@ -439,28 +445,11 @@
       "score": 65
     },
     {
-      "title": "Monitor Google Cloud Platform Costs on Your iPhone and Apple Watch",
-      "url": "https://dev.to/kkuj/monitor-google-cloud-platform-costs-on-your-iphone-and-apple-watch-420f",
+      "title": "Comment automatiser votre PME avec N8N en 2026",
+      "url": "https://dev.to/ali_lachir_104c0d41a32f16/comment-automatiser-votre-pme-avec-n8n-en-2026-ca0",
       "source": "Dev.to n8n",
-      "published_at": "2026-03-23T18:51:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Keep an eye on your GCP costs right from your wrist. Don't let autoscaling silently run up your bill — stay informed with a quick glance at your iPhone or Apple Watch. Here's the p",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
-      "score": 54
-    },
-    {
-      "title": "Installing and Configuring n8n on a Raspberry Pi (Private Home Server)",
-      "url": "https://dev.to/mahinshanazeer/installing-and-configuring-n8n-on-a-raspberry-pi-private-home-server-1npe",
-      "source": "Dev.to n8n",
-      "published_at": "2026-03-23T14:49:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: GitHub - mahinshanazeer/n8n-home-server: Installing and Configuring n8n on a Raspberry Pi (Private Home Server) Automation is becoming a core part of modern workflows, whether for ",
+      "published_at": "2026-04-05T19:57:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction Lautomatisation des processus est devenue indispensable pour les PME marocaines qui veulent rester compétitives. N8N est un outil open-source qui permet de connecter v",
       "tags": [
         "n8n",
         "Hot"
@@ -469,31 +458,69 @@
         "n8n",
         "hot"
       ],
-      "score": 44
+      "score": 56
     },
     {
-      "title": "How to Test Email Signup Flows in CI/CD Pipelines",
-      "url": "https://dev.to/francofuji/how-to-test-email-signup-flows-in-cicd-pipelines-179c",
+      "title": "From Chaos to Calm: AI Automation for Festival Vendor Compliance",
+      "url": "https://dev.to/ken_deng_ai/from-chaos-to-calm-ai-automation-for-festival-vendor-compliance-5bga",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-30T22:19:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Pain Every CI Pipeline Knows It works locally. The signup form submits, the confirmation email arrives in your inbox, you paste the OTP, it verifies. Ship it. Then CI runs. The",
+      "published_at": "2026-04-07T01:11:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Remember the Sunday-night dread of vendor paperwork? The frantic emails, the sticky notes, the fear of missing a critical expired insurance certificate? For local festival organize",
       "tags": [
-        "Creators"
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "creators"
+        "hot"
       ],
-      "score": 43
+      "score": 55
     },
     {
-      "title": "What Shipped Today? 🚢✨",
-      "url": "https://dev.to/nicobuilds/what-shipped-today-4dbf",
+      "title": "7 Powerful Self-Regulation Techniques for Calmer Thoughts and Better Choices",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/7-powerful-self-regulation-techniques-for-calmer-thoughts-and-better-choices-4p3g",
       "source": "Dev.to Automation",
-      "published_at": "2026-03-31T00:25:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Shipped Today? 🚢✨ Today was a busy one across our repositories, where we enhanced our blockchain ecosystem and polished up our mining app. Let’s dive in! Two commits rolled o",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "published_at": "2026-04-07T00:25:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 7 Powerful Self-Regulation Techniques for Calmer Thoughts and Better Choices In today's fast-paced world, it's easy to get overwhelmed by the constant demands on our time, energy, ",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
+    },
+    {
+      "title": "Self-Improving Python Scripts with LLMs: My Journey",
+      "url": "https://dev.to/rtt_enjoy_321ecb2d475c379/self-improving-python-scripts-with-llms-my-journey-5bh0",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-06T23:57:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As a developer, I've always been fascinated by the idea of self-improving code. Recently, I've been experimenting with using Large Language Models (LLMs) to make my Python scripts ",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 55
+    },
+    {
+      "title": "How Creators Use Instagram DM Automation to Scale Faster (2026 Guide)",
+      "url": "https://dev.to/shivam_kumar1342/how-creators-use-instagram-dm-automation-to-scale-faster-2026-guide-2g2g",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-06T22:44:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instagram growth today is no longer just about posting content. For creators, real growth happens in conversations — inside DMs. Every comment, reply, and message is an opportunity",
+      "tags": [
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "creators",
+        "hot"
+      ],
+      "score": 53
     }
   ]
 }
