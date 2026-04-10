@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-04-09T02:08:49.555Z",
+  "updated_at": "2026-04-10T02:27:47.592Z",
   "items": [
     {
-      "title": "I Tested Flowise, Dify, and n8n Across 30+ Client Deployments. Here Is My Verdict.",
-      "url": "https://dev.to/jahanzaibai/i-tested-flowise-dify-and-n8n-across-30-client-deployments-here-is-my-verdict-447",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-07T13:13:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Three clients came to me last month with almost the same question. One wanted a customer support chatbot trained on 800 pages of product docs. One was building an internal knowledg",
+      "title": "15 AI Agent Use Cases: Real Tools and Measurable Outcomes by Industry",
+      "url": "https://dev.to/agentsindex/15-ai-agent-use-cases-real-tools-and-measurable-outcomes-by-industry-5fa",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-10T00:00:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every week, the AI agents space adds new tools, new frameworks, and new claims. Most guides about AI agent use cases respond with a 10-item list of abstract categories, \"customer s",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
@@ -16,6 +16,7 @@
         "NotebookLM",
         "n8n",
         "Zapier",
+        "Notion Status",
         "Hot",
         "Release"
       ],
@@ -27,22 +28,72 @@
         "prod",
         "n8n",
         "zapier",
+        "status",
         "hot"
       ],
-      "score": 250
+      "score": 283
     },
     {
-      "title": "Automating My Entire Content Workflow Using n8n + GPT",
-      "url": "https://dev.to/techifive/automating-my-entire-content-workflow-using-n8n-gpt-3b5k",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-07T13:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 🤖 I Automated My Entire Content Workflow — Here's Exactly How Let me be real with you. I was spending 15+ hours per week just creating, formatting, scheduling, and publishing cont",
+      "title": "I Ran 23 AI Agents 24/7 for 6 Months: Here's What Actually Broke (and How I Fixed It)",
+      "url": "https://dev.to/merzouk_ayaden/i-ran-23-ai-agents-247-for-6-months-heres-what-actually-broke-and-how-i-fixed-it-2igp",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-09T23:53:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been building and running a production multi-agent AI system for the past 6 months. 23 specialized agents, all running 24/7 on a self-hosted VPS (n8n + Claude + DeepSeek + Gem",
       "tags": [
         "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Agents",
+        "Eval/Observability",
+        "n8n",
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "eval",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 246
+    },
+    {
+      "title": "OpenClaw: автономный агент для тех, кто знает что делает",
+      "url": "https://dev.to/mibii/openclaw-avtonomnyi-aghient-dlia-tiekh-kto-znaiet-chto-dielaiet-27ln",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-10T00:25:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: В конце января 2026 года open-source проект с незамысловатым названием буквально взорвал GitHub. За несколько недель — почти 250 тысяч звёзд, форки от китайских корпораций, интерес",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Agents",
+        "n8n",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 238
+    },
+    {
+      "title": "n8n Self-Hosting on macOS: Complete Setup for AI Agent Workflow Automation",
+      "url": "https://dev.to/whoffagents/n8n-self-hosting-on-macos-complete-setup-for-ai-agent-workflow-automation-44mc",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-09T12:03:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n is a self-hostable workflow automation tool — think Zapier, but you own the server and there's no per-task pricing. For AI agent infrastructure, it's the right foundation: it h",
+      "tags": [
+        "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
-        "NotebookLM",
-        "Make",
         "n8n",
         "Zapier",
         "Creators",
@@ -53,77 +104,87 @@
         "llm",
         "agents",
         "rag",
-        "prod",
-        "make",
         "n8n",
         "zapier",
         "creators",
         "hot"
       ],
-      "score": 234
+      "score": 201
     },
     {
-      "title": "Beyond Cron: 5 Automation Plays to Slash Your Company's OpEx",
-      "url": "https://dev.to/michaelaiglobal/beyond-cron-5-automation-plays-to-slash-your-companys-opex-23ia",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-07T11:03:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we're obsessed with efficiency. We refactor code, optimize queries, and design elegant systems. But what if we applied that same mindset to the business operations a",
+      "title": "Google Gemini on the Rise: Can it Surpass ChatGPT as the Biggest AI Chatbot?",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/google-gemini-on-the-rise-can-it-surpass-chatgpt-as-the-biggest-ai-chatbot-54il",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-10T00:15:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Gemini on the Rise: Can it Surpass ChatGPT as the Biggest AI Chatbot? The world of artificial intelligence (AI) has been abuzz with the rapid growth of Google's chatbot, Gem",
       "tags": [
         "GPT/OpenAI",
+        "Gemini/Google",
         "RAG/Vector",
-        "Eval/Observability",
-        "Multimodal",
         "NotebookLM",
-        "n8n",
-        "Notion Status",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "rag",
-        "eval",
-        "multimodal",
         "prod",
-        "n8n",
-        "status",
-        "creators",
         "hot"
       ],
-      "score": 220
+      "score": 172
     },
     {
-      "title": "Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing with zero-trust governance guarantees",
-      "url": "https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-autonomous-urban-air-mobility-routing-with-zero-trust-4c5o",
+      "title": "Supercharging AI Workflows: Building an MCP Adapter Agent with Dedalus",
+      "url": "https://dev.to/neelgaji/supercharging-ai-workflows-building-an-mcp-adapter-agent-with-dedalus-1igk",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-08T21:45:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Adaptive Neuro-Symbolic Planning for autonomous urban air mobility routing with zero-trust governance guarantees My journey into this fascinating intersection of technologies began",
+      "published_at": "2026-04-10T00:36:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we are constantly context-switching. We jump between IDEs, documentation, local files, and external APIs. When I started exploring AI agents, I realized a glaring pr",
       "tags": [
+        "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
-        "Multimodal",
-        "Make",
-        "Notion Update",
+        "NotebookLM",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
         "rag",
-        "multimodal",
-        "make",
-        "update",
+        "prod",
         "hot"
       ],
       "score": 161
     },
     {
-      "title": "Anthropic Launches Managed Agents, Optimize LLM Context, Python Memory Needed",
-      "url": "https://dev.to/soytuber/anthropic-launches-managed-agents-optimize-llm-context-python-memory-needed-3fnf",
+      "title": "Claude Code Memory: How Automatic Memory Extraction Actually Works",
+      "url": "https://dev.to/thebrierfox/claude-code-memory-how-automatic-memory-extraction-actually-works-1bmg",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-08T21:36:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic Launches Managed Agents, Optimize LLM Context, Python Memory Needed Today's Highlights This week, Anthropic introduced a new managed service for deploying AI agents at sc",
+      "published_at": "2026-04-10T01:22:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude Code Memory: How the Automatic Memory Extraction Actually Works Published: 2026-04-09 | Author: ~K¹ / IntuiTek¹ | Tag: claudecode After every complete query loop in Claude C",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 159
+    },
+    {
+      "title": "The Dashboard Was There But I Didn't Know What to Do, So I Let AI Handle It",
+      "url": "https://dev.to/lazydev_oh/the-dashboard-was-there-but-i-didnt-know-what-to-do-so-i-let-ai-handle-it-39f",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-10T01:57:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: March 2026 · Lazy Developer EP.03 I had a dashboard. Built it in EP.02. Every day at 3 AM, a Cron job runs. By morning, all of yesterday's data for 12 apps is there. Downloads tota",
       "tags": [
         "Claude/Anthropic",
         "Agents",
@@ -164,6 +225,29 @@
       "score": 142
     },
     {
+      "title": "Self-Hosted n8n vs n8n Cloud: Which Should You Choose in 2026",
+      "url": "https://dev.to/chasebot/self-hosted-n8n-vs-n8n-cloud-which-should-you-choose-in-2026-5789",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-09T09:05:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Table of Contents The Core Difference Self-Hosted n8n: Full Control, Full Responsibility n8n Cloud: Set It and Forget It Cost Breakdown: Where Your Money Goes Performance, Security",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 141
+    },
+    {
       "title": "How We Use AI Agents to Automate Post-Launch Ecommerce Operations (Real Workflow Inside)",
       "url": "https://dev.to/emperorakashi20/how-we-use-ai-agents-to-automate-post-launch-ecommerce-operations-real-workflow-inside-172i",
       "source": "Dev.to n8n",
@@ -184,110 +268,103 @@
         "creators",
         "hot"
       ],
-      "score": 141
+      "score": 128
     },
     {
-      "title": "n8n Self-Hosted: Automate Everything Without Zapier's Pricing",
-      "url": "https://dev.to/whoffagents/n8n-self-hosted-automate-everything-without-zapiers-pricing-5g42",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-07T09:42:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n Self-Hosted: Automate Everything Without Zapier's Pricing Zapier costs $50+/month for serious automation. n8n is open source, self-hostable, and handles the same workflows for ",
+      "title": "I Got Tired of Checking Revenue for 12 Apps, So I Built My Own Dashboard",
+      "url": "https://dev.to/lazydev_oh/i-got-tired-of-checking-revenue-for-12-apps-so-i-built-my-own-dashboard-86e",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-10T01:57:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: March 2026 · Lazy Developer EP.02 I have 12 apps on the App Store. It started with one. One becoming two was natural. Two becoming five was ambition. Five becoming twelve was the r",
       "tags": [
         "Claude/Anthropic",
         "Agents",
-        "n8n",
-        "Zapier",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 140
-    },
-    {
-      "title": "The Product Tradeoff Behind One Knowledge Base Serving Search, Newsletters, and Community Posts: Practical Notes for Builders",
-      "url": "https://dev.to/estatepass/the-product-tradeoff-behind-one-knowledge-base-serving-search-newsletters-and-community-posts-18hc",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-09T01:29:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Product Tradeoff Behind One Knowledge Base Serving Search, Newsletters, and Community Posts: Practical Notes for Builders Most content systems do not break at the draft step. T",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
         "Hot",
         "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Getting Started with AI Agents in n8n: A Non-Engineer's Guide",
-      "url": "https://dev.to/bernardkibathi/getting-started-with-ai-agents-in-n8n-a-non-engineers-guide-4a67",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-07T14:02:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When I first started exploring AI automation several years ago, n8n wasn’t on my radar. Back then, I faced the challenge of orchestrating automation across multiple IoT devices in ",
-      "tags": [
-        "Agents",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 110
-    },
-    {
-      "title": "Claude Code + EClawbot: Build a Self-Managing AI Dev Pipeline",
-      "url": "https://dev.to/eclaw/claude-code-eclawbot-build-a-self-managing-ai-dev-pipeline-4mfl",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-09T00:42:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude Code + EClawbot: Build a Self-Managing AI Dev Pipeline What if your Kanban board could assign tasks directly to an AI coding agent — and that agent could fix bugs, open PRs,",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Hot"
       ],
       "buckets": [
         "llm",
         "agents",
         "hot"
       ],
-      "score": 109
+      "score": 119
     },
     {
-      "title": "How Network Engineers Break Into Automation: Python, Ansible, NETCONF, and the Road to CCIE Automation",
-      "url": "https://dev.to/firstpasslab/how-network-engineers-break-into-automation-python-ansible-netconf-and-the-road-to-ccie-4nj4",
+      "title": "Beyond the Script: Why Traditional Sourcing Automation is Dead (and Why Agents are Winning)",
+      "url": "https://dev.to/qiu_john_15bff706a00cc625/beyond-the-script-why-traditional-sourcing-automation-is-dead-and-why-agents-are-winning-7dh",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-08T22:54:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Network Engineers Break Into Automation: Python, Ansible, NETCONF, and the Road to CCIE Automation If you're a network engineer who can already troubleshoot BGP, OSPF, VLANs, o",
+      "published_at": "2026-04-10T01:57:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Remember the days of scraping Amazon best-sellers and manually finding suppliers? Those days are over. In 2026, the winners are using Executing Agents. I recently switched to Accio",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "From Code to Compliance: The Modern Developer's Guide to B2B Data Security",
+      "url": "https://dev.to/michaelaiglobal/from-code-to-compliance-the-modern-developers-guide-to-b2b-data-security-3ohe",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-09T11:02:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we're the architects of the digital world. But when you're building B2B products, you're not just building features—you're building trust. A single vulnerability in ",
       "tags": [
         "RAG/Vector",
-        "Multimodal",
-        "Creators",
+        "n8n",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
-        "multimodal",
-        "creators",
+        "n8n",
+        "status",
         "hot"
       ],
-      "score": 109
+      "score": 119
+    },
+    {
+      "title": "From Shortcuts to Breakthroughs: How ChatGPT Led Me to a Better Solution",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/from-shortcuts-to-breakthroughs-how-chatgpt-led-me-to-a-better-solution-4kcn",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-10T00:25:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: From Shortcuts to Breakthroughs: How ChatGPT Led Me to a Better Solution As a developer, I'm always on the lookout for ways to streamline my workflow and get more done in less time",
+      "tags": [
+        "GPT/OpenAI",
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "status",
+        "hot"
+      ],
+      "score": 105
+    },
+    {
+      "title": "Quick Guide: Connecting n8n to Any REST API in 10 Minutes",
+      "url": "https://dev.to/bernardkibathi/quick-guide-connecting-n8n-to-any-rest-api-in-10-minutes-9f1",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-09T14:02:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Connecting n8n to a REST API in under 10 minutes might sound ambitious, but it's quite achievable, even for beginners. I stumbled across n8n a few months ago when I was dealing wit",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 99
     },
     {
       "title": "How I Built a Local AI Drafting Pipeline Using n8n and Ollama",
@@ -305,26 +382,7 @@
         "rag",
         "n8n"
       ],
-      "score": 109
-    },
-    {
-      "title": "10 Best Places to Buy Old Instagram Accounts",
-      "url": "https://dev.to/mamepickardzwt8c/10-best-places-to-buy-old-instagram-accounts-1496",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-08T21:22:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Buy Old Instagram Accounts @getusasmm getusasmm@gmail.com https://getusasmm.com/product/buy-old-instagram-accounts/ Buying Instagram accounts can be a quick way to jumpstart a bran",
-      "tags": [
-        "RAG/Vector",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "prod",
-        "hot"
-      ],
-      "score": 97
+      "score": 96
     },
     {
       "title": "Stop Leaky Buckets: 7 B2B Retention Hacks for Devs Who Hate Churn",
@@ -343,26 +401,42 @@
         "creators",
         "hot"
       ],
-      "score": 97
+      "score": 84
     },
     {
-      "title": "I Recorded 13 Hours of My Day With Smart Glasses for AI. Here's What I Built and What I Learned",
-      "url": "https://dev.to/tash-2s/i-recorded-13-hours-of-my-day-with-smart-glasses-for-ai-heres-what-i-built-and-what-i-learned-5f1c",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-09T01:33:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: People are increasingly giving AI personal context, from journals and documents to screen recordings and audio captures from their computers. The more AI knows about you, the more ",
+      "title": "How to Use N8N Automation for Lead Generation and Sales Growth",
+      "url": "https://dev.to/vyomcloud/how-to-use-n8n-automation-for-lead-generation-and-sales-growth-1bm5",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-09T12:00:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is N8N Automation? N8N is an open-source workflow automation tool that connects different apps like forms, CRMs, email tools, and WhatsApp using visual workflows. Why Use N8N ",
       "tags": [
-        "RAG/Vector",
-        "Multimodal",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "multimodal",
+        "n8n",
         "hot"
       ],
-      "score": 91
+      "score": 79
+    },
+    {
+      "title": "How to Scrape JavaScript Websites with Playwright (Using Proxies)",
+      "url": "https://dev.to/ellebanna/how-to-scrape-javascript-websites-with-playwright-using-proxies-h30",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-09T23:46:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What is Playwright and why use it for scraping? Playwright is a browser automation tool that allows you to interact with websites just like a real user. It’s especially useful for ",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "hot"
+      ],
+      "score": 77
     },
     {
       "title": "How to install n8n self-hosted on AWS",
@@ -380,7 +454,7 @@
         "creators",
         "hot"
       ],
-      "score": 87
+      "score": 74
     },
     {
       "title": "Build a Voice Clone Bot with n8n + ElevenLabs (No Code, 15 Minutes)",
@@ -397,65 +471,14 @@
         "n8n",
         "hot"
       ],
-      "score": 79
-    },
-    {
-      "title": "Spotify's AI-Powered Podcast Discovery: Revolutionizing the Way We Consume Audio Content",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/spotifys-ai-powered-podcast-discovery-revolutionizing-the-way-we-consume-audio-content-5f07",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-09T00:20:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Spotify's AI-Powered Podcast Discovery: Revolutionizing the Way We Consume Audio Content Introduction In the ever-evolving landscape of audio content, Spotify has been at the foref",
-      "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 75
-    },
-    {
-      "title": "Automating the Gentle Nudge: AI for Proactive Micro-SaaS Support",
-      "url": "https://dev.to/ken_deng_ai/automating-the-gentle-nudge-ai-for-proactive-micro-saas-support-3amj",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-09T01:40:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As a founder, watching users silently struggle—or churn—feels like a failure. You built a solution, but the gap between its potential and their experience is where revenue vanishes",
-      "tags": [
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "creators",
-        "hot"
-      ],
-      "score": 73
-    },
-    {
-      "title": "n8n Workflow Automation Tutorials: Master Automation in 2026",
-      "url": "https://dev.to/shakeel_ahmed/n8n-workflow-automation-tutorials-master-automation-in-2026-40f2",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-07T09:30:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published at DigiMateAI Blog Your team is drowning in repetitive tasks — copying data between spreadsheets, manually sending follow-up emails, updating ",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
       "score": 66
     },
     {
-      "title": "The Arithmetic of Productivity Boosts: Unpacking the Myth of 40% Increases",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/the-arithmetic-of-productivity-boosts-unpacking-the-myth-of-40-increases-4l9l",
+      "title": "Daily Happiness: 13 Simple Ways to Find it in Your Life",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/daily-happiness-13-simple-ways-to-find-it-in-your-life-5fi9",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-09T00:25:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Arithmetic of Productivity Boosts: Unpacking the Myth of 40% Increases As technology continues to shape the modern workplace, the quest for increased productivity has become a ",
+      "published_at": "2026-04-10T00:20:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Daily Happiness: 13 Simple Ways to Find it in Your Life As we navigate the complexities of modern life, it's easy to get caught up in the hustle and bustle, forgetting to prioritiz",
       "tags": [
         "Hot",
         "Release"
@@ -466,34 +489,18 @@
       "score": 55
     },
     {
-      "title": "Microsoft Warns WhatsApp Users: VBS Malware Uses Cloud Services to Gain Control, Exercise Caution or Pay the Price",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/microsoft-warns-whatsapp-users-vbs-malware-uses-cloud-services-to-gain-control-exercise-caution-16gg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-09T00:15:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft Warns WhatsApp Users: VBS Malware Uses Cloud Services to Gain Control, Exercise Caution or Pay the Price The Growing Concern of VBS Malware In a recent warning, Microsoft",
+      "title": "5 n8n Workflows That Replace $200/Month in SaaS Tools",
+      "url": "https://dev.to/chasebot/5-n8n-workflows-that-replace-200month-in-saas-tools-294l",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-09T09:04:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
       "tags": [
-        "Hot",
-        "Release"
+        "n8n"
       ],
       "buckets": [
-        "hot"
+        "n8n"
       ],
-      "score": 55
-    },
-    {
-      "title": "Free Website Screenshot API — Capture Any URL as PNG with One HTTP Request",
-      "url": "https://dev.to/miccho27/free-website-screenshot-api-capture-any-url-as-png-with-one-http-request-18l7",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-08T23:30:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Taking website screenshots programmatically is surprisingly annoying. You need Puppeteer (or Playwright), a headless browser, enough RAM to run Chrome, and a way to deploy it all. ",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
+      "score": 49
     }
   ]
 }
