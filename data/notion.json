@@ -1,30 +1,32 @@
 {
-  "updated_at": "2026-04-15T02:27:16.558Z",
+  "updated_at": "2026-04-17T02:29:51.769Z",
   "items": [
     {
-      "title": "I Turned Notion Into a Shared Brain for AI Agents (and it actually made sense)",
-      "url": "https://dev.to/commonlayer/i-turned-notion-into-a-shared-brain-for-ai-agents-and-it-actually-made-sense-26ha",
+      "title": "Sync Notion to WordPress: Keep Your Content in Sync Automatically",
+      "url": "https://dev.to/kfuras/sync-notion-to-wordpress-keep-your-content-in-sync-automatically-2mmm",
       "source": "Dev.to Notion",
-      "published_at": "2026-04-07T13:24:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The thing that bugged me Every \"AI + Notion\" demo I've seen does roughly the same thing: you prompt a model, it generates text, the text gets dumped into a Notion page. Done. It wo",
+      "published_at": "2026-04-16T12:38:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You write in Notion. Your blog runs on WordPress. The gap between them is where you lose 15-30 minutes per post — copy-pasting content, re-uploading images, setting SEO fields, fix",
       "tags": [
-        "GPT/OpenAI",
         "Claude/Anthropic",
         "Gemini/Google",
         "Agents",
-        "NotebookLM",
-        "Creators",
-        "Hot",
+        "RAG/Vector",
+        "Make",
+        "Zapier",
+        "Notion Status",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "prod",
-        "creators",
+        "rag",
+        "make",
+        "zapier",
+        "status",
         "hot"
       ],
-      "score": 209
+      "score": 218
     },
     {
       "title": "How to Publish from Notion to WordPress (Step-by-Step)",
@@ -50,7 +52,7 @@
         "status",
         "creators"
       ],
-      "score": 152
+      "score": 140
     },
     {
       "title": "Notion to WordPress: 4 Ways to Publish Automatically in 2026",
@@ -74,30 +76,7 @@
         "status",
         "hot"
       ],
-      "score": 130
-    },
-    {
-      "title": "RevOps AI: Build Your Entire Sales Team on Notion with Gemini and MCP",
-      "url": "https://dev.to/pooyagolchian/revops-ai-build-your-entire-sales-team-on-notion-with-gemini-and-mcp-1hah",
-      "source": "Dev.to Notion",
-      "published_at": "2026-04-07T21:56:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most CRMs solve the wrong problem. They give you a pristine pipeline view while your actual work, the proposals, the meeting notes, the follow-up threads, lives somewhere else enti",
-      "tags": [
-        "Gemini/Google",
-        "Agents",
-        "RAG/Vector",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 127
+      "score": 118
     },
     {
       "title": "Claude Code + Notion: Full Workflow From Zero to Automated Knowledge System",
@@ -138,7 +117,42 @@
         "creators",
         "hot"
       ],
-      "score": 95
+      "score": 83
+    },
+    {
+      "title": "I Built 3 Engineering Workflow Automations and Ran Them All at Once",
+      "url": "https://dev.to/james_pelton_2f2e7d282862/i-built-3-engineering-workflow-automations-and-ran-them-all-at-once-mbd",
+      "source": "Dev.to Notion",
+      "published_at": "2026-04-16T16:10:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every Monday morning, the same ritual plays out on engineering teams everywhere. You open Jira. You check what moved overnight. You copy ticket statuses into a Notion dashboard. Yo",
+      "tags": [
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "creators",
+        "hot"
+      ],
+      "score": 73
+    },
+    {
+      "title": "Notion Alternatives for Dev Teams: Confluence, Obsidian, Nuclino Compared",
+      "url": "https://dev.to/trackstack/notion-alternatives-for-dev-teams-confluence-obsidian-nuclino-compared-120b",
+      "source": "Dev.to Notion",
+      "published_at": "2026-04-15T05:57:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Notion is great until it isn't. At 5,000+ pages your workspace crawls, offline mode is basically \"read cached pages,\" and permissions don't go deep enough for enterprise. If you've",
+      "tags": [
+        "Notion Update",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "update",
+        "creators",
+        "hot"
+      ],
+      "score": 72
     },
     {
       "title": "Google Sheets vs Notion for Tracking Hobbies: Which One Actually Works?",
@@ -158,7 +172,7 @@
         "creators",
         "hot"
       ],
-      "score": 82
+      "score": 70
     },
     {
       "title": "Using Notion as a WordPress CMS: The Complete Guide",
@@ -178,7 +192,7 @@
         "creators",
         "hot"
       ],
-      "score": 82
+      "score": 70
     },
     {
       "title": "Flutter Web でNotion 3.4対抗「パーソナルダッシュボード」を実装した話 — KPIチャートをゼロから作る",
@@ -196,7 +210,7 @@
         "eval",
         "creators"
       ],
-      "score": 72
+      "score": 60
     },
     {
       "title": "Flutter Web でNotion 3.4対抗「パーソナルダッシュボード」を実装した話 — KPIチャートをゼロから作る",
@@ -217,40 +231,18 @@
       "score": 60
     },
     {
-      "title": "Flutter Web でNotion 3.4対抗「パーソナルダッシュボード」を実装した話 — KPIチャートをゼロから作る",
-      "url": "https://dev.to/kanta13jp1/flutter-web-denotion-34dui-kang-pasonarudatusiyubodo-woshi-zhuang-sitahua-kpitiyatowozerokarazuo-ru-265m",
+      "title": "SMS to Notion",
+      "url": "https://dev.to/sargentjamesa/sms-to-notion-33gf",
       "source": "Dev.to Notion",
-      "published_at": "2026-04-11T20:05:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ブログ下書き 2026-04-11 タイトル案 Flutter Web でNotion 3.4対抗「パーソナルダッシュボード」を実装した話 — KPIチャートをゼロから作る Notion Dashboard対抗機能をFlutter Webで実装 — LinearProgressIndicatorとCustomBarChartで週次分析 自分株式会社の全56機",
+      "published_at": "2026-04-16T20:46:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Wired up an SMS to Notion pipeline today. Twilio ingests the message, Make orchestrates, a small PHP endpoint handles file uploads, and structured records land in a Notion database",
       "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Creators"
+        "Release"
       ],
       "buckets": [
-        "agents",
-        "eval",
-        "creators"
+        "hot"
       ],
-      "score": 60
-    },
-    {
-      "title": "Flutter Web でNotion 3.4対抗「パーソナルダッシュボード」を実装した話 — KPIチャートをゼロから作る",
-      "url": "https://dev.to/kanta13jp1/flutter-web-denotion-34dui-kang-pasonarudatusiyubodo-woshi-zhuang-sitahua-kpitiyatowozerokarazuo-ru-n8c",
-      "source": "Dev.to Notion",
-      "published_at": "2026-04-11T09:19:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Flutter Web でNotion 3.4対抗「パーソナルダッシュボード」を実装した話 — KPIチャートをゼロから作る はじめに Notionが2024年末から2025年にかけて「ダッシュボードビュー」を強化し、KPIカードや棒グラフを Notion Agent が自動ビルドする機能 (Notion 3.4) をリリースしました。 これを受けて、自分株",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Creators"
-      ],
-      "buckets": [
-        "agents",
-        "eval",
-        "creators"
-      ],
-      "score": 60
+      "score": 35
     }
   ]
 }
