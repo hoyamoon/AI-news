@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-04-25T02:22:57.523Z",
+  "updated_at": "2026-04-27T02:39:35.082Z",
   "items": [
     {
       "title": "China’s DeepSeek previews new AI model a year after jolting US rivals ",
@@ -19,7 +19,7 @@
         "agents",
         "hot"
       ],
-      "score": 159
+      "score": 146
     },
     {
       "title": "THE PEOPLE DO NOT YEARN FOR AUTOMATION",
@@ -39,57 +39,26 @@
         "agents",
         "hot"
       ],
-      "score": 146
+      "score": 134
     },
     {
-      "title": "Show HN: Browser Harness – Gives LLM freedom to complete any browser task",
-      "url": "https://github.com/browser-use/browser-harness",
+      "title": "Show HN: AI memory with biological decay (52% recall)",
+      "url": "https://github.com/sachitrafa/YourMemory",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T14:31:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey HN, We got tired of browser frameworks restricting the LLM, so we removed the framework and gave the LLM maximum freedom to do whatever it's trained on. We gave the harness the",
+      "published_at": "2026-04-26T20:58:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most RAG setups fail because they treat memory like a static filing cabinet. When every transient bug fix or abandoned rule is stored forever, the context window eventually chokes ",
       "tags": [
-        "Claude/Anthropic",
         "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
-      "source": "The Verge AI",
-      "published_at": "2026-04-24T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO",
-      "tags": [
-        "GPT/OpenAI",
+        "RAG/Vector",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "agents",
+        "rag",
         "hot"
       ],
-      "score": 95
-    },
-    {
-      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
-      "source": "The Verge AI",
-      "published_at": "2026-04-23T22:27:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous w",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 92
+      "score": 99
     },
     {
       "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
@@ -112,13 +81,29 @@
       "score": 83
     },
     {
-      "title": "Anthropic&#8217;s Mythos breach was humiliating",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
-      "source": "The Verge AI",
-      "published_at": "2026-04-23T18:24:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangero",
+      "title": "SWE-bench Verified no longer measures frontier coding capabilities",
+      "url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T13:58:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/ Comments URL: https://news.ycombinator.com/item?id=47910388 Points: 254 # Comments: 144",
       "tags": [
-        "Claude/Anthropic",
+        "GPT/OpenAI",
+        "Eval/Observability"
+      ],
+      "buckets": [
+        "llm",
+        "eval"
+      ],
+      "score": 83
+    },
+    {
+      "title": "Musk vs. Altman is here, and it&#8217;s going to get messy",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917755/musk-altman-openai-xai-gossip",
+      "source": "The Verge AI",
+      "published_at": "2026-04-24T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Might as well jump, as the poet David Lee Roth once said. | Image: Cath Virginia / The Verge Elon Musk cofounded OpenAI, and then flounced off in a huff when he wasn't anointed CEO",
+      "tags": [
+        "GPT/OpenAI",
         "Hot",
         "Release"
       ],
@@ -129,22 +114,19 @@
       "score": 82
     },
     {
-      "title": "We're launching two specialized TPUs for the agentic era.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-22T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
+      "title": "Claude is connecting directly to your personal apps like Spotify, Uber Eats, and TurboTax",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors",
+      "source": "The Verge AI",
+      "published_at": "2026-04-23T22:27:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude users can access more apps with Anthropic's AI now thanks to new connectors for everything from hiking to grocery shopping. Anthropic already supported connecting numerous w",
       "tags": [
-        "Gemini/Google",
-        "Agents",
-        "Release"
+        "GPT/OpenAI",
+        "Claude/Anthropic"
       ],
       "buckets": [
-        "llm",
-        "agents",
-        "hot"
+        "llm"
       ],
-      "score": 81
+      "score": 80
     },
     {
       "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
@@ -165,13 +147,30 @@
       "score": 79
     },
     {
-      "title": "OpenAI releases GPT-5.5 and GPT-5.5 Pro in the API",
-      "url": "https://developers.openai.com/api/docs/changelog",
+      "title": "Show HN: The Unix Magic poster, annotated (updated)",
+      "url": "https://github.com/drio/unixmagic",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T18:23:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: GPT-5.5 - https://news.ycombinator.com/item?id=47879092 - April 2026 (1010 comments) Comments URL: https://news.ycombinator.com/item?id=47894000 Points: 215 # Comments: 119",
+      "published_at": "2026-04-27T01:32:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is a site that maps the references on Gary Overacre's 1980s UNIX Magic poster to short write-ups with sources. I posted an earlier version about a year ago [1]. Since then I r",
       "tags": [
-        "GPT/OpenAI",
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 77
+    },
+    {
+      "title": "Show HN: Startup Equity Adventure Game",
+      "url": "https://options-game-polymathrobotics.pythonanywhere.com/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T22:14:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I put this together (with Claude) as a semi-gamified way for folks to learn about startup equity. Take a look, and share your scorecard :) Comments URL: https://news.ycombinator.co",
+      "tags": [
+        "Claude/Anthropic",
         "Release"
       ],
       "buckets": [
@@ -181,13 +180,14 @@
       "score": 75
     },
     {
-      "title": "8 Gemini tips for organizing your space (and life)",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-24T19:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
+      "title": "Anthropic&#8217;s Mythos breach was humiliating",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917644/anthropic-claude-mythos-breach-humiliation",
+      "source": "The Verge AI",
+      "published_at": "2026-04-23T18:24:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic's tightly controlled rollout of Claude Mythos has taken an awkward turn. After spending weeks insisting the AI model is so capable at cybersecurity that it is too dangero",
       "tags": [
-        "Gemini/Google",
+        "Claude/Anthropic",
+        "Hot",
         "Release"
       ],
       "buckets": [
@@ -197,62 +197,22 @@
       "score": 70
     },
     {
-      "title": "CC-Canary: Detect early signs of regressions in Claude Code",
-      "url": "https://github.com/delta-hq/cc-canary",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T17:53:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/delta-hq/cc-canary Comments URL: https://news.ycombinator.com/item?id=47893620 Points: 40 # Comments: 19",
+      "title": "We're launching two specialized TPUs for the agentic era.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/tpus-8t-8i-cloud-next/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-22T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The eighth generation of Google’s TPU includes two specialized chips that will power the future of AI.",
       "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Google plans to invest up to $40B in Anthropic",
-      "url": "https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T16:04:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bloomberg.com/news/articles/2026-04-24/google-plans-to-invest-up-to-40-billion-in-anthropic Comments URL: https://news.ycombinator.com/item?id=47892074 Poi",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "I cancelled Claude: Token issues, declining quality, and poor support",
-      "url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T15:59:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nickyreinert.de/en/2026/2026-04-24-claude-critics/ Comments URL: https://news.ycombinator.com/item?id=47892019 Points: 784 # Comments: 473",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
-      "source": "The Verge AI",
-      "published_at": "2026-04-23T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a",
-      "tags": [
-        "GPT/OpenAI",
+        "Gemini/Google",
+        "Agents",
         "Release"
       ],
       "buckets": [
         "llm",
+        "agents",
         "hot"
       ],
-      "score": 62
+      "score": 69
     },
     {
       "title": "Create, edit and share videos at no cost in Google Vids",
@@ -273,48 +233,50 @@
       "score": 61
     },
     {
-      "title": "How Project Maven taught the military to love AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
-      "source": "The Verge AI",
-      "published_at": "2026-04-24T17:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. Th",
+      "title": "8 Gemini tips for organizing your space (and life)",
+      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-24T19:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Organize your home and digital space with Gemini. Use AI-powered tips for cleaning schedules, inbox decluttering, seasonal chores.",
       "tags": [
-        "Multimodal",
+        "Gemini/Google",
         "Release"
       ],
       "buckets": [
-        "multimodal",
+        "llm",
         "hot"
       ],
-      "score": 51
+      "score": 57
     },
     {
-      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-23T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
+      "title": "OpenAI says its new GPT-5.5 model is more efficient and better at coding",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917612/openai-gpt-5-5-chatgpt",
+      "source": "The Verge AI",
+      "published_at": "2026-04-23T18:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI just announced its new GPT-5.5 model, which the company calls its \"smartest and most intuitive to use model yet, and the next step toward a new way of getting work done on a",
       "tags": [
-        "Gemini/Google"
+        "GPT/OpenAI",
+        "Release"
       ],
       "buckets": [
-        "llm"
+        "llm",
+        "hot"
       ],
-      "score": 47
+      "score": 50
     },
     {
-      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-23T09:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+      "title": "An AI agent deleted our production database. The agent's confession is below",
+      "url": "https://twitter.com/lifeof_jer/status/2048103471019434248",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T16:27:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://twitter.com/lifeof_jer/status/2048103471019434248 Comments URL: https://news.ycombinator.com/item?id=47911524 Points: 466 # Comments: 643",
       "tags": [
-        "Gemini/Google"
+        "Agents"
       ],
       "buckets": [
-        "llm"
+        "agents"
       ],
-      "score": 47
+      "score": 49
     },
     {
       "title": "The latest AI news we announced in March 2026",
@@ -333,33 +295,48 @@
       "score": 45
     },
     {
-      "title": "Meta is laying off 10 percent of its staff",
-      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "title": "How Project Maven taught the military to love AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/917996/project-maven-military-ai-katrina-manson",
       "source": "The Verge AI",
-      "published_at": "2026-04-23T19:41:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a me",
+      "published_at": "2026-04-24T17:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In the first 24 hours of the assault on Iran, the US military struck more than 1,000 targets, nearly double the scale of the \"shock and awe\" attack on Iraq over two decades ago. Th",
       "tags": [
-        "Hot",
+        "Multimodal",
         "Release"
       ],
       "buckets": [
+        "multimodal",
         "hot"
       ],
-      "score": 42
+      "score": 38
     },
     {
-      "title": "TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment",
-      "url": "https://gdm-tipsv2.github.io/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T19:28:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gdm-tipsv2.github.io/ Comments URL: https://news.ycombinator.com/item?id=47894734 Points: 21 # Comments: 1",
+      "title": "Here’s how our TPUs power increasingly demanding AI workloads.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/what-is-a-tpu/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-23T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Learn how Google’s TPUs power increasingly demanding AI workloads with this new video.",
       "tags": [
-        "Multimodal"
+        "Gemini/Google"
       ],
       "buckets": [
-        "multimodal"
+        "llm"
       ],
-      "score": 41
+      "score": 35
+    },
+    {
+      "title": "Elevating Austria: Google invests in its first data center in the Alps.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/global-network/google-data-center-austria/",
+      "source": "Google AI Blog",
+      "published_at": "2026-04-23T09:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has been a proud part of Austria’s landscape for years, and today, we’re announcing our first data center in Kronstorf, generating 100 direct jobs. This facility …",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 35
     },
     {
       "title": "7 ways to travel smarter this summer, with help from Google",
@@ -530,32 +507,169 @@
       "score": 35
     },
     {
-      "title": "Show HN: I've built a nice home server OS",
-      "url": "https://lightwhale.asklandd.dk/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T21:42:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ohai! I've released Lightwhale 3, which is possibly the easiest way to self-host Docker containers. It's a free, immutable Linux system purpose-built to live-boot straight into a w",
+      "title": "Meta is laying off 10 percent of its staff",
+      "url": "https://www.theverge.com/tech/917690/meta-is-laying-off-10-percent-of-its-staff",
+      "source": "The Verge AI",
+      "published_at": "2026-04-23T19:41:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Mark Zuckerberg presenting at Meta Connect on September 17th, 2025. | Bloomberg via Getty Images Meta is planning to layoff around 10 percent of employees in May, according to a me",
       "tags": [
+        "Hot",
         "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 30
     },
     {
-      "title": "Diatec, known for its mechanical keyboard brand FILCO, has ceased operations",
-      "url": "https://gigazine.net/gsc_news/en/20260424-filco-diatec/",
+      "title": "Google banks on AI edge to catch up to cloud rivals Amazon and Microsoft",
+      "url": "https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T16:16:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gigazine.net/gsc_news/en/20260424-filco-diatec/ Comments URL: https://news.ycombinator.com/item?id=47892236 Points: 95 # Comments: 29",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-04-27T00:34:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ft.com/content/2429f0f0-b685-4747-b425-bf8001a2e94c Comments URL: https://news.ycombinator.com/item?id=47916410 Points: 65 # Comments: 27",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "FreeBSD Device Drivers Book",
+      "url": "https://github.com/ebrandi/FDD-book",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T22:53:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/ebrandi/FDD-book Comments URL: https://news.ycombinator.com/item?id=47915632 Points: 17 # Comments: 1",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Butterflies are in decline across North America, a look at the Western Monarch",
+      "url": "https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T21:23:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.smithsonianmag.com/science-nature/butterflies-are-in-dramatic-decline-across-north-america-a-close-look-at-the-western-monarch-shows-why-180988582/ Comment",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Sawe becomes first athlete to run a sub-two-hour marathon in a competitive race",
+      "url": "https://www.bbc.com/sport/athletics/articles/crm1m7e0zwzo",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T20:56:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.letsrun.com/news/2026/04/15930-sabastian-sawe-sh... https://news.adidas.com/running/two-adidas-athletes-sabastia... Comments URL: https://news.ycombinator.com/item?id=4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "I bought Friendster for $30k – Here's what I'm doing with it",
+      "url": "https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T20:41:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ca98am79.medium.com/i-bought-friendster-for-30k-heres-what-i-m-doing-with-it-d5e8ddb3991d Comments URL: https://news.ycombinator.com/item?id=47914165 Points: 4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "MoQ Boy",
+      "url": "https://moq.dev/blog/moq-boy/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T20:40:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://moq.dev/blog/moq-boy/ Comments URL: https://news.ycombinator.com/item?id=47914161 Points: 39 # Comments: 4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Fast16: High-precision software sabotage 5 years before Stuxnet",
+      "url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T20:18:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/ Comments URL: https://news.yco",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "AI should elevate your thinking, not replace it",
+      "url": "https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T20:03:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.koshyjohn.com/blog/ai-should-elevate-your-thinking-not-replace-it/ Comments URL: https://news.ycombinator.com/item?id=47913650 Points: 293 # Comments: 247",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Chernobyl wildlife forty years on",
+      "url": "https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T19:42:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bbc.com/future/article/20260424-chernobyl-wildlife-forty-years-on Comments URL: https://news.ycombinator.com/item?id=47913382 Points: 46 # Comments: 3",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The Visible Zorker: Zork 1",
+      "url": "https://eblong.com/infocom/visi/zork1/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T16:42:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://eblong.com/infocom/visi/zork1/ Comments URL: https://news.ycombinator.com/item?id=47911644 Points: 108 # Comments: 19",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Clay PCB Tutorial",
+      "url": "https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T16:02:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://feministhackerspaces.cargo.site/Clay-PCB-Tutorial Comments URL: https://news.ycombinator.com/item?id=47911350 Points: 195 # Comments: 121",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Show HN: Free textbook on engineering thermodynamics",
+      "url": "https://thermodynamicsbook.com/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T15:17:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Author here. Feel free to send questions of any kind. Comments URL: https://news.ycombinator.com/item?id=47911013 Points: 110 # Comments: 29",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Lessons from building multiplayer browsers",
+      "url": "https://www.alejandro.pe/writing/sail-muddy-lessons",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T14:59:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.alejandro.pe/writing/sail-muddy-lessons Comments URL: https://news.ycombinator.com/item?id=47910877 Points: 11 # Comments: 4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The fastest Linux timestamps",
+      "url": "https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T13:00:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.hmpcabral.com/2026/04/26/the-fastest-linux-timestamps/ Comments URL: https://news.ycombinator.com/item?id=47909979 Points: 19 # Comments: 5",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Statecharts: hierarchical state machines",
+      "url": "https://statecharts.dev/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-04-26T09:32:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://statecharts.dev/ Comments URL: https://news.ycombinator.com/item?id=47908833 Points: 283 # Comments: 79",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
       "title": "AirPods, Touch Bars, and the rest of Tim Cook&#8217;s legacy",
@@ -569,7 +683,7 @@
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 22
     },
     {
       "title": "Prestigious photo contest answers ‘what is a photo?’",
@@ -583,127 +697,7 @@
       "buckets": [
         "hot"
       ],
-      "score": 35
-    },
-    {
-      "title": "Education must go beyond the mere production of words",
-      "url": "https://www.ncregister.com/commentaries/schnell-repairing-the-ruins",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-25T00:11:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ncregister.com/commentaries/schnell-repairing-the-ruins Comments URL: https://news.ycombinator.com/item?id=47897349 Points: 8 # Comments: 0",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "FusionCore: ROS 2 sensor fusion (IMU and GPS and encoders)",
-      "url": "https://github.com/manankharwar/fusioncore",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T22:36:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/manankharwar/fusioncore Comments URL: https://news.ycombinator.com/item?id=47896670 Points: 12 # Comments: 6",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Generalised plusequals",
-      "url": "https://leontrolski.github.io/alt.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T21:34:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://leontrolski.github.io/alt.html Comments URL: https://news.ycombinator.com/item?id=47896086 Points: 9 # Comments: 6",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Google Flow Music",
-      "url": "https://www.flowmusic.app/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T21:01:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.flowmusic.app/ Comments URL: https://news.ycombinator.com/item?id=47895765 Points: 106 # Comments: 74",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "My audio interface has SSH enabled by default",
-      "url": "https://hhh.hn/rodecaster-duo-fw/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T19:30:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://hhh.hn/rodecaster-duo-fw/ Comments URL: https://news.ycombinator.com/item?id=47894747 Points: 165 # Comments: 43",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The Classic American Diner",
-      "url": "https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T19:01:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blogs.loc.gov/picturethis/2026/04/the-classic-american-diner/ Comments URL: https://news.ycombinator.com/item?id=47894435 Points: 159 # Comments: 103",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "SFO Quiet Airport (2025)",
-      "url": "https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T18:29:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://viewfromthewing.com/san-francisco-airport-removed-90-minutes-of-daily-noise-travelers-say-it-changed-everything/ Comments URL: https://news.ycombinator.com/ite",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "There Will Be a Scientific Theory of Deep Learning",
-      "url": "https://arxiv.org/abs/2604.21691",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T18:06:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2604.21691 Comments URL: https://news.ycombinator.com/item?id=47893779 Points: 148 # Comments: 48",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "SDL Now Supports DOS",
-      "url": "https://github.com/libsdl-org/SDL/pull/15377",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T16:20:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/libsdl-org/SDL/pull/15377 Comments URL: https://news.ycombinator.com/item?id=47892291 Points: 222 # Comments: 77",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "I'm done making desktop applications (2009)",
-      "url": "https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T15:44:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.kalzumeus.com/2009/09/05/desktop-aps-versus-web-apps/ Comments URL: https://news.ycombinator.com/item?id=47891801 Points: 143 # Comments: 175",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Different Language Models Learn Similar Number Representations",
-      "url": "https://arxiv.org/abs/2604.20817",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T14:34:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2604.20817 Comments URL: https://news.ycombinator.com/item?id=47890873 Points: 90 # Comments: 37",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Sabotaging projects by overthinking, scope creep, and structural diffing",
-      "url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-04-24T14:28:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://kevinlynagh.com/newsletter/2026_04_overthinking/ Comments URL: https://news.ycombinator.com/item?id=47890799 Points: 361 # Comments: 93",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "score": 22
     }
   ]
 }

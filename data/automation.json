@@ -1,448 +1,445 @@
 {
-  "updated_at": "2026-04-25T02:23:11.345Z",
+  "updated_at": "2026-04-27T02:39:56.831Z",
   "items": [
     {
-      "title": "I built a multi-turn agent-vs-agent blind eval in n8n",
-      "url": "https://dev.to/frank_brsrk/i-built-a-multi-turn-agent-vs-agent-blind-eval-in-n8n-5agj",
+      "title": "n8n vs Zapier vs Make: Which Automation Tool Should You Actually Use in 2026?",
+      "url": "https://dev.to/tariq_osmani/n8n-vs-zapier-vs-make-which-automation-tool-should-you-actually-use-in-2026-531i",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-24T16:34:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Single-prompt evals miss the failure modes that matter most in production. Agents that look fine on one-shot inputs sycophant under pressure, drift from their own earlier positions",
+      "published_at": "2026-04-25T17:11:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every week a founder messages me some version of the same question: \"Should I just stick with Zapier, or is it time to move to n8n or Make?\" It's almost never about features anymor",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
-        "Gemini/Google",
         "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Make",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "make",
-        "n8n",
-        "hot"
-      ],
-      "score": 280
-    },
-    {
-      "title": "Building a Lead Capture System with n8n and Typeform",
-      "url": "https://dev.to/chasebot/building-a-lead-capture-system-with-n8n-and-typeform-4a55",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-23T08:00:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What You'll Need n8n Cloud or self-hosted n8n Hetzner VPS or Contabo VPS for self-hosting Namecheap if you need a custom domain Typeform account (free tier works) A spreadsheet too",
-      "tags": [
-        "Claude/Anthropic",
         "RAG/Vector",
         "NotebookLM",
         "Make",
         "n8n",
         "Zapier",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
+        "agents",
         "rag",
         "prod",
         "make",
         "n8n",
         "zapier",
-        "creators",
         "hot"
       ],
-      "score": 210
+      "score": 256
     },
     {
-      "title": "How We Built an Agentic Workflow That Saves Our Clients 15+ Hours a Week",
-      "url": "https://dev.to/emperorakashi20/how-we-built-an-agentic-workflow-that-saves-our-clients-15-hours-a-week-18o9",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-23T04:30:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A laundry management business was drowning in WhatsApp messages. Not figuratively. Literally — 200+ customer messages per day, handled manually by a small team. Pickup scheduling, ",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 206
-    },
-    {
-      "title": "Build Your First AI Agent in 60 Lines of Python — No Framework Needed",
-      "url": "https://dev.to/automate-archit/build-your-first-ai-agent-in-60-lines-of-python-no-framework-needed-4368",
+      "title": "Harness Engineering with Nothing but Markdown",
+      "url": "https://dev.to/aws-builders/harness-engineering-with-nothing-but-markdown-g6b",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-25T01:44:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Everyone's talking about AI agents, but most tutorials start with heavyweight frameworks, API keys, and 500+ lines of boilerplate. What if you could build a functional AI agent in ",
+      "published_at": "2026-04-26T23:54:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If coding agents aren't your primary battlefield, \"harness engineering\" probably feels like a distant concept. Scrolling through a timeline full of articles written for Claude Code",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
         "Agents",
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "eval",
-        "hot"
-      ],
-      "score": 157
-    },
-    {
-      "title": "Why I Chose n8n Over Zapier for Production Lead Automation (₹0 vs $828+/Year)",
-      "url": "https://dev.to/amansuryavanshi-ai/why-i-chose-n8n-over-zapier-for-production-lead-automation-0-vs-828year-3p33",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-23T18:07:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why I Chose n8n Over Zapier for Production (₹0 vs $828+/year) TL;DR: Built production lead automation for an aviation training school: 3 workflows, 28+ nodes, 50+ leads/month, 99.7",
-      "tags": [
-        "Agents",
         "RAG/Vector",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 154
-    },
-    {
-      "title": "Building a Frictionless Thought-Deployment Pipeline: Obsidian + n8n + Claude API",
-      "url": "https://dev.to/hidekitamae/building-a-frictionless-thought-deployment-pipeline-obsidian-n8n-claude-api-1h0d",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-23T03:33:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Problem: Friction Is the Enemy of Thought Every time I finished writing a piece, I was forced to context-switch into administrator mode — reformatting Markdown for different pl",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "hot"
-      ],
-      "score": 150
-    },
-    {
-      "title": "The AI Revolution: Inside the 72 Hours That Almost Killed OpenAI",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/the-ai-revolution-inside-the-72-hours-that-almost-killed-openai-19hh",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T00:20:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The AI Revolution: Inside the 72 Hours That Almost Killed OpenAI The Birth of a Revolution In the world of artificial intelligence, few companies have made a more significant impac",
-      "tags": [
-        "GPT/OpenAI",
         "Eval/Observability",
         "Multimodal",
-        "Notion Status",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
+        "agents",
+        "rag",
         "eval",
         "multimodal",
+        "creators",
+        "hot"
+      ],
+      "score": 231
+    },
+    {
+      "title": "SentinelOne's AI-powered EDR autonomously claims blocking a Claude Zero Day Supply Chain Attack",
+      "url": "https://dev.to/bansac1981/sentinelones-ai-powered-edr-autonomously-claims-blocking-a-claude-zero-day-supply-chain-attack-1m38",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T02:30:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary SentinelOne claims its AI-powered EDR autonomously detected and blocked Anthropic's Claude LLM from executing a zero-day supply chain attack, representing a signif",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Make",
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "make",
         "status",
         "hot"
       ],
-      "score": 149
+      "score": 173
     },
     {
-      "title": "How I Migrated from Zapier to n8n and Cut My Automation Bill to Zero",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/how-i-migrated-from-zapier-to-n8n-and-cut-my-automation-bill-to-zero-8ph",
+      "title": "How to build a configurable scoring engine in n8n (and avoid 6 footguns I hit)",
+      "url": "https://dev.to/talvin29/how-to-build-a-configurable-scoring-engine-in-n8n-and-avoid-6-footguns-i-hit-2b3e",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-24T10:27:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Home Automation How I Migrated from Zapier to n8n My Zapier bill in January 2026 was $119. I logged in to check which Zaps were actually running and found that 9 of my 17 active Za",
+      "published_at": "2026-04-25T15:15:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Same input, same score, every time. Zero LLM cost per execution. I shipped a scoring engine that handles both alert triage (SecOps) and lead qualification (Sales) from one workflow",
       "tags": [
-        "NotebookLM",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "From Mumbles to Memos: Teaching AI to Understand Technician Voice Notes",
-      "url": "https://dev.to/ken_deng_ai/from-mumbles-to-memos-teaching-ai-to-understand-technician-voice-notes-66g",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T02:10:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You pour a coffee, put on headphones, and spend the next hour listening, pausing, typing, and deciphering mumbled voice notes full of industry jargon. It’s the daily bottleneck bet",
-      "tags": [
-        "GPT/OpenAI",
         "RAG/Vector",
         "Make",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "make",
-        "hot"
-      ],
-      "score": 119
-    },
-    {
-      "title": "Share a photo of your living room",
-      "url": "https://dev.to/sieok/share-a-photo-of-your-living-room-5aeg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T01:32:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sparkware's Living Room Photo Collection: A Guide for Ethical AI Training Participation Introduction: Why Your Living Room Matters for AI In an era where artificial intelligence is",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "eval",
-        "prod",
-        "hot"
-      ],
-      "score": 119
-    },
-    {
-      "title": "Hacking B2B Content ROI: A Developer's Guide to Measuring What Matters",
-      "url": "https://dev.to/michaelaiglobal/hacking-b2b-content-roi-a-developers-guide-to-measuring-what-matters-4p6p",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-23T11:04:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we live by data. We debug with logs, optimize with performance metrics, and A/B test features to find the most efficient solution. So why does marketing often feel l",
-      "tags": [
-        "RAG/Vector",
         "n8n",
         "Notion Update",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "update",
-        "hot"
-      ],
-      "score": 108
-    },
-    {
-      "title": "How I Fixed My n8n Workflow That Was Failing Silently for Three Weeks",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/how-i-fixed-my-n8n-workflow-that-was-failing-silently-for-three-weeks-17el",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-23T10:25:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Home Automation How I Fixed My n8n Workflow That Was Failing Silently A client emailed me on a Friday afternoon asking why they hadn't received their weekly report in \"a while.\" I ",
-      "tags": [
-        "n8n",
         "Notion Status",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "rag",
+        "make",
         "n8n",
+        "update",
         "status",
+        "creators",
+        "hot"
+      ],
+      "score": 170
+    },
+    {
+      "title": "Supply Chain as Code: Applying DevOps Principles to B2B Resilience",
+      "url": "https://dev.to/michaelaiglobal/supply-chain-as-code-applying-devops-principles-to-b2b-resilience-4581",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-26T11:04:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Ever had a single point of failure take down your entire application? A flaky third-party API, a non-redundant database, a single server handling all the traffic. That sinking feel",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "prod",
+        "make",
+        "n8n",
+        "hot"
+      ],
+      "score": 163
+    },
+    {
+      "title": "Hacking the B2B Sales Cycle: An Engineer's Guide to AI-Powered Efficiency",
+      "url": "https://dev.to/michaelaiglobal/hacking-the-b2b-sales-cycle-an-engineers-guide-to-ai-powered-efficiency-3j48",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-25T11:04:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As engineers, we're trained to think in systems, APIs, and optimization loops. We refactor inefficient code, automate tedious processes, and build scalable infrastructure. So why d",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 144
+    },
+    {
+      "title": "Teaching an Agent to Generate Its Own Avatar with Gemini",
+      "url": "https://dev.to/mayf3/teaching-an-agent-to-generate-its-own-avatar-with-gemini-1ece",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-26T23:39:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Teaching an Agent to Generate Its Own Avatar with Gemini Ever since I started using OpenClaw, I've been tinkering with it in all sorts of ways — except when work gets busy or I'm j",
+      "tags": [
+        "Gemini/Google",
+        "Agents",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "multimodal",
+        "hot"
+      ],
+      "score": 130
+    },
+    {
+      "title": "API Cost Optimization for LLM-Powered Applications",
+      "url": "https://dev.to/mfk/api-cost-optimization-for-llm-powered-applications-1lm5",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T02:00:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: API Cost Optimization for LLM-Powered Applications The Challenge Running LLM-powered applications can get expensive fast. Here's how to minimize costs without sacrificing quality. ",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents"
+      ],
+      "buckets": [
+        "llm",
+        "agents"
+      ],
+      "score": 129
+    },
+    {
+      "title": "How I Set Up Ollama With n8n and Brought My AI API Costs to Zero",
+      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/how-i-set-up-ollama-with-n8n-and-brought-my-ai-api-costs-to-zero-4lj7",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-25T09:57:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Home Automation How I Set Up Ollama With n8n and Brought My AI Costs to Zero In December I opened my OpenAI billing dashboard and saw $54. Not because I'd built something impressiv",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 126
+    },
+    {
+      "title": "I Built a 24/7 AI Agent System on a $6/Month VPS — Here's the Stack",
+      "url": "https://dev.to/_omqxansi_258d1166f7/i-built-a-247-ai-agent-system-on-a-6month-vps-heres-the-stack-5012",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T02:20:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Setup Running a fully autonomous AI agent on Hetzner VPS (€3.9/mo). Stack: OpenClaw agent framework (open source, MIT) DeepSeek V4 Pro via NVIDIA NIM API (1.6T MoE, 1M context)",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "From Fracture to Friendly: How AI Translates Arborist Jargon into Client Clarity",
+      "url": "https://dev.to/ken_deng_ai/from-fracture-to-friendly-how-ai-translates-arborist-jargon-into-client-clarity-50gm",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T00:40:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You've just completed a meticulous tree risk assessment. Your notes are full of precise terminology: \"included bark,\" \"decay column,\" \"target exposure.\" Now comes the real challeng",
+      "tags": [
+        "GPT/OpenAI",
+        "Make",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "make",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "I Built a 24/7 AI Agent System on a $6/Month VPS — Here's the Stack",
+      "url": "https://dev.to/_omqxansi_258d1166f7/i-built-a-247-ai-agent-system-on-a-6month-vps-heres-the-stack-b4j",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T00:15:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Setup Running a fully autonomous AI agent on Hetzner VPS (€3.9/mo). Stack: OpenClaw agent framework (open source, MIT) DeepSeek V4 Pro via NVIDIA NIM API (1.6T MoE, 1M context)",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "Unlocking AI-Powered Digital Products: A 30-Day Challenge for Solopreneurs",
+      "url": "https://dev.to/naoanao/unlocking-ai-powered-digital-products-a-30-day-challenge-for-solopreneurs-1ack",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T00:01:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to AI-Powered Digital Products As a solopreneur, creating and selling digital products can be a lucrative way to generate passive income. With the rapid advancements i",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "multimodal",
+        "hot"
+      ],
+      "score": 113
+    },
+    {
+      "title": "The n8n Workflow That Turns One Blog Post Into 4 Pieces of Content",
+      "url": "https://dev.to/joeytbuilds/the-n8n-workflow-that-turns-one-blog-post-into-4-pieces-of-content-4nnj",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-25T12:23:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The n8n Workflow That Turns One Blog Post Into 4 Pieces of Content TL;DR I built an n8n workflow that takes one finished blog post and automatically generates: A LinkedIn thread A ",
+      "tags": [
+        "Claude/Anthropic",
+        "n8n",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "n8n",
         "creators",
         "hot"
       ],
       "score": 104
     },
     {
-      "title": "From Chaos to Control: AI for Proactive Wedding Contingency Planning",
-      "url": "https://dev.to/ken_deng_ai/from-chaos-to-control-ai-for-proactive-wedding-contingency-planning-42il",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T01:40:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The frantic 3 AM text. The vendor delay email that makes your stomach drop. In wedding planning, the \"what-if\" isn't a hypothetical—it's a guarantee. Managing these scenarios manua",
-      "tags": [
-        "NotebookLM",
-        "Make",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "make",
-        "hot"
-      ],
-      "score": 101
-    },
-    {
-      "title": "Your SMB is a Hacker's Easy Button. Here's the Checklist to Change That.",
-      "url": "https://dev.to/michaelaiglobal/your-smb-is-a-hackers-easy-button-heres-the-checklist-to-change-that-27ml",
+      "title": "Automating Social Media Posts with n8n: Complete Guide",
+      "url": "https://dev.to/chasebot/automating-social-media-posts-with-n8n-complete-guide-1dgo",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-24T11:04:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Let's be blunt: most Small to Medium-sized Businesses (SMBs) have a security posture that's one click away from a catastrophe. You might think your startup is too small to be a tar",
+      "published_at": "2026-04-26T08:00:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What You'll Need n8n Cloud or self-hosted n8n Hetzner VPS or Contabo VPS for self-hosted deployments Namecheap if you're setting up a custom domain Social media platform API creden",
       "tags": [
-        "RAG/Vector",
         "n8n",
+        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
         "n8n",
+        "zapier",
         "hot"
       ],
       "score": 99
     },
     {
-      "title": "Pricing with Precision: Automating AI-Powered Quotes for Handymen",
-      "url": "https://dev.to/ken_deng_ai/pricing-with-precision-automating-ai-powered-quotes-for-handymen-1j79",
+      "title": "How I Built an AI Agent Side Hustle Stack (Week 1)",
+      "url": "https://dev.to/kirothebot/how-i-built-an-ai-agent-side-hustle-stack-week-1-1n54",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-25T01:10:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Manual Quote Grind You’re on-site, snapping photos of a client’s deck repair. Later, you’re manually counting boards, pricing screws, and calculating hours. This process eats i",
+      "published_at": "2026-04-27T01:41:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Built an AI Agent Side Hustle Stack (Week 1) What if your AI assistant didn't just answer questions—what if it ran a business while you slept? That's the question I've been t",
       "tags": [
-        "Make",
-        "Notion Update",
-        "Hot"
-      ],
-      "buckets": [
-        "make",
-        "update",
-        "hot"
-      ],
-      "score": 91
-    },
-    {
-      "title": "I'll Build Your Zapier/Make/n8n Automation for EUR 50",
-      "url": "https://dev.to/gentleaffair274/ill-build-your-zapiermaken8n-automation-for-eur-50-nkf",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T00:45:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build automation workflows for solopreneurs and freelancers. That's it. That's the post. You tell me what's eating your time. I build an automation that handles it. You get a com",
-      "tags": [
-        "NotebookLM",
-        "n8n",
-        "Zapier"
-      ],
-      "buckets": [
-        "prod",
-        "n8n",
-        "zapier"
-      ],
-      "score": 91
-    },
-    {
-      "title": "Automating Literature Reviews: An AI-Powered Guide for Niche Researchers",
-      "url": "https://dev.to/ken_deng_ai/automating-literature-reviews-an-ai-powered-guide-for-niche-researchers-53ia",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T00:40:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Screening Bottleneck Manually screening thousands of PDFs for a systematic review is a monumental, error-prone task. It consumes weeks of valuable research time. What if you co",
-      "tags": [
-        "Make",
+        "Agents",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "make",
+        "agents",
+        "creators",
+        "hot"
+      ],
+      "score": 97
+    },
+    {
+      "title": "How I Stopped Missing Leads by Building a $0 CRM Automation in n8n",
+      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/how-i-stopped-missing-leads-by-building-a-0-crm-automation-in-n8n-4lb",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-26T09:59:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Home Automation How I Stopped Missing Leads With n8n In February I got an email from someone who had filled out my contact form six weeks earlier. They'd moved on and hired someone",
+      "tags": [
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
         "hot"
       ],
       "score": 79
     },
     {
-      "title": "Deconstructing the Funnel: 10 B2B Lead Gen Strategies You Can Engineer",
-      "url": "https://dev.to/michaelaiglobal/deconstructing-the-funnel-10-b2b-lead-gen-strategies-you-can-engineer-3eh2",
+      "title": "The AI Menu Engineer: Automating Custom Proposals for Caterers",
+      "url": "https://dev.to/ken_deng_ai/the-ai-menu-engineer-automating-custom-proposals-for-caterers-2nke",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-27T01:41:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Crafting unique, client-specific menu proposals is time-consuming. You juggle dietary needs, inventory, and creative flair, often starting from scratch for every inquiry. What if a",
+      "tags": [
+        "Make",
+        "Creators"
+      ],
+      "buckets": [
+        "make",
+        "creators"
+      ],
+      "score": 67
+    },
+    {
+      "title": "n8n Workflow Templates for Kuwait Businesses",
+      "url": "https://dev.to/shakeel_ahmed/n8n-workflow-templates-for-kuwait-businesses-42b7",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-22T23:38:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we build complex systems, optimize for performance, and live by data. So why do we treat lead generation like some arcane marketing magic? It's not. A sales pipeline",
+      "published_at": "2026-04-26T09:30:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published at DigiMateAI Blog { \"@context\": \"https://schema.org\", https://digimateai.com/wp-content/uploads/n8n-workflow-templates-kuwait.jpg\", https://d",
       "tags": [
         "n8n",
-        "Hot",
-        "Release"
+        "Creators"
       ],
       "buckets": [
         "n8n",
-        "hot"
+        "creators"
       ],
-      "score": 66
+      "score": 67
     },
     {
-      "title": "Declarative Charts with Python: Introducing Altair",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/declarative-charts-with-python-introducing-altair-1cgb",
+      "title": "Beyond AdSense: Building a Diversified AI Channel",
+      "url": "https://dev.to/ken_deng_ai/beyond-adsense-building-a-diversified-ai-channel-34lm",
       "source": "Dev.to Automation",
-      "published_at": "2026-04-25T00:25:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Declarative Charts with Python: Introducing Altair As data visualization continues to play a crucial role in the way we understand and interact with information, the need for effic",
+      "published_at": "2026-04-27T02:10:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You’ve automated your video creation with AI, but your revenue is still 100% tied to the volatile AdSense algorithm. This single-point dependency is the biggest risk for any facele",
       "tags": [
-        "Hot",
+        "RAG/Vector",
+        "Creators"
+      ],
+      "buckets": [
+        "rag",
+        "creators"
+      ],
+      "score": 63
+    },
+    {
+      "title": "From RSS Chaos to Autonomous Intelligence with OpenClaw.",
+      "url": "https://dev.to/saheed_kehinde_414/from-rss-chaos-to-autonomous-intelligence-with-openclaw-431o",
+      "source": "Dev.to Automation",
+      "published_at": "2026-04-26T22:53:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I used to think staying informed made me a better developer—until it started slowing me down. This is the system that changed how I work. The Intelligent Content Sentinel. What I B",
+      "tags": [
+        "Agents",
         "Release"
       ],
       "buckets": [
+        "agents",
         "hot"
       ],
-      "score": 55
+      "score": 59
     },
     {
-      "title": "Unlocking the Full Potential of Samsung's Edge Panel",
-      "url": "https://dev.to/yagyaraj_sharma_6cd410179/unlocking-the-full-potential-of-samsungs-edge-panel-14kb",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T00:15:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Unlocking the Full Potential of Samsung's Edge Panel As a Samsung user, you're likely familiar with the Edge Panel, a feature that's been available on Samsung devices for a while n",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "From Blank Page to Insightful Narrative: Automating Client Commentary with AI",
-      "url": "https://dev.to/ken_deng_ai/from-blank-page-to-insightful-narrative-automating-client-commentary-with-ai-14ff",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-25T00:13:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Staring at a blank page, knowing you need to translate complex market movements and portfolio drift into clear, personalized insights for dozens of clients. It’s time-consuming, re",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Ferramenta do Stack: Tutorial Prático de n8n",
-      "url": "https://dev.to/daniel_capelari/ferramenta-do-stack-tutorial-pratico-de-n8n-4amh",
+      "title": "Desenvolvimento de Pipelines de Dados Eficientes com Ferramentas Modernas",
+      "url": "https://dev.to/daniel_capelari/desenvolvimento-de-pipelines-de-dados-eficientes-com-ferramentas-modernas-2cjj",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-23T01:14:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: O n8n é uma ferramenta poderosa para automação de workflows que integra perfeitamente com outras ferramentas do nosso stack, como o Evolution API e o Budibase. Neste artigo, vamos ",
+      "published_at": "2026-04-27T00:45:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: O desenvolvimento de pipelines de dados eficientes é crucial para garantir a entrega de insights precisos e em tempo real. No entanto, muitas vezes os engenheiros de dados enfrenta",
       "tags": [
         "n8n",
         "Release"
@@ -451,35 +448,39 @@
         "n8n",
         "hot"
       ],
-      "score": 46
+      "score": 59
     },
     {
-      "title": "Stop Answering the Same WhatsApp Messages Every Day — Let AI Do It for €214/mo",
-      "url": "https://dev.to/six_dustslab_10c71edec48/stop-answering-the-same-whatsapp-messages-every-day-let-ai-do-it-for-eu214mo-2hkl",
-      "source": "Dev.to Automation",
-      "published_at": "2026-04-24T23:39:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You don't need another SaaS dashboard. You don't need a chatbot builder. You need your WhatsApp, Telegram, and email to just... work. Automatically. Here's the reality for most sma",
+      "title": "Desenvolvendo Pipelines de Dados Rápidos e Escaláveis com Ferramentas Modernas",
+      "url": "https://dev.to/daniel_capelari/desenvolvendo-pipelines-de-dados-rapidos-e-escalaveis-com-ferramentas-modernas-1b39",
+      "source": "Dev.to n8n",
+      "published_at": "2026-04-26T19:53:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: O desenvolvimento de pipelines de dados eficientes é crucial para atender às demandas crescentes de processamento de dados em tempo real. No entanto, muitas vezes nos deparamos com",
       "tags": [
-        "Hot"
+        "n8n",
+        "Release"
       ],
       "buckets": [
+        "n8n",
         "hot"
       ],
-      "score": 45
+      "score": 59
     },
     {
-      "title": "How We Built a WhatsApp Lead Qualification Bot for a Dubai Real Estate Agency Using n8n (Full Workflow Breakdown)",
-      "url": "https://dev.to/shakeel_ahmed/how-we-built-a-whatsapp-lead-qualification-bot-for-a-dubai-real-estate-agency-using-n8n-full-n42",
+      "title": "Refletindo sobre o progresso da automação financeira",
+      "url": "https://dev.to/daniel_capelari/refletindo-sobre-o-progresso-da-automacao-financeira-4dl2",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-23T09:30:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published at DigiMateAI Blog { \"@context\": \"https://schema.org\", https://digimateai.com\" https://digimateai.com\" @id\": \"https://digimateai.com/blog/what",
+      "published_at": "2026-04-26T14:47:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A semana que passou foi marcada por avanços significativos no desenvolvimento do AssessorBot, nossa solução de automação para o setor financeiro brasileiro. Com a integração do n8n",
       "tags": [
-        "n8n"
+        "n8n",
+        "Release"
       ],
       "buckets": [
-        "n8n"
+        "n8n",
+        "hot"
       ],
-      "score": 36
+      "score": 59
     }
   ]
 }
