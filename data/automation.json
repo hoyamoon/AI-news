@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-05-02T02:36:35.593Z",
+  "updated_at": "2026-05-04T02:44:46.620Z",
   "items": [
     {
       "title": "AI workflows with n8n: practical automation for teams",
@@ -27,7 +27,7 @@
         "zapier",
         "hot"
       ],
-      "score": 228
+      "score": 216
     },
     {
       "title": "Finding B2B Leads Where Others Don't Look: The Google-Website Mismatch Strategy",
@@ -53,34 +53,7 @@
         "creators",
         "hot"
       ],
-      "score": 206
-    },
-    {
-      "title": "Prompt Caching with Claude: How I Cut Our Automation Bills by 70%",
-      "url": "https://dev.to/tariq_osmani/prompt-caching-with-claude-how-i-cut-our-automation-bills-by-70-2118",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-28T15:45:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The first time a client of mine got their Anthropic invoice, they paid for it in panic. The automation was working — Claude was triaging support tickets against a 30-page knowledge",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "prod",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 180
+      "score": 194
     },
     {
       "title": "13 copy-paste automation workflows every freelancer needs in 2026",
@@ -105,7 +78,7 @@
         "creators",
         "hot"
       ],
-      "score": 168
+      "score": 156
     },
     {
       "title": "Building a Lead Scoring Pipeline in n8n with GPT-4o-mini: A Step-by-Step Guide",
@@ -130,7 +103,7 @@
         "n8n",
         "hot"
       ],
-      "score": 166
+      "score": 154
     },
     {
       "title": "Efficient Price Monitoring on AWS WAF-Protected Sites with n8n and CapSolver",
@@ -155,92 +128,48 @@
         "creators",
         "hot"
       ],
-      "score": 146
+      "score": 134
     },
     {
-      "title": "From Flight to Proposal: AI Automation for the Solo Drone Pilot",
-      "url": "https://dev.to/ken_deng_ai/from-flight-to-proposal-ai-automation-for-the-solo-drone-pilot-452j",
+      "title": "CVSS 10 Gemini CLI Flaw Turns CI/CD Pipelines Into RCE Attack Vectors",
+      "url": "https://dev.to/bansac1981/cvss-10-gemini-cli-flaw-turns-cicd-pipelines-into-rce-attack-vectors-3iia",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:14:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Solo Pilot's Bottleneck You land the drone, swap batteries, and the real work begins. For hours, you’re not a pilot but a data clerk—transcribing flight logs and crafting clien",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Make",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "make",
-        "creators",
-        "hot"
-      ],
-      "score": 141
-    },
-    {
-      "title": "Beyond the API: 7 Untapped LinkedIn B2B Growth Hacks for Devs in 2024",
-      "url": "https://dev.to/michaelaiglobal/beyond-the-api-7-untapped-linkedin-b2b-growth-hacks-for-devs-in-2024-3aab",
-      "source": "Dev.to n8n",
-      "published_at": "2026-04-29T11:04:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Let's be honest. Most \"LinkedIn B2B Marketing\" advice feels like it was written for a different species. Vague platitudes, cringey \"thought leadership,\" and outreach scripts that r",
+      "published_at": "2026-05-04T02:30:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary Google has patched a maximum-severity (CVSS 10.0) vulnerability in its Gemini CLI tooling that allowed unauthenticated attackers to achieve remote code execution b",
       "tags": [
         "Gemini/Google",
-        "Eval/Observability",
+        "Agents",
+        "RAG/Vector",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "hot"
+      ],
+      "score": 124
+    },
+    {
+      "title": "Refactoring Your SEO Strategy: A B2B vs. B2C Deep Dive for Developers",
+      "url": "https://dev.to/michaelaiglobal/refactoring-your-seo-strategy-a-b2b-vs-b2c-deep-dive-for-developers-1goc",
+      "source": "Dev.to n8n",
+      "published_at": "2026-05-03T11:04:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You've nailed SEO for your side-hustle e-commerce store, so driving traffic to your new B2B SaaS should be a piece of cake, right? Not so fast. Applying a B2C playbook to a B2B pro",
+      "tags": [
+        "RAG/Vector",
         "NotebookLM",
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "eval",
+        "rag",
         "prod",
         "n8n",
         "hot"
       ],
-      "score": 141
-    },
-    {
-      "title": "How to Query Secretary of State Business Records Across 18 States with One API Call",
-      "url": "https://dev.to/avabuildsdata/how-to-query-secretary-of-state-business-records-across-18-states-with-one-api-call-8gn",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:32:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've ever needed to verify a business entity, check corporate filings, or pull registered agent information, you know the pain: each state has its own Secretary of State porta",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "status",
-        "hot"
-      ],
-      "score": 139
-    },
-    {
-      "title": "Pre-Auth SQLi Flaw in LiteLLM Gateway Actively Exploited to Steal AI Credentials",
-      "url": "https://dev.to/bansac1981/pre-auth-sqli-flaw-in-litellm-gateway-actively-exploited-to-steal-ai-credentials-1k1p",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-02T02:30:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary A critical unauthenticated SQL injection vulnerability (CVE-2026-42208) in LiteLLM, a widely-used LLM proxy and SDK middleware, is being actively exploited to extr",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 135
+      "score": 121
     },
     {
       "title": "Import Excel to n8n without Code",
@@ -263,27 +192,48 @@
         "zapier",
         "hot"
       ],
-      "score": 130
+      "score": 118
     },
     {
-      "title": "Give Your AI Agent Access to Real US Business Data via MCP",
-      "url": "https://dev.to/avabuildsdata/give-your-ai-agent-access-to-real-us-business-data-via-mcp-3oh7",
+      "title": "From Snapshot to Quote: Automating Handyman Estimates with AI",
+      "url": "https://dev.to/ken_deng_ai/from-snapshot-to-quote-automating-handyman-estimates-with-ai-4kgf",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:38:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're building AI agents with Claude, Cursor, or any MCP-compatible tool, you can give them access to real Secretary of State business records, building permits, and corporate ",
+      "published_at": "2026-05-04T02:00:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Estimation Bottleneck You're on-site, snapping photos of a damaged fence for a client. Later, you're hunched over a spreadsheet, mentally counting pickets and rails to build a ",
       "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Hot"
+        "GPT/OpenAI",
+        "Make",
+        "Creators",
+        "Release"
       ],
       "buckets": [
         "llm",
-        "agents",
-        "rag",
+        "make",
+        "creators",
         "hot"
       ],
-      "score": 129
+      "score": 117
+    },
+    {
+      "title": "From Drone Data to Draft Proposals: Automating Your Aerial Workflow",
+      "url": "https://dev.to/ken_deng_ai/from-drone-data-to-draft-proposals-automating-your-aerial-workflow-4hhe",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-04T01:40:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As a solo drone pilot, you’re a pilot, data processor, and salesperson. The bottleneck is real: hours spent transforming site data into compliant logs and compelling client proposa",
+      "tags": [
+        "RAG/Vector",
+        "Make",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "make",
+        "creators",
+        "hot"
+      ],
+      "score": 117
     },
     {
       "title": "Beyond the Mail Merge: Building Smart B2B Email Automation Workflows with Code",
@@ -306,7 +256,48 @@
         "creators",
         "hot"
       ],
-      "score": 128
+      "score": 116
+    },
+    {
+      "title": "From Photo to Quote: Automating Estimates with AI and Client Videos",
+      "url": "https://dev.to/ken_deng_ai/from-photo-to-quote-automating-estimates-with-ai-and-client-videos-596p",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-04T02:00:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Tired of driving across town for a 10-minute quote? You know the drill: a blurry client photo, missing details, and the inevitable callback for more info. This inefficiency eats pr",
+      "tags": [
+        "RAG/Vector",
+        "Multimodal",
+        "Make",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "multimodal",
+        "make",
+        "hot"
+      ],
+      "score": 115
+    },
+    {
+      "title": "Beyond the Bio: Using AI to Predict Pitch Success",
+      "url": "https://dev.to/ken_deng_ai/beyond-the-bio-using-ai-to-predict-pitch-success-36an",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-04T01:12:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your perfectly crafted pitch vanishes into the void. The problem isn't your writing; it's timing and relevance. You’re pitching a bio when you should be analyzing behavior. The cor",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "Make",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "make",
+        "hot"
+      ],
+      "score": 111
     },
     {
       "title": "From Chaos to Clarity: Automating HR Workflow Using n8n",
@@ -327,48 +318,102 @@
         "creators",
         "hot"
       ],
-      "score": 119
+      "score": 106
     },
     {
-      "title": "Manual AI Plagiarism Removal for Legal Documents: A Tech Professional’s Guide",
-      "url": "https://dev.to/ai_businessman/manual-ai-plagiarism-removal-for-legal-documents-a-tech-professionals-guide-1fg9",
+      "title": "Beyond Chatbots: How to Leverage AI-Powered Voice Assistants to Streamline Solopreneur Operations and Boost Productivity by 40%",
+      "url": "https://dev.to/naoanao/beyond-chatbots-how-to-leverage-ai-powered-voice-assistants-to-streamline-solopreneur-operations-3ggf",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:30:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: # Manual AI Plagiarism Removal for Legal Documents: A Tech Professional’s Guide ## Introduction: The Problem of Overlength Academic Papers and AI-Driven Solutions In today's academ",
+      "published_at": "2026-05-04T01:51:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to AI-Powered Voice Assistants As a solopreneur, managing multiple tasks and responsibilities can be overwhelming. With the rise of artificial intelligence (AI), voice",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "hot"
+      ],
+      "score": 99
+    },
+    {
+      "title": "Launch Your Social Impact App Suite: Building an Instagram-Style Platform for Good | SEO-Optimized Guide for Tech Pros and Business Decision-Makers",
+      "url": "https://dev.to/ai_businessman/launch-your-social-impact-app-suite-building-an-instagram-style-platform-for-good-seo-optimized-4ae8",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-04T01:31:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: markdown # Launch Your Social Impact App Suite: Building an Instagram-Style Platform for Good | SEO-Optimized Guide for Tech Pros and Business Decision-Makers ## Introduction: The ",
       "tags": [
         "RAG/Vector",
-        "Multimodal",
-        "NotebookLM",
+        "Make",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
-        "multimodal",
-        "prod",
+        "make",
         "hot"
       ],
-      "score": 113
+      "score": 99
     },
     {
-      "title": "Pricing with Precision: How AI Automates Quotes for Handymen",
-      "url": "https://dev.to/ken_deng_ai/pricing-with-precision-how-ai-automates-quotes-for-handymen-3bmd",
+      "title": "The Art of AI Translation: From Arborist Data to Client Proposals",
+      "url": "https://dev.to/ken_deng_ai/the-art-of-ai-translation-from-arborist-data-to-client-proposals-2mj7",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-02T02:00:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Pain of Manual Estimating You're on-site, snapping photos of a client's damaged deck. Back at your desk, you'll spend an hour manually counting boards, looking up prices, and c",
+      "published_at": "2026-05-04T01:12:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As a local arborist, you know the drill: spend hours on a meticulous tree risk assessment, then spend more hours translating \"decay column\" and \"root flare integrity\" into a clear ",
       "tags": [
         "RAG/Vector",
-        "Notion Update",
-        "Creators",
-        "Hot"
+        "Make",
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "rag",
-        "update",
-        "creators",
+        "make",
         "hot"
       ],
-      "score": 105
+      "score": 99
+    },
+    {
+      "title": "Building an AI-Powered Quantitative Trading System with Hermes Agent and IBKR",
+      "url": "https://dev.to/michael_zhang_39361ad72c9/building-an-ai-powered-quantitative-trading-system-with-hermes-agent-and-ibkr-476m",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-04T02:10:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building an AI-Powered Quantitative Trading System with Hermes Agent and IBKR How I set up a multi-signal ETF trading bot that runs on autopilot — and the 7 things that broke along",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "hot"
+      ],
+      "score": 97
+    },
+    {
+      "title": "Automating Vendor Compliance: An AI-Powered Verification Workflow",
+      "url": "https://dev.to/ken_deng_ai/automating-vendor-compliance-an-ai-powered-verification-workflow-50e0",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-04T02:10:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You know the drill. The festival is weeks away, and a mountain of vendor documents sits in your inbox. Manually checking each certificate for expiration dates, coverage limits, and",
+      "tags": [
+        "RAG/Vector",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "zapier",
+        "hot"
+      ],
+      "score": 95
     },
     {
       "title": "MQL to SQL: A Developer's Guide to Re-Engineering the B2B Sales Funnel",
@@ -387,99 +432,47 @@
         "n8n",
         "hot"
       ],
-      "score": 101
+      "score": 88
     },
     {
-      "title": "Automate Your Handyman Pricing with AI Precision",
-      "url": "https://dev.to/ken_deng_ai/automate-your-handyman-pricing-with-ai-precision-3hoi",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-02T02:00:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Stop Guessing, Start Calculating You're reviewing a photo of a client's deck, mentally listing materials, and hoping your labor estimate is right. This manual process costs you tim",
-      "tags": [
-        "Make",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "make",
-        "creators",
-        "hot"
-      ],
-      "score": 87
-    },
-    {
-      "title": "Building a Crypto Price Alert Bot with n8n and CoinGecko",
-      "url": "https://dev.to/chasebot/building-a-crypto-price-alert-bot-with-n8n-and-coingecko-52fe",
+      "title": "Automating PDF Report Generation with n8n and Node.js",
+      "url": "https://dev.to/chasebot/automating-pdf-report-generation-with-n8n-and-nodejs-5gme",
       "source": "Dev.to n8n",
-      "published_at": "2026-04-29T08:00:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What You'll Need n8n Cloud or self-hosted n8n Hetzner VPS or Contabo VPS for self-hosting Namecheap if setting up a domain CoinGecko API (free tier available at coingecko.com) A me",
+      "published_at": "2026-05-03T08:00:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What You'll Need n8n Cloud or self-hosted n8n Hetzner VPS or Contabo VPS for hosting Namecheap if domain needed Node.js 16+ installed locally A PDF generation library (we'll use PD",
       "tags": [
         "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Release"
+        "n8n"
       ],
       "buckets": [
         "rag",
-        "eval",
-        "n8n",
-        "hot"
+        "n8n"
       ],
-      "score": 84
+      "score": 69
     },
     {
-      "title": "AI for FBA Sellers: When to Escalate from AI Analysis to Legal Counsel",
-      "url": "https://dev.to/ken_deng_ai/ai-for-fba-sellers-when-to-escalate-from-ai-analysis-to-legal-counsel-4d51",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-02T02:10:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As an Amazon FBA seller, you know that a single IP infringement claim can destroy a thriving business. AI tools now offer powerful patent screening, but the line between a calculat",
+      "title": "Reverse-Engineering 5 B2B Marketing Engines That Generated Absurd ROI",
+      "url": "https://dev.to/michaelaiglobal/reverse-engineering-5-b2b-marketing-engines-that-generated-absurd-roi-2bjb",
+      "source": "Dev.to n8n",
+      "published_at": "2026-05-02T11:04:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As engineers, we're trained to see the world as a system. We deconstruct problems, analyze components, and build elegant solutions. So why does marketing often feel like some arcan",
       "tags": [
-        "Make",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "make",
+        "n8n",
         "hot"
       ],
-      "score": 79
+      "score": 66
     },
     {
-      "title": "Automating Construction Lead Generation with Building Permit Data (47 Cities)",
-      "url": "https://dev.to/avabuildsdata/automating-construction-lead-generation-with-building-permit-data-47-cities-1jd0",
+      "title": "Mastering Manual AI Plagiarism Removal for Legal Documents: A Comprehensive Guide for Tech Professionals and Business Decision-Makers",
+      "url": "https://dev.to/ai_businessman/mastering-manual-ai-plagiarism-removal-for-legal-documents-a-comprehensive-guide-for-tech-14lm",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:32:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Construction companies, roofing contractors, and building material suppliers all want the same thing: a list of property owners who just pulled a building permit. That's a person a",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 59
-    },
-    {
-      "title": "From Visual Chaos to Itemized List: How AI 'Reads' Your Job Site",
-      "url": "https://dev.to/ken_deng_ai/from-visual-chaos-to-itemized-list-how-ai-reads-your-job-site-5251",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:40:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You’re back from a long service call, phone full of photos and voice memos. Now comes the tedious evening work: deciphering your own notes, counting fixtures, and translating visua",
-      "tags": [
-        "Make"
-      ],
-      "buckets": [
-        "make"
-      ],
-      "score": 49
-    },
-    {
-      "title": "Creating a Compelling Premium Music Camp Poster Design: A Comprehensive Guide for Tech Professionals and Business Decision-Makers",
-      "url": "https://dev.to/ai_businessman/creating-a-compelling-premium-music-camp-poster-design-a-comprehensive-guide-for-tech-3611",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:31:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Note: The above blog post is designed to be SEO-friendly, informative, and engaging for tech professionals and business decision-makers involved in event promotion. Follow AI Busin",
+      "published_at": "2026-05-04T01:30:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Note: This article is designed to provide guidance and is not a substitute for professional legal advice. Follow AI Businessman for more insights on AI, SaaS, and automation: Dev.t",
       "tags": [
         "Release"
       ],
@@ -489,10 +482,10 @@
       "score": 35
     },
     {
-      "title": "Unlocking Growth: Maximizing Your Business with Content Affiliate Marketing | A Comprehensive Guide for Tech Professionals and Decision-Makers",
-      "url": "https://dev.to/ai_businessman/unlocking-growth-maximizing-your-business-with-content-affiliate-marketing-a-comprehensive-guide-ffk",
+      "title": "Create a Memorable Experience with SEO-Optimized Premium Music Camp Poster Design | Optimize Your Event Marketing with Nicole Cherry",
+      "url": "https://dev.to/ai_businessman/create-a-memorable-experience-with-seo-optimized-premium-music-camp-poster-design-optimize-your-379m",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-02T01:31:38.000Z",
+      "published_at": "2026-05-04T01:32:48.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Follow AI Businessman for more insights on AI, SaaS, and automation: Dev.to Hashnode WordPress Subscribe to our newsletter | Buy me a coffee Have questions? Drop a comment below! F",
       "tags": [],
       "buckets": [],
