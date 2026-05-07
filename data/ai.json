@@ -1,100 +1,60 @@
 {
-  "updated_at": "2026-05-06T02:42:35.279Z",
+  "updated_at": "2026-05-07T02:44:49.632Z",
   "items": [
-    {
-      "title": "Google, Microsoft, and xAI will allow the US government to review their new AI models",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924017/google-microsoft-xai-government-review",
-      "source": "The Verge AI",
-      "published_at": "2026-05-05T14:26:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google DeepMind, Microsoft, and Elon Musk's xAI have agreed to allow the US government to review new AI models before they're released to the public. In an announcement on Tuesday,",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google",
-        "Eval/Observability",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "eval",
-        "hot"
-      ],
-      "score": 188
-    },
-    {
-      "title": "Show HN: Airbyte Agents – context for agents across multiple data sources",
-      "url": "https://news.ycombinator.com/item?id=48023496",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T15:03:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m Michel, co-founder and CEO of Airbyte (https://airbyte.com/). We’ve spent the last six years building data connectors. Today we're launching Airbyte Agents (https://docs.airbyt",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "hot"
-      ],
-      "score": 139
-    },
     {
       "title": "Live updates from Elon Musk and Sam Altman’s court battle over the future of OpenAI",
       "url": "https://www.theverge.com/tech/917225/sam-altman-elon-musk-openai-lawsuit",
       "source": "The Verge AI",
-      "published_at": "2026-05-05T17:28:52.000Z",
+      "published_at": "2026-05-06T15:37:32.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sam Altman and Elon Musk are facing off in a high-stakes trial that could alter the future of OpenAI and its most well-known product, ChatGPT. In 2024, Musk filed a lawsuit accusin",
       "tags": [
         "GPT/OpenAI",
         "Multimodal",
+        "Make",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "multimodal",
+        "make",
         "hot"
       ],
-      "score": 111
+      "score": 135
     },
     {
-      "title": "Agents for financial services and insurance",
-      "url": "https://www.anthropic.com/news/finance-agents",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T15:05:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.anthropic.com/news/finance-agents Comments URL: https://news.ycombinator.com/item?id=48023533 Points: 206 # Comments: 156",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents"
-      ],
-      "buckets": [
-        "llm",
-        "agents"
-      ],
-      "score": 89
-    },
-    {
-      "title": "OpenAI claims ChatGPT’s new default model hallucinates way less",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924225/openai-chatgpt-default-model-gpt-5-5-instant",
+      "title": "Google shuts down Project Mariner",
+      "url": "https://www.theverge.com/tech/925559/google-project-mariner-shut-down",
       "source": "The Verge AI",
-      "published_at": "2026-05-05T17:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI's newest default model for ChatGPT might not make stuff up as much. Hallucinations have been an ongoing problem for AI models, but OpenAI says its new GPT-5.5 Instant model ",
+      "published_at": "2026-05-06T21:21:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has pulled the plug on Project Mariner, an experimental feature designed to perform tasks for you across the web, as reported earlier by Wired's Maxwell Zeff. The Project Ma",
       "tags": [
-        "GPT/OpenAI",
-        "Eval/Observability"
+        "Gemini/Google",
+        "Agents",
+        "Release"
       ],
       "buckets": [
         "llm",
-        "eval"
+        "agents",
+        "hot"
       ],
-      "score": 83
+      "score": 94
+    },
+    {
+      "title": "Chrome’s AI features may be hogging 4GB of your computer storage",
+      "url": "https://www.theverge.com/tech/924933/google-chrome-4gb-gemini-nano-ai-features",
+      "source": "The Verge AI",
+      "published_at": "2026-05-06T10:13:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Chrome may be taking up more of your storage than expected thanks to a large on-device AI model file that, in some cases, is being automatically downloaded to the browser's ",
+      "tags": [
+        "Gemini/Google",
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "llm",
+        "rag"
+      ],
+      "score": 80
     },
     {
       "title": "3 new ways Ads Advisor is making Google Ads safer and faster",
@@ -115,27 +75,45 @@
       "score": 79
     },
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-05T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "title": "Google&#8217;s AI search summaries will now quote Reddit",
+      "url": "https://www.theverge.com/tech/924993/google-ai-search-mode-overviews-update-reddit-links",
+      "source": "The Verge AI",
+      "published_at": "2026-05-06T13:00:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Want real human feedback related to your search results? Google’s AI now fetches it for you. | Image by Google / The Verge Google is updating its AI Search features to make it easi",
       "tags": [
-        "Gemini/Google",
-        "Multimodal"
+        "NotebookLM",
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "llm",
-        "multimodal"
+        "prod",
+        "hot"
       ],
-      "score": 76
+      "score": 77
     },
     {
-      "title": "OpenAI is reportedly launching a phone for ChatGPT",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/924063/openai-phone-rumors-2027-ming-chi-kuo",
+      "title": "Microsoft’s Office and LinkedIn chief now runs Teams in latest reshuffle",
+      "url": "https://www.theverge.com/tech/924931/microsoft-office-copilot-windows-reorg-shuffle",
       "source": "The Verge AI",
-      "published_at": "2026-05-05T14:54:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI's first hardware product might be a phone instead of a mysterious Jony Ive gadget. As reported by MacRumors, supply chain analyst Ming-Chi Kuo shared details about the rumor",
+      "published_at": "2026-05-06T11:45:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft's LinkedIn chief, Ryan Roslansky, took on an expanded role at the company as head of Office last year, and he's now getting more responsibilities as part of the latest le",
+      "tags": [
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 77
+    },
+    {
+      "title": "Mira Murati tells the court that she couldn’t trust Sam Altman’s words",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925338/openai-musk-v-altman-mira-murati",
+      "source": "The Verge AI",
+      "published_at": "2026-05-06T17:55:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Mira Murati, OpenAI's former CTO, has testified under oath that CEO Sam Altman lied to her about the safety standards for a new AI model. In a video deposition shown during the ong",
       "tags": [
         "GPT/OpenAI",
         "Release"
@@ -147,11 +125,11 @@
       "score": 75
     },
     {
-      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
-      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
-      "source": "The Verge AI",
-      "published_at": "2026-05-05T21:46:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, wh",
+      "title": "5 gardening tips you can try right in Search",
+      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-06T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
       "tags": [
         "Gemini/Google",
         "Release"
@@ -181,36 +159,48 @@
       "score": 69
     },
     {
-      "title": "Zuckerberg 'Personally Authorized and Encouraged' Meta's Copyright Infringement",
-      "url": "https://variety.com/2026/digital/news/meta-ai-mark-zuckerberg-copyright-infringement-lawsuit-publishers-scott-turow-1236738383/",
+      "title": "Higher usage limits for Claude and a compute deal with SpaceX",
+      "url": "https://www.anthropic.com/news/higher-limits-spacex",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T18:04:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://apnews.com/article/meta-mark-zuckerberg-ai-publisher... Comments URL: https://news.ycombinator.com/item?id=48026207 Points: 268 # Comments: 236",
+      "published_at": "2026-05-06T16:17:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.anthropic.com/news/higher-limits-spacex Comments URL: https://news.ycombinator.com/item?id=48037986 Points: 396 # Comments: 343",
       "tags": [
-        "RAG/Vector",
-        "Hot"
+        "Claude/Anthropic"
       ],
       "buckets": [
-        "rag",
-        "hot"
+        "llm"
       ],
       "score": 65
     },
     {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "url": "https://arxiv.org/abs/2604.26752",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T17:52:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2604.26752 Comments URL: https://news.ycombinator.com/item?id=48026021 Points: 119 # Comments: 23",
+      "title": "Musk’s biggest loyalist became his biggest liability",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/925665/musk-altman-trial-shivon-zilis-testimony",
+      "source": "The Verge AI",
+      "published_at": "2026-05-06T23:37:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I sat down in the Musk v. Altman trial courtroom today, painfully aware that no one was going to ask Shivon Zilis the question on everyone's minds: Girl, what the fuck are you doin",
       "tags": [
-        "Agents",
+        "GPT/OpenAI"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 65
+    },
+    {
+      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
+      "source": "Google AI Blog",
+      "published_at": "2026-05-05T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
+      "tags": [
+        "Gemini/Google",
         "Multimodal"
       ],
       "buckets": [
-        "agents",
+        "llm",
         "multimodal"
       ],
-      "score": 65
+      "score": 63
     },
     {
       "title": "Create, edit and share videos at no cost in Google Vids",
@@ -263,11 +253,27 @@
       "score": 57
     },
     {
-      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
-      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "title": "Google Home&#8217;s Gemini AI can handle more complicated requests",
+      "url": "https://www.theverge.com/tech/924755/google-home-gemini-3-1-upgrade",
       "source": "The Verge AI",
-      "published_at": "2026-05-05T21:18:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The propose",
+      "published_at": "2026-05-05T21:46:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Home users can now ask Gemini to complete more complex, multi-step tasks and combine multiple tasks in a single command. Google has updated Gemini for Home to Gemini 3.1, wh",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 57
+    },
+    {
+      "title": "How David Sacks crashed and burned in the White House",
+      "url": "https://www.theverge.com/column/925487/david-sacks-trump-administration-ai-model-review",
+      "source": "The Verge AI",
+      "published_at": "2026-05-06T20:18:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI and Crypto Czar David O. Sacks speaks during a meeting of the White House Task Force on Artificial Intelligence Education at the White House. | Matt McClain/The Washington Post ",
       "tags": [
         "Hot",
         "Release"
@@ -278,26 +284,25 @@
       "score": 55
     },
     {
-      "title": "Book publishers sue Meta over AI&#8217;s &#8216;word-for-word&#8217; copying",
-      "url": "https://www.theverge.com/tech/924230/meta-publishers-lawsuit-ai-copyright",
-      "source": "The Verge AI",
-      "published_at": "2026-05-05T16:52:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Meta is facing a class action lawsuit filed by five major book publishers and one author over claims the company \"engaged in one of the most massive infringements of copyrighted ma",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Telus Uses AI to Alter Call-Agent Accents",
-      "url": "https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63",
+      "title": "Show HN: Tilde.run – Agent sandbox with a transactional, versioned filesystem",
+      "url": "https://tilde.run/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-06T01:38:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://letsdatascience.com/news/telus-uses-ai-to-alter-call-agent-accents-a3868f63 Comments URL: https://news.ycombinator.com/item?id=48031109 Points: 7 # Comments: 1",
+      "published_at": "2026-05-06T15:58:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://tilde.run/ Comments URL: https://news.ycombinator.com/item?id=48037724 Points: 130 # Comments: 98",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Vibe coding and agentic engineering are getting closer than I'd like",
+      "url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-05-06T15:06:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/ Comments URL: https://news.ycombinator.com/item?id=48037128 Points: 425 # Comments: 459",
       "tags": [
         "Agents"
       ],
@@ -321,20 +326,6 @@
       "score": 47
     },
     {
-      "title": "I'm scared about biological computing",
-      "url": "https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T16:03:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://kuber.studio/blog/Reflections/I%27m-Scared-About-Biological-Computing Comments URL: https://news.ycombinator.com/item?id=48024358 Points: 151 # Comments: 134",
-      "tags": [
-        "NotebookLM"
-      ],
-      "buckets": [
-        "prod"
-      ],
-      "score": 47
-    },
-    {
       "title": "8 Gemini tips for organizing your space (and life)",
       "url": "https://blog.google/products-and-platforms/products/gemini/gemini-spring-cleaning-tips/",
       "source": "Google AI Blog",
@@ -351,27 +342,25 @@
       "score": 45
     },
     {
-      "title": "The latest AI news we announced in March 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-march-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-04-01T13:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Here are Google’s latest AI updates from March 2026",
+      "title": "ADT says customer data stolen in cyber intrusion",
+      "url": "https://therecord.media/ADT-data-breach-cyberattack",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-05-06T23:51:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://therecord.media/ADT-data-breach-cyberattack Comments URL: https://news.ycombinator.com/item?id=48043487 Points: 25 # Comments: 5",
       "tags": [
-        "Gemini/Google",
-        "Release"
+        "Hot"
       ],
       "buckets": [
-        "llm",
         "hot"
       ],
       "score": 45
     },
     {
-      "title": "Show HN: Explore color palettes inspired by 3000 master painter artworks",
-      "url": "https://paletteinspiration.com/",
+      "title": "SQLite Is a Library of Congress Recommended Storage Format",
+      "url": "https://sqlite.org/locrsf.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T18:13:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I built PaletteInspiration.com, a browsable archive of color palettes pulled from artworks by 3,000+ master painters (Monet, Vermeer, Raphael, Van Gogh). Why I built it: every colo",
+      "published_at": "2026-05-06T21:58:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://sqlite.org/locrsf.html Comments URL: https://news.ycombinator.com/item?id=48042434 Points: 26 # Comments: 6",
       "tags": [
         "RAG/Vector"
       ],
@@ -379,6 +368,63 @@
         "rag"
       ],
       "score": 45
+    },
+    {
+      "title": "Google Cloud fraud defense, the next evolution of reCAPTCHA",
+      "url": "https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-05-06T17:59:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/ Comments URL: https://news.ycombinator",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Show HN: I built an open-source email builder, alternative to Beefree/Unlayer",
+      "url": "https://play.templatical.com",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-05-06T16:20:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://play.templatical.com Comments URL: https://news.ycombinator.com/item?id=48038019 Points: 105 # Comments: 24",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Coverage Cat (YC S22) Seeks Fractional Engineer to Build AI Growth Toolkit",
+      "url": "https://www.coveragecat.com/careers/engineering/fractional-growth-engineer",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-05-06T12:00:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.coveragecat.com/careers/engineering/fractional-growth-engineer Comments URL: https://news.ycombinator.com/item?id=48035223 Points: 0 # Comments: 0",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Apple agrees to pay iPhone owners $250 million for not delivering AI Siri",
+      "url": "https://www.theverge.com/tech/924706/apple-iphone-siri-intelligence-class-action-lawsuit-settlement",
+      "source": "The Verge AI",
+      "published_at": "2026-05-05T21:18:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple has agreed to pay $250 million to settle a class action lawsuit that accused it of misleading customers about the availability of its Apple Intelligence features. The propose",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 42
     },
     {
       "title": "Celebrating 20 years of Google Translate: Fun facts, tips and new features to try",
@@ -535,11 +581,11 @@
       "score": 35
     },
     {
-      "title": "California farmers to destroy 420k peach trees following Del Monte bankruptcy",
-      "url": "https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php",
+      "title": "Inkscape 1.4.4",
+      "url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T18:13:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.sfgate.com/centralcoast/article/usda-aid-california-farmers-22240694.php Comments URL: https://news.ycombinator.com/item?id=48026349 Points: 276 # Comments",
+      "published_at": "2026-05-06T19:33:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html Comments URL: https://news.ycombinator.com/item?id=48040622 Points: 224 # Comments: 63",
       "tags": [
         "Release"
       ],
@@ -549,11 +595,11 @@
       "score": 35
     },
     {
-      "title": "Microsoft gives up on Xbox Copilot AI",
-      "url": "https://www.theverge.com/games/924551/microsoft-xbox-ceo-copilot-ai-asha-sharma",
-      "source": "The Verge AI",
-      "published_at": "2026-05-05T19:54:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Xbox is \"winding down Copilot on mobile\" and \"will stop development of Copilot on console,\" new Xbox CEO Asha Sharma announced on Tuesday. The move follows Sharma's reorganization ",
+      "title": "Valve releases Steam Controller CAD files under Creative Commons license",
+      "url": "https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-05-06T15:44:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.digitalfoundry.net/news/2026/05/valve-releases-steam-controller-cad-files-under-creative-commons-license Comments URL: https://news.ycombinator.com/item?id",
       "tags": [
         "Release"
       ],
@@ -563,149 +609,101 @@
       "score": 35
     },
     {
-      "title": "Apple could let you pick a favorite AI model in iOS 27",
-      "url": "https://www.theverge.com/tech/924515/apple-intelligence-third-party-chatbot-extensions-ios-27",
-      "source": "The Verge AI",
-      "published_at": "2026-05-05T19:45:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The next update to Apple's operating systems could allow users to choose their preferred AI model for running Apple Intelligence. According to Bloomberg's Mark Gurman, Apple is pla",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "What an AI-designed car looks like",
-      "url": "https://www.theverge.com/podcast/923974/ai-car-design-codex-vergecast",
-      "source": "The Verge AI",
-      "published_at": "2026-05-05T13:42:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The cars rolling off production lines right now are filled with old ideas. From beginning to end, the creation of a new vehicle can take five years or longer - which is plenty of t",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "StarFighter 16-Inch",
-      "url": "https://us.starlabs.systems/pages/starfighter",
+      "title": "The Vatican's Website in Latin",
+      "url": "https://www.vatican.va/latin/latin_index.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-06T02:03:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://us.starlabs.systems/pages/starfighter Comments URL: https://news.ycombinator.com/item?id=48031261 Points: 5 # Comments: 1",
+      "published_at": "2026-05-07T01:26:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.vatican.va/latin/latin_index.html Comments URL: https://news.ycombinator.com/item?id=48044311 Points: 42 # Comments: 23",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Write some software, give it away for free",
-      "url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
+      "title": "The Old Guard: Confronting America's Gerontocratic Crisis",
+      "url": "https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T21:26:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026 Comments URL: https://news.ycombinator.com/item?id=48028842 Points: 145 # Comments: 106",
+      "published_at": "2026-05-07T00:12:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://harpers.org/archive/2026/05/the-old-guard-samuel-moyn-gerontocracy/ Comments URL: https://news.ycombinator.com/item?id=48043706 Points: 42 # Comments: 32",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Why most product tours get skipped",
-      "url": "https://productonboarding.com/articles/why-product-tours-get-skipped",
+      "title": "Show HN: PHP-fts – Full-text search engine in pure PHP, no extensions",
+      "url": "https://github.com/olivier-ls/php-fts",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T21:05:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://productonboarding.com/articles/why-product-tours-get-skipped Comments URL: https://news.ycombinator.com/item?id=48028546 Points: 77 # Comments: 70",
+      "published_at": "2026-05-06T20:28:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/olivier-ls/php-fts Comments URL: https://news.ycombinator.com/item?id=48041316 Points: 33 # Comments: 8",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": ".de TLD offline due to DNSSEC?",
-      "url": "https://dnssec-analyzer.verisignlabs.com/nic.de",
+      "title": "Programming Still Sucks",
+      "url": "https://www.stvn.sh/writing/programming-still-sucks-fqffhyp",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T20:16:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://dnssec-analyzer.verisignlabs.com/nic.de Comments URL: https://news.ycombinator.com/item?id=48027897 Points: 542 # Comments: 258",
+      "published_at": "2026-05-06T19:06:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.stvn.sh/writing/programming-still-sucks-fqffhyp Comments URL: https://news.ycombinator.com/item?id=48040269 Points: 118 # Comments: 20",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "IBM didn't want Microsoft to use the Tab key to move between dialog fields",
-      "url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
+      "title": "Learning the Integral of a Diffusion Model",
+      "url": "https://sander.ai/2026/05/06/flow-maps.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T17:28:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298 Comments URL: https://news.ycombinator.com/item?id=48025687 Points: 306 # Comments: 177",
+      "published_at": "2026-05-06T18:46:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://sander.ai/2026/05/06/flow-maps.html Comments URL: https://news.ycombinator.com/item?id=48040002 Points: 102 # Comments: 17",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Proliferate (YC S25) Is Hiring- 200k for junior engineers",
-      "url": "https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer",
+      "title": "From Supabase to Clerk to Better Auth",
+      "url": "https://blog.val.town/better-auth",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T17:00:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/proliferate/jobs/L3copvK-founding-engineer Comments URL: https://news.ycombinator.com/item?id=48025244 Points: 0 # Comments: 0",
+      "published_at": "2026-05-06T17:19:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.val.town/better-auth Comments URL: https://news.ycombinator.com/item?id=48038827 Points: 210 # Comments: 137",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Computer Use is 45x more expensive than structured APIs",
-      "url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+      "title": "SoundOff: Low-Cost Passive Ultrasound Tags",
+      "url": "https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T16:34:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/ Comments URL: https://news.ycombinator.com/item?id=48024859 Points: 325 # Comments: 19",
+      "published_at": "2026-05-06T17:13:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://yibo-fu.com/SoundOff-Low-cost-Passive-Ultrasound-Tags-for-Non-invasive-and-Non Comments URL: https://news.ycombinator.com/item?id=48038750 Points: 39 # Comment",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Accelerating Gemma 4: faster inference with multi-token prediction drafters",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
+      "title": "Show HN: Hallucinopedia",
+      "url": "http://halupedia.com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T16:14:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/ Comments URL: https://news.ycombinator.com/item?id=48024540 Points: 4",
+      "published_at": "2026-05-06T16:37:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: http://halupedia.com/ Comments URL: https://news.ycombinator.com/item?id=48038257 Points: 156 # Comments: 156",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "EEVblog: The 555 Timer is 55 years old [video]",
-      "url": "https://www.youtube.com/watch?v=6JhK8iCQuqI",
+      "title": "Appearing productive in the workplace",
+      "url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T15:47:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.youtube.com/watch?v=6JhK8iCQuqI Comments URL: https://news.ycombinator.com/item?id=48024129 Points: 234 # Comments: 60",
+      "published_at": "2026-05-06T16:18:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nooneshappy.com/article/appearing-productive-in-the-workplace/ Comments URL: https://news.ycombinator.com/item?id=48038001 Points: 757 # Comments: 292",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Three Inverse Laws of AI",
-      "url": "https://susam.net/inverse-laws-of-robotics.html",
+      "title": "Ted Turner has died",
+      "url": "https://www.cnn.com/2026/05/06/us/ted-turner-death",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T15:27:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://susam.net/inverse-laws-of-robotics.html Comments URL: https://news.ycombinator.com/item?id=48023861 Points: 369 # Comments: 251",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-      "url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T12:28:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/ Comments URL: https://news.ycombinator.com/item?id=48021561 Points: 383 # Comments: 292",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Today I've made the difficult decision to reduce the size of Coinbase by ~14%",
-      "url": "https://twitter.com/brian_armstrong/status/2051616759145185723",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-05-05T12:10:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://twitter.com/brian_armstrong/status/2051616759145185723 Comments URL: https://news.ycombinator.com/item?id=48021368 Points: 274 # Comments: 401",
+      "published_at": "2026-05-06T14:56:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cnn.com/2026/05/06/us/ted-turner-death Comments URL: https://news.ycombinator.com/item?id=48037009 Points: 235 # Comments: 188",
       "tags": [],
       "buckets": [],
       "score": 25
