@@ -1,69 +1,106 @@
 {
-  "updated_at": "2026-05-08T02:49:30.090Z",
+  "updated_at": "2026-05-12T02:50:38.557Z",
   "items": [
     {
-      "title": "Best Best Notion in 2026: For Every Budget",
-      "url": "https://dev.to/johalputt/best-best-notion-in-2026-for-every-budget-2o0o",
+      "title": "How We Grew Trello vs Notion: A Head-to-Head",
+      "url": "https://dev.to/johalputt/how-we-grew-trello-vs-notion-a-head-to-head-390b",
       "source": "Dev.to Notion",
-      "published_at": "2026-05-07T22:51:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 2026, Notion’s annualized churn hit 18% among engineering teams spending >$10k/year, per our benchmark of 1,200+ developer workspaces: 42% cite unpredictable per-seat scaling co",
+      "published_at": "2026-05-10T23:27:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In a 90-day controlled rollout across 12 engineering teams (n=48 users), Notion's API throughput averaged 42.3 requests/sec vs. Trello's 28.7 requests/sec, but Trello's board-load ",
       "tags": [
-        "Claude/Anthropic",
-        "Gemini/Google",
         "Agents",
         "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "Zapier",
         "Notion Update",
+        "Notion Status",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
         "rag",
+        "eval",
+        "prod",
+        "make",
+        "zapier",
         "update",
+        "status",
         "creators",
         "hot"
       ],
-      "score": 214
+      "score": 230
     },
     {
-      "title": "Which No-Code Notion in 2026: Real Results",
-      "url": "https://dev.to/johalputt/which-no-code-notion-in-2026-real-results-12a",
+      "title": "Best No-Code Platforms Notion in 2026: Step-by-Step",
+      "url": "https://dev.to/johalputt/best-no-code-platforms-notion-in-2026-step-by-step-7bi",
       "source": "Dev.to Notion",
-      "published_at": "2026-05-07T18:06:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In Q1 2026, 72% of teams using no-code Notion integrations reported production outages tied to unversioned schema changes, but benchmark testing of 8 leading tools reveals the top ",
+      "published_at": "2026-05-08T07:11:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 2025, 72% of engineering teams reported wasting 14+ hours per week on manual Notion data entry and workflow maintenance, according to a Stack Overflow developer survey. By 2026,",
       "tags": [
-        "Gemini/Google",
-        "Agents",
         "RAG/Vector",
+        "Eval/Observability",
+        "Make",
+        "n8n",
         "Zapier",
         "Notion Status",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "agents",
         "rag",
+        "eval",
+        "make",
+        "n8n",
         "zapier",
         "status",
+        "creators",
         "hot"
       ],
       "score": 174
     },
     {
-      "title": "Best Review Notion in 2026: Tested & Reviewed",
-      "url": "https://dev.to/johalputt/best-review-notion-in-2026-tested-reviewed-2llb",
+      "title": "How We Grew Notion vs Sketch: What You Need to Know",
+      "url": "https://dev.to/johalputt/how-we-grew-notion-vs-sketch-what-you-need-to-know-3295",
       "source": "Dev.to Notion",
-      "published_at": "2026-05-07T09:35:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 2026, 73% of engineering teams report wasting 4.2 hours per week on fragmented documentation workflows, with Notion remaining the top tool despite a 28% year-over-year increase ",
+      "published_at": "2026-05-09T02:27:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In a 90-day head-to-head deployment across three engineering teams, Notion's API handled 14,200 requests/min with a p99 latency of 320ms, while Sketch's plugin ecosystem processed ",
       "tags": [
+        "GPT/OpenAI",
         "RAG/Vector",
+        "Eval/Observability",
         "Multimodal",
         "Zapier",
         "Notion Update",
-        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "eval",
+        "multimodal",
+        "zapier",
+        "update",
+        "hot"
+      ],
+      "score": 166
+    },
+    {
+      "title": "Review HubSpot vs Notion: A Head-to-Head",
+      "url": "https://dev.to/johalputt/review-hubspot-vs-notion-a-head-to-head-495l",
+      "source": "Dev.to Notion",
+      "published_at": "2026-05-08T14:55:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: HubSpot vs Notion: Head-to-Head Review Choosing between HubSpot and Notion is a common dilemma for teams looking to streamline operations, manage customer relationships, or organiz",
+      "tags": [
+        "RAG/Vector",
+        "Multimodal",
+        "NotebookLM",
+        "Zapier",
         "Creators",
         "Hot",
         "Release"
@@ -71,13 +108,82 @@
       "buckets": [
         "rag",
         "multimodal",
+        "prod",
         "zapier",
-        "update",
-        "status",
         "creators",
         "hot"
       ],
-      "score": 171
+      "score": 126
+    },
+    {
+      "title": "Case Study Notion vs Asana: A Head-to-Head",
+      "url": "https://dev.to/johalputt/case-study-notion-vs-asana-a-head-to-head-1ca4",
+      "source": "Dev.to Notion",
+      "published_at": "2026-05-08T12:33:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Case Study: Notion vs Asana – A Head-to-Head Evaluation for SaaS Teams Choosing the right project management (PM) tool is a high-stakes decision for growing organizations. For mid-",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
+        "Zapier",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "multimodal",
+        "zapier",
+        "creators",
+        "hot"
+      ],
+      "score": 122
+    },
+    {
+      "title": "We Built a Adalo vs Notion: A Head-to-Head",
+      "url": "https://dev.to/johalputt/we-built-a-adalo-vs-notion-a-head-to-head-4jio",
+      "source": "Dev.to Notion",
+      "published_at": "2026-05-08T12:08:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Adalo vs Notion: A Head-to-Head Comparison After Building With Both When evaluating no-code tools, Adalo and Notion often come up in conversation—but they serve very different purp",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Zapier",
+        "Notion Update",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "zapier",
+        "update",
+        "creators",
+        "hot"
+      ],
+      "score": 118
+    },
+    {
+      "title": "How to Sell Notion Templates as a Developer — $5K/Month Passive Income",
+      "url": "https://dev.to/_6638a39c349d7e9c85ee20/how-to-sell-notion-templates-as-a-developer-5kmonth-passive-income-4db7",
+      "source": "Dev.to Notion",
+      "published_at": "2026-05-11T15:37:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published on AI Study Room. For the full version with working code examples and related articles, visit the original post. Selling Notion templates has ",
+      "tags": [
+        "NotebookLM",
+        "Notion Update",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "update",
+        "creators",
+        "hot"
+      ],
+      "score": 117
     },
     {
       "title": "No-Code vs E-commerce Store vs Notion: Which Wins?",
@@ -100,162 +206,72 @@
         "creators",
         "hot"
       ],
-      "score": 137
+      "score": 112
     },
     {
-      "title": "Notion for Non-Technical Founders: What No One Tells You",
-      "url": "https://dev.to/johalputt/notion-for-non-technical-founders-what-no-one-tells-you-4cb3",
+      "title": "Notion vs Obsidian vs Linear (2026): Best Dev Knowledge & Project Tool?",
+      "url": "https://dev.to/_6638a39c349d7e9c85ee20/notion-vs-obsidian-vs-linear-2026-best-dev-knowledge-project-tool-1l98",
       "source": "Dev.to Notion",
-      "published_at": "2026-05-07T03:50:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After auditing 47 early-stage startups using Notion as their primary operational database, we found 82% of non-technical founders underestimate Notion’s API rate limits by 4x, lead",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Notion Update",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "update",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "Revenue Report GitHub vs Notion: What You Need to Know",
-      "url": "https://dev.to/johalputt/revenue-report-github-vs-notion-what-you-need-to-know-3ma6",
-      "source": "Dev.to Notion",
-      "published_at": "2026-05-05T23:43:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Revenue Report GitHub vs Notion: What You Need to Know When building, tracking, or sharing revenue reports, teams often weigh technical collaboration tools like GitHub against all-",
+      "published_at": "2026-05-09T03:17:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was originally published on AI Study Room. For the full version with working code examples and related articles, visit the original post. Developers need different too",
       "tags": [
         "RAG/Vector",
-        "Eval/Observability",
-        "Zapier",
+        "NotebookLM",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
-        "eval",
-        "zapier",
+        "prod",
         "creators",
         "hot"
       ],
-      "score": 118
+      "score": 102
     },
     {
-      "title": "From a single-HTML-file finance app to a Notion template — lessons in shipping for users🥹",
-      "url": "https://dev.to/buildwithbalaji/from-a-single-html-file-finance-app-to-a-notion-template-lessons-in-shipping-for-users-4588",
+      "title": "Test Notion database queries without a workspace",
+      "url": "https://dev.to/fetchsandbox/test-notion-database-queries-without-a-workspace-56eh",
       "source": "Dev.to Notion",
-      "published_at": "2026-05-07T13:23:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've spent 12+ years writing automation systems for production platforms — test frameworks, API testing pipelines, the kind of code that runs invisibly so people upstream can ship ",
+      "published_at": "2026-05-11T23:44:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Testing a Notion database query sounds simple until you try to do it in a real workspace. You need a workspace. You need an integration token. You need to share the right database ",
       "tags": [
-        "Multimodal",
-        "Notion Update",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "update",
-        "creators",
-        "hot"
-      ],
-      "score": 111
-    },
-    {
-      "title": "Notion: Build an App Without Coding for Beginners",
-      "url": "https://dev.to/johalputt/notion-build-an-app-without-coding-for-beginners-4l7f",
-      "source": "Dev.to Notion",
-      "published_at": "2026-05-07T19:44:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Notion: Build an App Without Coding for Beginners Notion has revolutionized how non-technical users build custom tools, blurring the line between a simple note-taking app and a ful",
-      "tags": [
-        "RAG/Vector",
-        "Notion Update",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "update",
-        "creators",
-        "hot"
-      ],
-      "score": 95
-    },
-    {
-      "title": "Comparison HubSpot vs Notion: A Head-to-Head",
-      "url": "https://dev.to/johalputt/comparison-hubspot-vs-notion-a-head-to-head-2l5h",
-      "source": "Dev.to Notion",
-      "published_at": "2026-05-07T10:14:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: HubSpot vs Notion: A Head-to-Head Comparison Choosing the right business tool can make or break your workflow efficiency. Two of the most popular platforms on the market today are ",
-      "tags": [
-        "Eval/Observability",
-        "Notion Update",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "update",
-        "hot"
-      ],
-      "score": 95
-    },
-    {
-      "title": "How We Grew Asana vs Notion: A Head-to-Head",
-      "url": "https://dev.to/johalputt/how-we-grew-asana-vs-notion-a-head-to-head-3kg4",
-      "source": "Dev.to Notion",
-      "published_at": "2026-05-06T11:56:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How We Grew Asana vs Notion: A Head-to-Head When our team was tasked with scaling two of the most popular work management tools on the market, we knew we’d be navigating two distin",
-      "tags": [
-        "RAG/Vector",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 80
-    },
-    {
-      "title": "The Minimum Viable System Every Freelancer Actually Needs",
-      "url": "https://dev.to/alfred_p_c0ddb65b3df9fc36/the-minimum-viable-system-every-freelancer-actually-needs-3gje",
-      "source": "Dev.to Notion",
-      "published_at": "2026-05-06T14:55:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Running a freelance business without systems is like trying to cook in a kitchen where nothing has a fixed place. You can do it. But you spend half your time looking for things. Th",
-      "tags": [
-        "GPT/OpenAI",
-        "Release"
+        "Claude/Anthropic",
+        "Agents"
       ],
       "buckets": [
         "llm",
-        "hot"
+        "agents"
       ],
-      "score": 62
+      "score": 89
     },
     {
-      "title": "Import Spreadsheet to Notion",
-      "url": "https://dev.to/csvbox-io/import-spreadsheet-to-notion-4oil",
+      "title": "The 20-Minute Weekly Review That Keeps a Freelance Business Together",
+      "url": "https://dev.to/alfred_p_c0ddb65b3df9fc36/the-20-minute-weekly-review-that-keeps-a-freelance-business-together-33of",
       "source": "Dev.to Notion",
-      "published_at": "2026-05-06T04:24:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to the Topic Notion has carved out a huge user base among startups, dev teams, and no-code practitioners. Whether you're managing CRM data or building content dashboar",
+      "published_at": "2026-05-11T12:16:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most freelance businesses do not fall apart dramatically. They drift. A missed follow-up. A late invoice. A project slipping because nobody was watching the deadline. The fix is tw",
       "tags": [
-        "Zapier",
-        "Release"
+        "Creators"
       ],
       "buckets": [
-        "zapier",
-        "hot"
+        "creators"
       ],
-      "score": 42
+      "score": 43
+    },
+    {
+      "title": "The Weekly Review That Keeps a Freelance Business from Falling Apart",
+      "url": "https://dev.to/alfred_p_c0ddb65b3df9fc36/the-weekly-review-that-keeps-a-freelance-business-from-falling-apart-epa",
+      "source": "Dev.to Notion",
+      "published_at": "2026-05-08T12:17:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most freelance businesses do not fall apart dramatically. They drift. A missed follow-up here. A late invoice there. A project that slips because nobody was tracking the deadline c",
+      "tags": [
+        "Creators"
+      ],
+      "buckets": [
+        "creators"
+      ],
+      "score": 18
     }
   ]
 }
