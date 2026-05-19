@@ -1,6 +1,35 @@
 {
-  "updated_at": "2026-05-18T03:34:00.061Z",
+  "updated_at": "2026-05-19T03:27:15.890Z",
   "items": [
+    {
+      "title": "Cognitive middleware for n8n agents: four ways to wire Ejentum in",
+      "url": "https://dev.to/frank_brsrk/cognitive-middleware-for-n8n-agents-four-ways-to-wire-ejentum-in-3kao",
+      "source": "Dev.to n8n",
+      "published_at": "2026-05-18T14:05:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One n8n workflow with four integration patterns for wiring a reasoning harness into an agent. Pick your tradeoff between determinism and model discretion. LLMs are good at producin",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 274
+    },
     {
       "title": "The Complete Skool API Guide (2026): Posts, Members, Classroom, and 100% Automations",
       "url": "https://dev.to/cristiantalasanchez/the-complete-skool-api-guide-2026-posts-members-classroom-and-100-automations-3a73",
@@ -27,7 +56,36 @@
         "zapier",
         "hot"
       ],
-      "score": 249
+      "score": 236
+    },
+    {
+      "title": "Claude Business Workflows: A Practical Setup Guide",
+      "url": "https://dev.to/forgeflows/claude-business-workflows-a-practical-setup-guide-1ihb",
+      "source": "Dev.to n8n",
+      "published_at": "2026-05-18T06:03:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 2026, a solo founder running a 6-person e-commerce operation told me she was spending her Sunday evenings triaging 200+ emails, manually flagging refund requests, and copy-pasti",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "NotebookLM",
+        "Make",
+        "n8n",
+        "Zapier",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "make",
+        "n8n",
+        "zapier",
+        "creators",
+        "hot"
+      ],
+      "score": 227
     },
     {
       "title": "6 n8n Workflow Patterns for AI Automation (Lead Gen, Enrichment, RAG, Self-Healing)",
@@ -55,36 +113,7 @@
         "creators",
         "hot"
       ],
-      "score": 239
-    },
-    {
-      "title": "n8n's Official MCP Costs 41x More Tokens. That's Not Why I Still Use The Community One.",
-      "url": "https://dev.to/rentierdigital/n8ns-official-mcp-costs-41x-more-tokens-thats-not-why-i-still-use-the-community-one-5b36",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-16T13:41:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I tested n8n's official MCP the day it shipped. I asked it for an appointment-booking agent on Google Calendar, nothing exotic. 4 minutes later it had scaffolded 80 to 90% of the t",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Multimodal",
-        "Make",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "multimodal",
-        "make",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 208
+      "score": 226
     },
     {
       "title": "Can AI Agents Replace Enterprise Workflow Orchestration? A Real-World Test — OpenClaw. n8n. Claude Dispatch. A side-by-side comparison..",
@@ -111,32 +140,97 @@
         "creators",
         "hot"
       ],
-      "score": 195
+      "score": 182
     },
     {
-      "title": "Building AI Agents: A 3-Level Roadmap for Developers",
-      "url": "https://dev.to/forgeflows/building-ai-agents-a-3-level-roadmap-for-developers-1d1j",
+      "title": "I turned every n8n node into a machine-readable dataset (524 nodes, free) so agents can build workflows",
+      "url": "https://dev.to/ratamaha/i-turned-every-n8n-node-into-a-machine-readable-dataset-524-nodes-free-so-agents-can-build-4gbf",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-16T18:02:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 2026, a developer I know spent three weeks reading papers on transformer architectures before writing a single line of agent code. He never shipped anything. Meanwhile, a collea",
+      "published_at": "2026-05-18T12:53:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have been writing agents that build n8n workflows. The hard part is not \"call the n8n API and post a workflow JSON.\" The hard part is \"pick the right node, with the right operati",
       "tags": [
+        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
-        "NotebookLM",
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
         "rag",
         "eval",
-        "prod",
         "n8n",
         "hot"
       ],
-      "score": 150
+      "score": 181
+    },
+    {
+      "title": "Browser-action receipts are not logs",
+      "url": "https://dev.to/eliofbm/browser-action-receipts-are-not-logs-2e77",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:53:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The browser-agent demo is easy to understand. The agent opens a page. It clicks. It fills a form. It submits. That makes browser agents feel like a UI problem. Can the model see th",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 161
+    },
+    {
+      "title": "From Static Data to Smart AI: Keeping Your Maritime Logistics AI Sharp",
+      "url": "https://dev.to/ken_deng_ai/from-static-data-to-smart-ai-keeping-your-maritime-logistics-ai-sharp-2l7l",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:11:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As a solo broker, you've automated freight analysis with AI. But an AI running on stale data is a liability. Your competitive edge erodes as rates shift and carrier landscapes chan",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Make",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "make",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "Hacking B2B SEO: Why Your B2C Playbook is Failing Your Tech Company",
+      "url": "https://dev.to/michaelaiglobal/hacking-b2b-seo-why-your-b2c-playbook-is-failing-your-tech-company-1mgh",
+      "source": "Dev.to n8n",
+      "published_at": "2026-05-18T11:04:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You've built a killer API for enterprise log management. You've followed all the SEO best practices you learned building that e-commerce side-hustle—optimized titles, snappy meta d",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 139
     },
     {
       "title": "How Solo Founders Build AI Automations Under $100/Month",
@@ -160,28 +254,28 @@
         "creators",
         "hot"
       ],
-      "score": 145
+      "score": 132
     },
     {
-      "title": "How We Built an AI-Powered Sales Pipeline That Actually Converts",
-      "url": "https://dev.to/lycore/how-we-built-an-ai-powered-sales-pipeline-that-actually-converts-3lge",
+      "title": "From Reactive to Proactive: Automating FDA Compliance with AI",
+      "url": "https://dev.to/ken_deng_ai/from-reactive-to-proactive-automating-fda-compliance-with-ai-3aac",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-18T02:54:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Problem With Most AI Sales Tools Most AI tools sold to sales and marketing teams are wrappers around a language model with a CRM integration bolted on. They look impressive in ",
+      "published_at": "2026-05-19T03:10:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Receiving an FDA Form 483 feels like a crisis. The clock starts ticking, your team scrambles to gather disparate records, and drafting a comprehensive response with a robust Correc",
       "tags": [
-        "Claude/Anthropic",
-        "RAG/Vector",
         "NotebookLM",
+        "Make",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "rag",
         "prod",
+        "make",
+        "status",
         "hot"
       ],
-      "score": 137
+      "score": 121
     },
     {
       "title": "Stop Leaking Users: A Dev's Playbook for Hacking B2B SaaS Churn",
@@ -204,112 +298,87 @@
         "creators",
         "hot"
       ],
-      "score": 133
+      "score": 120
     },
     {
-      "title": "What We Learned Building AI Agents Fast in 2026",
-      "url": "https://dev.to/forgeflows/what-we-learned-building-ai-agents-fast-in-2026-8lc",
+      "title": "Self-Hosting n8n on Your Home Server: A Practical Guide",
+      "url": "https://dev.to/tahsin52225/self-hosting-n8n-on-your-home-server-a-practical-guide-45a6",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-17T06:07:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What We Set Out to Build In early 2026, we made a deliberate bet: build 100 production-grade automation pipelines in five weeks. Not prototypes. Not demos. Pipelines that handle re",
+      "published_at": "2026-05-18T10:34:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I moved my n8n instance from the cloud to a home server about six months ago, and the difference in both control and cost has been substantial. What started as a $20/month cloud su",
       "tags": [
-        "Agents",
         "RAG/Vector",
+        "n8n",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "Why We Started Offering Fully Managed n8n Hosting ?",
+      "url": "https://dev.to/n8nautomationcloud/why-we-started-offering-fully-managed-n8n-hosting--poo",
+      "source": "Dev.to n8n",
+      "published_at": "2026-05-18T13:32:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After building more automation workflows with n8n, one issue kept coming up repeatedly: Most people wanted to build workflows - not manage servers. A lot of users were spending tim",
+      "tags": [
+        "Multimodal",
+        "NotebookLM",
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
-        "rag",
+        "multimodal",
+        "prod",
         "n8n",
         "hot"
       ],
-      "score": 123
+      "score": 117
     },
     {
-      "title": "Why Daily Content Automation Needs Inventory Planning as Much as It Needs Generation Speed: Practical Notes for Builders",
-      "url": "https://dev.to/estatepass/why-daily-content-automation-needs-inventory-planning-as-much-as-it-needs-generation-speed-5777",
+      "title": "Zapier + DataImpulse: Methods to use Proxies",
+      "url": "https://dev.to/kevthebur/zapier-dataimpulse-methods-to-use-proxies-20h9",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-18T02:40:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why Daily Content Automation Needs Inventory Planning as Much as It Needs Generation Speed: Practical Notes for Builders Most content systems do not break at the draft step. They b",
+      "published_at": "2026-05-19T02:13:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Use DataImpulse Proxies with Zapier for Better Automation When working with automation tasks in Zapier, handling location-specific data or high-volume web scraping can quick",
       "tags": [
-        "Agents",
         "RAG/Vector",
-        "Eval/Observability",
+        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
         "rag",
-        "eval",
+        "zapier",
         "hot"
       ],
-      "score": 117
+      "score": 95
     },
     {
-      "title": "Agentic AI in DevOps: Useful Only After You Add Guardrails",
-      "url": "https://dev.to/nimesh_kulkarni_2f7a2057e/agentic-ai-in-devops-useful-only-after-you-add-guardrails-2ea3",
+      "title": "Fiber Optic Camera – Bringing Vision to Impossible Places",
+      "url": "https://dev.to/geoff_sanford_739c53a379f/fiber-optic-camera-bringing-vision-to-impossible-places-4p4k",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-18T00:22:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Agentic AI in DevOps: Useful Only After You Add Guardrails Most DevOps teams do not need an AI agent with production access on day one. What they actually need is a faster way to t",
+      "published_at": "2026-05-19T03:15:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Conventional machine vision places the camera at the inspection point. The lens points at the target, and the sensor sits right behind it. This works perfectly—until the inspection",
       "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "eval",
-        "status",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "[3 Reliability Patterns That Stopped My AI Agent From Crashing Every 6 Hours]",
-      "url": "https://dev.to/rapidclaw/3-reliability-patterns-that-stopped-my-ai-agent-from-crashing-every-6-hours-49f9",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T02:13:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm running five AI agents in production. None of them are the ambient \"does your whole job\" kind everyone's demoing on X. They're boring: a research agent that scrapes pricing dat",
-      "tags": [
-        "Agents",
         "RAG/Vector",
         "Multimodal",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
         "rag",
         "multimodal",
         "hot"
       ],
-      "score": 115
-    },
-    {
-      "title": "Automating Python Code Reviews with Free LLMs",
-      "url": "https://dev.to/robust_true_try/automating-python-code-reviews-with-free-llms-3ihb",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T00:15:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction Code reviews are a bottleneck for many Python teams. While human reviewers catch logical bugs and style issues, they are limited by time and availability. Fortunately,",
-      "tags": [
-        "RAG/Vector",
-        "NotebookLM",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "prod",
-        "creators",
-        "hot"
-      ],
-      "score": 115
+      "score": 91
     },
     {
       "title": "Building Custom Webhooks vs Using n8n Triggers",
@@ -328,188 +397,123 @@
         "n8n",
         "hot"
       ],
-      "score": 103
+      "score": 90
     },
     {
-      "title": "Drafting with AI: Automate Vendor Coordination and Change Management",
-      "url": "https://dev.to/ken_deng_ai/drafting-with-ai-automate-vendor-coordination-and-change-management-1nnd",
+      "title": "From Script to Strategy: How AI Identifies the Perfect 30-Second Demo",
+      "url": "https://dev.to/ken_deng_ai/from-script-to-strategy-how-ai-identifies-the-perfect-30-second-demo-3ja2",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-18T01:10:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Imagine this: a client emails a last-minute request for an extra hour of photography. Your mind races—you must update the photographer’s contract, alert the venue about the extende",
-      "tags": [
-        "Make",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "make",
-        "creators",
-        "hot"
-      ],
-      "score": 97
-    },
-    {
-      "title": "Leveraging AI-Generated Micro-Content: How to Turn 1 Hour of Recording into 30 Days of Social Media Posts and Boost Engagement by 500%",
-      "url": "https://dev.to/naoanao/leveraging-ai-generated-micro-content-how-to-turn-1-hour-of-recording-into-30-days-of-social-media-20lj",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T00:00:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to AI-Generated Micro-Content As a solopreneur, creating and managing a consistent flow of social media content can be a daunting task. With the rise of AI technology,",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 97
-    },
-    {
-      "title": "Cold Email Personalization: Manual vs. AI Workflows",
-      "url": "https://dev.to/forgeflows/cold-email-personalization-manual-vs-ai-workflows-1m5g",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-17T06:02:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why This Comparison Matters in 2026 According to Salesforce's State of Sales report (source), sales reps spend only 28% of their time actually selling. The rest disappears into dat",
-      "tags": [
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 97
-    },
-    {
-      "title": "Automating Compliance and Clients: An AI Framework for Drone Pilots",
-      "url": "https://dev.to/ken_deng_ai/automating-compliance-and-clients-an-ai-framework-for-drone-pilots-5h28",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T02:41:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As a solo drone operator, you’re a pilot, data analyst, and salesperson rolled into one. The bottleneck is rarely the flight—it’s the hours spent afterward on FAA logs and client r",
-      "tags": [
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 93
-    },
-    {
-      "title": "My 14-day log building an AI Character Generator pipeline",
-      "url": "https://dev.to/savielyamani_videoai/my-14-day-log-building-an-ai-character-generator-pipeline-21hc",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T02:17:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Quick Summary Scaling ad creative testing manually is a mathematically losing battle for a single developer. Integrating the Meta Ads API with local video generation queues usually",
+      "published_at": "2026-05-19T02:40:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sifting through a 5-page script to find the ideal 30-second clip for a custom audition is a massive time sink. You know a bespoke demo wins jobs, but manually analyzing and editing",
       "tags": [
         "RAG/Vector",
+        "Eval/Observability",
         "Multimodal",
-        "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
+        "eval",
         "multimodal",
         "hot"
       ],
-      "score": 91
+      "score": 89
     },
     {
-      "title": "From `console.log` to `console.log-in`: Architecting a B2B Content Funnel for High-Value Clients",
-      "url": "https://dev.to/michaelaiglobal/from-consolelog-to-consolelog-in-architecting-a-b2b-content-funnel-for-high-value-clients-57hf",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-16T11:04:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers, we are system builders. We design APIs, architect databases, and orchestrate microservices. We think in terms of state, inputs, and outputs. So why does marketing of",
+      "title": "How to Set Up DataImpulse Proxies in Wade Browser",
+      "url": "https://dev.to/kevthebur/how-to-set-up-dataimpulse-proxies-in-wade-browser-4pe",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:13:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Set Up DataImpulse Proxies in Wade Browser for Secure Multi-Profile Browsing Managing multiple online identities while maintaining anonymity and security can be a challenge.",
       "tags": [
-        "Eval/Observability",
-        "n8n",
+        "Agents",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "eval",
-        "n8n",
+        "agents",
         "hot"
       ],
-      "score": 84
+      "score": 79
     },
     {
-      "title": "N8N Orchestration: How We Automated 400+ Manual Business Hours",
-      "url": "https://dev.to/dattasable/n8n-orchestration-how-we-automated-400-manual-business-hours-2094",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-17T07:07:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Manual reporting is a silent profit killer. Many teams spend over 100 hours per week cleaning Excel data, generating pivot tables, and manually scheduling content or reports. We re",
+      "title": "5 Passive Income Streams Your AI Agent Can Run While You Sleep",
+      "url": "https://dev.to/gem_edits_786362cfbdac487/5-passive-income-streams-your-ai-agent-can-run-while-you-sleep-1bhe",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:00:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Let's be real: passive income is a myth if you're doing all the work. But an AI agent? That's a different story. Here are 5 streams your AI minion can actually run without you touc",
       "tags": [
         "Agents",
-        "n8n",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
-        "n8n",
         "hot"
       ],
-      "score": 83
+      "score": 79
     },
     {
-      "title": "The AI Skills Developers Actually Need Right Now [03:31:15]",
-      "url": "https://dev.to/aibughunter/the-ai-skills-developers-actually-need-right-now-033115-4564",
+      "title": "Integrating DataImpulse proxies with Tun2TAP",
+      "url": "https://dev.to/kevthebur/integrating-dataimpulse-proxies-with-tun2tap-5698",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-18T03:31:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey there! If you've been keeping up with the AI space lately, you know we're in the middle of something genuinely historic. What used to be science fiction is becoming production ",
-      "tags": [
-        "Agents",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 69
-    },
-    {
-      "title": "Why Agentic AI Is the Biggest Shift Since Transformers [03:30:27]",
-      "url": "https://dev.to/aibughunter/why-agentic-ai-is-the-biggest-shift-since-transformers-033027-34ad",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T03:30:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey there! If you've been keeping up with the AI space lately, you know we're in the middle of something genuinely historic. What used to be science fiction is becoming production ",
-      "tags": [
-        "Agents",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 69
-    },
-    {
-      "title": "From Static Plans to Dynamic Journeys: AI for Adaptive Coaching",
-      "url": "https://dev.to/ken_deng_ai/from-static-plans-to-dynamic-journeys-ai-for-adaptive-coaching-27ao",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-18T01:53:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You craft a brilliant plan, but a week later, your client's reality has shifted. They're overwhelmed, stuck, or facing an unexpected challenge. Your static 12-week program now feel",
+      "published_at": "2026-05-19T02:13:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Use DataImpulse Proxies with Tun2TAP on Android If you're looking to route your Android device’s traffic securely through a proxy, Tun2TAP offers a straightforward solution.",
       "tags": [
         "RAG/Vector",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
         "hot"
       ],
+      "score": 75
+    },
+    {
+      "title": "Automating Usage-Based Maintenance Workflows Inside NetSuite",
+      "url": "https://dev.to/pallavi_digital/automating-usage-based-maintenance-workflows-inside-netsuite-2h0i",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:23:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Fixed maintenance schedules often fail in environments where equipment usage changes continuously. Assets running longer hours, higher mileage, or heavier production cycles usually",
+      "tags": [
+        "Notion Status",
+        "Release"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
       "score": 55
+    },
+    {
+      "title": "Configuring DataImpulse Proxies in WinGate",
+      "url": "https://dev.to/kevthebur/configuring-dataimpulse-proxies-in-wingate-5g1c",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:13:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Configure DataImpulse Proxies in WinGate on Windows If you’re looking for a reliable way to set up residential proxies on your Windows system, WinGate is a solid choice. Thi",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
+    },
+    {
+      "title": "How to Add DataImpulse Proxies to Waterfox Browser",
+      "url": "https://dev.to/kevthebur/how-to-add-dataimpulse-proxies-to-waterfox-browser-5h10",
+      "source": "Dev.to Automation",
+      "published_at": "2026-05-19T02:13:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Configure DataImpulse Proxies in the Waterfox Browser If you’re looking to enhance your online privacy or manage multiple sessions effortlessly, using proxies with your brow",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
     }
   ]
 }
