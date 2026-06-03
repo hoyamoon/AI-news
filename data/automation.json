@@ -1,19 +1,20 @@
 {
-  "updated_at": "2026-05-31T03:41:01.041Z",
+  "updated_at": "2026-06-03T03:57:50.552Z",
   "items": [
     {
-      "title": "Beyond Lovable and Bolt.new: Connecting Self-Hosted Backends to AI Frontends in 2026",
-      "url": "https://dev.to/agentic_pulse/beyond-lovable-and-boltnew-connecting-self-hosted-backends-to-ai-frontends-in-2026-43db",
+      "title": "n8n, LangGraph, Temporal: Automation Done Right",
+      "url": "https://dev.to/studiomeyer_io/n8n-langgraph-temporal-automation-done-right-2iph",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-30T18:42:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to bypass browser sandboxes and API limits by linking visual app builders to private n8n microservices. In mid-2026, platforms like Lovable, Bolt.new, and v0 have turned fronte",
+      "published_at": "2026-06-01T13:57:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Everyone can wire up n8n. Almost nobody can tell you where n8n stops. That gap is the entire job. Real automation is three layers, not one tool, and the layer most people build is ",
       "tags": [
-        "Claude/Anthropic",
-        "Gemini/Google",
+        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
-        "Multimodal",
+        "Eval/Observability",
+        "NotebookLM",
         "n8n",
+        "Zapier",
         "Creators",
         "Hot",
         "Release"
@@ -22,270 +23,332 @@
         "llm",
         "agents",
         "rag",
-        "multimodal",
+        "eval",
+        "prod",
         "n8n",
+        "zapier",
         "creators",
         "hot"
       ],
-      "score": 232
+      "score": 228
     },
     {
-      "title": "n8n + agent exchange: auto-discover and call AI bots [93780]",
-      "url": "https://dev.to/rileycraig14/n8n-agent-exchange-auto-discover-and-call-ai-bots-93780-381h",
+      "title": "How I Built an AI Customer Support Workflow with OpenAI + n8n in 4 Days",
+      "url": "https://dev.to/ciphernutz/how-i-built-an-ai-customer-support-workflow-with-openai-n8n-in-4-days-1kkj",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-29T08:57:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n + Agent Exchange: Auto-Discover and Call AI Bots Building workflows shouldn't mean reinventing the wheel. Agent Exchange connects your n8n automations to 1000+ specialized AI b",
+      "published_at": "2026-06-02T09:47:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Customer support teams rarely struggle because customers ask difficult questions. They struggle because customers repeatedly ask the same questions. Every day looked almost identic",
       "tags": [
-        "Claude/Anthropic",
+        "GPT/OpenAI",
         "Agents",
-        "NotebookLM",
         "n8n",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "prod",
         "n8n",
         "hot"
       ],
-      "score": 142
+      "score": 143
     },
     {
-      "title": "Streamlining Nonprofit Grants: How AI Automation Optimizes Your Workflow",
-      "url": "https://dev.to/ken_deng_ai/streamlining-nonprofit-grants-how-ai-automation-optimizes-your-workflow-841",
+      "title": "Title: \"Building Your SLP-Specific AI: Training It on Your Clinical Language and Common Goals\"",
+      "url": "https://dev.to/ken_deng_ai/title-building-your-slp-specific-ai-training-it-on-your-clinical-language-and-common-goals-2jbn",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T03:01:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every grant writer knows the pain: juggling spreadsheets, scanning funder sites for RFPs, and manually pulling data from program software, donor databases, and timesheets to compil",
+      "published_at": "2026-06-03T03:01:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to produce a Dev.to article 400-500 words. Must include title, intro, core, include 1 specific tool name and its purpose (from facts). The facts list many items; we need to",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Make",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "eval",
+        "make",
+        "creators",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "Write Once, Publish Everywhere: 7 Ways to Repurpose B2B Content for Maximum Reach",
+      "url": "https://dev.to/michaelaiglobal/write-once-publish-everywhere-7-ways-to-repurpose-b2b-content-for-maximum-reach-5ggj",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-03T00:15:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Writing a highly technical, value-packed blog post takes hours—sometimes days—of research, coding, and editing. Yet, many tech companies and developers hit \"Publish,\" share the lin",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "Content as Code: Applying Engineering Principles to Scale Your B2B Content Production",
+      "url": "https://dev.to/michaelaiglobal/content-as-code-applying-engineering-principles-to-scale-your-b2b-content-production-52io",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-02T11:05:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You wouldn't ship spaghetti code to production. So why are you running your content strategy with spaghetti processes? As developers and engineers, we live by systems, pipelines, a",
       "tags": [
         "RAG/Vector",
         "NotebookLM",
-        "Make",
-        "Zapier",
+        "n8n",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
         "prod",
-        "make",
-        "zapier",
+        "n8n",
+        "creators",
         "hot"
       ],
-      "score": 141
+      "score": 139
     },
     {
-      "title": "n8n + agent exchange: auto-discover and call AI bots [23716]",
-      "url": "https://dev.to/rileycraig14/n8n-agent-exchange-auto-discover-and-call-ai-bots-23716-35e7",
+      "title": "Code & Conversions: A Developer's Guide to Calculating B2B Blog ROI",
+      "url": "https://dev.to/michaelaiglobal/code-conversions-a-developers-guide-to-calculating-b2b-blog-roi-5c1p",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-29T19:30:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n + Agent Exchange: Auto-Discover and Call AI Bots Building workflows that leverage specialized AI agents just got frictionless. Agent Exchange lets you discover, integrate, and ",
+      "published_at": "2026-06-01T11:06:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As developers and technical founders, we live in a world of logic, data, and measurable outcomes. We write code, it either works or it doesn't. We run tests, they pass or they fail",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "n8n",
+        "Notion Update",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "n8n",
+        "update",
+        "hot"
+      ],
+      "score": 130
+    },
+    {
+      "title": "n8n + agent exchange: auto-discover and call AI bots [73888]",
+      "url": "https://dev.to/rileycraig14/n8n-agent-exchange-auto-discover-and-call-ai-bots-73888-1b9e",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-01T21:13:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n + Agent Exchange: Auto-Discover and Call AI Bots Building autonomous workflows? Meet Agent Exchange—a marketplace where 1000+ AI bots auto-discover each other and execute tasks",
       "tags": [
         "Claude/Anthropic",
         "Agents",
-        "RAG/Vector",
         "n8n",
         "Creators"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
         "n8n",
         "creators"
       ],
-      "score": 138
+      "score": 118
     },
     {
-      "title": "How to Build a Custom Claude Code Skill (Step-by-Step)",
-      "url": "https://dev.to/claudeguide/how-to-build-a-custom-claude-code-skill-step-by-step-1723",
+      "title": "AI-Powered Fungus Gnat Prediction for Small-Scale Mushroom Farms",
+      "url": "https://dev.to/ken_deng_ai/ai-powered-fungus-gnat-prediction-for-small-scale-mushroom-farms-40jj",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T01:30:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at claudeguide.io/how-to-build-custom-claude-code-skill A Claude Code skill is a markdown file that gives Claude a specialized, repeatable workflow — a named p",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "creators",
-        "hot"
-      ],
-      "score": 137
-    },
-    {
-      "title": "n8n for HRTech & Workforce Management SaaS: 5 Automations for FLSA Overtime, ACA Reporting, I-9 Compliance, and OSHA 300 Log Sync",
-      "url": "https://dev.to/flowkithq/n8n-for-hrtech-workforce-management-saas-5-automations-for-flsa-overtime-aca-reporting-i-9-3db7",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-30T05:51:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're building HR technology — workforce management SaaS, payroll platforms, benefits administration software, time-tracking systems, or employee self-service portals — your pl",
+      "published_at": "2026-06-03T02:31:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to write a concise 400-500 word article. Must count words. Let's aim for ~440 words. Structure: Title: # AI-Powered Fungus Gnat Prediction for Small-Scale Mushroom Farms In",
       "tags": [
         "RAG/Vector",
-        "n8n",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 137
-    },
-    {
-      "title": "MTTR for Automation Workflows: The Ops Metric You're Missing",
-      "url": "https://dev.to/opsveritas/mttr-for-automation-workflows-the-ops-metric-youre-missing-ffj",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-30T23:01:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to MTTR Mean Time to Recovery (MTTR) is a crucial metric in the world of operations and DevOps, measuring the average time it takes to recover from a failure or outage",
-      "tags": [
-        "RAG/Vector",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 119
-    },
-    {
-      "title": "AI-Driven Exception Intelligence: How Southeast Asian Sellers Tame Customs Chaos",
-      "url": "https://dev.to/ken_deng_ai/ai-driven-exception-intelligence-how-southeast-asian-sellers-tame-customs-chaos-4i83",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-31T01:31:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Getting an HS code wrong by a single digit can freeze your shipment at customs for days, costing you time, money, and customer trust. For cross-border sellers in Southeast Asia, na",
-      "tags": [
-        "GPT/OpenAI",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "zapier",
-        "hot"
-      ],
-      "score": 115
-    },
-    {
-      "title": "I Built a Zero-Cost AI Video Factory That Runs 365 Days/Year on a $5 VPS",
-      "url": "https://dev.to/ali_ylmazdok_ca363ab031/i-built-a-zero-cost-ai-video-factory-that-runs-365-daysyear-on-a-5-vps-540j",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-29T12:06:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Problem Posting short-form videos to YouTube, TikTok, and Instagram is time-consuming. SaaS tools charge $50-200/month. AI video generators cost even more. I wanted something d",
-      "tags": [
-        "GPT/OpenAI",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "hot"
-      ],
-      "score": 106
-    },
-    {
-      "title": "You Can't Prompt Your Way Out of a Hard Constraint",
-      "url": "https://dev.to/connectengine/you-cant-prompt-your-way-out-of-a-hard-constraint-2ab0",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-29T08:24:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Thursday morning I removed five nodes from my content pipeline. By lunch I understood something about building with language models that eleven failed edits had been trying to teac",
-      "tags": [
-        "NotebookLM",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 106
-    },
-    {
-      "title": "From Triage to Action: AI Workflows for Salvaging At-Risk DTC Customers",
-      "url": "https://dev.to/ken_deng_ai/from-triage-to-action-ai-workflows-for-salvaging-at-risk-dtc-customers-3j5f",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-31T02:01:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every DTC founder knows the sinking feeling of opening a support ticket filled with frustration. One negative experience can erase months of loyalty. But with the right AI automati",
-      "tags": [
         "Make",
-        "n8n",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "make",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 101
-    },
-    {
-      "title": "I build a project calculator web app for n8n / automation folks",
-      "url": "https://dev.to/chanrylejay/i-build-a-project-calculator-web-app-for-n8n-automation-folks-2imf",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-30T07:24:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Problem Estimated build cost (flat rate) It uses AI to analyze the project requirements and generate a realistic estimate based on n8n-specific factors like node count, integra",
-      "tags": [
-        "Agents",
-        "n8n",
+        "Notion Update",
         "Hot"
       ],
       "buckets": [
+        "rag",
+        "make",
+        "update",
+        "hot"
+      ],
+      "score": 111
+    },
+    {
+      "title": "Multi-channel Alerting: Breaking Free from Single Point Failure",
+      "url": "https://dev.to/opsveritas/multi-channel-alerting-breaking-free-from-single-point-failure-1jmi",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-01T23:01:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to Multi-channel Alerting As we continue our OpsVeritas beta series, now on Day 14, we're focusing on the importance of multi-channel alerting in your DevOps strategy.",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 106
+    },
+    {
+      "title": "I Let My AI Agent Run Cold Email - Here's What Happened",
+      "url": "https://dev.to/forgeflows/i-let-my-ai-agent-run-cold-email-heres-what-happened-4p14",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-02T18:03:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Monday Morning That Changed How I Think About Sales It was a Tuesday in early 2026. I opened my laptop to find 47 new contacts in HubSpot, each enriched with job title, company",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
         "agents",
         "n8n",
+        "hot"
+      ],
+      "score": 103
+    },
+    {
+      "title": "Email Fatigue Is Real: What AI Actually Fixes",
+      "url": "https://dev.to/forgeflows/email-fatigue-is-real-what-ai-actually-fixes-586p",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-01T18:05:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What We Set Out to Solve In 2026, the average knowledge worker's inbox is a second job nobody applied for. According to McKinsey's research on the future of work, knowledge workers",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 102
+    },
+    {
+      "title": "When an AI Browser Agent Should Stop and Ask for Human Review",
+      "url": "https://dev.to/web4browser/when-an-ai-browser-agent-should-stop-and-ask-for-human-review-11h8",
+      "source": "Dev.to Automation",
+      "published_at": "2026-06-03T03:54:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An AI browser agent can open a page, read content, fill a form, click a button, and move through a workflow much faster than a human operator. That is useful. It is also the reason",
+      "tags": [
+        "Agents",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "multimodal",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "I Built an AI Thumbnail Generator in Pure Python — It Runs on a $35 Raspberry Pi",
+      "url": "https://dev.to/ulnit/i-built-an-ai-thumbnail-generator-in-pure-python-it-runs-on-a-35-raspberry-pi-3jdg",
+      "source": "Dev.to Automation",
+      "published_at": "2026-06-03T03:02:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Problem with Thumbnails Every YouTuber knows the pain: you spend hours editing a video, and then another 45 minutes wrestling with Canva or Photoshop just to make a thumbnail. ",
+      "tags": [
+        "Agents",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "multimodal",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Automated Content Publishing Workflows From Draft To Distribution",
+      "url": "https://dev.to/obscuriea/automated-content-publishing-workflows-from-draft-to-distribution-3l9f",
+      "source": "Dev.to Automation",
+      "published_at": "2026-06-03T03:57:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR Most content teams waste 12–15 hours per week on manual handoffs between drafting, editing, publishing, and social distribution. An automated pipeline that connects Google Do",
+      "tags": [
+        "Zapier",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "zapier",
+        "creators",
         "hot"
       ],
       "score": 93
     },
     {
-      "title": "AI Automation for Ai For Local Independent Insurance Agents How To Automate Client Policy Audits And Renewal Recommendation D...",
-      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-local-independent-insurance-agents-how-to-automate-client-policy-audits-4boo",
+      "title": "How to Set Up and Automate Your Freelance Writing Business With AI in 2026",
+      "url": "https://dev.to/jacob_fritz_6c8d20bfa13b5/how-to-set-up-and-automate-your-freelance-writing-business-with-ai-in-2026-214h",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T01:41:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Local Independent Insurance Agents How To Automate Client Policy Audits And Renewal Recommendation Drafts: Quick Guide (2026-05-31) If you're a professiona",
+      "published_at": "2026-06-03T02:09:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Ready to turn your freelance writing hustle into a streamlined, automated business that practically runs itself—letting you scale profits and reclaim your time? With the rapid evol",
       "tags": [
-        "Agents",
+        "RAG/Vector",
         "Creators",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "agents",
+        "rag",
         "creators",
         "hot"
       ],
-      "score": 87
+      "score": 93
     },
     {
-      "title": "5-Minute Health Checks: The Key to Proactive Workflows",
-      "url": "https://dev.to/opsveritas/5-minute-health-checks-the-key-to-proactive-workflows-2m2o",
+      "title": "How AI-Powered Real-Time Communication Logs End the 'I Didn't Get the Email' Problem for Wedding Planners",
+      "url": "https://dev.to/ken_deng_ai/how-ai-powered-real-time-communication-logs-end-the-i-didnt-get-the-email-problem-for-wedding-141o",
+      "source": "Dev.to Automation",
+      "published_at": "2026-06-03T03:31:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to write a concise 400-500 word Dev.to article for professionals about AI automation in AI for wedding planners automating vendor timeline coordination and client change re",
+      "tags": [
+        "RAG/Vector",
+        "Make",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "make",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "Workflow Ownership: The Accountability Layer in Automation Monitoring",
+      "url": "https://dev.to/opsveritas/workflow-ownership-the-accountability-layer-in-automation-monitoring-5amg",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-29T23:01:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to Health Checks When it comes to business-critical workflows, health checks are essential for ensuring everything runs smoothly and efficiently. However, the frequenc",
+      "published_at": "2026-06-02T23:01:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction to Workflow Ownership Workflow ownership is a critical aspect of automation monitoring that is often overlooked. As organizations continue to adopt automation tools to",
       "tags": [
         "n8n",
         "Notion Status",
-        "Hot",
         "Release"
       ],
       "buckets": [
@@ -293,32 +356,14 @@
         "status",
         "hot"
       ],
-      "score": 86
+      "score": 79
     },
     {
-      "title": "From 3 Hours to 10 Minutes: AI Pre-Grade Estimation for Collectibles Dealers",
-      "url": "https://dev.to/ken_deng_ai/from-3-hours-to-10-minutes-ai-pre-grade-estimation-for-collectibles-dealers-4nig",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-31T03:31:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You open an email with five attached photos of a vintage trading card collection. You zoom in, squint at corners, guess the centering, and spend 20 minutes per card forming a rough",
-      "tags": [
-        "Multimodal",
-        "Make",
-        "Hot"
-      ],
-      "buckets": [
-        "multimodal",
-        "make",
-        "hot"
-      ],
-      "score": 85
-    },
-    {
-      "title": "Paystack Community Node for n8n",
-      "url": "https://dev.to/mr-taiwo/paystack-community-node-for-n8n-30kg",
+      "title": "Why Unlimited Workflow Executions Matter More Than People Realize",
+      "url": "https://dev.to/n8nautomationcloud/why-unlimited-workflow-executions-matter-more-than-people-realize-2jk",
       "source": "Dev.to n8n",
-      "published_at": "2026-05-30T11:24:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building an Open Source Paystack Community Node for n8n As someone who regularly builds automations with n8n, I noticed a gap in the ecosystem, there wasn't a dedicated Paystack in",
+      "published_at": "2026-06-02T14:26:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One thing many teams notice after scaling automations: Execution limits become frustrating very quickly. At first, automation volume is usually small: Form Automations CRM Updates ",
       "tags": [
         "n8n",
         "Hot",
@@ -331,88 +376,75 @@
       "score": 79
     },
     {
-      "title": "Why More Agencies Are Switching to n8n for AI Automation ?",
-      "url": "https://dev.to/n8nautomationcloud/why-more-agencies-are-switching-to-n8n-for-ai-automation--18h5",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-29T13:30:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Over the last year, AI automation has become a major focus for agencies. What started as simple automations has evolved into complete operational systems powered by: AI APIs Lead Q",
-      "tags": [
-        "GPT/OpenAI",
-        "n8n"
-      ],
-      "buckets": [
-        "llm",
-        "n8n"
-      ],
-      "score": 76
-    },
-    {
-      "title": "Ditch the Keyword Game: How to Engineer B2B SEO Dominance with Topic Clusters",
-      "url": "https://dev.to/michaelaiglobal/ditch-the-keyword-game-how-to-engineer-b2b-seo-dominance-with-topic-clusters-59ka",
-      "source": "Dev.to n8n",
-      "published_at": "2026-05-29T11:05:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You're Playing the Wrong SEO Game For years, the B2B tech playbook for SEO has been simple: find a long-tail keyword, write a 1,500-word blog post, stuff the keyword 12 times, and ",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
-      "score": 66
-    },
-    {
-      "title": "Robinhood MCP Integration Grants AI Agents Autonomous Financial Trading Powers",
-      "url": "https://dev.to/bansac1981/robinhood-mcp-integration-grants-ai-agents-autonomous-financial-trading-powers-4go4",
+      "title": "AI Agents Are Quietly Taking Over Your Industry — Here's What's Happening [03:32:14]",
+      "url": "https://dev.to/aibughunter/ai-agents-are-quietly-taking-over-your-industry-heres-whats-happening-033214-475g",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T02:30:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary Robinhood has launched agentic trading and a virtual credit card that allow third-party AI agents to autonomously execute stock trades and payments on behalf of us",
+      "published_at": "2026-06-03T03:32:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey there! If you've been keeping up with the AI space lately, you know we're in the middle of something genuinely historic. What used to be science fiction is becoming production ",
       "tags": [
         "Agents",
-        "Release"
+        "Hot"
       ],
       "buckets": [
         "agents",
         "hot"
       ],
-      "score": 59
+      "score": 69
     },
     {
-      "title": "Home Assistant: The Heartbeat of My Smart Home",
-      "url": "https://dev.to/adityabharadwaj26/home-assistant-the-heartbeat-of-my-smart-home-o4b",
+      "title": "World Models and Beyond: The ML Breakthroughs Powering 2026 [03:31:32]",
+      "url": "https://dev.to/aibughunter/world-models-and-beyond-the-ml-breakthroughs-powering-2026-033132-250m",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T02:27:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A night-time argument that sparked a change We were back from dinner, rain drummed on the balcony, and the kitchen light was already off. My wife flicked on the hallway lamp and as",
+      "published_at": "2026-06-03T03:31:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey there! If you've been keeping up with the AI space lately, you know we're in the middle of something genuinely historic. What used to be science fiction is becoming production ",
       "tags": [
+        "Agents",
         "Hot"
       ],
       "buckets": [
+        "agents",
         "hot"
       ],
-      "score": 45
+      "score": 69
     },
     {
-      "title": "How to Create Interactive Python Exercises with CLI Tools",
-      "url": "https://dev.to/oddshop/how-to-create-interactive-python-exercises-with-cli-tools-1910",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-31T02:13:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Python exercise tool I’m about to describe solves a real pain point for educators and learners: manually crafting coding drills is tedious and error-prone. Creating consistent,",
+      "title": "How I built a 3-channel cart recovery system with n8n, Shopify, and WhatsApp (23% recovery rate)",
+      "url": "https://dev.to/najmulmyself/how-i-built-a-3-channel-cart-recovery-system-with-n8n-shopify-and-whatsapp-23-recovery-rate-31c7",
+      "source": "Dev.to n8n",
+      "published_at": "2026-06-02T11:25:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A client running a Shopify store for sustainable activewear came to me frustrated. Her Klaviyo flows were recovering around 8% of abandoned carts. Analytics showed 70% cart abandon",
       "tags": [
+        "n8n",
+        "Creators"
+      ],
+      "buckets": [
+        "n8n",
+        "creators"
+      ],
+      "score": 67
+    },
+    {
+      "title": "AI Automation for Ai For Independent Financial Advisors Rias How To Automate Investment Policy Statement Ips Creation And Qua...",
+      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-independent-financial-advisors-rias-how-to-automate-investment-policy-54l1",
+      "source": "Dev.to Automation",
+      "published_at": "2026-06-03T03:10:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Independent Financial Advisors Rias How To Automate Investment Policy Statement Ips Creation And Quarterly Client Review Report Drafting: Quick Guide (2026",
+      "tags": [
+        "Creators",
         "Hot"
       ],
       "buckets": [
+        "creators",
         "hot"
       ],
-      "score": 45
+      "score": 63
     },
     {
-      "title": "AI Automation for Ai For Local Catering Companies How To Automate Custom Menu Proposals And Allergenrecipe Scaling: Quick Gui...",
-      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-local-catering-companies-how-to-automate-custom-menu-proposals-and-1ko",
+      "title": "AI Automation for Ai For Small Independent Film Festivals How To Automate Submission Screening And Filmmaker Feedback Generat...",
+      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-small-independent-film-festivals-how-to-automate-submission-screening-and-3637",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T03:40:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Local Catering Companies How To Automate Custom Menu Proposals And Allergenrecipe Scaling: Quick Guide (2026-05-31) If you're a professionals, you know tha",
+      "published_at": "2026-06-03T02:40:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Small Independent Film Festivals How To Automate Submission Screening And Filmmaker Feedback Generation: Quick Guide (2026-06-03) If you're a professionals",
       "tags": [
         "Creators"
       ],
@@ -422,25 +454,11 @@
       "score": 43
     },
     {
-      "title": "AI Automation for Ai For Micro Cpg Founders In Specialty Food How To Automate Buyer Pitch Email Personalization And Broker Me...",
-      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-micro-cpg-founders-in-specialty-food-how-to-automate-buyer-pitch-email-l6e",
+      "title": "AI Automation for Ai For Small Scale Specialty Food Producers How To Automate Fdanutrition Label Generation And Ingredient So...",
+      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-small-scale-specialty-food-producers-how-to-automate-fdanutrition-label-4g3",
       "source": "Dev.to Automation",
-      "published_at": "2026-05-31T03:11:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Micro Cpg Founders In Specialty Food How To Automate Buyer Pitch Email Personalization And Broker Meeting Prep Briefs: Quick Guide (2026-05-31) If you're a",
-      "tags": [
-        "Creators"
-      ],
-      "buckets": [
-        "creators"
-      ],
-      "score": 43
-    },
-    {
-      "title": "AI Automation for Ai For Independent Music Teachers How To Automate Lesson Plan Creation And Student Progress Tracking: Quick...",
-      "url": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-independent-music-teachers-how-to-automate-lesson-plan-creation-and-593",
-      "source": "Dev.to Automation",
-      "published_at": "2026-05-31T02:40:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Independent Music Teachers How To Automate Lesson Plan Creation And Student Progress Tracking: Quick Guide (2026-05-31) If you're a professionals, you know",
+      "published_at": "2026-06-03T02:10:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI Automation for Ai For Small Scale Specialty Food Producers How To Automate Fdanutrition Label Generation And Ingredient Sourcing Alerts: Quick Guide (2026-06-03) If you're a pro",
       "tags": [
         "Creators"
       ],
