@@ -1,46 +1,104 @@
 {
-  "updated_at": "2026-06-03T03:57:43.192Z",
+  "updated_at": "2026-06-05T03:37:40.439Z",
   "items": [
     {
-      "title": "Gemini Spark is the most impressive and terrifying AI experience I’ve had yet",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/941388/gemini-spark-ai-agent-trip-planning",
+      "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
+      "url": "https://www.theverge.com/podcast/942586/elon-musk-spacex-ipo-x-xai-index-funds",
       "source": "The Verge AI",
-      "published_at": "2026-06-02T12:38:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Spark is Google’s new agentic answer for everything. According to every product demo from the last four years, planning a trip is a killer use case for AI. Just tell it where you'r",
+      "published_at": "2026-06-04T14:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Today on Decoder, I’m talking to Ryan Mac, a technology reporter at The New York Times and coauthor of the excellent book Character Limit: How Elon Musk Destroyed Twitter, which ca",
       "tags": [
-        "Gemini/Google",
-        "Agents"
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Multimodal",
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "llm",
-        "agents"
+        "multimodal",
+        "hot"
       ],
-      "score": 84
+      "score": 151
     },
     {
-      "title": "Show HN: Paseo – Beautiful open-source coding agent interface",
-      "url": "https://github.com/getpaseo/paseo",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T22:34:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Repo: https://github.com/getpaseo/paseo Homepage: https://paseo.sh/ Discord: https://discord.gg/jz8T2uahpH Comments URL: https://news.ycombinator.com/item?id=48377250 Points: 37 # ",
+      "title": "AI leaders call for tougher protections against AI-aided bioweapons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942956/ai-biological-weapons-open-letter-congress",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T12:12:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Some of the AI industry's biggest rivals have put their many, many grievances aside for a common cause: making it harder for people to use their technology to develop biological we",
       "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 135
+    },
+    {
+      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
+      "source": "The Verge AI",
+      "published_at": "2026-06-03T14:04:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity",
+      "tags": [
+        "GPT/OpenAI",
         "Agents",
         "Hot"
       ],
       "buckets": [
+        "llm",
         "agents",
         "hot"
       ],
-      "score": 69
+      "score": 96
     },
     {
-      "title": "Microsoft’s first advanced reasoning AI is here",
-      "url": "https://www.theverge.com/tech/941664/microsoft-ai-model-reasoning-mai-thinking-1-build-2026",
+      "title": "As AI gets better, it reveals an empty promise",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942629/as-ai-gets-better-it-reveals-an-empty-promise",
       "source": "The Verge AI",
-      "published_at": "2026-06-02T18:12:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft announced a bunch of new in-house AI models at Build 2026, including a new \"flagship\" model: MAI-Thinking-1. It's an ambitious step into model development for Microsoft, ",
+      "published_at": "2026-06-03T17:45:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This week we've got tandem hands-ons with Google's new Gemini AI agent - Spark - from my colleagues David Pierce and Jay Peters. Their takeaways are similar: It's so effective that",
       "tags": [
-        "GPT/OpenAI"
+        "Gemini/Google",
+        "Agents",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 91
+    },
+    {
+      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
+      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T20:11:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 300 # Comments: 97",
+      "tags": [
+        "Claude/Anthropic",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 85
+    },
+    {
+      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
+      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T16:20:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 363 # Comments: 474",
+      "tags": [
+        "Claude/Anthropic"
       ],
       "buckets": [
         "llm"
@@ -60,38 +118,6 @@
       "buckets": [
         "llm",
         "agents"
-      ],
-      "score": 59
-    },
-    {
-      "title": "Microsoft&#8217;s Project Solara is an OS for AI agent gadgets",
-      "url": "https://www.theverge.com/news/941830/microsoft-project-solara-os-ai-agent-gadgets",
-      "source": "The Verge AI",
-      "published_at": "2026-06-02T17:31:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft just announced \"Project Solara,\" a new OS designed for gadgets that run AI agents, at Build 2026. The company is calling it \"a new platform built from the ground up to po",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 59
-    },
-    {
-      "title": "Microsoft Build 2026: All the news about Windows, AI, RTX Spark, and more",
-      "url": "https://www.theverge.com/tech/941668/microsoft-build-may-2026-live-news-updates",
-      "source": "The Verge AI",
-      "published_at": "2026-06-02T15:59:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft Build 2026 kicked off with a keynote presentation that introduced some developer-focused Windows updates, an OpenClaw-based AI assistant called Scout, the new Majorana 2 ",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
       ],
       "score": 59
     },
@@ -128,42 +154,27 @@
       "score": 55
     },
     {
-      "title": "Trump signs executive order to review AI models before they’re released",
-      "url": "https://www.theverge.com/policy/941775/trump-ai-executive-order",
+      "title": "AI has a water problem — Google thinks it has a fix",
+      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
       "source": "The Verge AI",
-      "published_at": "2026-06-02T18:33:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: President Donald Trump signed an executive order Tuesday creating a \"voluntary framework\" for AI companies to share their frontier models with the federal government before they're",
+      "published_at": "2026-06-03T09:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water",
       "tags": [
-        "Hot",
-        "Release"
+        "NotebookLM",
+        "Hot"
       ],
       "buckets": [
+        "prod",
         "hot"
       ],
-      "score": 55
+      "score": 54
     },
     {
-      "title": "Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/future-vision-film-competition-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-05T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is partnering with XPRIZE and Range Media Partners on the $3.5 million Future Vision film competition.",
-      "tags": [
-        "Gemini/Google",
-        "Multimodal"
-      ],
-      "buckets": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 51
-    },
-    {
-      "title": "Agentic Mfw",
-      "url": "https://agenticmotherfucking.website",
+      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
+      "url": "https://arxiv.org/abs/2604.24881",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-03T02:32:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://agenticmotherfucking.website Comments URL: https://news.ycombinator.com/item?id=48379203 Points: 26 # Comments: 11",
+      "published_at": "2026-06-04T23:01:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2604.24881 Comments URL: https://news.ycombinator.com/item?id=48405841 Points: 16 # Comments: 0",
       "tags": [
         "Agents"
       ],
@@ -173,11 +184,11 @@
       "score": 49
     },
     {
-      "title": "How we used Gemini to build Google I/O 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "title": "5 ways Google Search can level up your thrift and vintage shopping",
+      "url": "https://blog.google/products-and-platforms/products/search/thrifting-tips/",
       "source": "Google AI Blog",
-      "published_at": "2026-06-01T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Learn how Googlers used AI to produce Google I/O 2026.",
+      "published_at": "2026-06-03T13:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Uncover second-hand scores with AI tools in Google Search and Shopping.",
       "tags": [
         "Gemini/Google"
       ],
@@ -185,6 +196,22 @@
         "llm"
       ],
       "score": 47
+    },
+    {
+      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
+      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
+      "source": "The Verge AI",
+      "published_at": "2026-06-03T16:07:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, ",
+      "tags": [
+        "Make",
+        "Release"
+      ],
+      "buckets": [
+        "make",
+        "hot"
+      ],
+      "score": 46
     },
     {
       "title": "100 things we announced at I/O 2026",
@@ -299,11 +326,11 @@
       "score": 45
     },
     {
-      "title": "Roku LT Operating System open source distribution",
-      "url": "https://blog.roku.com/developer/roku-lt-os",
+      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
+      "url": "https://www.mercek.dev/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-03T01:13:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.roku.com/developer/roku-lt-os Comments URL: https://news.ycombinator.com/item?id=48378495 Points: 28 # Comments: 10",
+      "published_at": "2026-06-04T21:15:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey HN I've been using ECS for a while now and found it annoying having to log into the console everytime I use Lens for Kubernetes but couldnt find an equivalent for ECS so i buil",
       "tags": [
         "Hot"
       ],
@@ -311,6 +338,76 @@
         "hot"
       ],
       "score": 45
+    },
+    {
+      "title": "Castor: CERN Advanced STORage Manager",
+      "url": "https://castor.web.cern.ch/content/home.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T19:52:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 44 # Comments: 19",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T18:38:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate AB",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T09:31:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon Amazon has announced a new version of its fully autonomous warehouse robot, P",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Let us filter AI slop, you cowards",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T12:30:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images It's almost impossible to avoid seeing AI-generated ",
+      "tags": [
+        "Creators"
+      ],
+      "buckets": [
+        "creators"
+      ],
+      "score": 43
+    },
+    {
+      "title": "How we used Gemini to build Google I/O 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/io-2026-google-ai/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-01T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Learn how Googlers used AI to produce Google I/O 2026.",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 35
     },
     {
       "title": "9 demos of Gemini Omni and Gemini 3.5 in action",
@@ -425,11 +522,11 @@
       "score": 35
     },
     {
-      "title": "Pluto.jl 1.0 release – reactive notebook for Julia",
-      "url": "https://discourse.julialang.org/t/pluto-1-0-release/137296",
+      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
+      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T23:09:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://discourse.julialang.org/t/pluto-1-0-release/137296 Comments URL: https://news.ycombinator.com/item?id=48377496 Points: 46 # Comments: 2",
+      "published_at": "2026-06-04T22:48:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation Comments URL: https://news.ycombinator.com/item?id=48",
       "tags": [
         "Release"
       ],
@@ -439,11 +536,11 @@
       "score": 35
     },
     {
-      "title": "HP re-releases classic computer science calculator: The HP-16C",
-      "url": "https://hpcalcs.com/product/hp-16c-collectors-edition/",
+      "title": "Gaussian Point Splatting",
+      "url": "https://momentsingraphics.de/Siggraph2026.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T19:02:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://hpcalcs.com/product/hp-16c-collectors-edition/ Comments URL: https://news.ycombinator.com/item?id=48374685 Points: 137 # Comments: 87",
+      "published_at": "2026-06-04T10:48:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://momentsingraphics.de/Siggraph2026.html Comments URL: https://news.ycombinator.com/item?id=48396792 Points: 180 # Comments: 66",
       "tags": [
         "Release"
       ],
@@ -453,228 +550,144 @@
       "score": 35
     },
     {
-      "title": "MAI-Code-1-Flash",
-      "url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+      "title": "The Causes of Long Covid",
+      "url": "https://www.science.org/content/blog-post/causes-long-covid",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T18:47:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://microsoft.ai/models/mai-code-1-flash/ https://microsoft.ai/pdf/MAI-Code-1-Flash-Model-Card.PDF Launching seven new MAI models: https://microsoft.ai/news/building-a-hillclim",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-06-05T03:04:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.science.org/content/blog-post/causes-long-covid Comments URL: https://news.ycombinator.com/item?id=48407451 Points: 3 # Comments: 0",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
-      "title": "QBE – Compiler Backend – 1.3",
-      "url": "https://c9x.me/compile/release/qbe-1.3.html",
+      "title": "Meta enables ADB on deprecated Portal devices [video]",
+      "url": "https://fb.watch/HxPu0fSyeH/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T17:37:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://c9x.me/compile/release/qbe-1.3.html Comments URL: https://news.ycombinator.com/item?id=48373442 Points: 83 # Comments: 29",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-06-05T00:44:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://developers.meta.com/horizon/blog/build-apps-for-port... Comments URL: https://news.ycombinator.com/item?id=48406640 Points: 107 # Comments: 22",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
-      "title": "Microsoft Build 2026: The 7 biggest announcements",
-      "url": "https://www.theverge.com/tech/941738/microsoft-build-2026-biggest-announcements",
+      "title": "Open Code Review – An AI-powered code review CLI tool",
+      "url": "https://github.com/alibaba/open-code-review",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-05T00:04:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 69 # Comments: 18",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
+      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T23:45:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinato",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Do transformers need three projections? Systematic study of QKV variants",
+      "url": "https://arxiv.org/abs/2606.04032",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T23:11:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 114 # Comments: 19",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "IPv6 zones in URLs are a mistake",
+      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T21:42:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 98 # Comments: 76",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Queen bees emerge from special wax chambers",
+      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T21:31:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 52 # Commen",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Meta's ships facial recognition on smart glasses",
+      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T19:36:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 248 # Comments: 210",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Retro-Tech Parenting",
+      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T16:02:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://havenweb.org/2026/05/28/retro-tech.html Comments URL: https://news.ycombinator.com/item?id=48400588 Points: 266 # Comments: 179",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
+      "url": "https://github.com/huawei-csl/KVarN",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T15:18:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/huawei-csl/KVarN Comments URL: https://news.ycombinator.com/item?id=48399974 Points: 117 # Comments: 12",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "VoidZero Is Joining Cloudflare",
+      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T13:00:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://voidzero.dev/posts/voidzero-cloudflare Comments URL: https://news.ycombinator.com/item?id=48398055 Points: 586 # Comments: 260",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
+      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T12:00:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus Comments URL: https://news.ycombinator.com/item?id=48",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Ian's Secure Shoelace Knot",
+      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-04T11:17:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.fieggen.com/shoelace/secureknot.htm Comments URL: https://news.ycombinator.com/item?id=48397028 Points: 526 # Comments: 200",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "TSMC struggles to keep up with AI demand: &#8216;We can only support so much&#8217;",
+      "url": "https://www.theverge.com/tech/943066/tsmc-ai-demand-struggles",
       "source": "The Verge AI",
-      "published_at": "2026-06-02T19:23:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft just kicked off Build 2026 with a keynote from CEO Satya Nadella and other company leaders. As expected, it was filled with announcements, ranging from new Surface hardwa",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Microsoft Scout is a new AI personal assistant built on OpenClaw",
-      "url": "https://www.theverge.com/news/939713/microsoft-scout-assistant-openclaw",
-      "source": "The Verge AI",
-      "published_at": "2026-06-02T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Much like Google, Microsoft is launching its own version of OpenClaw. Microsoft Scout is an always-on assistant that integrates into Microsoft 365 apps like Outlook, OneDrive, and ",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Google’s Phone app will tell you if a scammer is impersonating one of your contacts",
-      "url": "https://www.theverge.com/tech/941517/google-phone-scammer-ai-impersonation",
-      "source": "The Verge AI",
-      "published_at": "2026-06-02T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is launching a new feature for its Phone app that aims to protect you from AI impersonation scams. Now, when you receive a call from a scammer that appears to be coming from",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "The American Missile Crisis",
-      "url": "https://research.contrary.com/report/the-american-missile-crisis",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-03T03:30:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://research.contrary.com/report/the-american-missile-crisis Comments URL: https://news.ycombinator.com/item?id=48379551 Points: 4 # Comments: 0",
+      "published_at": "2026-06-04T14:15:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, a",
       "tags": [],
       "buckets": [],
       "score": 25
-    },
-    {
-      "title": "HHS is overriding peer review to require changes to research scope, design",
-      "url": "https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-03T03:07:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.science.org/content/article/exclusive-hhs-now-weighing-science-nih-grants Comments URL: https://news.ycombinator.com/item?id=48379434 Points: 3 # Comments:",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Can A.I. produce writing that we want to read?",
-      "url": "https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-03T02:08:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.newyorker.com/news/fault-lines/can-ai-produce-writing-that-we-actually-want-to-read Comments URL: https://news.ycombinator.com/item?id=48378995 Points: 10 ",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Capstone – multi-platform, multi-architecture disassembly framework",
-      "url": "https://www.capstone-engine.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-03T01:59:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.capstone-engine.org/ Comments URL: https://news.ycombinator.com/item?id=48378925 Points: 16 # Comments: 0",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "AI outperforms law professors in Stanford Law study",
-      "url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T23:43:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://law.stanford.edu/wp-content/uploads/2026/06/salinas_... Comments URL: https://news.ycombinator.com/item?id=48377761 Points: 129 # Comments: 120",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Use your Nvidia GPU's VRAM as swap space on Linux",
-      "url": "https://github.com/c0dejedi/nbd-vram",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T22:55:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/c0dejedi/nbd-vram Comments URL: https://news.ycombinator.com/item?id=48377404 Points: 181 # Comments: 50",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "4K years ago, Mohenjo-daro grew more equal over time",
-      "url": "https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T22:22:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://archaeologymag.com/2026/05/mohenjo-daro-grew-more-equal-over-time/ Comments URL: https://news.ycombinator.com/item?id=48377140 Points: 59 # Comments: 32",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "CT scans of BYD car parts",
-      "url": "https://www.lumafield.com/scan-of-the-month/byd",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T20:30:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.lumafield.com/scan-of-the-month/byd Comments URL: https://news.ycombinator.com/item?id=48375824 Points: 268 # Comments: 107",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "My thoughts after using Clojure for about a month",
-      "url": "https://www.acdw.net/clojure/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T19:56:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.acdw.net/clojure/ Comments URL: https://news.ycombinator.com/item?id=48375393 Points: 135 # Comments: 85",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Open Repair Data Standard – Open Repair Alliance",
-      "url": "https://openrepair.org/open-data/open-standard/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T19:37:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openrepair.org/open-data/open-standard/ Comments URL: https://news.ycombinator.com/item?id=48375150 Points: 107 # Comments: 3",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Gmail thinks I'm stupid, so I left",
-      "url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T19:27:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://moddedbear.com/gmail-thinks-im-stupid-so-i-left Comments URL: https://news.ycombinator.com/item?id=48375016 Points: 689 # Comments: 418",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Bringing Up DeepSeek-V4-Flash on AMD MI300X",
-      "url": "https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T17:52:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fergusfinn.com/blog/deepseek-v4-flash-mi300x/ Comments URL: https://news.ycombinator.com/item?id=48373675 Points: 90 # Comments: 8",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Trump signs downsized AI order after weeks of reversals",
-      "url": "https://www.politico.com/news/2026/06/02/trump-signs-downsized-ai-order-00946389",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-02T16:40:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.whitehouse.gov/presidential-actions/2026/06/prom... https://www.nytimes.com/2026/06/02/technology/trump-executiv... Comments URL: https://news.ycombinator.com/item?id=4",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Microsoft created the mini Surface dev box that Qualcomm couldn&#8217;t",
-      "url": "https://www.theverge.com/news/941271/microsoft-surface-rtx-spark-dev-box-specs-availability",
-      "source": "The Verge AI",
-      "published_at": "2026-06-02T16:30:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft only just announced a new Surface Laptop Ultra at the weekend, and it's now revealing a miniature Surface PC aimed at developers. The new Surface RTX Spark Dev Box is pow",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-      "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-      "source": "The Verge AI",
-      "published_at": "2026-06-01T20:02:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well whil",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
     }
   ]
 }
