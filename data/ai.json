@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-05T03:37:40.439Z",
+  "updated_at": "2026-06-06T02:58:25.340Z",
   "items": [
     {
       "title": "Elon Musk is steamrolling Wall Street to become a trillionaire",
@@ -19,7 +19,7 @@
         "multimodal",
         "hot"
       ],
-      "score": 151
+      "score": 138
     },
     {
       "title": "AI leaders call for tougher protections against AI-aided bioweapons",
@@ -37,25 +37,7 @@
         "llm",
         "hot"
       ],
-      "score": 135
-    },
-    {
-      "title": "Microsoft and OpenAI broke up — now they’re ready to fight",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942242/microsoft-build-ai-agents-openai-competition",
-      "source": "The Verge AI",
-      "published_at": "2026-06-03T14:04:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: At Microsoft's annual Build conference on Tuesday, the company announced a slew of new or expanded AI initiatives, including a super app, in-house reasoning models, a cybersecurity",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "hot"
-      ],
-      "score": 96
+      "score": 122
     },
     {
       "title": "As AI gets better, it reveals an empty promise",
@@ -76,27 +58,60 @@
       "score": 91
     },
     {
-      "title": "Anthropic's open-source framework for AI-powered vulnerability discovery",
-      "url": "https://github.com/anthropics/defending-code-reference-harness",
+      "title": "Launch HN: General Instinct (YC P26) – Frontier models on edge devices",
+      "url": "https://news.ycombinator.com/item?id=48414869",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T20:11:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/anthropics/defending-code-reference-harness Comments URL: https://news.ycombinator.com/item?id=48403980 Points: 300 # Comments: 97",
+      "published_at": "2026-06-05T16:33:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey HN, Guanming and Bill here from General Instinct (https://general-instinct.com/). After years of working in robotics, we kept running into the same problem: the best models nev",
       "tags": [
-        "Claude/Anthropic",
-        "Hot"
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "hot"
+      ],
+      "score": 71
+    },
+    {
+      "title": "The latest AI news we announced in May 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-may-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-06-05T14:45:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Here are Google’s latest AI updates from May 2026",
+      "tags": [
+        "Gemini/Google",
+        "Release"
       ],
       "buckets": [
         "llm",
         "hot"
       ],
-      "score": 85
+      "score": 70
     },
     {
-      "title": "When AI Builds Itself: Our progress toward recursive self-improvement",
-      "url": "https://www.anthropic.com/institute/recursive-self-improvement",
+      "title": "pg_durable: Microsoft open sources in-database durable execution",
+      "url": "https://github.com/microsoft/pg_durable",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T16:20:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.anthropic.com/institute/recursive-self-improvement Comments URL: https://news.ycombinator.com/item?id=48400842 Points: 363 # Comments: 474",
+      "published_at": "2026-06-05T15:59:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/microsoft/pg_durable Comments URL: https://news.ycombinator.com/item?id=48414367 Points: 337 # Comments: 79",
+      "tags": [
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 67
+    },
+    {
+      "title": "Did Claude increase bugs in rsync?",
+      "url": "https://alexispurslane.github.io/rsync-analysis/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-05T12:43:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://alexispurslane.github.io/rsync-analysis/ Comments URL: https://news.ycombinator.com/item?id=48411635 Points: 324 # Comments: 335",
       "tags": [
         "Claude/Anthropic"
       ],
@@ -104,6 +119,36 @@
         "llm"
       ],
       "score": 65
+    },
+    {
+      "title": "Tracing a powerful GNSS interference source over Europe",
+      "url": "https://arxiv.org/abs/2606.03673",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-05T08:32:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2606.03673 Comments URL: https://news.ycombinator.com/item?id=48409664 Points: 365 # Comments: 198",
+      "tags": [
+        "Eval/Observability",
+        "Hot"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 63
+    },
+    {
+      "title": "This is your laptop… on AI",
+      "url": "https://www.theverge.com/podcast/944058/ai-laptop-nvidia-build-gemini-spark-vergecast",
+      "source": "The Verge AI",
+      "published_at": "2026-06-05T16:39:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We're now deep into developer conference season, and one of the themes so far is the relentless conviction from Big Tech companies that AI is going to change everything about how w",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 60
     },
     {
       "title": "I/O 2026: Welcome to the agentic Gemini era",
@@ -154,34 +199,19 @@
       "score": 55
     },
     {
-      "title": "AI has a water problem — Google thinks it has a fix",
-      "url": "https://www.theverge.com/policy/942296/google-water-commitments-data-centers",
+      "title": "New York lawmakers pass one-year ban on new data centers",
+      "url": "https://www.theverge.com/policy/944041/new-york-data-center-moratorium",
       "source": "The Verge AI",
-      "published_at": "2026-06-03T09:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In the face of widespread backlash to the AI data center buildout throughout the US, Google is touting its efforts to minimize the environmental impact by actually increasing water",
+      "published_at": "2026-06-05T15:25:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The New York State legislature passed a one-year moratorium on new large data centers, the first statewide ban of its kind if Democratic Governor Kathy Hochul signs it into law. La",
       "tags": [
-        "NotebookLM",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "prod",
         "hot"
       ],
-      "score": 54
-    },
-    {
-      "title": "Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate",
-      "url": "https://arxiv.org/abs/2604.24881",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T23:01:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2604.24881 Comments URL: https://news.ycombinator.com/item?id=48405841 Points: 16 # Comments: 0",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
+      "score": 55
     },
     {
       "title": "5 ways Google Search can level up your thrift and vintage shopping",
@@ -196,22 +226,6 @@
         "llm"
       ],
       "score": 47
-    },
-    {
-      "title": "Amazon&#8217;s search bar will invent AI-generated products you can&#8217;t buy",
-      "url": "https://www.theverge.com/tech/942547/amazon-search-bar-ai-images",
-      "source": "The Verge AI",
-      "published_at": "2026-06-03T16:07:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Amazon's updated search bar will now show you AI-generated images of products as you describe them. For now, the in-app feature only surfaces AI images of clothing and home goods, ",
-      "tags": [
-        "Make",
-        "Release"
-      ],
-      "buckets": [
-        "make",
-        "hot"
-      ],
-      "score": 46
     },
     {
       "title": "100 things we announced at I/O 2026",
@@ -310,41 +324,11 @@
       "score": 45
     },
     {
-      "title": "5 gardening tips you can try right in Search",
-      "url": "https://blog.google/products-and-platforms/products/search/gardening-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-05-06T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’ve rounded up the top ways you can use Google’s AI Mode, Search Live and Shopping to help your plants thrive.",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Show HN: Mercek – A Desktop IDE for AWS ECS",
-      "url": "https://www.mercek.dev/",
+      "title": "Conventional Commits encourages focus on the wrong things",
+      "url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T21:15:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey HN I've been using ECS for a while now and found it annoying having to log into the console everytime I use Lens for Kubernetes but couldnt find an equivalent for ECS so i buil",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Castor: CERN Advanced STORage Manager",
-      "url": "https://castor.web.cern.ch/content/home.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T19:52:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://castor.web.cern.ch/content/home.html Comments URL: https://news.ycombinator.com/item?id=48403753 Points: 44 # Comments: 19",
+      "published_at": "2026-06-05T15:39:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/ Comments URL: https://news.ycombinator.com/item?id=48414027 Points: 272 # Comments:",
       "tags": [
         "RAG/Vector"
       ],
@@ -354,11 +338,11 @@
       "score": 45
     },
     {
-      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
-      "source": "The Verge AI",
-      "published_at": "2026-06-04T18:38:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate AB",
+      "title": "Astronauts told to return to ISS after sheltering over air leak repairs",
+      "url": "https://www.bbc.com/news/live/c4g44ew3g1kt",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-06-05T15:00:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bbc.com/news/live/c4g44ew3g1kt Comments URL: https://news.ycombinator.com/item?id=48413464 Points: 363 # Comments: 238",
       "tags": [
         "Hot"
       ],
@@ -366,34 +350,6 @@
         "hot"
       ],
       "score": 45
-    },
-    {
-      "title": "Amazon develops a warehouse robot that workers can speak to",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
-      "source": "The Verge AI",
-      "published_at": "2026-06-04T09:31:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon Amazon has announced a new version of its fully autonomous warehouse robot, P",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Let us filter AI slop, you cowards",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
-      "source": "The Verge AI",
-      "published_at": "2026-06-04T12:30:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images It's almost impossible to avoid seeing AI-generated ",
-      "tags": [
-        "Creators"
-      ],
-      "buckets": [
-        "creators"
-      ],
-      "score": 43
     },
     {
       "title": "How we used Gemini to build Google I/O 2026",
@@ -522,11 +478,11 @@
       "score": 35
     },
     {
-      "title": "SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",
-      "url": "https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation",
+      "title": "Nordstjernen Web Browser 1.0.0 released",
+      "url": "https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T22:48:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation Comments URL: https://news.ycombinator.com/item?id=48",
+      "published_at": "2026-06-05T23:42:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0 Comments URL: https://news.ycombinator.com/item?id=48419821 Points: 14 # Comments: 9",
       "tags": [
         "Release"
       ],
@@ -536,11 +492,11 @@
       "score": 35
     },
     {
-      "title": "Gaussian Point Splatting",
-      "url": "https://momentsingraphics.de/Siggraph2026.html",
+      "title": "The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography",
+      "url": "https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T10:48:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://momentsingraphics.de/Siggraph2026.html Comments URL: https://news.ycombinator.com/item?id=48396792 Points: 180 # Comments: 66",
+      "published_at": "2026-06-05T12:56:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://lsc-pagepro.mydigitalpublication.com/publication/?i=... PDF: https://cdn.coverstand.com/61061/865273/2c88ea662e2b57478723... (article is on page 62) Related: https://www.40",
       "tags": [
         "Release"
       ],
@@ -550,131 +506,173 @@
       "score": 35
     },
     {
-      "title": "The Causes of Long Covid",
-      "url": "https://www.science.org/content/blog-post/causes-long-covid",
+      "title": "Kevin O’Leary agrees to downsize massive Utah data center",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943234/kevin-oleary-agrees-to-downsize-massive-utah-data-center",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T18:38:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Kevin O'Leary agreed to halve the size of his planned 40,000-acre data center in Utah amid mounting pressure from residents and activists, as reported earlier by local affiliate AB",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 32
+    },
+    {
+      "title": "Amazon develops a warehouse robot that workers can speak to",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942884/amazon-next-generation-warehouse-robot-proteus",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T09:31:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The design hasn’t changed much from the original Proteus, which was announced in 2022. | Image: Amazon Amazon has announced a new version of its fully autonomous warehouse robot, P",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 32
+    },
+    {
+      "title": "Let us filter AI slop, you cowards",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/942909/let-us-filter-ai-slop-google-youtube-meta-instagram-tiktok",
+      "source": "The Verge AI",
+      "published_at": "2026-06-04T12:30:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nobody should be subjected to seeing shrimp Jesus all over their social feeds. | Image: Cath Virginia / The Verge, Getty Images It's almost impossible to avoid seeing AI-generated ",
+      "tags": [
+        "Creators"
+      ],
+      "buckets": [
+        "creators"
+      ],
+      "score": 30
+    },
+    {
+      "title": "Show HN: ABC Classic 100 Rankings visualised",
+      "url": "https://classic100.gotski.workers.dev/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-05T03:04:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.science.org/content/blog-post/causes-long-covid Comments URL: https://news.ycombinator.com/item?id=48407451 Points: 3 # Comments: 0",
+      "published_at": "2026-06-06T01:32:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This weekend is the ABC Classic FM countdown, which prompted me to dust off an old un-published data visualisation of rankings from previous years. I've considered adding a search ",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Meta enables ADB on deprecated Portal devices [video]",
-      "url": "https://fb.watch/HxPu0fSyeH/",
+      "title": "The intracies of modern camera lens repair (2024)",
+      "url": "https://salvagedcircuitry.com/sigma-45mm.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-05T00:44:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://developers.meta.com/horizon/blog/build-apps-for-port... Comments URL: https://news.ycombinator.com/item?id=48406640 Points: 107 # Comments: 22",
+      "published_at": "2026-06-06T00:33:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://salvagedcircuitry.com/sigma-45mm.html Comments URL: https://news.ycombinator.com/item?id=48420148 Points: 67 # Comments: 12",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Open Code Review – An AI-powered code review CLI tool",
-      "url": "https://github.com/alibaba/open-code-review",
+      "title": "The perils of UUID primary keys in SQLite",
+      "url": "https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-05T00:04:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/alibaba/open-code-review Comments URL: https://news.ycombinator.com/item?id=48406358 Points: 69 # Comments: 18",
+      "published_at": "2026-06-05T23:13:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html Comments URL: https://news.ycombinator.com/item?id=48419571 Points: 25 # Comments: 1",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "South Korean Forums Will Need to Scan Every Images with AI Censorship Tools",
-      "url": "https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341",
+      "title": "Transformers are inherently succinct",
+      "url": "https://openreview.net/pdf?id=Yxz92UuPLQ",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T23:45:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341 Comments URL: https://news.ycombinato",
+      "published_at": "2026-06-05T18:50:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This paper is being published at ICLR 2026 (top AI conference), and was selected as one of three outstanding papers. Comments URL: https://news.ycombinator.com/item?id=48416635 Poi",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Do transformers need three projections? Systematic study of QKV variants",
-      "url": "https://arxiv.org/abs/2606.04032",
+      "title": "Aging and Eye Problems",
+      "url": "https://ldstephens.net/posts/aging-and-eye-problems/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T23:11:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2606.04032 Comments URL: https://news.ycombinator.com/item?id=48405931 Points: 114 # Comments: 19",
+      "published_at": "2026-06-05T18:30:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ldstephens.net/posts/aging-and-eye-problems/ Comments URL: https://news.ycombinator.com/item?id=48416392 Points: 60 # Comments: 25",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "IPv6 zones in URLs are a mistake",
-      "url": "https://xeiaso.net/notes/2026/ipv6-zones-go-url/",
+      "title": "Gov.uk has replaced Stripe with Dutch provider Adyen",
+      "url": "https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T21:42:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://xeiaso.net/notes/2026/ipv6-zones-go-url/ Comments URL: https://news.ycombinator.com/item?id=48405019 Points: 98 # Comments: 76",
+      "published_at": "2026-06-05T16:55:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://gds.blog.gov.uk/2026/06/02/building-for-the-future-m... https://www.adyen.com/press-and-media/adyen-payments-gov-uk Comments URL: https://news.ycombinator.com/item?id=48415",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Queen bees emerge from special wax chambers",
-      "url": "https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06",
+      "title": "Mantine-datatable (and others) compromised – owner account suspended",
+      "url": "https://github.com/icflorescu/mantine-datatable/discussions/813",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T21:31:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06 Comments URL: https://news.ycombinator.com/item?id=48404905 Points: 52 # Commen",
+      "published_at": "2026-06-05T16:39:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/icflorescu/mantine-datatable/discussions/813 Comments URL: https://news.ycombinator.com/item?id=48414978 Points: 62 # Comments: 24",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Meta's ships facial recognition on smart glasses",
-      "url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+      "title": "Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T19:36:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.buchodi.com/meta-glasses-facial-recognition/ Comments URL: https://news.ycombinator.com/item?id=48403588 Points: 248 # Comments: 210",
+      "published_at": "2026-06-05T16:18:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/ Comments URL: https://news.ycombinator.com/item?id=48414653 Poin",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Retro-Tech Parenting",
-      "url": "https://havenweb.org/2026/05/28/retro-tech.html",
+      "title": "New method turns ocean water into drinking water, without waste",
+      "url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T16:02:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://havenweb.org/2026/05/28/retro-tech.html Comments URL: https://news.ycombinator.com/item?id=48400588 Points: 266 # Comments: 179",
+      "published_at": "2026-06-05T15:04:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/ Comments URL: https://news.ycombinator.com/item?id=48413500 Points: 272 # Comm",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "KVarN: Native vLLM backend for KV-cache quantization by Huawei",
-      "url": "https://github.com/huawei-csl/KVarN",
+      "title": "India's surprise baby bust",
+      "url": "https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T15:18:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/huawei-csl/KVarN Comments URL: https://news.ycombinator.com/item?id=48399974 Points: 117 # Comments: 12",
+      "published_at": "2026-06-05T14:44:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://archive.ph/ZDxIe Comments URL: https://news.ycombinator.com/item?id=48413254 Points: 140 # Comments: 619",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "VoidZero Is Joining Cloudflare",
-      "url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+      "title": "I tested every IP KVM in my Homelab",
+      "url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T13:00:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://voidzero.dev/posts/voidzero-cloudflare Comments URL: https://news.ycombinator.com/item?id=48398055 Points: 586 # Comments: 260",
+      "published_at": "2026-06-05T14:30:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/ Comments URL: https://news.ycombinator.com/item?id=48413072 Points: 247 # Comments: 68",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "AccessOwl (YC S22) is hiring an AI TypeScript Engineer to connect 300 SaaS tools",
-      "url": "https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus",
+      "title": "Nango (YC W23, dev infra) is hiring staff back end engineers",
+      "url": "https://nango.dev/careers",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T12:00:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/accessowl/jobs/hfWAhVp-ai-enabled-senior-software-engineer-typescript-focus Comments URL: https://news.ycombinator.com/item?id=48",
+      "published_at": "2026-06-05T12:00:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=48411227 Points: 0 # Comments: 0",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Ian's Secure Shoelace Knot",
-      "url": "https://www.fieggen.com/shoelace/secureknot.htm",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-06-04T11:17:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.fieggen.com/shoelace/secureknot.htm Comments URL: https://news.ycombinator.com/item?id=48397028 Points: 526 # Comments: 200",
+      "title": "This AI startup says it can tell if a script will make a hit film",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/943531/ai-script-quilty-simon-horsman-daniel-wood",
+      "source": "The Verge AI",
+      "published_at": "2026-06-05T13:57:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When Quilty hit the industry trades earlier this year, the AI startup promised that its tool could accurately predict a film's success just by reading the script. When people actua",
       "tags": [],
       "buckets": [],
       "score": 25
@@ -687,7 +685,7 @@
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Taiwan Semiconductor Manufacturing Co. - the world's biggest semiconductor-maker - is struggling to meet demands from American customers even with its factory buildout in the US, a",
       "tags": [],
       "buckets": [],
-      "score": 25
+      "score": 12
     }
   ]
 }
