@@ -1,43 +1,75 @@
 {
-  "updated_at": "2026-07-04T02:45:26.917Z",
+  "updated_at": "2026-07-05T02:56:09.478Z",
   "items": [
     {
-      "title": "A system-level approach to prompt injection: separating instruction and data channels in LLM agents [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ukgwk1/a_systemlevel_approach_to_prompt_injection/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-01T09:34:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Prompt injection has emerged as one of the most persistent failure modes in tool-using LLM systems, particularly in agentic workflows where models interact with external data sourc",
+      "title": "The fanfiction community is at war with AI — and itself",
+      "url": "https://www.theverge.com/tech/960854/ai-fanfiction-ao3-claude-detector",
+      "source": "The Verge AI",
+      "published_at": "2026-07-04T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Fanfiction communities are trying to hunt down writers who haven’t written works with their own hands. | Image: Álvaro Bernis / The Verge Over the past week, a new fanworks movemen",
       "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "NotebookLM",
-        "Hot",
-        "Release"
+        "GPT/OpenAI",
+        "Claude/Anthropic"
       ],
       "buckets": [
-        "llm",
-        "agents",
-        "prod",
-        "hot"
+        "llm"
       ],
-      "score": 128
+      "score": 105
     },
     {
-      "title": "New serious vulnerabilities spiked around release of Claude Mythos Preview",
-      "url": "https://epoch.ai/data-insights/cve-severity-spike",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T21:16:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://epoch.ai/data-insights/cve-severity-spike Comments URL: https://news.ycombinator.com/item?id=48780056 Points: 52 # Comments: 10",
+      "title": "BaryGraph - knowledge graph where every relationship is its own embedded document (not an edge) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1un3lsf/barygraph_knowledge_graph_where_every/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-04T08:24:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instead of node --edge--> node, every relationship is a first-class document with its own vector, called a BaryEdge. Stack pairs of BaryEdges recursively and you get \"MetaBary\" tri",
       "tags": [
-        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 97
+    },
+    {
+      "title": "Proposal: Use semantic compression as input diffusion to read sessions larger than the context window [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1un63hv/proposal_use_semantic_compression_as_input/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-04T10:56:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been trying to come up with a solution for keeping extremely long ai sessions coherent. Sometimes there is too much substance to risk compaction. With so much buzz around diff",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "rag",
+        "eval",
         "hot"
       ],
-      "score": 95
+      "score": 93
+    },
+    {
+      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
+      "url": "https://github.com/openai/codex/issues/30364",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T21:51:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/openai/codex/issues/30364 Comments URL: https://news.ycombinator.com/item?id=48789428 Points: 157 # Comments: 50",
+      "tags": [
+        "GPT/OpenAI",
+        "Notion Status"
+      ],
+      "buckets": [
+        "llm",
+        "status"
+      ],
+      "score": 85
     },
     {
       "title": "Contrastive Decoding Diffing (CDD): recovering verbatim finetuning data from logits alone, no weight access needed[R]",
@@ -55,7 +87,7 @@
         "zapier",
         "hot"
       ],
-      "score": 95
+      "score": 82
     },
     {
       "title": "Anthropic wants to develop its own drugs",
@@ -73,7 +105,7 @@
         "rag",
         "hot"
       ],
-      "score": 95
+      "score": 82
     },
     {
       "title": "OpenAI floats giving Trump administration 5 percent cut of AI boom ",
@@ -91,26 +123,6 @@
         "hot"
       ],
       "score": 82
-    },
-    {
-      "title": "Anyone looking into the new MARS2 Workshop/Competition @ ECCV 2026? I saw Tec-do posting it. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uka1r6/anyone_looking_into_the_new_mars2/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-01T03:15:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I recently came across the announcement for the MARS2 Workshop (Multimodal Reasoning Competition) at ECCV 2026. From what I understand, it focuses on multimodal reasoning and test-",
-      "tags": [
-        "Eval/Observability",
-        "Multimodal",
-        "Make",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "multimodal",
-        "make",
-        "hot"
-      ],
-      "score": 80
     },
     {
       "title": "Google’s NotebookLM can sum up your research in a TikTok-style clip",
@@ -148,70 +160,20 @@
       "score": 70
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-02T02:15:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Ple",
+      "title": "Leaking YouTube creators' private videos",
+      "url": "https://javoriuski.com/post/youtube",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T16:45:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://javoriuski.com/post/youtube Comments URL: https://news.ycombinator.com/item?id=48786781 Points: 498 # Comments: 279",
       "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
+        "Creators",
+        "Hot"
       ],
       "buckets": [
-        "rag",
+        "creators",
         "hot"
       ],
-      "score": 62
-    },
-    {
-      "title": "Making Optimization Work When Labels Are Scarce [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-02T00:59:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse ",
-      "tags": [
-        "Eval/Observability",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 60
-    },
-    {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T18:15:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Here are Google’s latest AI updates from June 2026.",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 57
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 57
+      "score": 63
     },
     {
       "title": "Take our I/O 2026 quiz, vibe coded in Google AI Studio.",
@@ -226,22 +188,6 @@
       "buckets": [
         "llm",
         "prod"
-      ],
-      "score": 57
-    },
-    {
-      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
-      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
-      "source": "The Verge AI",
-      "published_at": "2026-07-01T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searchin",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
       ],
       "score": 57
     },
@@ -310,20 +256,70 @@
       "score": 52
     },
     {
-      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
-      "source": "The Verge AI",
-      "published_at": "2026-07-03T11:49:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuri",
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul5bgf/d_selfpromotion_thread/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-02T02:15:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Ple",
       "tags": [
-        "Multimodal",
+        "RAG/Vector",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "multimodal",
+        "rag",
         "hot"
       ],
-      "score": 51
+      "score": 50
+    },
+    {
+      "title": "Making Optimization Work When Labels Are Scarce [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ul3ohk/making_optimization_work_when_labels_are_scarce_r/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-02T00:59:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.gnosyslabs.com/case-studies/safety-classifier-sparse-labels Gnosys is an autonomous model engineer: it improves prompts and classifiers when ground truth is too sparse ",
+      "tags": [
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 48
+    },
+    {
+      "title": "The latest AI news we announced in June 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T18:15:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Here are Google’s latest AI updates from June 2026.",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
+      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
+      "source": "Google AI Blog",
+      "published_at": "2026-07-01T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 45
     },
     {
       "title": "Our latest Google Finance upgrades, including a new app",
@@ -390,16 +386,60 @@
       "score": 45
     },
     {
-      "title": "Dispersion loss counteracts embedding condensation in small language models",
-      "url": "https://chenliu-1996.github.io/projects/LM-Dispersion/",
+      "title": "Protocol Prying: Vulnerability Research in AirDrop and Quick Share",
+      "url": "https://arxiv.org/abs/2606.26967",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:35:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://chenliu-1996.github.io/projects/LM-Dispersion/ Comments URL: https://news.ycombinator.com/item?id=48780826 Points: 22 # Comments: 5",
+      "published_at": "2026-07-04T20:38:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2606.26967 Comments URL: https://news.ycombinator.com/item?id=48788849 Points: 15 # Comments: 1",
       "tags": [
-        "RAG/Vector"
+        "Hot"
       ],
       "buckets": [
-        "rag"
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "If your GPU can run inference, it should be able to fine-tune too. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1unl62q/if_your_gpu_can_run_inference_it_should_be_able/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-04T21:56:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I spent the last few months building a new sparse fine-tuning method for MoE models called **USAF**. The goal was simple: if your GPU can run inference on an MoE model, it should a",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "We'll benchmark an Open weights LLM on any GPU you choose — drop your model + hardware and we'll run it. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ungvxu/well_benchmark_an_open_weights_llm_on_any_gpu_you/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-04T18:51:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We run HexGrid Cloud, a platform for deploying open-source models on GPUs, and we're heads-down optimizing our serving/deployment layer. To pressure-test it we're benchmarking real",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "Google built a great smart speaker, but Gemini isn’t ready for it",
+      "url": "https://www.theverge.com/tech/959503/google-home-speaker-review-gemini-for-home",
+      "source": "The Verge AI",
+      "published_at": "2026-07-01T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Google Home Speaker is Google’s first smart speaker in years. And it’s pretty! | Photo: Jennifer Patison Tuohy / The Verge Smart speakers have spent the past few years searchin",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
       ],
       "score": 45
     },
@@ -416,6 +456,22 @@
         "llm"
       ],
       "score": 40
+    },
+    {
+      "title": "A behind-the-scenes look at Midjourney’s medical scanner leaves many questions unanswered",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/961265/midjourney-medical-ultrasound-scanner-behind-the-scenes-video",
+      "source": "The Verge AI",
+      "published_at": "2026-07-03T11:49:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A scan of an imaging phantom, segmented to validate how cleanly structures separate under controlled conditions. | Image: Midjourney Medical Midjourney has shown more of its futuri",
+      "tags": [
+        "Multimodal",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "hot"
+      ],
+      "score": 38
     },
     {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
@@ -572,39 +628,11 @@
       "score": 35
     },
     {
-      "title": "MSI Center – How to gain SYSTEM privileges in seconds",
-      "url": "https://mrbruh.com/msicenter/",
+      "title": "Recovering garbled Bitcoin addresses (2024)",
+      "url": "https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-04T00:57:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mrbruh.com/msicenter/ Comments URL: https://news.ycombinator.com/item?id=48781688 Points: 26 # Comments: 7",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Espionage Against the European Parliament",
-      "url": "https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T20:38:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/ Comments URL: https://news.ycombinator.com/item?id=48779683 Points: 278 #",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "What does \"Safe AI\" look like? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-03T09:07:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ​ For open-weight LLMs, how practical is it to study defenses against post-release fine-tuning that weakens refusal or safety behavior? I've been seeing “uncensored” or “heretic” v",
+      "published_at": "2026-07-04T23:12:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://purplesyringa.moe/blog/recovering-garbled-bitcoin-addresses/ Comments URL: https://news.ycombinator.com/item?id=48789917 Points: 5 # Comments: 0",
       "tags": [
         "Release"
       ],
@@ -630,6 +658,180 @@
       "score": 34
     },
     {
+      "title": "Egg consumption inversely correlated with Alzheimer's",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/42002260/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-05T00:48:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://pubmed.ncbi.nlm.nih.gov/42002260/ Comments URL: https://news.ycombinator.com/item?id=48790349 Points: 36 # Comments: 13",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams",
+      "url": "https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-05T00:22:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/ Comments URL: https://news.ycombinator.com/item?id=487",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Scientists reverse brain aging, with a nasal spray",
+      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T23:41:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/ Comments URL: https://news.ycombinator.com/item?id=48790066 Points: 156 # C",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Reflections on the Guillotine",
+      "url": "https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T23:36:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine Comments URL: https://news.ycombinator.com/item?id=48790036 Points: 25 # Comments: 4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Mapping with In-Memory Layers to Reduce LLM Overload",
+      "url": "https://ridgetext.com/blog/mapbox-llm-composition",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T23:25:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ridgetext.com/blog/mapbox-llm-composition Comments URL: https://news.ycombinator.com/item?id=48789986 Points: 10 # Comments: 0",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Drone Autonomy Crash Course",
+      "url": "https://www.cggonzalez.com/blog/index.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T23:22:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cggonzalez.com/blog/index.html Comments URL: https://news.ycombinator.com/item?id=48789965 Points: 10 # Comments: 0",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
+      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T22:36:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets Comments URL: https://news.ycombinator.com/item?id=48789712 Points: 44 # Comme",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Better Models: Worse Tools",
+      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T20:16:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/ Comments URL: https://news.ycombinator.com/item?id=48788599 Points: 101 # Comments: 33",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
+      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T19:41:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main Comments URL: https://news.ycombinator.com/item?id=48788283 Points: 367 # Comments: 146",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Verizon is About to Break our Watches",
+      "url": "https://www.jefftk.com/p/verizon-is-about-to-break-our-watches",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T17:52:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.jefftk.com/p/verizon-is-about-to-break-our-watches Comments URL: https://news.ycombinator.com/item?id=48787329 Points: 141 # Comments: 85",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "BareMetal RAM Dumper – Bare-metal x86 tool for Cold Boot Attack experiments",
+      "url": "https://github.com/pIat0n/BareMetal-RAM-Dumper",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T17:37:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/pIat0n/BareMetal-RAM-Dumper Comments URL: https://news.ycombinator.com/item?id=48787201 Points: 57 # Comments: 39",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "EndBASIC 0.14: Are we multimedia yet?",
+      "url": "https://www.endbasic.dev/2026/07/endbasic-0.14.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T17:08:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.endbasic.dev/2026/07/endbasic-0.14.html Comments URL: https://news.ycombinator.com/item?id=48786970 Points: 27 # Comments: 3",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Google Books (or similar) all book scans – $200k bounty (2025)",
+      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T16:51:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234 Comments URL: https://news.ycombinator.com/item?id=48786838 Points: 348 # Comments: 188",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
+      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T16:30:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ziglang.org/devlog/2026/#2026-06-30 Comments URL: https://news.ycombinator.com/item?id=48786638 Points: 142 # Comments: 29",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Curveball",
+      "url": "https://mightyburger.net/projects/curveball/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T16:15:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mightyburger.net/projects/curveball/ Comments URL: https://news.ycombinator.com/item?id=48786495 Points: 51 # Comments: 11",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Fable created novel 4D splat format",
+      "url": "https://adamraudonis.github.io/splats4D/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-04T15:49:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://adamraudonis.github.io/splats4D/ Comments URL: https://news.ycombinator.com/item?id=48786245 Points: 120 # Comments: 43",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "What does \"Safe AI\" look like? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1um9bs7/what_does_safe_ai_look_like_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-03T09:07:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ​ For open-weight LLMs, how practical is it to study defenses against post-release fine-tuning that weakens refusal or safety behavior? I've been seeing “uncensored” or “heretic” v",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 22
+    },
+    {
       "title": "[D] Simple Questions Thread",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uko3x6/d_simple_questions_thread/",
       "source": "Reddit r/MachineLearning",
@@ -641,202 +843,7 @@
       "buckets": [
         "rag"
       ],
-      "score": 32
-    },
-    {
-      "title": "Tidal won’t pay royalties on AI-generated music, but isn’t banning it outright",
-      "url": "https://www.theverge.com/tech/959211/tidal-ai-music-policy-demonetizingdetect-label",
-      "source": "The Verge AI",
-      "published_at": "2026-06-29T19:47:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Tidal shared its new policies regarding AI-generated music today and how the platform plans to \"protect artists\" and \"inform listeners.\" Instead of banning it outright, starting on",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 30
-    },
-    {
-      "title": "Soatok's Informal Guide to Threat Models",
-      "url": "https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-04T00:35:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/ Comments URL: https://news.ycombinator.com/item?id=48781597 Points: 34 # Comments: 2",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Scientists discover guidance system for migratory songbirds",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T23:36:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/ Comments URL: https://news.ycombinato",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The circuit that lets your brain think and see",
-      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:56:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see Comments URL: https://news.ycombinator.com/item?id=48780996 Points: 44 # Comments",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Amsterdam invented the fire department",
-      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:46:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/ Comments URL: https://news.ycombinator.com/item?id=48780913 Points: 46 # Comments: 11",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Giant trees have no trouble pumping water to top branches",
-      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:40:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/ Comments URL: https://news.ycombinator.",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Steam Controller Auto-Charge – pilot to magnetic charging puck using CV",
-      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:39:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/FossPrime/Steam-Controller-Auto-Charge Comments URL: https://news.ycombinator.com/item?id=48780865 Points: 74 # Comments: 13",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "GitFut – Your GitHub stats turned into a World-Cup-style player card",
-      "url": "https://gitfut.com",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:34:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gitfut.com Comments URL: https://news.ycombinator.com/item?id=48780812 Points: 21 # Comments: 10",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "url": "https://mistral.ai/news/leanstral-1-5/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T22:33:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mistral.ai/news/leanstral-1-5/ Comments URL: https://news.ycombinator.com/item?id=48780801 Points: 94 # Comments: 28",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
-      "url": "https://www.wafer.ai/blog/glm52-amd",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T21:49:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.wafer.ai/blog/glm52-amd Comments URL: https://news.ycombinator.com/item?id=48780417 Points: 102 # Comments: 27",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Software, from First Principles",
-      "url": "https://fazamhd.com/mental-models/software/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T21:28:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fazamhd.com/mental-models/software/ Comments URL: https://news.ycombinator.com/item?id=48780224 Points: 43 # Comments: 10",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Africans Are Turning to Starlink",
-      "url": "https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T21:08:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink Comments URL: https://news.ycombinator.com/item?id=48779977 Points: 111 # ",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left",
-      "url": "https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T21:00:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead Comments URL: https://news.ycombinator.com/item?id=48779906 Points: 0 # Comments: 0",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Applied Category Theory Course (2018)",
-      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T20:42:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://math.ucr.edu/home/baez/act_course/index.html Comments URL: https://news.ycombinator.com/item?id=48779723 Points: 62 # Comments: 7",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "SearXNG: A free internet metasearch engine",
-      "url": "https://github.com/searxng/searxng",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T20:15:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/searxng/searxng Comments URL: https://news.ycombinator.com/item?id=48779454 Points: 138 # Comments: 42",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "FreeBSD ate my RAM",
-      "url": "https://crocidb.com/post/freebsd-ate-my-ram/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T19:08:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://crocidb.com/post/freebsd-ate-my-ram/ Comments URL: https://news.ycombinator.com/item?id=48778757 Points: 88 # Comments: 38",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "International chess federation sanctions Kramnik",
-      "url": "https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-03T17:04:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/ Comments URL: https://news.ycombinator.com/item?id=48",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "H64LM: A 249M-parameter Mixture-of-Experts Transformer built from scratch in PyTorch [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umqfd2/h64lm_a_249mparameter_mixtureofexperts/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-03T21:18:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone, I built H64LM, a research project to better understand modern LLMs by implementing one from scratch in PyTorch. Instead of relying on high-level training frameworks, I",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Tom Yeh's AI by hand? is it worth it? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1umqf58/tom_yehs_ai_by_hand_is_it_worth_it_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-03T21:17:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Thinking about getting two months at his website and getting a stronger understanding of machine learning since I am building tools with ai models from hugging face. Have anyone tr",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "score": 20
     }
   ]
 }
