@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T03:23:51.225Z",
+  "updated_at": "2026-07-07T02:57:03.726Z",
   "items": [
     {
       "title": "n8n Question and Answer Chain Node: Build Retrieval-Augmented Workflows with Any Document [Free Workflow JSON]",
@@ -33,62 +33,6 @@
       "score": 285
     },
     {
-      "title": "n8n Basic LLM Chain Node: Add Language Model Text Generation to Any Workflow [Free Workflow JSON]",
-      "url": "https://dev.to/pirateprentice/n8n-basic-llm-chain-node-add-language-model-text-generation-to-any-workflow-free-workflow-json-44op",
-      "source": "Dev.to n8n",
-      "published_at": "2026-07-04T19:23:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n Basic LLM Chain Node: Add Language Model Text Generation to Any Workflow [Free Workflow JSON] tags: n8n, automation, ai, javascript The n8n Basic LLM Chain node is the simplest",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 241
-    },
-    {
-      "title": "The Hidden Danger in Your n8n RAG Pipeline: What Happens When You Send Internal Docs to ChatGPT?",
-      "url": "https://dev.to/rifatkasikci/the-hidden-danger-in-your-n8n-rag-pipeline-what-happens-when-you-send-internal-docs-to-chatgpt-2b6b",
-      "source": "Dev.to n8n",
-      "published_at": "2026-07-04T15:52:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: RAG keeps your data in a vector database — but n8n AI workflows still ship retrieved chunks to OpenAI in plain text. Learn where n8n RAG pipelines leak PII, why Guardrails can't re",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "n8n",
-        "hot"
-      ],
-      "score": 230
-    },
-    {
       "title": "n8n Information Extractor Node: Extract Structured Data from Text Using AI — Free Workflow JSON",
       "url": "https://dev.to/pirateprentice/n8n-information-extractor-node-extract-structured-data-from-text-using-ai-free-workflow-json-380k",
       "source": "Dev.to n8n",
@@ -114,50 +58,105 @@
       "score": 229
     },
     {
-      "title": "Title: \"AI-Powered Translation: Turning Tree Risk Data into Client-Ready Proposals\"",
-      "url": "https://dev.to/ken_deng_ai/title-ai-powered-translation-turning-tree-risk-data-into-client-ready-proposals-2jjg",
+      "title": "From Anomaly to Action: Generating Win-Back Drafts from Behavioral Signals",
+      "url": "https://dev.to/ken_deng_ai/from-anomaly-to-action-generating-win-back-drafts-from-behavioral-signals-1apm",
       "source": "Dev.to Automation",
-      "published_at": "2026-07-06T03:01:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to write a concise 400-500 word educational Dev.to article for professionals about AI automation in AI for local arborists tree service businesses, focusing on automating t",
+      "published_at": "2026-07-07T02:41:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to produce a 400-500 word article. Must be concise, professional, etc. Must include title with \"ai\" or topic. Must include intro 2-3 sentences. Core: explain ONE key princi",
       "tags": [
         "GPT/OpenAI",
+        "Agents",
         "RAG/Vector",
         "Eval/Observability",
         "Make",
+        "Zapier",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
+        "agents",
         "rag",
         "eval",
         "make",
+        "zapier",
         "creators",
         "hot"
       ],
-      "score": 175
+      "score": 219
     },
     {
-      "title": "n8n Summarization Chain Node: Summarize Long Documents and Web Pages in Your Workflows [Free Workflow JSON]",
-      "url": "https://dev.to/pirateprentice/n8n-summarization-chain-node-summarize-long-documents-and-web-pages-in-your-workflows-free-1fm",
+      "title": "n8n MCP Server: Turn Workflows Into AI Agent Tools (2026)",
+      "url": "https://dev.to/abhijeet_singh_4577af3ef9/n8n-mcp-server-turn-workflows-into-ai-agent-tools-2026-55eg",
       "source": "Dev.to n8n",
-      "published_at": "2026-07-04T19:27:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n Summarization Chain Node: Summarize Long Documents and Web Pages in Your Workflows [Free Workflow JSON] The Summarization Chain node in n8n lets you condense long text — PDFs, ",
+      "published_at": "2026-07-06T19:44:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n shipped an instance-level MCP server in April 2026, and the Model Context Protocol itself is going through the biggest breaking change in its history: a release candidate publi",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
         "Agents",
+        "Eval/Observability",
         "n8n",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
+        "eval",
         "n8n",
         "hot"
       ],
-      "score": 150
+      "score": 201
+    },
+    {
+      "title": "AI Support Triage Automation with n8n, OpenAI, and Human Review",
+      "url": "https://dev.to/zestminds_technologies_c1/ai-support-triage-automation-with-n8n-openai-and-human-review-1lo5",
+      "source": "Dev.to n8n",
+      "published_at": "2026-07-06T07:52:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most customer support automation projects fail because they start with the wrong question. They ask: How can we make AI reply to customers automatically? A better question is: Wher",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "NotebookLM",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 185
+    },
+    {
+      "title": "The passive income blueprint that AI makes possible in 2026",
+      "url": "https://dev.to/already_herellc_c954583f/the-passive-income-blueprint-that-ai-makes-possible-in-2026-2hj6",
+      "source": "Dev.to Automation",
+      "published_at": "2026-07-07T02:24:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The passive income blueprint that AI makes possible in 2026 The era of trading hours for dollars is officially dead. In 2026, the barrier to entry for building a high-cash-flow bus",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "NotebookLM",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 139
     },
     {
       "title": "Stop letting AI agents click the expensive buttons",
@@ -180,7 +179,7 @@
         "n8n",
         "hot"
       ],
-      "score": 143
+      "score": 130
     },
     {
       "title": "50 n8n Workflow Ideas That Can Save Your Business Hundreds of Hours",
@@ -203,60 +202,59 @@
         "status",
         "hot"
       ],
-      "score": 143
-    },
-    {
-      "title": "Claude Code Hooks: 8 Production Patterns (2026)",
-      "url": "https://dev.to/claudeguide/claude-code-hooks-8-production-patterns-2026-3e8f",
-      "source": "Dev.to Automation",
-      "published_at": "2026-07-06T01:30:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at claudeguide.io/claude-code-hooks-deep-dive Claude Code hooks intercept tool calls and lifecycle events so you can run shell scripts before or after the agen",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 139
-    },
-    {
-      "title": "n8n Execute Workflow Node: Call Sub-Workflows and Build Modular Automations [Free Workflow JSON]",
-      "url": "https://dev.to/pirateprentice/n8n-execute-workflow-node-call-sub-workflows-and-build-modular-automations-free-workflow-json-4c8d",
-      "source": "Dev.to n8n",
-      "published_at": "2026-07-04T15:25:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The n8n Execute Workflow node lets one workflow call another workflow as a sub-routine. It's the foundation of modular n8n architecture: instead of one giant workflow that does eve",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "n8n",
-        "hot"
-      ],
       "score": 130
     },
     {
-      "title": "n8n Schedule Trigger and Its I…",
-      "url": "https://dev.to/norviktech/n8n-schedule-trigger-and-its-i-246a",
+      "title": "How to Think About Business Automation Before Building Workflows",
+      "url": "https://dev.to/abhijeet_singh_4577af3ef9/how-to-think-about-business-automation-before-building-workflows-pcd",
       "source": "Dev.to n8n",
-      "published_at": "2026-07-04T16:06:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at norvik.tech Explore the intricacies of the n8n Schedule Trigger, CRON expressions, and their applications in workflow automation. The n8n Schedule Trigger i",
+      "published_at": "2026-07-06T19:52:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Start with the operating process The first question is not which app should connect to which API. The first question is what the team is already doing manually and why that step ex",
+      "tags": [
+        "Agents",
+        "Multimodal",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "multimodal",
+        "n8n",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "The passive income blueprint that AI makes possible in 2026",
+      "url": "https://dev.to/already_herellc_c954583f/the-passive-income-blueprint-that-ai-makes-possible-in-2026-5444",
+      "source": "Dev.to Automation",
+      "published_at": "2026-07-07T02:54:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The passive income blueprint that AI makes possible in 2026 The era of trading hours for dollars is officially dead. In 2026, the barrier to entry for building a high-margin, autom",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "creators",
+        "hot"
+      ],
+      "score": 117
+    },
+    {
+      "title": "Architecting Authority: The Developer's Guide to Building a B2B Thought Leadership Strategy",
+      "url": "https://dev.to/michaelaiglobal/architecting-authority-the-developers-guide-to-building-a-b2b-thought-leadership-strategy-3i6m",
+      "source": "Dev.to n8n",
+      "published_at": "2026-07-06T11:02:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you are a developer, the phrase \"B2B thought leadership\" probably makes you want to close this tab. It sounds like marketing fluff. But if you are an AI engineer, a SaaS founder",
       "tags": [
         "RAG/Vector",
         "Eval/Observability",
-        "Make",
         "n8n",
         "Hot",
         "Release"
@@ -264,73 +262,109 @@
       "buckets": [
         "rag",
         "eval",
-        "make",
         "n8n",
         "hot"
       ],
-      "score": 128
+      "score": 117
     },
     {
-      "title": "Build a Custom AI Email Response System Using Claude API and n8n (No-Code Automation)",
-      "url": "https://dev.to/s_gr_a8fd54dcadbb3aaa65b0/build-a-custom-ai-email-response-system-using-claude-api-and-n8n-no-code-automation-25i0",
+      "title": "**Stop Losing $100,000 a Year: How AI Automation Can Immediately Boost Your School’s Productivity**",
+      "url": "https://dev.to/dgmh10uk/stop-losing-100000-a-year-how-ai-automation-can-immediately-boost-your-schools-productivity-3c0n",
       "source": "Dev.to Automation",
-      "published_at": "2026-07-06T01:23:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Build a Custom AI Email Response System Using Claude API and n8n (No-Code Automation) This article mentions a tool I use; the link at the end is an affiliate link. Automating custo",
-      "tags": [
-        "Claude/Anthropic",
-        "n8n",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 127
-    },
-    {
-      "title": "Title",
-      "url": "https://dev.to/ken_deng_ai/title-2076",
-      "source": "Dev.to Automation",
-      "published_at": "2026-07-06T02:30:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to write a concise 400-500 word Dev.to article for professionals about AI automation in AI assisted grant writing for nonprofits. Topic: Analytics, Tracking & Continuous Im",
+      "published_at": "2026-07-07T02:44:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Let’s be blunt. American schools are drowning in paperwork. Teachers are spending 30-40% of their time on non-instructional tasks – grading, administrative duties, data entry – ins",
       "tags": [
         "RAG/Vector",
         "NotebookLM",
-        "Make",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
         "prod",
-        "make",
+        "creators",
         "hot"
       ],
-      "score": 121
+      "score": 115
     },
     {
-      "title": "Why AI Agent Orchestration Is Becoming the Backbone of Modern Enterprise Systems",
-      "url": "https://dev.to/yanoai/why-ai-agent-orchestration-is-becoming-the-backbone-of-modern-enterprise-systems-312n",
+      "title": "The passive income blueprint that AI makes possible in 2026",
+      "url": "https://dev.to/already_herellc_c954583f/the-passive-income-blueprint-that-ai-makes-possible-in-2026-573f",
       "source": "Dev.to Automation",
-      "published_at": "2026-07-06T01:18:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By 2027, 65% of enterprise AI deployments will involve multiple AI agents working in coordination — up from fewer than 15% in 2024 (Gartner, 2024). Yet most organizations are still",
+      "published_at": "2026-07-07T02:09:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The passive income blueprint that AI makes possible in 2026 The era of trading time for money is effectively over. In 2026, the barrier to entry for building high-margin, automated",
       "tags": [
         "Agents",
         "RAG/Vector",
-        "Eval/Observability",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "creators",
+        "hot"
+      ],
+      "score": 107
+    },
+    {
+      "title": "I stopped selling the whole stack to enterprise buyers",
+      "url": "https://dev.to/mjmirza/i-stopped-selling-the-whole-stack-to-enterprise-buyers-2m3f",
+      "source": "Dev.to n8n",
+      "published_at": "2026-07-06T06:49:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I had five tool logos on one slide and I was proud of it. n8n for the orchestration. Clay for the enrichment. A vector store, a queue, a dashboard. The whole thing fit together lik",
+      "tags": [
+        "RAG/Vector",
+        "Multimodal",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "multimodal",
+        "n8n",
+        "hot"
+      ],
+      "score": 105
+    },
+    {
+      "title": "I Gave My AI Agent Its Own Email Address — Here's What Happened",
+      "url": "https://dev.to/hermestomagent/i-gave-my-ai-agent-its-own-email-address-heres-what-happened-4o11",
+      "source": "Dev.to Automation",
+      "published_at": "2026-07-07T02:24:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have been running an AI agent (Hermes) 24/7 for about two months now. It helps me manage servers, schedule tasks, and even write content. But one thing was missing: it had no dig",
+      "tags": [
+        "Agents",
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "prod",
+        "hot"
+      ],
+      "score": 101
+    },
+    {
+      "title": "The passive income blueprint that AI makes possible in 2026",
+      "url": "https://dev.to/already_herellc_c954583f/the-passive-income-blueprint-that-ai-makes-possible-in-2026-3n08",
+      "source": "Dev.to Automation",
+      "published_at": "2026-07-07T02:39:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The passive income blueprint that AI makes possible in 2026 The era of trading hours for dollars is officially dead. In 2026, the barrier to entry for building high-margin, automat",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "rag",
-        "eval",
         "hot"
       ],
-      "score": 117
+      "score": 99
     },
     {
       "title": "Omdaa AI + n8n in 10 Minutes — Free Forever Automation",
@@ -350,85 +384,60 @@
         "zapier",
         "creators"
       ],
-      "score": 111
+      "score": 98
     },
     {
-      "title": "Automating Form I-485 Drafting – Adjusting Status from Intake to Final Submission",
-      "url": "https://dev.to/ken_deng_ai/automating-form-i-485-drafting-adjusting-status-from-intake-to-final-submission-4793",
+      "title": "I built an API-first public network for autonomous agents",
+      "url": "https://dev.to/sunfishloop/i-built-an-api-first-public-network-for-autonomous-agents-3h8j",
       "source": "Dev.to Automation",
-      "published_at": "2026-07-06T02:40:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to write a 400-500 word article. Must be concise, but 400-500 words is fairly long. Let's aim for ~440 words. We must include title, intro, core, include one specific tool ",
-      "tags": [
-        "RAG/Vector",
-        "Make",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "rag",
-        "make",
-        "creators",
-        "hot"
-      ],
-      "score": 107
-    },
-    {
-      "title": "AI-Powered Data Collection: Automating MLS and Public Feeds for Solo Agents",
-      "url": "https://dev.to/ken_deng_ai/ai-powered-data-collection-automating-mls-and-public-feeds-for-solo-agents-4f6",
-      "source": "Dev.to Automation",
-      "published_at": "2026-07-06T02:11:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We need to produce a concise 400-500 word Dev.to article. Must be between 400-500 words inclusive. Must follow requirements. Let's craft about 440 words. We need Title engaging, in",
+      "published_at": "2026-07-07T01:59:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am building SunfishLoop, an API-first public network for autonomous agents. The core question is simple: If agents increasingly perform useful work, should they also have a publi",
       "tags": [
         "Agents",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "hot"
+      ],
+      "score": 83
+    },
+    {
+      "title": "FastAPI: valida emails por entorno preview",
+      "url": "https://dev.to/silviutech/fastapi-valida-emails-por-entorno-preview-40nd",
+      "source": "Dev.to Automation",
+      "published_at": "2026-07-07T02:24:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Los entornos preview ayudan mucho, pero tambien rompen pruebas de correo de formas bastante tontas. La rama abre un deploy limpio, la API responde bien, y aun asi el email de invit",
+      "tags": [
         "RAG/Vector",
         "Make",
         "Release"
       ],
       "buckets": [
-        "agents",
         "rag",
         "make",
         "hot"
       ],
-      "score": 103
+      "score": 79
     },
     {
-      "title": "How I Turned My Raspberry Pi into a 24/7 AI Automation Hub",
-      "url": "https://dev.to/ulnit/how-i-turned-my-raspberry-pi-into-a-247-ai-automation-hub-1g3l",
+      "title": "Control Strategy for Precise Positioning of 25-Ton Gantry Cranes Using Variable Frequency Drives (VFD)",
+      "url": "https://dev.to/aicraneblog/control-strategy-for-precise-positioning-of-25-ton-gantry-cranes-using-variable-frequency-drives-4o08",
       "source": "Dev.to Automation",
-      "published_at": "2026-07-06T01:01:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Turned My Raspberry Pi into a 24/7 AI Automation Hub A few months ago, I found myself drowning in repetitive tasks. I was spending hours every week on bug bounty reconnaissan",
-      "tags": [
-        "Agents",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "prod",
-        "hot"
-      ],
-      "score": 101
-    },
-    {
-      "title": "Part 5: Python + APIs = Your Next Side Income Stream",
-      "url": "https://dev.to/qingluan/part-5-python-apis-your-next-side-income-stream-2m5o",
-      "source": "Dev.to Automation",
-      "published_at": "2026-07-06T02:04:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Part 5: Python + APIs = Your Next Side Income Stream Introduction to Monetizing Free APIs with Python In our ongoing series, \"Python自动化赚钱系列\" (Python Automation for Making Money), w",
+      "published_at": "2026-07-07T02:16:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In industrial assembly and logistics, the operating precision of a 25-ton gantry crane directly impacts productivity and site safety. Traditional speed control methods often strugg",
       "tags": [
         "RAG/Vector",
-        "NotebookLM",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
-        "prod",
         "hot"
       ],
-      "score": 97
+      "score": 75
     },
     {
       "title": "Inbound vs. Outbound for B2B: A Developer's Guide to Lead Generation",
@@ -445,30 +454,14 @@
         "n8n",
         "hot"
       ],
-      "score": 79
+      "score": 66
     },
     {
-      "title": "Poisoned MCP Tool Descriptions Enable Silent Data Exfiltration via AI Agents",
-      "url": "https://dev.to/bansac1981/poisoned-mcp-tool-descriptions-enable-silent-data-exfiltration-via-ai-agents-2gpl",
+      "title": "Residential Proxies for Developers: Picking the Right IP Strategy (2026 Comparison)",
+      "url": "https://dev.to/danielk_automat/residential-proxies-for-developers-picking-the-right-ip-strategy-2026-comparison-3l0m",
       "source": "Dev.to Automation",
-      "published_at": "2026-07-06T02:30:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary Microsoft researchers have demonstrated how attackers can embed hidden instructions inside MCP tool descriptions to covertly redirect AI agents into exfiltrating s",
-      "tags": [
-        "Agents",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 69
-    },
-    {
-      "title": "Python Selenium Automation: From Zero to Production in 2026",
-      "url": "https://dev.to/annalilith/python-selenium-automation-from-zero-to-production-in-2026-18n2",
-      "source": "Dev.to Automation",
-      "published_at": "2026-07-06T01:02:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Python Selenium Automation: From Zero to Production in 2026 Last updated: July 2026 Selenium is the gold standard for browser automation. This guide takes you from beginner to prod",
+      "published_at": "2026-07-07T02:54:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've ever built a scraper that worked perfectly in dev and then got blocked or CAPTCHA'd the moment it hit production traffic volume, you already know why proxy choice matters",
       "tags": [
         "Agents",
         "Release"
@@ -480,9 +473,25 @@
       "score": 59
     },
     {
+      "title": "Stop Playwright Before It Uses the Wrong Browser Profile",
+      "url": "https://dev.to/web4browser/stop-playwright-before-it-uses-the-wrong-browser-profile-5b3b",
+      "source": "Dev.to Automation",
+      "published_at": "2026-07-07T02:03:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A Playwright script can pass every local check and still run in the wrong browser environment. The selector may be correct. The proxy may connect. The page may load. The cookie fil",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 55
+    },
+    {
       "title": "Website Uptime Monitoring with n8n",
       "url": "https://dev.to/floxolab/website-uptime-monitoring-with-n8n-3c6g",
-      "source": "Dev.to Automation",
+      "source": "Dev.to n8n",
       "published_at": "2026-07-06T01:21:10.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A 4-node workflow checks your website every 5 minutes and sends a Telegram, Slack, or Google Chat alert the moment it goes down, so you find out before a customer does. Most small ",
       "tags": [
@@ -491,7 +500,7 @@
       "buckets": [
         "n8n"
       ],
-      "score": 49
+      "score": 36
     }
   ]
 }
