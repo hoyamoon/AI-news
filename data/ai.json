@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T02:30:34.439Z",
+  "updated_at": "2026-07-12T02:36:05.463Z",
   "items": [
     {
       "title": "The ChatGPT browser is already dead",
@@ -17,25 +17,6 @@
         "hot"
       ],
       "score": 102
-    },
-    {
-      "title": "Would you host part of an AI data center in your home?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
-      "source": "The Verge AI",
-      "published_at": "2026-07-10T13:20:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their h",
-      "tags": [
-        "RAG/Vector",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "prod",
-        "hot"
-      ],
-      "score": 97
     },
     {
       "title": "OpenAI rolls out GPT-5.6 after government greenlight — and announces ‘ChatGPT Work’",
@@ -56,36 +37,20 @@
       "score": 86
     },
     {
-      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "title": "Would you host part of an AI data center in your home?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/963930/sunrun-distributed-ai-data-center",
       "source": "The Verge AI",
-      "published_at": "2026-07-10T21:36:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Appl",
+      "published_at": "2026-07-10T13:20:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A solar and home energy storage company is expanding into AI data centers, but not by building one - instead, it's offering to pay its customers to put its compute units in their h",
       "tags": [
-        "GPT/OpenAI",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 85
-    },
-    {
-      "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-08T18:36:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most safety alignment work treats \"detect the attack\" as a text classification problem — does the prompt contain language the model's safety guardrails should catch. That assumptio",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
+        "RAG/Vector",
+        "NotebookLM",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
-        "eval",
+        "rag",
+        "prod",
         "hot"
       ],
       "score": 84
@@ -108,6 +73,59 @@
       "score": 82
     },
     {
+      "title": "VultronRetriever family of models released on HuggingFace![R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1utmxq8/vultronretriever_family_of_models_released_on/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-11T15:22:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Thrilled to announce the VultronRetriever family of models, which were revealed during Raise Summit Paris and demonstrated running Q&A and embedding documents on the iPhone, fully ",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 73
+    },
+    {
+      "title": "Agentic safety triggers aren't textual safety triggers — MCP attacks that beat SOTA guardrails more than half the time (code + dataset) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1ur1fnz/agentic_safety_triggers_arent_textual_safety/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-08T18:36:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most safety alignment work treats \"detect the attack\" as a text classification problem — does the prompt contain language the model's safety guardrails should catch. That assumptio",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "hot"
+      ],
+      "score": 72
+    },
+    {
+      "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
+      "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
+      "source": "The Verge AI",
+      "published_at": "2026-07-10T21:36:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Appl",
+      "tags": [
+        "GPT/OpenAI",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 72
+    },
+    {
       "title": "LingBot-Video: sparse-MoE video diffusion transformer (13B total, 1.4B active) post-trained as an action-conditioned world model[R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1ur0bxq/lingbotvideo_sparsemoe_video_diffusion/",
       "source": "Reddit r/MachineLearning",
@@ -124,101 +142,23 @@
         "eval",
         "hot"
       ],
-      "score": 80
+      "score": 68
     },
     {
-      "title": "On Adversarial RL [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1usx96p/on_adversarial_rl_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-10T19:15:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Zhang et al. paper's introducing the SA-MDP framework (2020) (state adversarial MDP) argues that an attack using the critic network (V(s)) is expected and supposed to produce a wea",
-      "tags": [
-        "Agents",
-        "Make"
-      ],
-      "buckets": [
-        "agents",
-        "make"
-      ],
-      "score": 73
-    },
-    {
-      "title": "ML Papers with hundreds of authors should just collapse down to the organization response instead of listing every author [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1usz695/ml_papers_with_hundreds_of_authors_should_just/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-10T20:26:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've had this feeling for a while when reading the citation pages of ML papers and had to continuously scroll down for like 2+ pages because a citation with hundreds of authors, su",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 70
-    },
-    {
-      "title": "Show HN: We beat Cloudflare's bot detection (open-source stealth browser)",
-      "url": "https://tilion.dev/blog/cloudflare-blocks-agents",
+      "title": "A public ledger of cloud outages and the SLA credits they trigger",
+      "url": "https://slacreditwatch.com",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-11T00:26:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://tilion.dev/blog/cloudflare-blocks-agents Comments URL: https://news.ycombinator.com/item?id=48867124 Points: 6 # Comments: 0",
+      "published_at": "2026-07-12T00:02:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://slacreditwatch.com Comments URL: https://news.ycombinator.com/item?id=48877009 Points: 15 # Comments: 3",
       "tags": [
-        "Agents",
+        "Notion Status",
         "Hot"
       ],
       "buckets": [
-        "agents",
+        "status",
         "hot"
       ],
-      "score": 69
-    },
-    {
-      "title": "Apple sues OpenAI, accuses ex-employees of stealing trade secrets",
-      "url": "https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T20:47:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.macrumors.com/2026/07/10/apple-sues-openai/ Comments URL: https://news.ycombinator.com/item?id=48865019 Points: 566 # Comments: 269",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
       "score": 65
-    },
-    {
-      "title": "GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]",
-      "url": "https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T18:29:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://x.com/__eknight__/status/2075643450196971805, https://xcancel.com/__eknight__/status/2075643450196971805 Prompt: https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd9",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "I built IMGNet – a face verification model that identifies people using sign patterns, not cosine similarity [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1urxvxh/i_built_imgnet_a_face_verification_model_that/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-09T18:00:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I want to share something I've been building as an independent researcher from Indonesia. TL;DR: Face verification model that replaces cosine similarity with sliding window sign pa",
-      "tags": [
-        "RAG/Vector",
-        "Notion Update",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "update",
-        "hot"
-      ],
-      "score": 64
     },
     {
       "title": "Talos-XII: hand-written autograd + small RL/MLP stack in Rust, applied to gacha probability modeling (no tch-rs/ndarray/PyTorch) — looking for benchmark help on ARM/AVX-512/GPU [P]",
@@ -236,24 +176,6 @@
         "hot"
       ],
       "score": 62
-    },
-    {
-      "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-08T13:51:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "eval",
-        "hot"
-      ],
-      "score": 60
     },
     {
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -320,6 +242,21 @@
       "score": 55
     },
     {
+      "title": "RISCBoy is an open-source portable games console, designed from scratch",
+      "url": "https://github.com/Wren6991/RISCBoy",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-11T21:58:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/Wren6991/RISCBoy Comments URL: https://news.ycombinator.com/item?id=48876245 Points: 64 # Comments: 17",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
+    },
+    {
       "title": "What if a model could only learn what trusted LoRA adapters can express? [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uq68li/what_if_a_model_could_only_learn_what_trusted/",
       "source": "Reddit r/MachineLearning",
@@ -366,6 +303,24 @@
         "hot"
       ],
       "score": 50
+    },
+    {
+      "title": "DINOv2 way worse than SigLIP in k-NN. Is this expected? [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqtamz/dinov2_way_worse_than_siglip_in_knn_is_this/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-08T13:51:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Doing a bachelor thesis on fine-grained car classification (telling apart VW Golf generations from listing photos). Simple setup: frozen encoder → embeddings → weighted k-NN. On my",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 48
     },
     {
       "title": "Ph.D. thesis on Differentiable Ray Tracing for Radio Propagation Modeling [R]",
@@ -465,25 +420,11 @@
       "score": 45
     },
     {
-      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
+      "title": "Context and average best linear mappings [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uu2p63/context_and_average_best_linear_mappings_d/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-10T14:59:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am currently working across multiple research communities, and I've noticed that the ML community is struggling with a massive volume of submissions, which is affecting review qu",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Please help me understand figure on subspace similarity in LoRA paper. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-10T13:46:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am studying the LoRA paper and have trouble understanding this figure. The function essentially measures how much of the subspace spanned by the top i vectors is contained in the",
+      "published_at": "2026-07-12T02:18:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The context (in a border sense) viewpoint of neural networks is not thought about too much but it leads to a simple best average linear mapping viewpoint of a layer. https://archiv",
       "tags": [
         "RAG/Vector"
       ],
@@ -491,22 +432,6 @@
         "rag"
       ],
       "score": 45
-    },
-    {
-      "title": "First time ARR users - some questions [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-08T16:06:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 fo",
-      "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 42
     },
     {
       "title": "Microsoft’s carbon emissions went up 25 percent last year",
@@ -522,22 +447,6 @@
         "hot"
       ],
       "score": 42
-    },
-    {
-      "title": "ECCV: Will there be another confirmation after “provisionally accepted”? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqj6i3/eccv_will_there_be_another_confirmation_after/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-08T05:12:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I understand that it may not be appropriate to call it “officially accepted” yet because of the wording used in the notification, and I also saw on Twitter/X that they said they ar",
-      "tags": [
-        "Multimodal",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 38
     },
     {
       "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
@@ -694,11 +603,11 @@
       "score": 35
     },
     {
-      "title": "An update on residential proxies and the scraper situation",
-      "url": "https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/",
+      "title": "Weightlifting beats running for blood sugar control, researchers find (2025)",
+      "url": "https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T19:38:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/ Comments URL: https://news.ycombinator.com/item?id=48864252 Points: 92 # Comments: 81",
+      "published_at": "2026-07-11T22:49:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://news.vt.edu/articles/2025/11/research_fralinbiomed_yanweightlifting.html Comments URL: https://news.ycombinator.com/item?id=48876593 Points: 114 # Comments: 63",
       "tags": [
         "Release"
       ],
@@ -708,11 +617,11 @@
       "score": 35
     },
     {
-      "title": "SpaceX wants to launch 100k more Starlink satellites for 100x the bandwidth",
-      "url": "https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T17:51:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.zdnet.com/home-and-office/networking/spacex-wants-to-launch-100000-more-starlink-satellites/ Comments URL: https://news.ycombinator.com/item?id=48863064 Po",
+      "title": "Withdraw from ACL ARR and resubmit to a workshop? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uth7j8/withdraw_from_acl_arr_and_resubmit_to_a_workshop_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-11T11:09:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey guys, I received mediocre scores for my EMNLP paper during the May ACL ARR cycle: 2.5/3, 3/4, 2.5/4. The paper is in the Interpretability track. The reviewers had no larger iss",
       "tags": [
         "Release"
       ],
@@ -722,18 +631,32 @@
       "score": 35
     },
     {
-      "title": "Meta turns off the Instagram feature that let users make AI deepfakes of public accounts",
-      "url": "https://www.theverge.com/tech/964416/meta-instagram-ai-muse-image-deepfakes",
-      "source": "The Verge AI",
-      "published_at": "2026-07-10T23:49:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Following significant backlash, Meta is turning off the feature it announced this week that let users generate AI images based on content from public Instagram accounts just by tag",
+      "title": "Why doesn't the ML research community limit the number of submissions per author? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1usq43t/why_doesnt_the_ml_research_community_limit_the/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-10T14:59:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am currently working across multiple research communities, and I've noticed that the ML community is struggling with a massive volume of submissions, which is affecting review qu",
       "tags": [
-        "Release"
+        "Hot"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 32
+    },
+    {
+      "title": "Please help me understand figure on subspace similarity in LoRA paper. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uso667/please_help_me_understand_figure_on_subspace/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-10T13:46:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am studying the LoRA paper and have trouble understanding this figure. The function essentially measures how much of the subspace spanned by the top i vectors is contained in the",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
+      ],
+      "score": 32
     },
     {
       "title": "Hyperparameter tuning approach question [R]",
@@ -748,6 +671,22 @@
         "rag"
       ],
       "score": 32
+    },
+    {
+      "title": "First time ARR users - some questions [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqx3f6/first_time_arr_users_some_questions_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-08T16:06:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We submitted our first paper to ARR, intending to commit to IJCNLP-AACL. Area: Multilingualism and Cross-Lingual NLP Scores: (3,4) (2.5,3) (3,3) - average 2.83 for reviews, 3.33 fo",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 30
     },
     {
       "title": "TorchJD: Training with multiple losses in PyTorch [P]",
@@ -766,111 +705,157 @@
       "score": 30
     },
     {
-      "title": "I've been building this alone for months. Roast it before I lose any more time",
-      "url": "https://peakd.io",
+      "title": "ECCV: Will there be another confirmation after “provisionally accepted”? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uqj6i3/eccv_will_there_be_another_confirmation_after/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-08T05:12:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I understand that it may not be appropriate to call it “officially accepted” yet because of the wording used in the notification, and I also saw on Twitter/X that they said they ar",
+      "tags": [
+        "Multimodal",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "hot"
+      ],
+      "score": 26
+    },
+    {
+      "title": "A pure scheme web programming tool",
+      "url": "https://goeteia.dev",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-11T00:53:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://peakd.io Comments URL: https://news.ycombinator.com/item?id=48867364 Points: 6 # Comments: 0",
+      "published_at": "2026-07-12T00:57:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://goeteia.dev Comments URL: https://news.ycombinator.com/item?id=48877314 Points: 16 # Comments: 8",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "FreeCAD in the Browser",
-      "url": "https://magik.net/freecad/",
+      "title": "A dock that wakes up reliably",
+      "url": "https://fabiensanglard.net/tb4/index.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-11T00:44:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://magik.net/freecad/ Comments URL: https://news.ycombinator.com/item?id=48867264 Points: 26 # Comments: 17",
+      "published_at": "2026-07-12T00:48:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fabiensanglard.net/tb4/index.html Comments URL: https://news.ycombinator.com/item?id=48877269 Points: 25 # Comments: 19",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Einstein's relativity rules chemical bonds in heavy elements, new research shows",
-      "url": "https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity",
+      "title": "Long Covid May Physically Damage the Nerves That Control the Stomach",
+      "url": "https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T22:30:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity Comments URL: https://news.ycombinator.com/item?id=48866134 Points: 104 # Comments: 40",
+      "published_at": "2026-07-12T00:35:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext Comments URL: https://news.ycombinator.com/item?id=48877192 Points: 38 # Comments: 18",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Moss (YC F25) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk",
+      "title": "Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",
+      "url": "https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T21:11:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/moss/jobs/52LnqLQ-software-engineer-sdk Comments URL: https://news.ycombinator.com/item?id=48865332 Points: 0 # Comments: 0",
+      "published_at": "2026-07-12T00:32:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491 Comments URL: https://news.ycombinator.com/item?id=48877178 Points: 21 # Comm",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",
-      "url": "https://nebusec.ai/research/ionstack-part-2/",
+      "title": "Doctors die. It's not like the rest of us, but it should be (2016)",
+      "url": "https://archive.cancerworld.net/featured/how-doctors-die/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T20:43:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nebusec.ai/research/ionstack-part-2/ Comments URL: https://news.ycombinator.com/item?id=48864969 Points: 37 # Comments: 9",
+      "published_at": "2026-07-11T23:15:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://archive.cancerworld.net/featured/how-doctors-die/ Comments URL: https://news.ycombinator.com/item?id=48876741 Points: 74 # Comments: 42",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "New York City to to ban deceptive subscription practices",
-      "url": "https://www.theguardian.com/us-news/2026/jul/10/new-york-city-deceptive-subscriptions-ban",
+      "title": "Mesh LLM: distributed AI computing on iroh",
+      "url": "https://www.iroh.computer/blog/mesh-llm",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T18:26:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.nyc.gov/mayors-office/news/2026/07/mayor-mamdani... Comments URL: https://news.ycombinator.com/item?id=48863464 Points: 420 # Comments: 218",
+      "published_at": "2026-07-11T22:38:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.iroh.computer/blog/mesh-llm Comments URL: https://news.ycombinator.com/item?id=48876505 Points: 102 # Comments: 26",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "War Atlas: An interactive cartography of every named war in human history",
-      "url": "https://waratlas.org",
+      "title": "Show HN: Ant – A JavaScript runtime and ecosystem",
+      "url": "https://antjs.org",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T17:52:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://waratlas.org Comments URL: https://news.ycombinator.com/item?id=48863080 Points: 118 # Comments: 58",
+      "published_at": "2026-07-11T20:07:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello HN! I'm the author of Ant, a JavaScript ecosystem built around a runtime with its own JavaScript engine. Ant also includes a package manager, the ants.land package registry, ",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The tech of 'Terminator 2' – an oral history (2017)",
-      "url": "https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/",
+      "title": "Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL",
+      "url": "https://github.com/sqlsure/sqlsure",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T16:48:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/ Comments URL: https://news.ycombinator.com/item?id=48862365 Points: 168 # Comments: 67",
+      "published_at": "2026-07-11T20:03:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/sqlsure/sqlsure Comments URL: https://news.ycombinator.com/item?id=48875342 Points: 16 # Comments: 1",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Snails' teeth beats spider silk as nature's strongest material (2015)",
-      "url": "https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/",
+      "title": "How to hide from killer drones",
+      "url": "https://www.economist.com/science-and-technology/2026/07/08/how-to-hide-from-killer-drones",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T16:37:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/ Comments URL: https://news.ycombinator.com/item",
+      "published_at": "2026-07-11T18:22:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://archive.ph/xiCSq Comments URL: https://news.ycombinator.com/item?id=48874357 Points: 111 # Comments: 139",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "QuadRF can spot drones and see WiFi through my wall",
-      "url": "https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/",
+      "title": "ZeroFS vs. Amazon S3 Files",
+      "url": "https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T15:59:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/ Comments URL: https://news.ycombinator.com/item?id=48861717 Points: 460 # C",
+      "published_at": "2026-07-11T18:15:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/ Comments URL: https://news.ycombinator.com/item?id=48874297 Points: 62 # Comments: 16",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "A love letter to flashcards",
-      "url": "https://lesleylai.info/en/flashcards/",
+      "title": "Prefer strict tables in SQLite",
+      "url": "https://evanhahn.com/prefer-strict-tables-in-sqlite/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-10T15:30:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lesleylai.info/en/flashcards/ Comments URL: https://news.ycombinator.com/item?id=48861319 Points: 128 # Comments: 81",
+      "published_at": "2026-07-11T17:33:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://evanhahn.com/prefer-strict-tables-in-sqlite/ Comments URL: https://news.ycombinator.com/item?id=48873940 Points: 226 # Comments: 113",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",
+      "url": "https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-11T17:21:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom Comments URL: https://news.ycombinator.com/item?id=48873836 Points: 165 # Comments: 5",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Female US rower completes historic solo journey from California to Hawaii",
+      "url": "https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-11T17:03:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.theguardian.com/us-news/2026/jul/04/california-hawaii-rowing-solo-journey Comments URL: https://news.ycombinator.com/item?id=48873692 Points: 265 # Comment",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Sixtyfour (YC P25) Is Hiring",
+      "url": "https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-11T17:00:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success Comments URL: https://news.ycombinator.com/item?id=4887",
       "tags": [],
       "buckets": [],
       "score": 25
