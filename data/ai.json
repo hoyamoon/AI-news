@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T02:20:56.398Z",
+  "updated_at": "2026-07-19T02:33:19.800Z",
   "items": [
     {
       "title": "EU AI Act OpenRAG: 933 legally structured chunks and BGE-M3 embeddings in one SQLite file [P]",
@@ -21,24 +21,7 @@
         "make",
         "hot"
       ],
-      "score": 113
-    },
-    {
-      "title": "New Fable5/Opus4.8 harness called \"Schema\" claims 99% on ARC-3 [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uyf8oo/new_fable5opus48_harness_called_schema_claims_99/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-16T21:02:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Schema, the harness we introduce today, reaches 99% on the ARC‑AGI‑3 Public set using Claude Opus 4.8 and Fable 5, and 95.35% using GPT‑5.6 Sol. It does not change the underlying m",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 102
+      "score": 100
     },
     {
       "title": "CfP | RTCA @ NeurIPS 2026 [R]",
@@ -62,23 +45,6 @@
       "score": 100
     },
     {
-      "title": "Apple’s plot to crush OpenAI",
-      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
-      "source": "The Verge AI",
-      "published_at": "2026-07-17T17:41:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
-      "tags": [
-        "GPT/OpenAI",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 95
-    },
-    {
       "title": "Seeking collaborators for scaling and independent evaluation of a new recurrent language model architecture (preprint + code) [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1uycffg/seeking_collaborators_for_scaling_and_independent/",
       "source": "Reddit r/MachineLearning",
@@ -95,6 +61,55 @@
         "eval"
       ],
       "score": 90
+    },
+    {
+      "title": "GPT-2 Small’s embedding geometry around “Trump”: discretized vs. continuous nearest neighbours [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v07xai/gpt2_smalls_embedding_geometry_around_trump/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-18T21:29:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This visualization looks at the token “Trump” in GPT-2 Small’s static embedding table, before attention or context is applied. The top plot is a t-SNE projection of 32,070 alphabet",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "llm",
+        "rag"
+      ],
+      "score": 85
+    },
+    {
+      "title": "Interactive map of GPT-2's token embedding space - tap any token and explore [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v09muj/interactive_map_of_gpt2s_token_embedding_space/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-18T22:42:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 32,070 alphabetic tokens from GPT-2-small's WTE, no forward pass and no context. Works on mobile. Pinch to zoom, tap a token to see its nearest connections, tap a neighbour to walk",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "llm",
+        "rag"
+      ],
+      "score": 85
+    },
+    {
+      "title": "Apple’s plot to crush OpenAI",
+      "url": "https://www.theverge.com/podcast/967244/apple-openai-lawsuit-vergecast",
+      "source": "The Verge AI",
+      "published_at": "2026-07-17T17:41:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple is suing OpenAI. The complaint is readable and intense, as these things often are, though many experts seem to think many of the allegations are just the ways things are done",
+      "tags": [
+        "GPT/OpenAI",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 82
     },
     {
       "title": "Claude can now use your 1Password credentials for you",
@@ -149,20 +164,96 @@
       "score": 77
     },
     {
-      "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-18T01:40:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Started testing a private qwen 35B moe capacity LLM runtime on s26 ultra, early testing shows that active model footprint can fit within the device’s memory limits.( not sharing th",
+      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
+      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-18T13:00:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/ Comments URL: https://news.ycombinator.com/item?id=48957779 Points: 5",
       "tags": [
-        "NotebookLM",
-        "Hot"
+        "GPT/OpenAI",
+        "Release"
       ],
       "buckets": [
-        "prod",
+        "llm",
         "hot"
       ],
-      "score": 67
+      "score": 75
+    },
+    {
+      "title": "Did blatant AI Slop just win a 25K USD Deepmind / Kaggle Grand Prize? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzyf66/did_blatant_ai_slop_just_win_a_25k_usd_deepmind/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-18T15:10:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Google DeepMind-sponsored Kaggle challenge \"Measuring Progress Toward AGI - Cognitive Abilities\" asked participants to design new cognitive-science-based AI benchmarks and they",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 70
+    },
+    {
+      "title": "The apps, gadgets, and tools every reader needs",
+      "url": "https://www.theverge.com/tech/967544/best-apps-gadgets-reading-installer",
+      "source": "The Verge AI",
+      "published_at": "2026-07-18T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi, friends! Welcome to Installer No. 136, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, hope your neighborhood isn't as smoky as mine, an",
+      "tags": [
+        "Multimodal",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "creators",
+        "hot"
+      ],
+      "score": 69
+    },
+    {
+      "title": "Setting up your spare Mac for Claude Code to control, a step-by-step guide",
+      "url": "https://ykdojo.github.io/claude-controls-mac/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-18T16:12:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ykdojo.github.io/claude-controls-mac/ Comments URL: https://news.ycombinator.com/item?id=48959392 Points: 179 # Comments: 133",
+      "tags": [
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 65
+    },
+    {
+      "title": "Dave Eggers told OpenAI staff  that ChatGPT was ‘silencing an entire generation’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/967630/dave-eggers-openai-chatgpt-silencing-an-entire-generation",
+      "source": "The Verge AI",
+      "published_at": "2026-07-18T20:54:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Dave Eggers attends the \"The Turning Point: To Be Destroyed\" premiere. | Image: John Lamparski/Getty Images for Tribeca Festival Last year, Sam Altman invited author Dave Eggers to",
+      "tags": [
+        "GPT/OpenAI"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 65
+    },
+    {
+      "title": "Our Approach to Bioresilience: Isomorphic Labs and Google DeepMind",
+      "url": "https://deepmind.google/blog/our-approach-to-bioresilience/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-18T16:02:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://deepmind.google/blog/our-approach-to-bioresilience/ Comments URL: https://news.ycombinator.com/item?id=48959297 Points: 67 # Comments: 22",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 60
     },
     {
       "title": "Expanding Managed Agents in Gemini API:  background tasks, remote MCP and more",
@@ -247,65 +338,20 @@
       "score": 55
     },
     {
-      "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+      "title": "Tried testing qwen 35b moe model on s26 ultra , without compromising on precision [R] ,[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzik5s/tried_testing_qwen_35b_moe_model_on_s26_ultra/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-17T22:55:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have released a model that I have been working on for ~6 months off and on. I've been enjoying listening to spatial music, but there is a lot of music out there with no real qual",
+      "published_at": "2026-07-18T01:40:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Started testing a private qwen 35B moe capacity LLM runtime on s26 ultra, early testing shows that active model footprint can fit within the device’s memory limits.( not sharing th",
       "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Prism accidentally leaked [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-17T17:59:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Just found out from Prism's Discord that compiling is returning someone else's paper. There's a Twitter post too. https://x.com/JustanOthRando/status/2078169169267482778?s=20 I com",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "AI/ML Research - What Does it Really Take? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1ux64ub/aiml_research_what_does_it_really_take_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-15T13:38:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’ve been deeply interested in AI and machine learning since around 2019, back when GPT-2 was still one of the major talking points. Since then, I’ve been amazed by how quickly the",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 52
-    },
-    {
-      "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
-      "source": "The Verge AI",
-      "published_at": "2026-07-15T17:48:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: So when is fair use actually just stealing? | Cath Virginia / The Verge | Photo from Getty Images Suno data obtained in a hacking incident has exposed that the AI music generator w",
-      "tags": [
-        "Notion Status",
+        "NotebookLM",
         "Hot"
       ],
       "buckets": [
-        "status",
+        "prod",
         "hot"
       ],
-      "score": 52
+      "score": 54
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -341,6 +387,20 @@
       "score": 50
     },
     {
+      "title": "What's the deal with all the random weekly quota resets for agents lately?",
+      "url": "https://minimaxir.com/2026/07/agent-quota-reset/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-07-18T19:06:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://minimaxir.com/2026/07/agent-quota-reset/ Comments URL: https://news.ycombinator.com/item?id=48961157 Points: 26 # Comments: 39",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 49
+    },
+    {
       "title": "Connect more of your apps to Search",
       "url": "https://blog.google/products-and-platforms/products/search/connected-apps/",
       "source": "Google AI Blog",
@@ -351,6 +411,20 @@
       ],
       "buckets": [
         "llm"
+      ],
+      "score": 47
+    },
+    {
+      "title": "TabFM Studio: point-and-click predictions on spreadsheets with tabular foundation models, fully local [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzx1el/tabfm_studio_pointandclick_predictions_on/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-18T14:15:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I built a small web app that lets you run tabular foundation models (currently just Google's TabFM) on spreadsheets without writing any code. Just drop in a CSV/Excel file, click a",
+      "tags": [
+        "NotebookLM"
+      ],
+      "buckets": [
+        "prod"
       ],
       "score": 47
     },
@@ -419,60 +493,35 @@
       "score": 45
     },
     {
-      "title": "Open Source is not immune to monopoly",
-      "url": "https://humancode.us/2026/07/17/open-source-monopoly",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T00:35:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://humancode.us/2026/07/17/open-source-monopoly Comments URL: https://news.ycombinator.com/item?id=48953893 Points: 5 # Comments: 0",
+      "title": "Stereo2Spatial: Convert Stereo Music Tracks to Spatialized Binaural Mixes [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uzevbg/stereo2spatial_convert_stereo_music_tracks_to/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-17T22:55:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have released a model that I have been working on for ~6 months off and on. I've been enjoying listening to spatial music, but there is a lot of music out there with no real qual",
       "tags": [
-        "Hot"
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 42
+    },
+    {
+      "title": "Prism accidentally leaked [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1uz75qt/prism_accidentally_leaked_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-07-17T17:59:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Just found out from Prism's Discord that compiling is returning someone else's paper. There's a Twitter post too. https://x.com/JustanOthRando/status/2078169169267482778?s=20 I com",
+      "tags": [
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 45
-    },
-    {
-      "title": "TP-Link Kasa cameras leaked home GPS via unauthenticated UDP for 6 years",
-      "url": "https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T21:42:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/BadChemical/IoT-Vulnerability-Research-Public/blob/main/TP-Link_Kasa_EC71/Kasa_EC71.md Comments URL: https://news.ycombinator.com/item?id=48952565 P",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Open Book Touch: open-source e-reader",
-      "url": "https://www.crowdsupply.com/oddly-specific-objects/open-book-touch",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T20:47:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.crowdsupply.com/oddly-specific-objects/open-book-touch Comments URL: https://news.ycombinator.com/item?id=48952135 Points: 59 # Comments: 13",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "TikTok is testing an AI likeness detection tool",
-      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-      "source": "The Verge AI",
-      "published_at": "2026-07-17T19:34:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is",
-      "tags": [
-        "Creators"
-      ],
-      "buckets": [
-        "creators"
-      ],
-      "score": 43
+      "score": 42
     },
     {
       "title": "Best current tools for Multi-Objective Surrogate-Based Optimization (MOSBO) on heterogeneous study data meta-analysis?[P]",
@@ -659,11 +708,11 @@
       "score": 35
     },
     {
-      "title": "Texas wins court order to suspend domain name for violating age-verification law",
-      "url": "https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and",
+      "title": "Classic Amiga titles, free to download",
+      "url": "https://amigafreeware.downer.tech/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T22:35:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.texasattorneygeneral.gov/news/releases/attorney-general-ken-paxton-secures-landmark-legal-victory-lock-pornographic-website-domain-and Comments URL: https:",
+      "published_at": "2026-07-18T21:55:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://amigafreeware.downer.tech/ Comments URL: https://news.ycombinator.com/item?id=48962838 Points: 55 # Comments: 8",
       "tags": [
         "Release"
       ],
@@ -673,25 +722,11 @@
       "score": 35
     },
     {
-      "title": "FAA lets Boeing sign off on 737 MAX, 787 airworthiness certificates again",
-      "url": "https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T21:22:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cnbc.com/2026/07/17/faa-boeing-737-max-787.html Comments URL: https://news.ycombinator.com/item?id=48952439 Points: 124 # Comments: 68",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "ACL ARR 2026 - can't seem to find the review issue report button anywhere? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uytw5s/acl_arr_2026_cant_seem_to_find_the_review_issue/",
+      "title": "Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1v06nc1/deep_learning_tackles_singlecell_analysis_a/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-17T08:36:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: hey, first time going through this process, the deadline is by today AoE so i'm kinda worried, i just can't seem to find it next to the \"official comment\" button on my submission, ",
+      "published_at": "2026-07-18T20:35:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello, I recently finished reading this survey paper: Deep learning tackles single-cell analysis – A survey of deep learning for scRNA-seq analysis, which comprehensively covers 25",
       "tags": [
         "Release"
       ],
@@ -701,163 +736,135 @@
       "score": 35
     },
     {
-      "title": "BMVC rebuttals update [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1uz7hbu/bmvc_rebuttals_update_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-07-17T18:11:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Rebuttal access opened to reviewers on July 11 (19:05 UTC), so any later modification means final score updated (even if it's hidden from us now). It shows like this over each revi",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "AI slop movies are the new direct-to-video cash grabs",
-      "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
+      "title": "TikTok is testing an AI likeness detection tool",
+      "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
       "source": "The Verge AI",
-      "published_at": "2026-07-15T20:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anyw",
+      "published_at": "2026-07-17T19:34:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is",
       "tags": [
-        "NotebookLM"
+        "Creators"
       ],
       "buckets": [
-        "prod"
+        "creators"
       ],
-      "score": 34
+      "score": 30
     },
     {
-      "title": "xAI sues a man for using Grok to generate CSAM &#8216;deepfakes&#8217;",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/966293/xai-grok-user-lawsuit-csam",
-      "source": "The Verge AI",
-      "published_at": "2026-07-15T21:33:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Elon Musk-owned xAI is suing a South Carolina man who allegedly used the company's Grok AI chatbot to generate child sexual abuse material (CSAM). In a lawsuit reported earlier",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 32
-    },
-    {
-      "title": "Moonstone: Modern, cross-platform Lua runtime and package manager written in Zig",
-      "url": "https://moonstone.sh/",
+      "title": "AI Mania Is Eviscerating Global Decision-Making",
+      "url": "https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T01:18:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://moonstone.sh/ Comments URL: https://news.ycombinator.com/item?id=48954175 Points: 5 # Comments: 1",
+      "published_at": "2026-07-19T01:29:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ludic.mataroa.blog/blog/ai-mania-is-eviscerating-global-decision-making/#fnref:3 Comments URL: https://news.ycombinator.com/item?id=48964185 Points: 8 # Commen",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
+      "title": "Better and Cheaper Than IPTV",
+      "url": "https://github.com/stupside/castor",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T01:12:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://pinewind.bearblog.dev/i-started-a-dirt-notebook/ Comments URL: https://news.ycombinator.com/item?id=48954149 Points: 11 # Comments: 5",
+      "published_at": "2026-07-19T00:59:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/stupside/castor Comments URL: https://news.ycombinator.com/item?id=48964015 Points: 29 # Comments: 7",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "DrDroid (YC W23) Is Hiring",
-      "url": "https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory",
+      "title": "Transcribe.cpp",
+      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T01:01:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/drdroid/jobs/w45QcNV-product-engineer-assignment-mandatory Comments URL: https://news.ycombinator.com/item?id=48954074 Points: 0 ",
+      "published_at": "2026-07-19T00:38:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://workshop.cjpais.com/projects/transcribe-cpp Comments URL: https://news.ycombinator.com/item?id=48963879 Points: 77 # Comments: 12",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Stenchill: 3D Printable Solder Paste Stencil Generator",
-      "url": "https://www.stenchill.com/en/",
+      "title": "Harness Engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T00:48:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.stenchill.com/en/ Comments URL: https://news.ycombinator.com/item?id=48953981 Points: 7 # Comments: 0",
+      "published_at": "2026-07-18T23:27:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/lopopolo/harness-engineering Comments URL: https://news.ycombinator.com/item?id=48963483 Points: 12 # Comments: 4",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "A grumpy screed about AI in software engineering",
-      "url": "https://sam.sutch.net/posts/a-grumpy-ai-screed",
+      "title": "Codex Resets",
+      "url": "https://codex-resets.com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T00:40:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://sam.sutch.net/posts/a-grumpy-ai-screed Comments URL: https://news.ycombinator.com/item?id=48953924 Points: 25 # Comments: 15",
+      "published_at": "2026-07-18T23:24:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://codex-resets.com/ Comments URL: https://news.ycombinator.com/item?id=48963465 Points: 84 # Comments: 73",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "PSA about abuse of cat(1) command. Don't abuse cats",
-      "url": "https://www.abuseofcats.com",
+      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
+      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-18T00:03:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.abuseofcats.com Comments URL: https://news.ycombinator.com/item?id=48953719 Points: 10 # Comments: 10",
+      "published_at": "2026-07-18T22:13:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/ Comments URL: https://news.ycombinator.com/item?id=4",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
+      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
+      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T23:26:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier Comments URL: https://news.ycombinator.com/item?id=48953406 Point",
+      "published_at": "2026-07-18T22:09:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.tug.org/tug2026/preprints/lode-realtime.pdf Comments URL: https://news.ycombinator.com/item?id=48962944 Points: 36 # Comments: 6",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
+      "title": "Judge a book by its first pages",
+      "url": "https://uncovered.ink",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T22:26:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/ Comments URL: https://news.ycombinato",
+      "published_at": "2026-07-18T22:02:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://uncovered.ink Comments URL: https://news.ycombinator.com/item?id=48962893 Points: 43 # Comments: 32",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Topcoat: The full full-stack framework for Rust",
-      "url": "https://github.com/tokio-rs/topcoat",
+      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
+      "url": "https://www.neatnik.net/hardcore-indieweb",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T20:41:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/tokio-rs/topcoat Comments URL: https://news.ycombinator.com/item?id=48952067 Points: 44 # Comments: 27",
+      "published_at": "2026-07-18T21:45:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.neatnik.net/hardcore-indieweb Comments URL: https://news.ycombinator.com/item?id=48962758 Points: 86 # Comments: 66",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Static search trees: 40x faster than binary search (2024)",
-      "url": "https://curiouscoding.nl/posts/static-search-tree/",
+      "title": "Co-evolution of self-replication and function in a digital primordial soup",
+      "url": "https://arxiv.org/abs/2607.09211",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T20:24:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://curiouscoding.nl/posts/static-search-tree/ Comments URL: https://news.ycombinator.com/item?id=48951898 Points: 52 # Comments: 3",
+      "published_at": "2026-07-18T21:09:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2607.09211 Comments URL: https://news.ycombinator.com/item?id=48962429 Points: 23 # Comments: 5",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Painting the sides of railroad rails white to reduce derailment",
-      "url": "https://www.up.com/news/safety/Tracking-Rail-Heat-260608",
+      "title": "The Kimi K3 Moment",
+      "url": "https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T20:12:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.up.com/news/safety/Tracking-Rail-Heat-260608 Comments URL: https://news.ycombinator.com/item?id=48951780 Points: 46 # Comments: 16",
+      "published_at": "2026-07-18T17:32:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://stephen.bochinski.dev/blog/2026/07/18/the-kimi-k3-moment/ Comments URL: https://news.ycombinator.com/item?id=48960218 Points: 298 # Comments: 321",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
+      "title": "Gleam Is Now on Tangled",
+      "url": "https://tangled.org/gleam.run/gleam",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-07-17T19:41:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://goliath32.com/blog/z80.html Comments URL: https://news.ycombinator.com/item?id=48951461 Points: 167 # Comments: 52",
+      "published_at": "2026-07-18T15:44:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://tangled.org/gleam.run/gleam Comments URL: https://news.ycombinator.com/item?id=48959143 Points: 212 # Comments: 134",
       "tags": [],
       "buckets": [],
       "score": 25
