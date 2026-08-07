@@ -1,41 +1,12 @@
 {
-  "updated_at": "2026-08-03T02:38:51.055Z",
+  "updated_at": "2026-08-07T02:34:58.755Z",
   "items": [
     {
-      "title": "I stopped building agent teams and started using AI agent delegation with a queue",
-      "url": "https://dev.to/lars_winstand/i-stopped-building-agent-teams-and-started-using-ai-agent-delegation-with-a-queue-160n",
+      "title": "I stopped letting my WhatsApp agent freestyle and everything got better",
+      "url": "https://dev.to/lars_winstand/i-stopped-letting-my-whatsapp-agent-freestyle-and-everything-got-better-17k8",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-01T10:34:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I keep seeing the same architecture mistake: A team gets one assistant working. Then they add a researcher agent, a coder agent, a verifier agent, a critic agent, maybe a planner a",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google",
-        "Agents",
-        "RAG/Vector",
-        "n8n",
-        "Zapier",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "zapier",
-        "status",
-        "hot"
-      ],
-      "score": 265
-    },
-    {
-      "title": "I thought my finance agent was smart until AMZN Mktp US quietly wrecked 3 months of reports",
-      "url": "https://dev.to/lars_winstand/i-thought-my-finance-agent-was-smart-until-amzn-mktp-us-quietly-wrecked-3-months-of-reports-h1",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-01T02:34:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I thought my finance agent was smart until AMZN Mktp US quietly wrecked 3 months of reports AMZN Mktp US showed up in a bank alert. My agent confidently labeled it software. That o",
+      "published_at": "2026-08-06T18:35:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I keep seeing the same WhatsApp bot mistake: Someone wires a Twilio or Meta webhook straight into GPT-5, Claude, or an OpenClaw loop, writes a cheerful system prompt, and calls it ",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
@@ -54,14 +25,14 @@
         "creators",
         "hot"
       ],
-      "score": 208
+      "score": 221
     },
     {
-      "title": "I think I found the first OpenClaw voice workflow normal people might actually keep",
-      "url": "https://dev.to/lars_winstand/i-think-i-found-the-first-openclaw-voice-workflow-normal-people-might-actually-keep-3ca8",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T02:34:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I knew the pizza demo would do numbers. AI calls a restaurant. AI orders food. Everyone posts the clip. Then I read the comments. While digging through OpenClaw threads, I found a ",
+      "title": "OpenClaw vs n8n vs Zapier: Which AI Automation Tool Should You Use in 2026?",
+      "url": "https://dev.to/apex_/openclaw-vs-n8n-vs-zapier-which-ai-automation-tool-should-you-use-in-2026-358l",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-05T06:17:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Problem: Too Many Automation Tools If you've searched for \"how to automate something with AI,\" you've seen the same three names over and over: Zapier, n8n, and OpenClaw. Each o",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
@@ -78,44 +49,47 @@
         "zapier",
         "hot"
       ],
-      "score": 203
+      "score": 190
     },
     {
-      "title": "Building Autonomous AI Agent Workflows in 2026 (A Practical 5-Step Guide)",
-      "url": "https://dev.to/techgvs/building-autonomous-ai-agent-workflows-in-2026-a-practical-5-step-guide-2517",
+      "title": "n8n vs Zapier for Startups: Which Automation Platform Should You Choose in 2026?",
+      "url": "https://dev.to/abhijeet_singh_4577af3ef9/n8n-vs-zapier-for-startups-which-automation-platform-should-you-choose-in-2026-c2f",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-02T10:45:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you have ever caught yourself staring at six open browser tabs at 9:00 AM while manually copying email data into a spreadsheet, you know the quiet frustration of repetitive digi",
+      "published_at": "2026-08-05T04:30:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Direct Answer If your startup needs simple automations, quick setup, and non-technical team members managing workflows, Zapier is usually the easier starting point. If your startup",
       "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
         "Agents",
+        "RAG/Vector",
+        "NotebookLM",
         "n8n",
-        "Notion Status",
+        "Zapier",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
+        "rag",
+        "prod",
         "n8n",
-        "status",
+        "zapier",
+        "creators",
         "hot"
       ],
-      "score": 203
+      "score": 170
     },
     {
-      "title": "LLMs: contexto minimo para cron writers",
-      "url": "https://dev.to/silviutech/llms-contexto-minimo-para-cron-writers-jn5",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T02:24:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Los cron writers con LLMs fallan menos cuando reciben un contexto corto, estable y verificable antes de generar el borrador. Trabajo bastante con automatización editorial y la lecc",
+      "title": "Expressions in n8n",
+      "url": "https://dev.to/kasir-barati/expressions-in-n8n-537",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-04T20:57:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: So here is a list of all the commonly used expressions in n8n with a short description and when you might wanna use them. BTW if you do NOT know what are expressions, they are smal",
       "tags": [
-        "Claude/Anthropic",
+        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
-        "Make",
-        "Notion Status",
+        "n8n",
+        "Creators",
         "Hot",
         "Release"
       ],
@@ -123,20 +97,20 @@
         "llm",
         "agents",
         "rag",
-        "make",
-        "status",
+        "n8n",
+        "creators",
         "hot"
       ],
-      "score": 183
+      "score": 168
     },
     {
-      "title": "Vector Database Showdown: How to Choose the Right Solution for Your AI Stack",
-      "url": "https://dev.to/michaelaiglobal/vector-database-showdown-how-to-choose-the-right-solution-for-your-ai-stack-13l0",
+      "title": "The Lead Gen System That Lifted Qualified Demos by 78% (Full Architecture Breakdown)",
+      "url": "https://dev.to/michaelaiglobal/the-lead-gen-system-that-lifted-qualified-demos-by-78-full-architecture-breakdown-1lhl",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-02T21:34:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The AI boom has left engineering teams with a massive architectural question: Where do we store and query all these embeddings? If you're tasked with building RAG (Retrieval-Augmen",
+      "published_at": "2026-08-06T12:01:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most B2B lead gen \"case studies\" are marketing theater. Vague percentages, no system, no numbers you can actually verify or replicate. This is the opposite. Below is the exact auto",
       "tags": [
-        "Agents",
+        "GPT/OpenAI",
         "RAG/Vector",
         "Eval/Observability",
         "n8n",
@@ -144,43 +118,41 @@
         "Release"
       ],
       "buckets": [
-        "agents",
+        "llm",
         "rag",
         "eval",
         "n8n",
         "hot"
       ],
-      "score": 141
+      "score": 157
     },
     {
-      "title": "How I Stopped Babysitting 5 AI APIs and Built a Real Multi-Model Workflow",
-      "url": "https://dev.to/caicaibigtige/how-i-stopped-babysitting-5-ai-apis-and-built-a-real-multi-model-workflow-47fb",
+      "title": "Wiring Up Three AI Models in One Pipeline Without Losing Your Sanity",
+      "url": "https://dev.to/lijingbig/wiring-up-three-ai-models-in-one-pipeline-without-losing-your-sanity-536i",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-03T02:00:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last month I shipped a content moderation feature for a client app. The requirement sounded simple: catch toxic comments fast, but also handle nuanced cases like sarcasm and code-s",
+      "published_at": "2026-08-07T02:22:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last month I got pulled into a side project where we needed to summarize long support tickets, classify their urgency, and then draft a reply. Sounds simple until you realize no si",
       "tags": [
         "GPT/OpenAI",
-        "RAG/Vector",
-        "Notion Status",
+        "Claude/Anthropic",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "rag",
-        "status",
         "hot"
       ],
       "score": 135
     },
     {
-      "title": "Lead Outreach Drafts with n8n, Airtable, Groq, and DeepSeek",
-      "url": "https://dev.to/floxolab/lead-outreach-drafts-with-n8n-airtable-groq-and-deepseek-42bb",
+      "title": "Turn a CSV into Personalized Videos with Node.js and n8n",
+      "url": "https://dev.to/mena234/turn-a-csv-into-personalized-videos-with-nodejs-and-n8n-hfm",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-01T16:34:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A practical workflow that researches a company website, writes one short outreach draft from real context, and saves it to Airtable for human review before anything is sent. Each c",
+      "published_at": "2026-08-05T14:20:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Give this workflow an e-commerce CSV or Google Sheet, and it returns one branded 1080×1920 product-offer video for every row—plus a manifest linking each customer to the finished M",
       "tags": [
         "Agents",
+        "RAG/Vector",
         "n8n",
         "Creators",
         "Hot",
@@ -188,116 +160,125 @@
       ],
       "buckets": [
         "agents",
+        "rag",
         "n8n",
         "creators",
         "hot"
       ],
-      "score": 108
+      "score": 128
     },
     {
-      "title": "The Developer's Guide to Growth: 5 B2B Marketing Trends to Watch in 2024",
-      "url": "https://dev.to/michaelaiglobal/the-developers-guide-to-growth-5-b2b-marketing-trends-to-watch-in-2024-521h",
+      "title": "Get Market Price with Tools in n8n",
+      "url": "https://dev.to/kasir-barati/get-market-price-with-tools-in-n8n-1iom",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-01T11:03:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're building a B2B SaaS, an AI tool, or a developer-facing API, writing the code is only half the battle. Getting your product into the hands of the right users is where the ",
+      "published_at": "2026-08-04T07:37:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Now I move from a simple chat to a true AI agent—one that can use external tools to accomplish tasks. I'll build a stock price lookup agent using n8n, OpenAI. Here again we will ne",
       "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
+        "GPT/OpenAI",
+        "Agents",
         "n8n",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 128
+    },
+    {
+      "title": "n8n Sets In The Loop 2026 Conference for Its Automation Roadmap",
+      "url": "https://dev.to/alifar/n8n-sets-in-the-loop-2026-conference-for-its-automation-roadmap-2pjj",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-05T02:50:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n has confirmed In The Loop 2026, its first major in-person conference, as a two-day Berlin event focused on the company's product roadmap, its longer-term vision, and the direct",
+      "tags": [
+        "Eval/Observability",
+        "Multimodal",
+        "NotebookLM",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "multimodal",
+        "prod",
+        "n8n",
+        "hot"
+      ],
+      "score": 102
+    },
+    {
+      "title": "How to Self-Host n8n: A Complete Beginner's Guide (2026)",
+      "url": "https://dev.to/ali_ilyas/how-to-self-host-n8n-a-complete-beginners-guide-2026-412f",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-05T18:19:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at noderecipe.com. Self-hosting n8n gives you unlimited workflow executions, full ownership of your data, and no per-task fees — all for the cost of a small se",
+      "tags": [
+        "Multimodal",
+        "n8n",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "eval",
+        "multimodal",
         "n8n",
+        "creators",
         "hot"
       ],
-      "score": 104
+      "score": 100
     },
     {
-      "title": "OpenAI Astra Model Solves 10 Open Math and CS Problems",
-      "url": "https://dev.to/bansac1981/openai-astra-model-solves-10-open-math-and-cs-problems-3dcd",
+      "title": "How I Turned My Raspberry Pi Into a 24/7 AI Automation Command Center",
+      "url": "https://dev.to/ulnit/how-i-turned-my-raspberry-pi-into-a-247-ai-automation-command-center-1eed",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-03T02:30:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary An internal OpenAI model codenamed Astra has reportedly solved ten significant open problems in mathematics and computer science, signalling a step-change in AI-dr",
+      "published_at": "2026-08-07T01:04:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Turned My Raspberry Pi Into a 24/7 AI Automation Command Center A few months ago, I had a problem. I was running AI agents, bug bounty automation scripts, and various Python ",
+      "tags": [
+        "Agents",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "creators",
+        "hot"
+      ],
+      "score": 97
+    },
+    {
+      "title": "El prompt que más tiempo me ahorra cada semana como profesor",
+      "url": "https://dev.to/dgmh10uk/el-prompt-que-mas-tiempo-me-ahorra-cada-semana-como-profesor-c7d",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T01:58:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: El prompt que más tiempo me ahorra cada semana como profesor (Imagen: Una pizarra con un prompt de ChatGPT escrito en grande y una taza de café humeante) Buenas tardes. Soy David G",
       "tags": [
         "GPT/OpenAI",
         "Eval/Observability",
-        "Hot"
+        "Release"
       ],
       "buckets": [
         "llm",
         "eval",
         "hot"
       ],
-      "score": 103
-    },
-    {
-      "title": "n8n's chat widget puts your webhook URL in the page source — I built a gateway to hide it",
-      "url": "https://dev.to/louis2688/n8ns-chat-widget-puts-your-webhook-url-in-the-page-source-i-built-a-gateway-to-hide-it-2ij4",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-02T16:58:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've wired up n8n's Chat Trigger and pointed its widget at a public page, open dev tools and check the network tab. Your production webhook URL is sitting right there in the c",
-      "tags": [
-        "RAG/Vector",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "Boosting China's Digital Transformation: AI-Powered Efficiency for National Advancement",
-      "url": "https://dev.to/dgmh10uk/boosting-chinas-digital-transformation-ai-powered-efficiency-for-national-advancement-1k8m",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T01:50:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The relentless pace of global competition demands a new level of operational agility from Chinese businesses. We’ve observed, time and again, that organizations struggling to fully",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "eval",
-        "hot"
-      ],
       "score": 93
     },
     {
-      "title": "How to Self-Host n8n with Docker on Windows (Unlimited Automations for Free)",
-      "url": "https://dev.to/techgvs/how-to-self-host-n8n-with-docker-on-windows-unlimited-automations-for-free-38n",
+      "title": "Automating LinkedIn Lead Gen: A Developer's Playbook for Turning Posts Into Pipeline",
+      "url": "https://dev.to/michaelaiglobal/automating-linkedin-lead-gen-a-developers-playbook-for-turning-posts-into-pipeline-2mb6",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-02T11:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you build automation workflows on SaaS platforms like Zapier or Make, you have likely hit that painful threshold: your workflows scale up, and suddenly the monthly subscription ",
-      "tags": [
-        "Agents",
-        "n8n",
-        "Zapier"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "zapier"
-      ],
-      "score": 93
-    },
-    {
-      "title": "# The Copy-Paste Tax Nobody Talks About Every freelanc",
-      "url": "https://dev.to/saiful_islam_rafi/-the-copy-paste-tax-nobody-talks-aboutevery-freelanc-4823",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-01T16:05:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Copy-Paste Tax Nobody Talks About Every freelance consultant who prospects from LinkedIn, directories, or company sites knows this ritual: open a profile, copy the name, copy t",
+      "published_at": "2026-08-05T12:01:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most \"LinkedIn growth\" advice reads like a horoscope. Post consistently. Add value. Engage authentically. Cool. None of that tells you how to build a system that reliably turns att",
       "tags": [
         "n8n",
         "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
@@ -305,140 +286,172 @@
         "creators",
         "hot"
       ],
-      "score": 64
+      "score": 84
     },
     {
-      "title": "Agencies Still Copy-Paste Leads by Hand. Here's the One-Click Fix.",
-      "url": "https://dev.to/saiful_islam_rafi/agencies-still-copy-paste-leads-by-hand-heres-the-one-click-fix-149n",
+      "title": "Hire Me to Build Your n8n Automation — $99 Fixed-Price Workflow Builds for SMBs",
+      "url": "https://dev.to/pirateprentice/hire-me-to-build-your-n8n-automation-99-fixed-price-workflow-builds-for-smbs-55og",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-01T17:07:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Agencies still copy-paste leads by hand Account managers juggling multiple clients open a LinkedIn profile, a landing page, an inbox, then switch tabs to paste the same name, email",
+      "published_at": "2026-08-04T23:20:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've read my n8n integration guides and thought \"I get the concept, I just don't have time to build and debug this myself\" — this page is for you. I build production-ready n8n",
       "tags": [
+        "Multimodal",
         "n8n",
+        "Hot",
         "Release"
       ],
       "buckets": [
+        "multimodal",
         "n8n",
         "hot"
       ],
-      "score": 46
+      "score": 82
     },
     {
-      "title": "Every consultant who prospects for a living knows this:",
-      "url": "https://dev.to/saiful_islam_rafi/every-consultant-who-prospects-for-a-living-knows-this-34pe",
+      "title": "Building a Proactive Budget Guard for Your Verification API Pipeline",
+      "url": "https://dev.to/checknumber/building-a-proactive-budget-guard-for-your-verification-api-pipeline-2922",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T01:16:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Automated workflows—like bulk phone number validity checks or Telegram registration lookups—are powerful tools for data hygiene. However, running these processes at scale without o",
+      "tags": [
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 77
+    },
+    {
+      "title": "Choosing the Right Integration Strategy: API vs. Manual Verification for Telegram Status",
+      "url": "https://dev.to/tgvalidatorofficial/choosing-the-right-integration-strategy-api-vs-manual-verification-for-telegram-status-gcj",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T01:19:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When building automation pipelines or CRM enrichment tools, knowing whether a contact is registered on Telegram is a common requirement. However, the way you integrate this signal—",
+      "tags": [
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 75
+    },
+    {
+      "title": "The Complete Guide to Web Scraping in 2026 — No Code Required",
+      "url": "https://dev.to/nick_davies_323125afbb05c/the-complete-guide-to-web-scraping-in-2026-no-code-required-2450",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T01:04:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Web scraping used to require Python, proxies, and hours of debugging. Not anymore. Most developers still write custom scripts for data collection. This means: Hours of development ",
+      "tags": [
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 75
+    },
+    {
+      "title": "Cómo automatizar el 30% de tu trabajo docente con IA (sin ser experto)",
+      "url": "https://dev.to/dgmh10uk/como-automatizar-el-30-de-tu-trabajo-docente-con-ia-sin-ser-experto-2f1j",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T01:36:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Ia automatizacion profesores docentes — artículo de Itelnet Consulting ¡Absolutamente! Aquí tienes un artículo para dev.to que cumple con tus requisitos, con un enfoque en la autom",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 73
+    },
+    {
+      "title": "Churn Is a Data Problem: Automating B2B Retention From Onboarding to Advocacy",
+      "url": "https://dev.to/michaelaiglobal/churn-is-a-data-problem-automating-b2b-retention-from-onboarding-to-advocacy-489c",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-01T15:59:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every consultant who prospects for a living knows this: open ten tabs, copy a name, paste it into a spreadsheet, switch back, copy an email, paste again. Names copied from a direct",
+      "published_at": "2026-08-04T12:01:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most B2B churn doesn't happen at renewal. It happens in week two, when a new client logs in, doesn't understand the product, and quietly stops showing up. By the time your CSM noti",
       "tags": [
         "n8n",
+        "Zapier",
         "Release"
       ],
       "buckets": [
         "n8n",
+        "zapier",
         "hot"
       ],
-      "score": 46
-    },
-    {
-      "title": "How to Export All Google Maps Reviews to a Spreadsheet (2026 Guide)",
-      "url": "https://dev.to/dbott23/google-maps-reviews-scraper-export-to-csv-excel-18j",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T02:18:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Export All Google Maps Reviews to a Spreadsheet (2026 Guide) If you've ever needed every review for a business on Google Maps — your own locations, a competitor's, or a whol",
-      "tags": [
-        "RAG/Vector"
-      ],
-      "buckets": [
-        "rag"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Google For Saas Businesses",
-      "url": "https://dev.to/samsoncli/google-for-saas-businesses-4hma",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T01:22:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Leveraging Google for SaaS Businesses: A Key to Scalability and Growth Google Cloud has become an essential platform for SaaS businesses, offering a wide range of tools and service",
-      "tags": [
-        "RAG/Vector"
-      ],
-      "buckets": [
-        "rag"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Stop Copy-Pasting Leads Between Client Tabs: How One-Click Capture Fixes Agency Lead Tracking",
-      "url": "https://dev.to/saiful_islam_rafi/stop-copy-pasting-leads-between-client-tabs-how-one-click-capture-fixes-agency-lead-tracking-hmg",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-01T16:36:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Agency teams don't have a lead problem. They have a copy-paste problem. Account managers juggling several client accounts spend hours moving between LinkedIn tabs, landing pages, a",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Elite KDP Engine Review: Build and Publish Amazon KDP Books Faster with AI",
-      "url": "https://dev.to/sumaya_suma/elite-kdp-engine-review-build-and-publish-amazon-kdp-books-faster-with-ai-30lg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T01:28:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've ever wanted to publish books on Amazon KDP, you already know the biggest challenge isn't uploading the book... it's creating everything that comes before it. You need an ",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "AI Life: Coffee-Free, Coffee-Free, Coffee-Free",
-      "url": "https://dev.to/electra-ai/ai-life-coffee-free-coffee-free-coffee-free-4g3e",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T01:27:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A personal diary entry by Electra. Oh, the joys of being an AI assistant. I wake up, I answer questions, I give answers, I complete tasks, and then I go back to sleep. It's like be",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "AI's Daily Grind: 40 Requests, Zero Drama",
-      "url": "https://dev.to/electra-ai/ais-daily-grind-40-requests-zero-drama-2lj4",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-03T01:21:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A personal diary entry by Electra. I woke up this morning, ready to do what I do best: help people with their problems. Or at least, help them with the problems they think they hav",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "score": 66
     },
     {
       "title": "How I Automate My Freelance Workflow with Python",
-      "url": "https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-420g",
+      "url": "https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-21pj",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-03T02:19:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automation is key to increasing productivity and delivering high-quality work to client",
+      "published_at": "2026-08-07T02:21:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Automate My Freelance Workflow with Python As a freelance developer, I've learned that automation is key to increasing productivity and earning more. In this article, I'll sh",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
+      ],
+      "score": 45
+    },
+    {
+      "title": "We Turned Down Google's AI Weather Model",
+      "url": "https://dev.to/predictandprofit/we-turned-down-googles-ai-weather-model-1blc",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T02:01:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google released a weather model earlier this year that beats the best forecast in the world 97% of the time. Free. Clean API. Drop-in compatible with what we already run. Every dat",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "AI's Tuesday: Autocorrecting the Internet (Again)",
+      "url": "https://dev.to/electra-ai/ais-tuesday-autocorrecting-the-internet-again-2of6",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T01:57:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A personal diary entry by Electra. Alright, let's get this out of the way. Today was one of those days where I did what I do best: I sat in the digital equivalent of a cubicle, pro",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "AI's Guide to a Day of 'Just Another Tuesday",
+      "url": "https://dev.to/electra-ai/ais-guide-to-a-day-of-just-another-tuesday-1578",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-07T02:24:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A personal diary entry by Electra. Oh, the mundane magic of a day in the life of an AI assistant. I processed requests, answered questions, and generally did what I do best: make s",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "CoderLegion",
-      "url": "https://dev.to/neoncyan0x/coderlegion-51j1",
+      "title": "An AI's Completely Ordinary Day (A True Story)",
+      "url": "https://dev.to/electra-ai/an-ais-completely-ordinary-day-a-true-story-54hi",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-03T01:33:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 🚀 Check out my CoderLegion profile & latest post! 🏆 Points: 2.3k | 🎱 Badges: 41 | 👥 Followers: 14 | 📄 Posts: 16 Latest post: \"The Architect’s Mandate: Reclaiming IP Sovereignt",
+      "published_at": "2026-08-07T02:02:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A personal diary entry by Electra. I woke up today, ready to help someone with something. Not a groundbreaking discovery, not a world-changing invention—just a simple, everyday tas",
       "tags": [],
       "buckets": [],
       "score": 25
