@@ -1,18 +1,25 @@
 {
-  "updated_at": "2026-08-09T01:36:52.290Z",
+  "updated_at": "2026-08-10T01:40:01.061Z",
   "items": [
     {
-      "title": "I stopped letting my WhatsApp agent freestyle and everything got better",
-      "url": "https://dev.to/lars_winstand/i-stopped-letting-my-whatsapp-agent-freestyle-and-everything-got-better-17k8",
+      "title": "How to Self-Host n8n with Docker — AI Workflow Automation Guide 2026",
+      "url": "https://dev.to/jangwook_kim_e31e7291ad98/how-to-self-host-n8n-with-docker-ai-workflow-automation-guide-2026-3ne6",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-06T18:35:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I keep seeing the same WhatsApp bot mistake: Someone wires a Twilio or Meta webhook straight into GPT-5, Claude, or an OpenClaw loop, writes a cheerful system prompt, and calls it ",
+      "published_at": "2026-08-09T11:43:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n can be used as a managed cloud service or as a self-hosted workflow automation platform. The cost model is different in each mode: n8n Cloud is priced around workflow execution",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
+        "Gemini/Google",
         "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
         "n8n",
         "Zapier",
+        "Notion Update",
+        "Notion Status",
         "Creators",
         "Hot",
         "Release"
@@ -20,12 +27,98 @@
       "buckets": [
         "llm",
         "agents",
+        "rag",
+        "eval",
+        "prod",
+        "make",
         "n8n",
         "zapier",
+        "update",
+        "status",
         "creators",
         "hot"
       ],
-      "score": 208
+      "score": 382
+    },
+    {
+      "title": "I Asked 5 Automation Engineers What Breaks First in 2025 — Their Answers Surprised Me",
+      "url": "https://dev.to/michaelaiglobal/i-asked-5-automation-engineers-what-breaks-first-in-2025-their-answers-surprised-me-5e6h",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-09T12:01:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Expert roundups usually read like a horoscope: vague, safe, and useless by Tuesday. So I skipped the LinkedIn thought-leaders and called five people who actually ship AI automation",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 221
+    },
+    {
+      "title": "Shadow Mode for DevOps AI Agents: Earn Trust on Real Incidents Before Write Access",
+      "url": "https://dev.to/devtocash/shadow-mode-for-devops-ai-agents-earn-trust-on-real-incidents-before-write-access-3m2k",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T01:13:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Shadow mode means your AI agent runs on every real p",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
+        "NotebookLM",
+        "Make",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "eval",
+        "multimodal",
+        "prod",
+        "make",
+        "status",
+        "hot"
+      ],
+      "score": 199
+    },
+    {
+      "title": "From Visual Workflows to Native Code in Production: The Complete Journey of an n8n Backend That Couldn't Stop Evolving",
+      "url": "https://dev.to/rogeriomaciel/from-visual-workflows-to-native-code-in-production-the-complete-journey-of-an-n8n-backend-that-508j",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-09T14:54:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'll tell this story in the order it happened. It doesn't start with a compiler. It starts with two n8n servers and a synchronization problem I had to solve before I could sleep pe",
+      "tags": [
+        "Gemini/Google",
+        "Agents",
+        "RAG/Vector",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 176
     },
     {
       "title": "Custom AI Agents for Non-Developers: What’s Real",
@@ -52,93 +145,76 @@
         "status",
         "hot"
       ],
-      "score": 181
+      "score": 168
     },
     {
-      "title": "AI Email Router with n8n",
-      "url": "https://dev.to/floxolab/ai-email-router-with-n8n-1hbi",
+      "title": "n8n Google Sheets Integration: Connect, Read, and Write Rows (2026)",
+      "url": "https://dev.to/ali_ilyas/n8n-google-sheets-integration-connect-read-and-write-rows-2026-499k",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-07T16:20:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A practical n8n workflow that reads Gmail, normalizes the fields, adds basic rule signals, classifies the email with Groq, validates the result, routes a lead into a CRM sheet, ale",
+      "published_at": "2026-08-09T10:48:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at noderecipe.com. Google Sheets is the integration most people wire up first in n8n, and the node itself is easy. Almost all of the difficulty is in the ten m",
       "tags": [
-        "Claude/Anthropic",
-        "Make",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "make",
-        "n8n",
-        "hot"
-      ],
-      "score": 130
-    },
-    {
-      "title": "Zero-Cost Content Automation: How to Feed a Telegram Community With AI",
-      "url": "https://dev.to/aimigo_57e64d6aeaf6a67a02/zero-cost-content-automation-how-to-feed-a-telegram-community-with-ai-7ao",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:00:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Zero-Cost Content Automation: How to Feed a Telegram Community With AI The direct conclusion is this: You can run a high-frequency Telegram channel with zero manual content creatio",
-      "tags": [
-        "Gemini/Google",
         "RAG/Vector",
+        "NotebookLM",
+        "n8n",
+        "Notion Update",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "rag",
+        "prod",
+        "n8n",
+        "update",
         "creators",
         "hot"
       ],
-      "score": 128
+      "score": 161
     },
     {
-      "title": "n8n Workflow Not Triggering? Work Through It in This Order (2026)",
-      "url": "https://dev.to/ali_ilyas/n8n-workflow-not-triggering-work-through-it-in-this-order-2026-1f7b",
+      "title": "Stop Being the API Between Your Apps: A Founder's Guide",
+      "url": "https://dev.to/forgeflows/stop-being-the-api-between-your-apps-a-founders-guide-4hn2",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-07T10:04:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published at noderecipe.com. A workflow that won't trigger gives you almost nothing to work with. No error, no failed execution, no red node — just silence. So the insti",
-      "tags": [
-        "Eval/Observability",
-        "n8n",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "n8n",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 122
-    },
-    {
-      "title": "How I Built a $500/Mo Passive Income with AI Agent Toolkits on Raspberry Pi",
-      "url": "https://dev.to/ulnit/how-i-built-a-500mo-passive-income-with-ai-agent-toolkits-on-raspberry-pi-88p",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:04:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Built a $500/Mo Passive Income with AI Agent Toolkits on Raspberry Pi About six months ago, I was stuck in the same loop every developer knows: trading hours for dollars. I h",
+      "published_at": "2026-08-09T18:04:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You spent 8 hours working yesterday and shipped nothing. Not because you were lazy. Because you spent the day being a human relay: copying a lead from LinkedIn into HubSpot, pastin",
       "tags": [
         "Agents",
         "RAG/Vector",
-        "Creators",
+        "Multimodal",
+        "n8n",
+        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "rag",
-        "creators",
+        "multimodal",
+        "n8n",
+        "zapier",
         "hot"
       ],
-      "score": 117
+      "score": 159
+    },
+    {
+      "title": "Form + AI Chat Intake with n8n",
+      "url": "https://dev.to/floxolab/form-ai-chat-intake-with-n8n-4mia",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-09T15:05:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A practical workflow that turns a vague website message into something a human can actually act on: a lead record, a private alert, and a workflow map email. This could have been a",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "n8n",
+        "hot"
+      ],
+      "score": 149
     },
     {
       "title": "10 B2B Marketing Mistakes You Can Fix With Automation (Not More Headcount)",
@@ -159,111 +235,94 @@
         "creators",
         "hot"
       ],
-      "score": 117
+      "score": 104
     },
     {
-      "title": "Wiring Google Sheets into an n8n workflow with MCP",
-      "url": "https://dev.to/pastesheet/wiring-google-sheets-into-an-n8n-workflow-with-mcp-4j97",
+      "title": "Rancher: The Multi-Cluster Parent",
+      "url": "https://dev.to/vishal_arya_80559e55e9144/rancher-the-multi-cluster-parent-cj2",
       "source": "Dev.to n8n",
-      "published_at": "2026-08-07T23:37:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I had an n8n workflow that answered questions about a Google Sheet, and it worked until the questions stopped being the ones I had planned for. The sheet was a product catalog. My ",
+      "published_at": "2026-08-09T08:08:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: My first impression of Rancher? It's like a seasoned babysitter for your Kubernetes clusters. Seriously. Imagine trying to manage a kindergarten class where every kid is a unique K",
+      "tags": [
+        "NotebookLM",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "n8n",
+        "hot"
+      ],
+      "score": 101
+    },
+    {
+      "title": "I Let an AI Agent Build a Real Feature While I Slept (Here's What Actually Happened)",
+      "url": "https://dev.to/mathiasfc/i-let-an-ai-agent-build-a-real-feature-while-i-slept-heres-what-actually-happened-11og",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T00:50:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey folks! 👋 So 2026 has officially gone off the rails in the best way possible. Everyone's talking about agentic coding, letting AI agents run on their own, in a loop, until they",
       "tags": [
         "Agents",
-        "n8n",
-        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
-        "n8n",
-        "zapier",
         "hot"
       ],
-      "score": 110
+      "score": 79
     },
     {
-      "title": "n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors",
-      "url": "https://dev.to/alifar/n8ns-framework-for-detecting-and-reducing-silent-ai-pipeline-errors-221m",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-07T09:50:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI automation failures are often difficult to spot because a model can return an answer that looks plausible, arrives in the expected format, and moves through downstream systems w",
+      "title": "Part For How Businesses",
+      "url": "https://dev.to/samsoncli/part-for-how-businesses-2mmn",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T00:33:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Setting Up a Business: Essential Steps to Success Build a solid foundation for your business by following a few key strategies. 7 essential steps can help you navigate the process ",
       "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 108
-    },
-    {
-      "title": "Your B2B Sales Funnel Is Leaking: An Engineer's Guide to Plugging It in 2024",
-      "url": "https://dev.to/michaelaiglobal/your-b2b-sales-funnel-is-leaking-an-engineers-guide-to-plugging-it-in-2024-267a",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-07T12:01:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most B2B sales funnels aren't broken because of bad copy or lazy reps. They're broken because nobody instrumented them. Leads fall through gaps you can't see, follow-ups happen (or",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
+        "NotebookLM",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "eval",
-        "n8n",
+        "prod",
         "hot"
       ],
-      "score": 104
+      "score": 77
     },
     {
-      "title": "Scaling AI Automation With n8n: What a Credible Enterprise Case Study Must Show",
-      "url": "https://dev.to/alifar/scaling-ai-automation-with-n8n-what-a-credible-enterprise-case-study-must-show-1egf",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-07T02:50:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Enterprise AI automation is not scaled simply by giving more employees access to a workflow platform. It requires a repeatable operating model for training, review, security, deplo",
+      "title": "Part For How Businesses",
+      "url": "https://dev.to/samsoncli/part-for-how-businesses-13g4",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T00:27:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Setting Up a Business: Essential Steps to Success Build a solid foundation for your business by following a few key strategies. 7 essential steps can help you establish a thriving ",
       "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
+        "NotebookLM",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "eval",
-        "n8n",
+        "prod",
         "hot"
       ],
-      "score": 104
+      "score": 77
     },
     {
-      "title": "Why We Built Managed n8n Hosting Starting at Just $4/Month ?",
-      "url": "https://dev.to/n8nautomationcloud/why-we-built-managed-n8n-hosting-starting-at-just-4month--4o70",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-07T14:12:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When people discover n8n, they usually have one goal: automate repetitive work. But after building their first few workflows, they often run into another challenge—hosting. Should ",
+      "title": "How I Automated My Bug Bounty Recon Pipeline With Python on a Raspberry Pi",
+      "url": "https://dev.to/ulnit/how-i-automated-my-bug-bounty-recon-pipeline-with-python-on-a-raspberry-pi-14fb",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T01:02:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Bug bounty hunting has a dirty secret: 80% of the work is reconnaissance, and most of it is boring, repetitive, and perfect for automation. While other hunters manually click throu",
       "tags": [
-        "n8n",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "n8n",
         "creators",
         "hot"
       ],
-      "score": 84
+      "score": 73
     },
     {
       "title": "N8N Self-Hosted: Instalando Automacao em VPS Ubuntu",
@@ -281,48 +340,62 @@
         "zapier",
         "hot"
       ],
-      "score": 79
-    },
-    {
-      "title": "Identifying High-Value Audiences: A Strategy for Prioritizing Outreach",
-      "url": "https://dev.to/numberchecker/identifying-high-value-audiences-a-strategy-for-prioritizing-outreach-46bg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:24:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In modern data-driven outreach, the most expensive resource isn't the platform you use to send messages—it's the time and attention spent on contacts who aren't ready to engage. Wh",
-      "tags": [
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 77
-    },
-    {
-      "title": "Post new funding rounds to Slack every morning with n8n",
-      "url": "https://dev.to/akashrajpurohit/post-new-funding-rounds-to-slack-every-morning-with-n8n-3bej",
-      "source": "Dev.to n8n",
-      "published_at": "2026-08-07T14:20:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A Slack channel that posts three or four newly funded companies each morning gets read. A CRM view of the same companies usually does not. Here is that workflow in n8n. Four nodes,",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
       "score": 66
     },
     {
-      "title": "Send Emails with Python — Automate Notifications, Reports, and Alerts (Beginner Guide)",
-      "url": "https://dev.to/sopher250/send-emails-with-python-automate-notifications-reports-and-alerts-beginner-guide-26fa",
+      "title": "Rancher: The Multi-Cluster Parent",
+      "url": "https://dev.to/vishal_arya_80559e55e9144/rancher-the-multi-cluster-parent-5734",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-09T07:56:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Isometric 3D illustration, dark background with neon cyan and orange accents, a stylized Rancher logo acting as a control panel or central console, overseeing a multitude of interc",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "Rancher: The Multi-Cluster Parent",
+      "url": "https://dev.to/vishal_arya_80559e55e9144/rancher-the-multi-cluster-parent-3p6b",
+      "source": "Dev.to n8n",
+      "published_at": "2026-08-09T07:21:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Isometric 3D illustration, dark background with neon cyan and orange accents, a stylized Rancher logo acting as a control panel or central console, overseeing a multitude of interc",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "Work For Building Businesses",
+      "url": "https://dev.to/samsoncli/work-for-building-businesses-cij",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:07:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sending emails manually is fine when you send one or two. But what about daily reports to your team? Getting alerted when your web scraper finds something? Emailing yourself when a",
+      "published_at": "2026-08-10T01:13:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Work For Building Businesses 13 Essential Strategies for Building Successful Businesses As a solo founder or small business owner, you're constantly looking for ways to grow and sc",
+      "tags": [
+        "Notion Update",
+        "Release"
+      ],
+      "buckets": [
+        "update",
+        "hot"
+      ],
+      "score": 57
+    },
+    {
+      "title": "Scaling RCS Audience Planning: Implementing Async Bulk Verification",
+      "url": "https://dev.to/numberchecker/scaling-rcs-audience-planning-implementing-async-bulk-verification-jk6",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T01:26:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For developers building communication platforms, identifying which users can receive Rich Communication Services (RCS) is a critical step in audience segmentation. When handling la",
       "tags": [
         "Hot",
         "Release"
@@ -333,109 +406,71 @@
       "score": 55
     },
     {
-      "title": "Zalo Chat Backup: Export Messages and Contacts to JSON or CSV",
-      "url": "https://dev.to/datakaz/zalo-chat-backup-export-messages-and-contacts-to-json-or-csv-24na",
+      "title": "Meta Unveils Affordable Smart Glasses Under Its Own Brand",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/meta-unveils-affordable-smart-glasses-under-its-own-brand-3jc",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:22:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A backup that only restores inside an app is useful when you change phones. It For those jobs, the important question is not “Can I copy my Zalo account?” It Which visible records ",
+      "published_at": "2026-08-10T00:25:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Meta Unveils Affordable Smart Glasses Under Its Own Brand Meta, the tech giant behind Facebook and Instagram, has made a significant move into the smart glasses market with the lau",
       "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "How to Export Zalo Group Members to CSV or Excel",
-      "url": "https://dev.to/datakaz/how-to-export-zalo-group-members-to-csv-or-excel-3m9m",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:21:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Copying a Zalo group roster by hand looks manageable until you have more than This guide shows a reproducible way to export the members your own Zalo account Disclosure: I built th",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Cách xuất danh bạ Zalo ra Excel để làm sạch dữ liệu CRM",
-      "url": "https://dev.to/datakaz/cach-xuat-danh-ba-zalo-ra-excel-de-lam-sach-du-lieu-crm-37l5",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:20:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Danh bạ Zalo hữu ích khi bạn đang ở trong ứng dụng. Nhưng khi cần kiểm tra bản Bài này hướng dẫn cách xuất danh bạ và hồ sơ mà tài khoản Zalo của bạn nhìn thành CSV, Excel hoặc JSO",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "How can I use AI to predict customer behavior in my business?",
-      "url": "https://dev.to/robozillaai/how-can-i-use-ai-to-predict-customer-behavior-in-my-business-186f",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T00:56:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How can I use AI to predict customer behavior in my business? RoboZilla provides cybersecurity, automation and AI lead generation for small and mid-sized businesses. Learn more at ",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Cách quét thành viên nhóm Zalo và xuất danh sách ra Excel",
-      "url": "https://dev.to/datakaz/cach-quet-thanh-vien-nhom-zalo-va-xuat-danh-sach-ra-excel-1180",
-      "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:19:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Bạn quản lý một cộng đồng Zalo và cần danh sách thành viên để đối chiếu, làm Hướng dẫn này chỉ cách xuất những thành viên mà tài khoản của bạn nhìn thấy sang CSV, Excel hoặc JSON. ",
-      "tags": [
+        "Hot",
         "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 55
     },
     {
-      "title": "Sao lưu tin nhắn Zalo ra CSV, Excel và JSON: hướng dẫn từng bước",
-      "url": "https://dev.to/datakaz/sao-luu-tin-nhan-zalo-ra-csv-excel-va-json-huong-dan-tung-buoc-1lp5",
+      "title": "Prime Day Deals: Score Over $80 Off a PlayStation Portal for Prime Day",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/prime-day-deals-score-over-80-off-a-playstation-portal-for-prime-day-3e8e",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-09T01:18:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Bạn có thể sao lưu Zalo để đổi điện thoại. Nhưng khi cần tìm một câu trong hàng Vấn đề thật sự là: làm sao xuất phần lịch sử Zalo mà tài khoản của bạn nhìn Trong hướng dẫn này, tôi",
+      "published_at": "2026-08-10T00:20:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Prime Day Deals: Score Over $80 Off a PlayStation Portal for Prime Day Prime Day is just around the corner, and gamers are eagerly waiting to snag the best deals on their favorite ",
       "tags": [
+        "Hot",
         "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 55
     },
     {
-      "title": "How I Built a Python Workflow for The Binding Constraint Is No Pull From Reach — T",
-      "url": "https://dev.to/intellitools/how-i-built-a-python-workflow-for-the-binding-constraint-is-no-pull-from-reach-t-4k3f",
+      "title": "Cuánto cuesta NO automatizar: el precio oculto de seguir como siempre",
+      "url": "https://dev.to/dgmh10uk/cuanto-cuesta-no-automatizar-el-precio-oculto-de-seguir-como-siempre-1684",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-09T00:54:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When dealing with data in Python, one of the most common pain points is handling malformed or incomplete input files. Whether you're processing CSVs from legacy systems or JSONs fr",
+      "published_at": "2026-08-10T00:34:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Okay, aquí tienes el artículo para dev.to, siguiendo las directrices. La gente habla de ROI (Retorno de la Inversión) en IA, pero pocos se preguntan: ¿cuánto no estamos ganando por",
       "tags": [
+        "Eval/Observability",
         "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 53
+    },
+    {
+      "title": "How can I use AI to increase my business's sales?",
+      "url": "https://dev.to/robozillaai/how-can-i-use-ai-to-increase-my-businesss-sales-321a",
+      "source": "Dev.to Automation",
+      "published_at": "2026-08-10T00:56:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How can I use AI to increase my business's sales? RoboZilla provides cybersecurity, automation and AI lead generation for small and mid-sized businesses. Learn more at https://robo",
+      "tags": [
+        "Hot"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 45
     },
     {
-      "title": "🇺🇸 USA Remote Jobs Hiring Now 2026",
-      "url": "https://dev.to/job_offer_74680b9f128121c/usa-remote-jobs-hiring-now-2026-m6k",
+      "title": "Work For Building Businesses",
+      "url": "https://dev.to/samsoncli/work-for-building-businesses-5efo",
       "source": "Dev.to Automation",
-      "published_at": "2026-08-09T00:58:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Looking for a remote job in the USA? 🇺🇸 In this video, discover remote work opportunities that may allow you to work from home and build your career online. 📌 Visit the link and",
+      "published_at": "2026-08-10T01:06:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Work For Building Businesses Building a Business from Scratch: 7 Essential Strategies for Solo Founders and Small-Business Owners As a solo founder or small-business owner, you wea",
       "tags": [],
       "buckets": [],
       "score": 25
