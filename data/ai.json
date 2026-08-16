@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15T01:06:46.270Z",
+  "updated_at": "2026-08-16T01:10:55.736Z",
   "items": [
     {
       "title": "Does Google even want to win at AI?",
@@ -31,6 +31,25 @@
       "score": 257
     },
     {
+      "title": "Survival of the Fitted: Qwen3.6-27B’s Jacobian lens reads and steers Qwen3.8-27B with zero refitting [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vpa5cv/survival_of_the_fitted_qwen3627bs_jacobian_lens/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-15T18:24:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Interpretability lenses get fitted to one exact checkpoint, and as far as I can tell nobody had tested what a version update does to one. So this was my question: when a model line",
+      "tags": [
+        "Claude/Anthropic",
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "eval",
+        "hot"
+      ],
+      "score": 113
+    },
+    {
       "title": "Reproducible canvas-aligned low-level patterns in somerandomllm-generated images and their possible relation to iterative editing artifacts [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1vnq08v/reproducible_canvasaligned_lowlevel_patterns_in/",
       "source": "Reddit r/MachineLearning",
@@ -48,42 +67,6 @@
         "hot"
       ],
       "score": 98
-    },
-    {
-      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
-      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
-      "source": "The Verge AI",
-      "published_at": "2026-08-14T16:39:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in",
-      "tags": [
-        "Gemini/Google",
-        "NotebookLM",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "prod",
-        "hot"
-      ],
-      "score": 92
-    },
-    {
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T18:52:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Doing research with agents is fun until they blow way past budget, jumble the sources, and don't even give you the best possible answer, just sound confident. And if you want to ru",
-      "tags": [
-        "Agents",
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "prod",
-        "hot"
-      ],
-      "score": 91
     },
     {
       "title": "Evolve your marketing with new AI tools",
@@ -124,30 +107,31 @@
       "score": 80
     },
     {
-      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-14T17:06:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement. They don't answer the question that actually matters at the point of care: how reliable",
+      "title": "You can now turn off Google Gemini&#8217;s visible watermarks",
+      "url": "https://www.theverge.com/tech/980416/google-gemini-ai-watermarks-removal",
+      "source": "The Verge AI",
+      "published_at": "2026-08-14T16:39:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google will now allow you to remove visible watermarks from the images, videos, and music made with AI tools. With the update, you can toggle off a new \"Media watermark\" setting in",
       "tags": [
-        "Eval/Observability",
-        "Hot",
+        "Gemini/Google",
+        "NotebookLM",
         "Release"
       ],
       "buckets": [
-        "eval",
+        "llm",
+        "prod",
         "hot"
       ],
-      "score": 73
+      "score": 79
     },
     {
-      "title": "Maximizing the value of your Claude Code sessions",
-      "url": "https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions",
+      "title": "ChatGPT lost 22 points of web share in a year",
+      "url": "https://aicharts.grok.me/c/market-share",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T16:15:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://claude.com/blog/maximizing-the-value-of-your-claude-code-sessions Comments URL: https://news.ycombinator.com/item?id=49300800 Points: 129 # Comments: 86",
+      "published_at": "2026-08-16T00:22:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://aicharts.grok.me/c/market-share Comments URL: https://news.ycombinator.com/item?id=49315630 Points: 4 # Comments: 1",
       "tags": [
-        "Claude/Anthropic"
+        "GPT/OpenAI"
       ],
       "buckets": [
         "llm"
@@ -170,6 +154,23 @@
         "hot"
       ],
       "score": 64
+    },
+    {
+      "title": "Open-source Python library + no-code web dashboard for evaluating oncology AI models at clinical decision thresholds. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vod2c8/opensource_python_library_nocode_web_dashboard/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-14T17:06:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most classification metrics for oncology AI models (AUC, ICC, MAE) measure global agreement. They don't answer the question that actually matters at the point of care: how reliable",
+      "tags": [
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 60
     },
     {
       "title": "Inside our 353,000-person vibe coding course",
@@ -220,11 +221,11 @@
       "score": 59
     },
     {
-      "title": "Show HN: LuaCAD – Parametric CAD Scripted in Lua",
-      "url": "https://luacad.ad-si.com",
+      "title": "SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)",
+      "url": "https://sugartrack-beta.vercel.app/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T16:43:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: LuaCAD models solids in Lua rather than the OpenSCAD language, with operator overloading for CSG (`a + b`, `a - b`, `a * b`). It ships with a CLI and a desktop app, including a pre",
+      "published_at": "2026-08-15T22:28:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://sugartrack-beta.vercel.app/ Comments URL: https://news.ycombinator.com/item?id=49314884 Points: 15 # Comments: 3",
       "tags": [
         "Hot",
         "Release"
@@ -233,6 +234,22 @@
         "hot"
       ],
       "score": 55
+    },
+    {
+      "title": "BDH-CQ: IN-CONTEXT LEARNING WITH RECURRENT LATENT REASONING [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vov5r5/bdhcq_incontext_learning_with_recurrent_latent/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-15T06:18:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We introduce BDH-CQ, a reasoning system that brings these capabilities together. Demonstrations of a previously unseen task update recurrent memory; the query is then solved throug",
+      "tags": [
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 53
     },
     {
       "title": "OpenAI is losing its second executive this week",
@@ -264,20 +281,6 @@
         "hot"
       ],
       "score": 50
-    },
-    {
-      "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-14T12:26:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello, I was curious about the differences you can get from the human reviewers and the llms. Any insight is welcome, thank you! submitted by /u/obliviousphoenix2003 [link] [commen",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
     },
     {
       "title": "Bring your spreadsheet data to life with Sheets canvas",
@@ -390,62 +393,6 @@
       "score": 45
     },
     {
-      "title": "Going Dark, and the era of law enforcement hacking",
-      "url": "https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T20:52:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/ Comments URL: https://news.ycombinator.com/item?id=49304447 Points: 168 # Comments:",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Google is making private AI practical with homomorphic encryption",
-      "url": "https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T15:43:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/ Comments URL: https://news.ycombinator.com/item?id=49300314 Points:",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-14T15:50:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is the project my last two posts were building towards (this is the last of this silliness). I ported the Doom rendering algorithm to run inside a transformer. Instead of trai",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "A linter for PyTorch 'torch-preflight' [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-14T14:30:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Been working on this for the last few months. I've been working on PyTorch for the past few years and I always felt, many a times my work went into dump, because of some mistakes I",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
       "title": "Neurips 2026: Modified date on reviews [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1vnb89z/neurips_2026_modified_date_on_reviews_d/",
       "source": "Reddit r/MachineLearning",
@@ -459,22 +406,6 @@
         "hot"
       ],
       "score": 42
-    },
-    {
-      "title": "The Loss Does Not See the Basis, But Adam Does [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vmjb3p/the_loss_does_not_see_the_basis_but_adam_does_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-12T16:39:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In a factored model W = UV^T, the loss is invariant to rotations (U,V) → (UQ, VQ). Gradient Descent (GD) respects this property. Adam's per-coordinate second moment does not, becau",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 40
     },
     {
       "title": "I looked inside an AI generated movie, and the best parts were all human",
@@ -491,6 +422,20 @@
         "hot"
       ],
       "score": 38
+    },
+    {
+      "title": "For the people who got reviews back from neurips, cvpr, eccv, etc and also tested their paper through an agentic reviewer like the stanford one, how different were the reviews? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vo5vdm/for_the_people_who_got_reviews_back_from_neurips/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-14T12:26:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello, I was curious about the differences you can get from the human reviewers and the llms. Any insight is welcome, thank you! submitted by /u/obliviousphoenix2003 [link] [commen",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 36
     },
     {
       "title": "AMIE, our research medical AI system, demonstrates real-time clinical video consultation capabilities in a first-of-its-kind study.",
@@ -619,11 +564,11 @@
       "score": 35
     },
     {
-      "title": "AC comment and our reply disappeared on OpenReview [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1voocxf/ac_comment_and_our_reply_disappeared_on/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-15T00:32:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone, we noticed that the AC's comment, along with our reply, has disappeared, and we are wondering if anyone else has experienced the same thing. The comment was made by th",
+      "title": "Abdominal fat predicts heart disease risk better than BMI",
+      "url": "https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-08-15T21:14:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi Comments URL: https://news.ycombinator.com/item",
       "tags": [
         "Release"
       ],
@@ -633,25 +578,11 @@
       "score": 35
     },
     {
-      "title": "Building text to ASCII diffusion model , need advice and guidance [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vo3m71/building_text_to_ascii_diffusion_model_need/",
+      "title": "Dataset: Starfield Fauna - 20,000 images in 50 species categories. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vp9q5v/dataset_starfield_fauna_20000_images_in_50/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-14T10:33:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: i wanna build a text diffusion model which interpret text and convert it into ascii images so like Text : build a cat Output : /\\\\\\_/\\\\ ( o.o ) \\> \\^ < So , i have a decent backgro",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Mark Zuckerberg has an Instagzam",
-      "url": "https://www.theverge.com/podcast/980367/instagram-logo-new-zuckerberg-ai-vergecast",
-      "source": "The Verge AI",
-      "published_at": "2026-08-14T16:54:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instagram's wordmark is iconic. Well, was iconic. Apparently Instagram thought it looked old, so the company rolled out a new one this week. It doesn't look like the old Instagram ",
+      "published_at": "2026-08-15T18:06:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Repo with dataset links: https://github.com/tesselwait/Starfield_Fauna Image classification dataset: 20,000 images from 50 fauna species in the video game Starfield. Images were ex",
       "tags": [
         "Release"
       ],
@@ -675,16 +606,30 @@
       "score": 34
     },
     {
-      "title": "chessformer_lens demo: ablating 1 of a chess transformer's 128 attention heads makes the model stop finding Morphy's queen sacrifice [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vmvl4w/chessformer_lens_demo_ablating_1_of_a_chess/",
+      "title": "I compiled Doom's renderer into a 21B-parameter transformer -- no training anywhere [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1voazhm/i_compiled_dooms_renderer_into_a_21bparameter/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-13T00:29:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://i.redd.it/ipz7i6ife1jh1.gif Notebooks to replicate on github! submitted by /u/Weird-Asparagus4136 [link] [comments]",
+      "published_at": "2026-08-14T15:50:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is the project my last two posts were building towards (this is the last of this silliness). I ported the Doom rendering algorithm to run inside a transformer. Instead of trai",
       "tags": [
-        "RAG/Vector"
+        "Hot"
       ],
       "buckets": [
-        "rag"
+        "hot"
+      ],
+      "score": 32
+    },
+    {
+      "title": "A linter for PyTorch 'torch-preflight' [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vo8vv0/a_linter_for_pytorch_torchpreflight_p/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-14T14:30:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Been working on this for the last few months. I've been working on PyTorch for the past few years and I always felt, many a times my work went into dump, because of some mistakes I",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
       ],
       "score": 32
     },
@@ -703,151 +648,191 @@
       "score": 30
     },
     {
-      "title": "Jane Street suffers $15B hit after meltdown at Situational Awareness",
-      "url": "https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697",
+      "title": "Tea5767-Radio-Tuner",
+      "url": "https://github.com/turtushig22-blip/tea5767-radio-tuner",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T23:40:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697 Comments URL: https://news.ycombinator.com/item?id=49305927 Points: 56 # Comments: 14",
+      "published_at": "2026-08-15T23:54:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/turtushig22-blip/tea5767-radio-tuner Comments URL: https://news.ycombinator.com/item?id=49315456 Points: 4 # Comments: 0",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The case for overhauling American science",
-      "url": "https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science",
+      "title": "Credit card debt rises to $1.26T, nearing all-time record",
+      "url": "https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T23:11:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science Comments URL: https://news.ycombinator.com/item?id=49305708 Points: 20 # C",
+      "published_at": "2026-08-15T23:22:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://abc7.com/story/credit-card-debt-rises-126-trillion-nearing-time-record/19667289/ Comments URL: https://news.ycombinator.com/item?id=49315232 Points: 27 # Comme",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Stop sending me huge PRs; a rant",
-      "url": "https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va",
+      "title": "Modeling and Verification of Keeta's Consensus [pdf]",
+      "url": "https://xescu.re/keeta-consensus.pdf",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T22:48:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va Comments URL: https://news.ycombinator.com/item?id=49305558 Points: 34 # Comments: 21",
+      "published_at": "2026-08-15T21:49:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://xescu.re/keeta-consensus.pdf Comments URL: https://news.ycombinator.com/item?id=49314642 Points: 10 # Comments: 1",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "RISC-V: They should have known better",
-      "url": "https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV",
+      "title": "Bede Liu, a digital signal processing pioneer, has died",
+      "url": "https://spectrum.ieee.org/digital-signal-processing",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T22:38:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV Comments URL: https://news.ycombinator.com/item?id=49305492 Points: 99 # Comments: 51",
+      "published_at": "2026-08-15T21:45:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://spectrum.ieee.org/digital-signal-processing Comments URL: https://news.ycombinator.com/item?id=49314615 Points: 52 # Comments: 2",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "eigendrum",
-      "url": "https://eigendrum.com/#p=circle",
+      "title": "The Wow signal was a strong narrowband radio signal detected on August 15, 1977",
+      "url": "https://en.wikipedia.org/wiki/Wow!_signal",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T22:15:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://eigendrum.com/#p=circle Comments URL: https://news.ycombinator.com/item?id=49305250 Points: 13 # Comments: 1",
+      "published_at": "2026-08-15T21:42:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://en.wikipedia.org/wiki/Wow!_signal Comments URL: https://news.ycombinator.com/item?id=49314596 Points: 57 # Comments: 11",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Every exterior shot in The Taking of Pelham 123",
-      "url": "https://iafisher.com/2026/07/pelham-123",
+      "title": "Tracking down a Zsh history data loss bug",
+      "url": "https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T20:10:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://iafisher.com/2026/07/pelham-123 Comments URL: https://news.ycombinator.com/item?id=49303957 Points: 28 # Comments: 6",
+      "published_at": "2026-08-15T21:39:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/ Comments URL: https://news.ycombinator.com/item?id=49314579 Points: 28 # Comments: 3",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "New Lower and Upper Bounds for the Grothendieck Constant",
-      "url": "https://arxiv.org/abs/2608.11158",
+      "title": "Cultivating a state of mind where new ideas are born (2023)",
+      "url": "https://www.henrikkarlsson.xyz/p/good-ideas",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T19:41:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2608.11158 Comments URL: https://news.ycombinator.com/item?id=49303652 Points: 33 # Comments: 5",
+      "published_at": "2026-08-15T20:54:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.henrikkarlsson.xyz/p/good-ideas Comments URL: https://news.ycombinator.com/item?id=49314235 Points: 69 # Comments: 17",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Firefox is now the last major browser that still supports uBlock Origin",
-      "url": "https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html",
+      "title": "Humazon",
+      "url": "https://hughhowey.com/humazon/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T19:03:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.pcworld.com/article/3212428/firefox-is-now-the-last-major-browser-that-still-supports-ublock-origin.html Comments URL: https://news.ycombinator.com/item?id",
+      "published_at": "2026-08-15T20:18:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://hughhowey.com/humazon/ Comments URL: https://news.ycombinator.com/item?id=49313941 Points: 21 # Comments: 10",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The American sports plutocracy",
-      "url": "https://www.derekthompson.org/p/the-american-sports-plutocracy-is",
+      "title": "Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter",
+      "url": "https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T18:43:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.derekthompson.org/p/the-american-sports-plutocracy-is Comments URL: https://news.ycombinator.com/item?id=49302943 Points: 48 # Comments: 32",
+      "published_at": "2026-08-15T19:20:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/ C",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "RustDesk now supports true unattended remote access on Wayland",
-      "url": "https://rustdesk.com/blog/unattended-remote-access-wayland/",
+      "title": "AI in drug discovery – what it is, where we stand and the path forward",
+      "url": "https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T16:12:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://rustdesk.com/blog/unattended-remote-access-wayland/ Comments URL: https://news.ycombinator.com/item?id=49300759 Points: 214 # Comments: 93",
+      "published_at": "2026-08-15T19:12:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.nature.com/articles/s41573-026-01496-2 Comments URL: https://news.ycombinator.com/item?id=49313367 Points: 81 # Comments: 42",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "AI by Hand",
-      "url": "https://www.byhand.ai/",
+      "title": "Tess's Android Wayland Compositor",
+      "url": "https://github.com/wmww/tawc",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T15:58:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.byhand.ai/ Comments URL: https://news.ycombinator.com/item?id=49300568 Points: 192 # Comments: 16",
+      "published_at": "2026-08-15T18:34:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/wmww/tawc Comments URL: https://news.ycombinator.com/item?id=49313068 Points: 40 # Comments: 4",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Introducing Toast 1",
-      "url": "https://www.mixedbread.com/blog/toast-1",
+      "title": "Voltair (YC W26) Is Hiring a Test Flight Engineer",
+      "url": "https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T15:07:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.mixedbread.com/blog/toast-1 Comments URL: https://news.ycombinator.com/item?id=49299746 Points: 172 # Comments: 57",
+      "published_at": "2026-08-15T18:33:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/voltair/jobs/sSOD2Ox-flight-test-engineer Comments URL: https://news.ycombinator.com/item?id=49313047 Points: 0 # Comments: 0",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Seven books I keep close because I love them",
-      "url": "https://blog.plover.com/2026/08/02/",
+      "title": "AI has access to a vastly larger working memory than the human brain",
+      "url": "https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T15:03:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.plover.com/2026/08/02/ Comments URL: https://news.ycombinator.com/item?id=49299675 Points: 293 # Comments: 129",
+      "published_at": "2026-08-15T18:13:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians Comments URL: https://news.ycombinator.com/item?id=49312845 Points: 399 # Comments: 355",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Qwen 3.8 27B",
-      "url": "https://huggingface.co/Qwen/Qwen3.8-27B-FP8",
+      "title": "I Remain a Skeptic",
+      "url": "https://blog.jsbarretto.com/post/i-remain-a-skeptic",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T15:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://huggingface.co/Qwen/Qwen3.8-27B-FP8 Comments URL: https://news.ycombinator.com/item?id=49299605 Points: 870 # Comments: 569",
+      "published_at": "2026-08-15T16:42:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.jsbarretto.com/post/i-remain-a-skeptic Comments URL: https://news.ycombinator.com/item?id=49312053 Points: 48 # Comments: 22",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Every Fucking Website (2020)",
-      "url": "https://lxe.github.io/everywebsite/",
+      "title": "Semaglutide linked to lower predicted dementia risk",
+      "url": "https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-14T14:31:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lxe.github.io/everywebsite/ Comments URL: https://news.ycombinator.com/item?id=49299222 Points: 736 # Comments: 444",
+      "published_at": "2026-08-15T15:58:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432 Comments URL: https://news.ycombinator.com/item?id=49311651 Points: 339 # Comments: 235",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "A spectre is haunting Unicode",
+      "url": "https://www.dampfkraft.com/ghost-characters.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-08-15T14:34:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.dampfkraft.com/ghost-characters.html Comments URL: https://news.ycombinator.com/item?id=49310926 Points: 163 # Comments: 49",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "At-home test for infected ticks could improve Lyme Disease diagnosis",
+      "url": "https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-08-15T14:04:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/ Comments URL: https://news.ycombina",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "If you had a bunch of GPUs lying around, what would you actually build with them? (Running LLMs is off the table) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vowcmb/if_you_had_a_bunch_of_gpus_lying_around_what/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-15T07:26:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Be honest if someone dropped a stack of high-end GPUs on your desk tomorrow, what would you actually do with them? And before the usual answers roll in: running local LLMs is banne",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "NeurIPS 2026 Author Notifications Close to ICLR Deadline [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1vp4tc0/neurips_2026_author_notifications_close_to_iclr/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-15T14:50:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The date for NeurIPS 2026 author notifications is September 24th. First of all, is it normal for AC and reviewer discussion phases to be this long? This is particularly frustrating",
       "tags": [],
       "buckets": [],
       "score": 25
