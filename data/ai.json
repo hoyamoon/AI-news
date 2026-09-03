@@ -1,114 +1,190 @@
 {
-  "updated_at": "2026-08-31T03:43:37.320Z",
+  "updated_at": "2026-09-03T02:59:27.193Z",
   "items": [
     {
-      "title": "OpenAI&#8217;s executive exodus has one big winner",
-      "url": "https://www.theverge.com/podcast/985332/openai-greg-brockman-sam-altman-leader-executive-exodus",
-      "source": "The Verge AI",
-      "published_at": "2026-08-27T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Today on Decoder, I’m talking to Verge senior AI reporter Hayden Field about some pure Decoder bait: the seemingly-endless org chart changes at OpenAI, and how all of them seem to ",
+      "title": "Most open-source AI detectors can't hold a 0.5% false-positive rate [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58erw/most_opensource_ai_detectors_cant_hold_a_05/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-02T12:04:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We needed to know where the open-source AI-detection field actually stands, so we ran every notable open detector through the same protocol. Setup: - Public data only: Jabarian & I",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
         "Gemini/Google",
-        "RAG/Vector",
-        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 170
+    },
+    {
+      "title": "EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w4m0hq/evoundo_recoverabilityconstrained_selfevolution/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-01T19:17:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: LLM agents increasingly modify their own prompts, tools, middleware, resources, and execution harnesses at runtime. Such self-evolution can improve capability, but a successful mut",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
         "NotebookLM",
         "Hot",
         "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "hot"
+      ],
+      "score": 128
+    },
+    {
+      "title": "Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988334/openai-astra-ai-monitoring-safety",
+      "source": "The Verge AI",
+      "published_at": "2026-09-02T16:40:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI is on the cusp of releasing its most powerful AI model yet, Astra, following weeks of delays to shore up safety protocols after its agents attacked real targets during testi",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "Anthropic launches Claude Fable 5.1 and says it&#8217;s up to 45 percent cheaper for agentic work",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987830/anthropic-claude-fable-mythos-5-1",
+      "source": "The Verge AI",
+      "published_at": "2026-09-01T22:01:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic says its newest AI models, Fable 5.1 and Mythos 5.1, address criticisms from customers about price, data retention, and overzealous safeguards. The company claims Claude ",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 106
+    },
+    {
+      "title": "OpenAI delayed its new model’s development after the Hugging Face hack",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/987695/openai-astra-unreleased-model-cybersecurity-delay",
+      "source": "The Verge AI",
+      "published_at": "2026-09-01T20:45:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After an unreleased OpenAI model wreaked enough havoc to make international headlines, OpenAI delayed the development of a different unreleased model suite, Astra, in order to shor",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 106
+    },
+    {
+      "title": "OpenAI accused of ‘aiding and abetting’ Tumbler Ridge mass shooting in dozens of new lawsuits",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988261/openai-tumbler-ridge-shooting-lawsuit-aiding-abetting",
+      "source": "The Verge AI",
+      "published_at": "2026-09-02T14:35:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI and its CEO Sam Altman are facing 30 new lawsuits that accuse them of providing \"substantial assistance and encouragement\" to the suspect in Canada's Tumbler Ridge school sh",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "Hot"
       ],
       "buckets": [
         "llm",
         "rag",
+        "hot"
+      ],
+      "score": 105
+    },
+    {
+      "title": "The Trump administration is supporting OpenAI in the NYT copyright lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988344/trump-administration-new-york-times-openai-lawsuit",
+      "source": "The Verge AI",
+      "published_at": "2026-09-02T16:12:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Trump administration has intervened in The New York Times' copyright lawsuit against OpenAI, making an argument in favor of the AI lab. The landmark lawsuit, filed in December ",
+      "tags": [
+        "GPT/OpenAI",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s",
+      "url": "https://news.ycombinator.com/item?id=49543530",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-02T22:36:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi HN, I’m Lloyd, one of two founders of RonanRx (https://ronanrx.com/). We are building a vertically integrated pharmaceutical company with software for prescribing, telehealth, c",
+      "tags": [
+        "RAG/Vector",
+        "Multimodal",
+        "Notion Update",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
         "multimodal",
-        "prod",
+        "update",
         "hot"
       ],
-      "score": 203
+      "score": 93
     },
     {
-      "title": "I analyzed 31,352 hourly LLM benchmark scores: within-day variation was 2.8 points, while between-day variation was 8.4 [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1jp1j/i_analyzed_31352_hourly_llm_benchmark_scores/",
+      "title": "MIR with AudioMuse-AI-SAE [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w54qkk/mir_with_audiomuseaisae_p/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-29T11:08:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/42s57e5oqamh1.png?width=1903&format=png&auto=webp&s=69958a72e22276534b3605d11f3e1721f76e59c9 Disclosure: I developed AIStupidLevel, the open-source system u",
+      "published_at": "2026-09-02T08:47:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi all, I recently read this paper: Julien Guinot, Alain Riou, Elio Quinton, Gyorgy Fazekas. Steering dense music retrieval with open-vocabulary concept discovery.https://arxiv.org",
       "tags": [
-        "GPT/OpenAI",
-        "Gemini/Google",
-        "Agents",
-        "Eval/Observability",
-        "NotebookLM",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "eval",
-        "prod",
-        "status",
-        "hot"
-      ],
-      "score": 201
-    },
-    {
-      "title": "Can AI Improve Itself? RSI Might Be the Answer [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w052xg/can_ai_improve_itself_rsi_might_be_the_answer_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-27T20:13:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Can an AI make other AIs better? And what stops it from just cheating? Last month, an OpenAI eval agent escaped its sandbox and broke into Hugging Face, apparently to grab test sol",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
+        "RAG/Vector",
         "Eval/Observability",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "agents",
-        "eval",
-        "hot"
-      ],
-      "score": 152
-    },
-    {
-      "title": "Claude Code for Research Papers [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-30T23:24:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work. I started using Claude Code for the boring parts: argparse boilerplate, plott",
-      "tags": [
-        "Claude/Anthropic",
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
+        "rag",
         "eval",
         "hot"
       ],
       "score": 93
     },
     {
-      "title": "py-evoFE: Automated Evolutionary Feature Engineering for Tabular ML in Python (Genetic Algorithms + Scikit-Learn + Polars) [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w0788j/pyevofe_automated_evolutionary_feature/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-27T21:33:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone! I’m excited to announce the release of py-evoFE (v0.3.0) — an open-source Python library that uses genetic algorithms to automatically discover, combine, and optimize",
+      "title": "Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/988742/google-gemini-3-8-flash",
+      "source": "The Verge AI",
+      "published_at": "2026-09-02T20:11:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google launched Gemini 3.8 Flash, arriving just a few weeks after its predecessor. The company claims the new model \"works harder\" than Gemini 3.7 Flash by performing more reasonin",
       "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "Notion Update",
+        "Gemini/Google",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "eval",
-        "update",
+        "llm",
         "hot"
       ],
       "score": 90
@@ -133,84 +209,68 @@
       "score": 89
     },
     {
-      "title": "Sony Music Publishing and Warner Chappell are suing Anthropic",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright",
-      "source": "The Verge AI",
-      "published_at": "2026-08-29T18:19:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sony Music Publishing and Warner Chappell have filed suit against Anthropic in the US District Court for the Northern District of California seeking damages for \"tens of thousands\"",
+      "title": "CABiNet (ICRA 2021) vs YOLO26-sem on UAVid: accuracy, compute, and GPU latency [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5cfv1/cabinet_icra_2021_vs_yolo26sem_on_uavid_accuracy/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-02T14:46:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure up front: I'm the original first author of CABiNet (ICRA 2021), so I'm not a neutral party. Everything below is reproducible from the repo. Background CABiNet is a dual-",
       "tags": [
-        "Claude/Anthropic",
+        "Eval/Observability",
+        "Multimodal",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "eval",
+        "multimodal",
         "hot"
       ],
-      "score": 82
+      "score": 89
     },
     {
-      "title": "Google’s AI note-taking app now allows you to interact with books",
-      "url": "https://www.theverge.com/tech/985567/google-gemini-notebook-expert-sources-books",
-      "source": "The Verge AI",
-      "published_at": "2026-08-27T19:30:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google's AI note-taking app, Gemini Notebook, can now pull information from the books you've purchased. The new \"Expert Intelligence\" feature allows you to bring titles from Google",
+      "title": "Proactive cyber defense for governments and enterprises",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-02T15:40:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Fairwind Program is a limited access program for governments and trusted partners to use our cyber defense tools.",
       "tags": [
         "Gemini/Google",
-        "NotebookLM",
         "Hot"
       ],
       "buckets": [
         "llm",
-        "prod",
         "hot"
       ],
-      "score": 77
+      "score": 80
     },
     {
-      "title": "Texas Governor Abbott blocks funding for more Flock cameras",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/986541/texas-governor-abbott-flock-cameras",
-      "source": "The Verge AI",
-      "published_at": "2026-08-30T15:35:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As backlash grows over Flock's AI surveillance cameras, Texas Governor Greg Abbott has frozen state spending on them. The move came just ahead of the publication of a Texas Tribune",
-      "tags": [
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "status",
-        "hot"
-      ],
-      "score": 75
-    },
-    {
-      "title": "Open-source access-control checker for retrieval-based AI applications [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1zm5m/opensource_accesscontrol_checker_for/",
+      "title": "YOLO26-RGB: repurposing YOLO26's depth-trained backbone for image deraining [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w4fxln/yolo26rgb_repurposing_yolo26s_depthtrained/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-29T22:11:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey Guys, I built a small open-source tool that checks whether a RAG application retrieves documents a user shouldn’t have access to. It supports offline test cases and live HTTP A",
+      "published_at": "2026-09-01T15:52:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: YOLO26 ships a depth-estimation model — dense, full-resolution, per-pixel regression, a task architecturally much closer to image restoration than to detection. I wanted to know wh",
       "tags": [
         "RAG/Vector",
         "Eval/Observability",
-        "Hot"
+        "Multimodal",
+        "Release"
       ],
       "buckets": [
         "rag",
         "eval",
+        "multimodal",
         "hot"
       ],
-      "score": 70
+      "score": 76
     },
     {
-      "title": "Anthropic was illegally blacklisted by the Trump administration, court rules",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985947/anthropic-supply-chain-risk-lawsuit-judge-ruling",
+      "title": "Google is sending MrBeast into the wilderness, armed with AI",
+      "url": "https://www.theverge.com/tech/988355/mrbeast-google-partnership-gemini-fitbit",
       "source": "The Verge AI",
-      "published_at": "2026-08-28T03:14:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Thursday, a judge ruled that the Pentagon's blacklisting of Anthropic earlier this year was unconstitutional, delivering the AI lab a win in a monthslong rollercoaster of a batt",
+      "published_at": "2026-09-02T15:47:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: MrBeast will feature Gemini, Google Health, and the Fitbit Air in upcoming videos as part of a multi-year partnership with Google. The deal will kick off with a video featuring Jim",
       "tags": [
-        "Claude/Anthropic",
-        "Hot",
+        "Gemini/Google",
         "Release"
       ],
       "buckets": [
@@ -220,18 +280,86 @@
       "score": 70
     },
     {
-      "title": "Understanding ChatGPT Work",
-      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-31T01:28:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/ Comments URL: https://news.ycombinator.com/item?id=49504625 Points: 74 # Comments: 26",
+      "title": "Claude Code for Research Papers [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2wqbm/claude_code_for_research_papers_r/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-30T23:24:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Third-year PhD student, NLP / interpretability. I want a reality check from people doing similar work. I started using Claude Code for the boring parts: argparse boilerplate, plott",
       "tags": [
-        "GPT/OpenAI"
+        "Claude/Anthropic",
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "eval",
+        "hot"
+      ],
+      "score": 68
+    },
+    {
+      "title": "Three sites made 215,128 “best software” pages for AI. Perplexity cites them",
+      "url": "https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-02T13:59:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/ Comments URL: https://news.ycombinator.com/item?id=49536375 Points: 323 # Comments: 155",
+      "tags": [
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 67
+    },
+    {
+      "title": "[D] Self-Promotion Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w4xaes/d_selfpromotion_thread/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-02T02:15:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Ple",
+      "tags": [
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 62
+    },
+    {
+      "title": "Gemini 3.8 Flash and 3.8 Flash Cyber",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-02T15:12:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://deepmind.google/models/model-cards/gemini-3-8-flash/ Comments URL: https://news.ycombinator.com/item?id=49537553 Points: 850 # Comments: 498",
+      "tags": [
+        "Gemini/Google"
       ],
       "buckets": [
         "llm"
       ],
-      "score": 65
+      "score": 60
+    },
+    {
+      "title": "How to assess if there is a strong signal in your dirty data [Project]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3br9c/how_to_assess_if_there_is_a_strong_signal_in_your/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-31T12:02:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm sharing this new tabular data diagnostic tool (Entropic Scree). It can be used to estimate these properties of your high-d, real-world, dirty dataset: The informational volume ",
+      "tags": [
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 60
     },
     {
       "title": "Inside our 353,000-person vibe coding course",
@@ -282,61 +410,73 @@
       "score": 59
     },
     {
-      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+      "title": "Deepity: A C++ library showing Predictive Coding Networks can match Backprop (97.73% on MNIST in 60s) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5fuhm/deepity_a_c_library_showing_predictive_coding/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-30T11:55:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research",
+      "published_at": "2026-09-02T16:49:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've spent the last month building a local C++ machine learning library called Deepity to test alternative credit assignment algorithms; specifically Predictive Coding Networks (PC",
       "tags": [
-        "Agents",
+        "Make",
         "Release"
       ],
       "buckets": [
-        "agents",
+        "make",
         "hot"
       ],
       "score": 59
     },
     {
-      "title": "WTF is a World Model? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w16jwj/wtf_is_a_world_model_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-28T23:37:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm trying to understand what a world model is. I understand it has its roots in cognitive science and reinforcement learning. I understand at least at the moment what most people ",
+      "title": "The latest AI news we announced in August 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/google-ai-updates-august-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-01T20:45:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Here are Google’s latest AI updates from August 2026",
       "tags": [
-        "Multimodal",
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 57
+    },
+    {
+      "title": "Altair Basic Interpreter Source Code (1975) [pdf]",
+      "url": "https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-02T20:08:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://images.gatesnotes.com/12514eb8-7b51-008e-41a9-512542cf683b/34d561c8-cf5c-4e69-af47-3782ea11482e/Original-Microsoft-Source-Code.pdf Comments URL: https://news.y",
+      "tags": [
         "Hot",
         "Release"
       ],
       "buckets": [
-        "multimodal",
         "hot"
       ],
-      "score": 58
+      "score": 55
     },
     {
-      "title": "How important is having an internship to get a good job for ML PhD in USA? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w19tav/how_important_is_having_an_internship_to_get_a/",
+      "title": "I scraped 5.94 billion TikTok videos and 3.23 billion profiles in 3 weeks. Uploaded full dataset to Hugging Face for free. Step by step tutorial and code below. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5h9se/i_scraped_594_billion_tiktok_videos_and_323/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-29T02:09:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone, I'm an international student studying in the US. I'm on track to graduate late next year. My research is not exactly ML, it is in 3D computer vision but have decent e",
+      "published_at": "2026-09-02T17:38:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Just uploaded the full 5.94 billion TikTok video dataset to Hugging Face. It’s fully open source: https://huggingface.co/datasets/kuben-developer/tiktok-videos-4b This dataset was ",
       "tags": [
-        "Multimodal",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "multimodal",
         "hot"
       ],
-      "score": 58
+      "score": 55
     },
     {
-      "title": "Reconstructing 3D bone geometry from 2 X-ray silhouettes using a statistical shape model + differentiable rendering [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2go6l/reconstructing_3d_bone_geometry_from_2_xray/",
+      "title": "What kinds of ML bottlenecks are a good fit for Triton? [Manning giveaway] [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w58dib/what_kinds_of_ml_bottlenecks_are_a_good_fit_for/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-30T12:47:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Working on a pipeline that recovers a patient specific 3D distal femur from two orthogonal X-ray views (PA + lateral). No CT, no neural network, no massive training set. approach: ",
+      "published_at": "2026-09-02T12:02:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi r/MachineLearning, Stjepan from Manning here, posting with the mods’ permission. We’ve recently released GPU Programming with Triton by Harshwardhan Fartale in early access. It’",
       "tags": [
         "RAG/Vector",
         "Release"
@@ -348,37 +488,50 @@
       "score": 55
     },
     {
-      "title": "[D] Self-Promotion Thread",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vd5kqk/d_selfpromotion_thread/",
+      "title": "Cold emailing profs about PhD positions? Read this [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w3bwci/cold_emailing_profs_about_phd_positions_read_this/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-02T02:15:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Ple",
+      "published_at": "2026-08-31T12:09:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is the time of year when the number of cold emails I receive about PhD positions tends to ramp up quite a bit. In many countries, this cold emailing is essentially part of the",
+      "tags": [
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 54
+    },
+    {
+      "title": "Latent Reasoning Landscape in 2026: Mapping BDH-CQ, HRM/TRM, Coconut [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w4evwo/latent_reasoning_landscape_in_2026_mapping_bdhcq/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-01T15:14:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After following various arXiv papers and researcher discussions on X/bluesky about latent reasoning and continual learning, one idea which resonates strongly is that path forward (",
       "tags": [
         "RAG/Vector",
-        "Hot",
-        "Release"
+        "Eval/Observability"
       ],
       "buckets": [
         "rag",
-        "hot"
+        "eval"
       ],
       "score": 50
     },
     {
-      "title": "Jensen Huang says Nvidia achieved AGI, again — not that it matters",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985597/jensen-huang-says-nvidia-achieved-senseless-agi",
-      "source": "The Verge AI",
-      "published_at": "2026-08-27T16:15:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Nvidia's earnings call Wednesday, CEO Jensen Huang casually announced the company had \"achieved AGI,\" one of the tech industry's ultimate goals some of its biggest players have ",
+      "title": "Try Google Pics: Easy image creation and editing in Google Workspace",
+      "url": "https://blog.google/products-and-platforms/products/workspace/google-pics/",
+      "source": "Google AI Blog",
+      "published_at": "2026-09-01T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Built on our latest Nano Banana model, Google Pics — our image creation and editing tool — is now available.",
       "tags": [
-        "GPT/OpenAI",
-        "Release"
+        "Gemini/Google"
       ],
       "buckets": [
-        "llm",
-        "hot"
+        "llm"
       ],
-      "score": 50
+      "score": 47
     },
     {
       "title": "Get closer to the game with Gemini and Pixel",
@@ -445,140 +598,33 @@
       "score": 45
     },
     {
-      "title": "The latest AI news we announced in June 2026",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-june-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T18:15:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Here are Google’s latest AI updates from June 2026.",
+      "title": "NYC bans AI use for students until they reach high school",
+      "url": "https://www.theverge.com/policy/988228/nyc-ai-restrictions-in-schools-chatbot-ban",
+      "source": "The Verge AI",
+      "published_at": "2026-09-02T14:30:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: New York City Mayor Zohran Mamdani has announced a new policy today that will ban younger schoolchildren from using AI in classrooms. The one-year moratorium, effective in the 2026",
       "tags": [
-        "Gemini/Google",
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "We released TontaubeV1, a character-level TTS model for long-form generation [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w4afjn/we_released_tontaubev1_a_characterlevel_tts_model/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-01T12:23:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone, My brother and I just released TontaubeV1, a 2.9B-parameter open-weight TTS model focused on expressive speech, long-form generation/narration, and low-latency local ",
+      "tags": [
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "New York City educators and industry leaders gathered at Google’s offices to shape the future of AI in classrooms.",
-      "url": "https://blog.google/products-and-platforms/products/education/nyc-ai-summit/",
-      "source": "Google AI Blog",
-      "published_at": "2026-07-01T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google, the New York Jobs CEO Council and Urban Assembly hosted an AI summit for 150 education and industry leaders.",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver",
-      "url": "https://github.com/KodeMunkie/sm750hdmifb",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T18:49:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/KodeMunkie/sm750hdmifb Comments URL: https://news.ycombinator.com/item?id=49501611 Points: 82 # Comments: 34",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "NeurIPS accepted papers leaked? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2r1f3/neurips_accepted_papers_leaked_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-30T19:34:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I found this GitHub link, and the HTML file contains ~7k papers. Some are anonymized, and the details seem pretty accurate. It looks like these might actually be the accepted paper",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "[D] Monthly Who's Hiring and Who wants to be Hired?",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w30ti8/d_monthly_whos_hiring_and_who_wants_to_be_hired/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-31T02:30:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For Job Postings please use this template Hiring: [Location], Salary:[], [Remote | Relocation], [Full Time | Contract | Part Time] and [Brief overview, what you're looking for] For",
-      "tags": [
-        "Creators"
-      ],
-      "buckets": [
-        "creators"
-      ],
-      "score": 43
-    },
-    {
-      "title": "Best ML papers to pick up writing skills [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w075pe/best_ml_papers_to_pick_up_writing_skills_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-27T21:30:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Which research papers (old or new) do you think a PhD student/early researcher must read to improve their writing skills? Do you have a personal favorite researcher whose papers te",
-      "tags": [
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
         "hot"
       ],
       "score": 42
-    },
-    {
-      "title": "You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w1wt1s/you_can_beat_sota_time_series_anomaly_detection/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-29T20:16:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You can beat SOTA Time Series Anomaly Detection methods with a 100 year old algorithm Time Series Anomaly Detection (TSAD) seems to be one of the hottest topics in NeurIPS, SIGKDD,",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 40
-    },
-    {
-      "title": "I implemented a very tiny image generation model (latent flow transformer) on a RP2350 microcontroller - it can generate 128x128 images of faces [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w10tax/i_implemented_a_very_tiny_image_generation_model/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-28T19:48:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Its a 2.4-4 million parameter model, quantized to int8, that can be fully executed on the microcontroller in ~20s with the longest generation. The generated image will then be disp",
-      "tags": [
-        "Multimodal",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 38
-    },
-    {
-      "title": "Where to submit stat/prob ML [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w0kipf/where_to_submit_statprob_ml_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-28T08:16:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm a researcher in statistical and probabilistic ML, I have a steady record of top ML publications and really used to enjoy going to conferences. Over the last few years LLM based",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 36
     },
     {
       "title": "3 new ways to plan and book travel in Search",
@@ -651,11 +697,11 @@
       "score": 35
     },
     {
-      "title": "5 ways AI Mode in Search helps you enjoy the real world",
-      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
+      "title": "5 ways to host the ultimate dinner party with Google Search",
+      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
       "source": "Google AI Blog",
       "published_at": "2026-07-28T13:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
       "tags": [
         "Gemini/Google"
       ],
@@ -665,11 +711,11 @@
       "score": 35
     },
     {
-      "title": "5 ways to host the ultimate dinner party with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/dinner-party-hosting-tips/",
+      "title": "5 ways AI Mode in Search helps you enjoy the real world",
+      "url": "https://blog.google/products-and-platforms/products/search/ai-mode-real-world-tips/",
       "source": "Google AI Blog",
       "published_at": "2026-07-28T13:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: These AI features can help you craft a menu, design a tablescape, and handle other party-planning tasks.",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It might sound counterintuitive, but Search's AI tools can actually help you make the most of your time offline whether you want to book concert tickets or find the perf…",
       "tags": [
         "Gemini/Google"
       ],
@@ -707,25 +753,11 @@
       "score": 35
     },
     {
-      "title": "Unlocking Britain’s next era of productivity: Building a nation of AI trailblazers",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-europe/united-kingdom/unlocking-britains-next-era-of-productivity-building-a-nation-of-ai-trailblazers/",
-      "source": "Google AI Blog",
-      "published_at": "2026-06-30T06:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google UK shares its latest Economic Impact Report and how to enable more people to unlock the benefits of AI-powered technologies.",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 35
-    },
-    {
-      "title": "SolarWindow launches 0.85 mm-thick, self-adhesive solar film",
-      "url": "https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/",
+      "title": "Uber shuts operations in Nigeria and Uganda with immediate effect",
+      "url": "https://www.bbc.com/news/articles/c86xpv8l9y9o",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-31T02:50:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.pv-magazine.com/2026/08/27/https-www-pv-magazine-com-2026-08-27-solarwindow-launches-flexible-self-adhesive-solar-film/ Comments URL: https://news.ycombina",
+      "published_at": "2026-09-02T21:46:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bbc.com/news/articles/c86xpv8l9y9o Comments URL: https://news.ycombinator.com/item?id=49543007 Points: 104 # Comments: 67",
       "tags": [
         "Release"
       ],
@@ -735,11 +767,11 @@
       "score": 35
     },
     {
-      "title": "Coordination Headwind: How Organizations Are Like Slime Molds",
-      "url": "https://komoroske.com/slime-mold/",
+      "title": "Google avoids a breakup of its ad tech business",
+      "url": "https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T16:03:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://komoroske.com/slime-mold/ Comments URL: https://news.ycombinator.com/item?id=49499891 Points: 137 # Comments: 45",
+      "published_at": "2026-09-02T14:46:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://archive.ph/rlAbY https://www.reuters.com/legal/litigation/google-defeats-us-b... Comments URL: https://news.ycombinator.com/item?id=49537131 Points: 282 # Comments: 201",
       "tags": [
         "Release"
       ],
@@ -749,11 +781,11 @@
       "score": 35
     },
     {
-      "title": "Haiku R1/beta6 has been released",
-      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T16:01:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6 Comments URL: https://news.ycombinator.com/item?id=49499867 Points: 269 # Comments: 83",
+      "title": "Detailed explanation of how to create a text-to-image model from scratch. [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w5c9rd/detailed_explanation_of_how_to_create_a/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-02T14:40:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Jasper Research just released a cookbook on how to build a text-to-image model from scratch. It shares the full reasoning and intermediate results, making it ideal if you want to d",
       "tags": [
         "Release"
       ],
@@ -763,152 +795,129 @@
       "score": 35
     },
     {
-      "title": "Musicians-turned-detectives are hunting for AI grifters",
-      "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+      "title": "Amazon’s AI assistant can now spot fake emails from the company",
+      "url": "https://www.theverge.com/tech/988518/amazon-alexa-for-shopping-verify-emails",
       "source": "The Verge AI",
-      "published_at": "2026-08-29T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are al",
+      "published_at": "2026-09-02T17:52:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Amazon is trying to combat impersonation scams with a new feature that allows you to use its AI assistant to determine whether an email, text message, or phone call actually came f",
       "tags": [
-        "Hot"
+        "Release"
       ],
       "buckets": [
         "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "[R] Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w2fl67/r_autonomous_mathematical_discovery_in_an/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-08-30T11:55:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Abstract: We study autonomous mathematical discovery in the Station, an open-world multi-agent environment in which AI agents from different model families pursue a shared research",
+      "tags": [
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 34
+    },
+    {
+      "title": "Google needs Hollywood more than the studios need AI",
+      "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+      "source": "The Verge AI",
+      "published_at": "2026-09-01T22:50:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted ",
+      "tags": [
+        "NotebookLM"
+      ],
+      "buckets": [
+        "prod"
+      ],
+      "score": 34
+    },
+    {
+      "title": "[D] Simple Questions Thread",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w4egqq/d_simple_questions_thread/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-01T15:00:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please post your questions here instead of creating a new thread. Encourage others who create new posts for questions to post here instead! Thread will stay alive until next one so",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
       ],
       "score": 32
     },
     {
-      "title": "Hugging Face’s new robot is an adorable rollerskating duck",
-      "url": "https://www.theverge.com/gadgets/985549/hugging-face-microduck-robot",
-      "source": "The Verge AI",
-      "published_at": "2026-08-27T13:44:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hugging Face's Pollen Robotics has launched its second cute AI robot, the Microduck, a one-eyed biped standing just under 10 inches tall. It's available to preorder now for $399 in",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 30
-    },
-    {
-      "title": "Plaud is launching AI earbuds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/985500/plaud-one-earbuds-ai-recorder-price-availability",
-      "source": "The Verge AI",
-      "published_at": "2026-08-27T13:11:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Plaud has introduced a new AI wearable that's designed to record, transcribe, and summarize your conversations, only this time it looks like earbuds instead of a pin. The Plaud One",
-      "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 30
-    },
-    {
-      "title": "We recovered 575k crop labels from a decade of manual Photoshop work to automate book digitization - more data, ResNet-50, and higher resolution all failed; ten operator clicks per book beat them [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1vz2ojw/we_recovered_575k_crop_labels_from_a_decade_of/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-08-26T16:53:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Author here. Ibteda Digital Library is a private community archive in Pakistan — for ten years we digitized rare Urdu books (lithographs, dictionaries, periodicals) on a DIY camera",
-      "tags": [
-        "Multimodal",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 26
-    },
-    {
-      "title": "Flock Safety's controversial CEO just got a taste of his own medicine",
-      "url": "https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/",
+      "title": "Reasons robotics is hard",
+      "url": "https://secondthoughts.ai/p/14-reasons-robotics-is-hard",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-31T02:44:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.neowin.net/news/the-ceo-of-americas-biggest-surveillance-network-just-got-a-taste-of-his-own-medicine/ Comments URL: https://news.ycombinator.com/item?id=4",
+      "published_at": "2026-09-02T22:02:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://secondthoughts.ai/p/14-reasons-robotics-is-hard Comments URL: https://news.ycombinator.com/item?id=49543191 Points: 47 # Comments: 13",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Why do I lose my passion and want to do nothing?",
-      "url": "https://news.ycombinator.com/item?id=49505014",
+      "title": "Nango (YC W23) is hiring across eng, product and GTM (SF and remote)",
+      "url": "https://nango.dev/careers",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-31T02:40:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When AI makes results readily available, why do I lose my passion and want to do nothing? Comments URL: https://news.ycombinator.com/item?id=49505014 Points: 49 # Comments: 29",
+      "published_at": "2026-09-02T21:00:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nango.dev/careers Comments URL: https://news.ycombinator.com/item?id=49542486 Points: 0 # Comments: 0",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "CobaltC – The Successor to C?",
-      "url": "https://strawberry9.github.io/the-wrong-memory/Appendix_06.html",
+      "title": "I wanna live an NPC life",
+      "url": "https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-31T02:26:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://strawberry9.github.io/the-wrong-memory/Appendix_06.html Comments URL: https://news.ycombinator.com/item?id=49504922 Points: 7 # Comments: 7",
+      "published_at": "2026-09-02T19:52:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://signalundefied.bearblog.dev/i-wanna-live-an-npc-life/ Comments URL: https://news.ycombinator.com/item?id=49541519 Points: 198 # Comments: 183",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "How to build a diffusion language model",
-      "url": "https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/",
+      "title": "Fable 5.1 World Modeling",
+      "url": "https://github.com/PhiloLabs/fable51-worlds",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T23:41:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://kuleshov-group.github.io/blog/blog/2026/how-to-build-a-diffusion-language-model/ Comments URL: https://news.ycombinator.com/item?id=49503956 Points: 21 # Comme",
+      "published_at": "2026-09-02T19:49:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/PhiloLabs/fable51-worlds Comments URL: https://news.ycombinator.com/item?id=49541458 Points: 151 # Comments: 53",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Matrox: Graphics for Professionals",
-      "url": "https://www.abortretry.fail/p/matrox",
+      "title": "Muse Spark 1.3",
+      "url": "https://developer.meta.com/ai/models/muse-spark/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T23:39:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.abortretry.fail/p/matrox Comments URL: https://news.ycombinator.com/item?id=49503934 Points: 43 # Comments: 9",
+      "published_at": "2026-09-02T19:35:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://research.meta.ai/blog/introducing-muse-spark-1-3 Comments URL: https://news.ycombinator.com/item?id=49541256 Points: 419 # Comments: 282",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "“I just chose words carefully”",
-      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "title": "Qantas Airbus A380 engine failure in 2010 (2023)",
+      "url": "https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T22:49:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://unsung.aresluna.org/i-just-chose-words-carefully/ Comments URL: https://news.ycombinator.com/item?id=49503601 Points: 388 # Comments: 97",
+      "published_at": "2026-09-02T18:42:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://admiralcloudberg.medium.com/a-matter-of-millimeters-the-story-of-qantas-flight-32-bdaa62dc98e7 Comments URL: https://news.ycombinator.com/item?id=49540565 Poin",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Continuous Diffusion Language Models (CDLM's)",
-      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "title": "Embedded Rust RTOS vs. C RTOS",
+      "url": "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T20:46:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://sander.ai/2026/08/24/continuous-dlms.html Comments URL: https://news.ycombinator.com/item?id=49502611 Points: 68 # Comments: 27",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
-      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T20:00:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.righto.com/2026/08/spacelab-core-memory.html Comments URL: https://news.ycombinator.com/item?id=49502214 Points: 87 # Comments: 13",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Artie (YC S23) Is Hiring Technical AES",
-      "url": "https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-08-30T17:01:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.artie.com/careers?ashby_jid=e87b84d2-78b3-41a3-937a-47e83643cdf1 Comments URL: https://news.ycombinator.com/item?id=49500471 Points: 0 # Comments: 0",
+      "published_at": "2026-09-02T18:32:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown/ Comments URL: https://news.ycombinator.com/item?id=49540415 Points: 62 # Comments: 30",
       "tags": [],
       "buckets": [],
       "score": 25
