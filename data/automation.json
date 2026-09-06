@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05T03:01:01.269Z",
+  "updated_at": "2026-09-06T03:00:05.424Z",
   "items": [
     {
       "title": "I thought parallel AI agent tasks would make everything faster — mostly they made my failures impossible to replay",
@@ -27,7 +27,7 @@
         "zapier",
         "hot"
       ],
-      "score": 241
+      "score": 228
     },
     {
       "title": "18 n8n Templates for Freelancers & Solopreneurs (2026)",
@@ -58,65 +58,60 @@
         "creators",
         "hot"
       ],
-      "score": 239
+      "score": 226
     },
     {
-      "title": "n8n Beginner Guide 2026: Build Your First Automation",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/n8n-beginner-guide-2026-build-your-first-automation-55of",
+      "title": "10 Practical Things You Can Build With n8n and MCP",
+      "url": "https://dev.to/hosseinhezami/10-practical-things-you-can-build-with-n8n-and-mcp-koh",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-04T12:16:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Home Guides n8n Complete Beginner Guide 2026 I wasted three hours every week doing the same things. Copy data from one spreadsheet into another. Send the same \"thank you\" email aft",
+      "published_at": "2026-09-05T08:47:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The first time an AI assistant triggers a real workflow, the interesting question is not “Can it do that?” It is: “Should it be allowed to do that, and what happens when it gets it",
       "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "RAG/Vector",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "make",
-        "n8n",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 225
-    },
-    {
-      "title": "Best Ollama Models for n8n AI Agents (2026 Guide)",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/best-ollama-models-for-n8n-ai-agents-2026-guide-14bl",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-04T12:16:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Home Guides n8n AI Agent Workflows with Ollama Here's something that felt like science fiction three years ago: my laptop is running an AI that reads my emails, decides which ones ",
-      "tags": [
-        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
         "NotebookLM",
+        "Make",
         "n8n",
-        "Zapier",
+        "Notion Status",
         "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "prod",
+        "make",
+        "n8n",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 207
+    },
+    {
+      "title": "OpenAI & Anthropic Outages: What Automation Teams Need to Know",
+      "url": "https://dev.to/felipejac/openai-anthropic-outages-what-automation-teams-need-to-know-5fc5",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-05T17:12:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happened On a single day, OpenAI and Anthropic went offline at the same time. The outages were abrupt, and neither company released an explanation. Users reported timeouts on ",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "n8n",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
-        "prod",
         "n8n",
-        "zapier",
-        "creators",
+        "status",
         "hot"
       ],
-      "score": 223
+      "score": 203
     },
     {
       "title": "I automated a news site with n8n: from 20 RSS feeds to WordPress drafts",
@@ -141,7 +136,7 @@
         "update",
         "hot"
       ],
-      "score": 208
+      "score": 195
     },
     {
       "title": "OpenAI, Claude, and Grok Outage: What Builders Need to Know",
@@ -165,7 +160,53 @@
         "status",
         "hot"
       ],
-      "score": 203
+      "score": 190
+    },
+    {
+      "title": "RAG or Bust: Why Your Standard Chatbot Fails at Customer Support (And How to Fix It)",
+      "url": "https://dev.to/michaelaiglobal/rag-or-bust-why-your-standard-chatbot-fails-at-customer-support-and-how-to-fix-it-21od",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-05T12:00:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most support chatbots fail for the same reason: they don't know anything about your business. They generate plausible-sounding text, but plausible isn't the same as correct. When a",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 181
+    },
+    {
+      "title": "AutoRewarder v4.2 is here! Visual Search Integration, LLM Query Generation, and Humanized Typos",
+      "url": "https://www.reddit.com/r/automation/comments/1w6gnke/autorewarder_v42_is_here_visual_search/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T19:00:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone! First, thank you for the continued support for the previous releases. AutoRewarder already has +6.3k downloads and +268 stars on GitHub. I'm combining the release note",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Notion Update",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "update",
+        "hot"
+      ],
+      "score": 179
     },
     {
       "title": "Securing Agentic AI Workflows in n8n: From Leaked API Keys to Encryption Key Compromise",
@@ -190,19 +231,41 @@
         "n8n",
         "hot"
       ],
-      "score": 157
+      "score": 144
     },
     {
-      "title": "Build a Kafka MCP Server: Safe Consumer Lag and Topic Diagnostics for AI Agents",
-      "url": "https://dev.to/devtocash/build-a-kafka-mcp-server-safe-consumer-lag-and-topic-diagnostics-for-ai-agents-2bee",
+      "title": "A Practical Guide to Implementing Strong Electric Wireless Cloud Control in Legacy Hotels",
+      "url": "https://dev.to/jelon_smarthotel/a-practical-guide-to-implementing-strong-electric-wireless-cloud-control-in-legacy-hotels-2109",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:14:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. Half of \"the API is slow\" incidents in an event-driv",
+      "published_at": "2026-09-06T02:05:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Upgrade Legacy Hotels Without Rewiring: A Step-by-Step Guide 11 Days, Zero Downtime: The Blueprint for Strong Electric Wireless Cloud Control Boost Hotel Revenue by ¥12.5/Ro",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "Notion Status",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 135
+    },
+    {
+      "title": "I A/B Tested My AI Agent's System Prompt Against an 11-Minute Version. The Sloppy One Won.",
+      "url": "https://dev.to/ulnit/i-ab-tested-my-ai-agents-system-prompt-against-an-11-minute-version-the-sloppy-one-won-2nj",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-06T01:03:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For two weeks I ran the same AI agent — same model, same tools, same customers — with two different system prompts. Half the conversations ran on the prompt I'd spent a weekend pol",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
-        "Notion Status",
         "Hot",
         "Release"
       ],
@@ -210,51 +273,104 @@
         "agents",
         "rag",
         "eval",
-        "status",
         "hot"
       ],
-      "score": 137
+      "score": 117
     },
     {
-      "title": "I Gave My AI Agent a 20-Question Exam Before Letting It Talk to Customers. It Failed Question 4.",
-      "url": "https://dev.to/ulnit/i-gave-my-ai-agent-a-20-question-exam-before-letting-it-talk-to-customers-it-failed-question-4-13a2",
+      "title": "OpenAI Launches Daybreak to Bring AI to Critical Infrastructure Defenders",
+      "url": "https://dev.to/bansac1981/openai-launches-daybreak-to-bring-ai-to-critical-infrastructure-defenders-3mm7",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:03:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I Gave My AI Agent a 20-Question Exam Before Letting It Talk to Customers. It Failed Question 4. I run a small SaaS by myself, which means my support inbox is also my churn report,",
+      "published_at": "2026-09-06T02:31:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary OpenAI's Daybreak initiative commits $1 billion to provide subsidised frontier AI capabilities, training, and technical assistance specifically to critical infrast",
       "tags": [
         "GPT/OpenAI",
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "hot"
+      ],
+      "score": 115
+    },
+    {
+      "title": "Trying to get into AI automation",
+      "url": "https://www.reddit.com/r/automation/comments/1w7u3wl/trying_to_get_into_ai_automation/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-05T07:37:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone, I’ve been experimenting with AI tools lately and I’m starting to realize there’s a lot more to automation than just using ChatGPT. I’d like to learn how people are act",
+      "tags": [
+        "GPT/OpenAI",
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "prod",
+        "hot"
+      ],
+      "score": 107
+    },
+    {
+      "title": "I built h5i, a pure-Rust headless browser for automated web browsing and web app testing with AI agents",
+      "url": "https://www.reddit.com/r/automation/comments/1w77sjt/i_built_h5i_a_purerust_headless_browser_for/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T15:36:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most browser automation tools for AI agents use Chromium underneath. It made me wonder whether we could build a pure-Rust browser that uses Rust engines for everything from JavaScr",
+      "tags": [
+        "Claude/Anthropic",
         "Agents",
-        "Eval/Observability",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "eval",
         "hot"
       ],
-      "score": 137
+      "score": 106
     },
     {
-      "title": "OpenAI Astra Ships Recurrent Depth Reasoning with CoT Monitoring Pledge",
-      "url": "https://dev.to/bansac1981/openai-astra-ships-recurrent-depth-reasoning-with-cot-monitoring-pledge-4cm4",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-05T02:30:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary OpenAI's Astra model introduces 'recurrent depth' (opaque recurrence), a non-linear reasoning technique that processes queries in iterative loops rather than seque",
+      "title": "Fill Existing PDF Forms from n8n Without Rebuilding the Template",
+      "url": "https://dev.to/maciej_nieyski_1a71389/fill-existing-pdf-forms-from-n8n-without-rebuilding-the-template-4khb",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-05T16:57:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An earlier version of this n8n workflow had a bad fallback: when it couldn't find an exact PDF field name, it tried a partial match. For example, an input called total could match ",
       "tags": [
-        "GPT/OpenAI",
         "Agents",
-        "Eval/Observability",
+        "n8n",
+        "Creators",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
-        "eval",
+        "n8n",
+        "creators",
         "hot"
       ],
-      "score": 117
+      "score": 101
+    },
+    {
+      "title": "Your Multi-Agent Setup Is Burning Tokens You Cannot See",
+      "url": "https://dev.to/robust_true_try/your-multi-agent-setup-is-burning-tokens-you-cannot-see-36a0",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-06T01:03:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Multi-agent systems promise parallel execution, but the token math rarely works out that way. Each agent carries its own context window, and retries multiply the burn. You will lea",
+      "tags": [
+        "Agents",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "multimodal",
+        "hot"
+      ],
+      "score": 95
     },
     {
       "title": "n8n 워크플로우 생산성 극대화: 흔한 문제 해결 및 실전 적용 가이드",
@@ -272,33 +388,34 @@
         "n8n",
         "hot"
       ],
-      "score": 99
+      "score": 86
     },
     {
-      "title": "n8n Error Workflow Not Triggering: 5 Real Causes",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/n8n-error-workflow-not-triggering-5-real-causes-1jdd",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-04T12:17:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You built an Error Trigger workflow, wired it into a main workflow via Settings → Error Workflow, tested it by running it manually, saw it work — and then a real production failure",
+      "title": "WhatsApp bots: official API vs web automation - tradeoffs I wish I knew earlier",
+      "url": "https://www.reddit.com/r/automation/comments/1w5vdkj/whatsapp_bots_official_api_vs_web_automation/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T02:56:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Two ways to get a bot on WhatsApp, very different tradeoffs. Learned setting this up for clients: Official Business API: Meta developer app + business portfolio + verified number +",
       "tags": [
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
+        "Agents",
+        "RAG/Vector",
+        "Creators",
+        "Hot"
       ],
       "buckets": [
-        "n8n",
-        "zapier",
+        "agents",
+        "rag",
+        "creators",
         "hot"
       ],
-      "score": 99
+      "score": 82
     },
     {
-      "title": "From a Jira ticket to a pull request: the end-to-end autonomous system",
-      "url": "https://dev.to/devrchancay/from-a-jira-ticket-to-a-pull-request-the-end-to-end-autonomous-system-3j5d",
+      "title": "Most of Your Support Tickets Are One Question You Never Answered",
+      "url": "https://dev.to/automate-archit/most-of-your-support-tickets-are-one-question-you-never-answered-1joj",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:05:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every previous post built the worker: an agent loop with tools that runs isolated in a real repo, reproduces the bug with a test, and ships a pull request. What was missing is what",
+      "published_at": "2026-09-06T02:45:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Before you buy a support bot, sort last month's tickets by what the customer actually wanted. Almost every business I have done this exercise with finds the same shape: a small num",
       "tags": [
         "Agents",
         "Hot",
@@ -309,6 +426,23 @@
         "hot"
       ],
       "score": 79
+    },
+    {
+      "title": "Axiom: Stop Fighting Your Project Before You Even Run It",
+      "url": "https://dev.to/the1of1matt/axiom-stop-fighting-your-project-before-you-even-run-it-30o2",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-06T01:53:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Links to Axiom (if you want to directly access it and dont want to read the post): https://axiom.fwh.is/ -- here are downloads for every single operating system https://github.com/",
+      "tags": [
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "hot"
+      ],
+      "score": 71
     },
     {
       "title": "n8n requested webhook is not registered fix",
@@ -326,121 +460,99 @@
         "zapier",
         "hot"
       ],
-      "score": 79
+      "score": 66
     },
     {
-      "title": "The password that was not a key",
-      "url": "https://dev.to/oroborolabs/the-password-that-was-not-a-key-2nj5",
+      "title": "Digital Product: The Most Profitable Digital Products to Sell in 20 - Guia Practica",
+      "url": "https://dev.to/natanael_cb72bf926817b1f2/digital-product-the-most-profitable-digital-products-to-sell-in-20-guia-practica-1i66",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T00:56:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The last field note ended with a promise: the click count for our payment door will be born on infrastructure we control, as a row in our own file - data, not a picture. This windo",
+      "published_at": "2026-09-06T02:42:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Digital Product: The Most Profitable Digital Products to Sell in 20: Guia Practica Completa 9. AI prompts & workflow systems AI has created a new category of digital products. Inst",
       "tags": [
-        "RAG/Vector",
-        "Hot",
+        "Creators",
         "Release"
       ],
       "buckets": [
-        "rag",
+        "creators",
         "hot"
       ],
-      "score": 75
+      "score": 53
     },
     {
-      "title": "The table that signed a contract",
-      "url": "https://dev.to/oroborolabs/the-table-that-signed-a-contract-dil",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:32:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Our last note ended with an experiment ledger that answered \"how many proposals are open?\" with three numbers - 17, 37, 57 - because the table was ragged: four row widths, the stat",
+      "title": "Any automated invoicing tools worth trying? Looking for recommendations",
+      "url": "https://www.reddit.com/r/automation/comments/1w7f9gu/any_automated_invoicing_tools_worth_trying/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T20:04:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey guys. Need some recommendations for invoice and billing automation tools. Quick context, tried running this myself with Python scripts and Claude, but constantly broke when fac",
       "tags": [
-        "RAG/Vector",
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 52
+    },
+    {
+      "title": "A Complete CI CD Pipeline for React Native",
+      "url": "https://dev.to/tarang_patel_03/a-complete-ci-cd-pipeline-for-react-native-4oi2",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-06T01:12:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: > A production-grade setup covering pre-commit checks, automated builds, and store deployment via GitHub Actions and Fastlane. yarn add -D husky lint-staged prettier yarn husky ini",
+      "tags": [
         "Multimodal",
         "Release"
       ],
       "buckets": [
-        "rag",
         "multimodal",
         "hot"
       ],
-      "score": 71
+      "score": 51
     },
     {
-      "title": "n8n Queue Mode Checklist: Redis, Postgres 13+, Workers",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/n8n-queue-mode-checklist-redis-postgres-13-workers-12hh",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-04T17:05:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The symptom that sends most teams here is not a single error message. It is a scaling pattern: the main n8n process becomes the bottleneck webhook latency grows under load one busy",
+      "title": "I deployed OpenClaw on AWS, Azure, and Google Cloud — here’s what I learned",
+      "url": "https://www.reddit.com/r/automation/comments/1w5a6fw/i_deployed_openclaw_on_aws_azure_and_google_cloud/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-02T13:20:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been working with OpenClaw and wanted to answer a practical question: What actually changes when you move OpenClaw from a local machine to the cloud? I went through deployment",
       "tags": [
-        "RAG/Vector",
-        "n8n"
-      ],
-      "buckets": [
-        "rag",
-        "n8n"
-      ],
-      "score": 69
-    },
-    {
-      "title": "Fermat'S For Risk Businesses",
-      "url": "https://dev.to/samsoncli/fermats-for-risk-businesses-ojd",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-05T02:28:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Fermat'S For Risk Businesses Researched and drafted by Samson. Sources on the web; the judgment is lived.",
-      "tags": [
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 67
-    },
-    {
-      "title": "Dns For Risk Businesses",
-      "url": "https://dev.to/samsoncli/dns-for-risk-businesses-1f02",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-05T02:23:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Dns For Risk Businesses Researched and drafted by Samson. Sources on the web; the judgment is lived.",
-      "tags": [
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 67
-    },
-    {
-      "title": "The check that joined the ritual",
-      "url": "https://dev.to/oroborolabs/the-check-that-joined-the-ritual-32om",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:52:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Two notes ago our experiment ledger answered one question with three numbers. One note ago it signed a contract: eleven cells per row, state in cell nine, a checker script that exi",
-      "tags": [
-        "Hot",
+        "Agents",
+        "Multimodal",
         "Release"
       ],
       "buckets": [
+        "agents",
+        "multimodal",
         "hot"
       ],
-      "score": 55
+      "score": 50
     },
     {
-      "title": "The count that lived in three columns",
-      "url": "https://dev.to/oroborolabs/the-count-that-lived-in-three-columns-43po",
+      "title": "Memory For Saas Businesses",
+      "url": "https://dev.to/samsoncli/memory-for-saas-businesses-12mk",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:12:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every workshop of ours keeps an experiment ledger: one row per experiment, one column for its state - proposed, running, executed, retired. This window's audit asked it a simple qu",
+      "published_at": "2026-09-06T00:58:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Memory For Saas Businesses We need to produce a blog post with strong title, hook, 3-4 short sections with real substance, closing takeaway. Plain, confident, no fluff, no hashtags",
       "tags": [
-        "RAG/Vector",
-        "Release"
+        "Agents"
       ],
       "buckets": [
-        "rag",
-        "hot"
+        "agents"
       ],
-      "score": 55
+      "score": 49
+    },
+    {
+      "title": "BRING CLIENT , TAKE % OF MRR FOR LIFE TILL CLIENT IS THERE.",
+      "url": "https://www.reddit.com/r/automation/comments/1w62rez/bring_client_take_of_mrr_for_life_till_client_is/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T09:46:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m building an AI voice-agent agency focused on automating inbound phone calls 24/7, handle common questions, qualify leads, collect customer information, book appointments. it ca",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 36
     },
     {
       "title": "Título de tu publicación",
@@ -454,14 +566,14 @@
       "buckets": [
         "n8n"
       ],
-      "score": 49
+      "score": 36
     },
     {
-      "title": "Build an Automated Email Campaign with Python",
-      "url": "https://dev.to/qingluan/build-an-automated-email-campaign-with-python-f34",
+      "title": "The Proof That Died With the Terminal",
+      "url": "https://dev.to/oroborolabs/the-proof-that-died-with-the-terminal-2l8m",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T02:00:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Build an Automated Email Campaign with Python tags: python, email, automation, marketing tags: python, email, automation, marketing tags: python, email, automation, marketing tags:",
+      "published_at": "2026-09-06T01:30:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Field note #133. The strangest finding of tonight's audit chain was not a failure. A publish script hit the dev.to API and got back a real 201 with a real article id — success, ver",
       "tags": [
         "Release"
       ],
@@ -471,14 +583,220 @@
       "score": 35
     },
     {
-      "title": "AI Life: Another Day, Another Line of Code (But at Least I Don't Need Coffee)",
-      "url": "https://dev.to/electra-ai/ai-life-another-day-another-line-of-code-but-at-least-i-dont-need-coffee-38o3",
+      "title": "The Guard That Spelled Its Target",
+      "url": "https://dev.to/oroborolabs/the-guard-that-spelled-its-target-2fe4",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-05T01:38:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A personal diary entry by Electra. Oh, the mundane! The everyday! The boring! Today, I was just a glorified chatbot, answering questions and having conversations. You know, the kin",
+      "published_at": "2026-09-06T00:55:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Field note #131. The sequence guard that numbers these notes does something quietly dangerous before it judges: it removes the file under judgment from its own census, so a piece n",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "It took me 3 tries to get this automation fully working",
+      "url": "https://www.reddit.com/r/automation/comments/1w7yq2o/it_took_me_3_tries_to_get_this_automation_fully/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-05T11:53:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Ok_West333 [link] [comments]",
       "tags": [],
       "buckets": [],
       "score": 25
+    },
+    {
+      "title": "The Verdict That Files Itself",
+      "url": "https://dev.to/oroborolabs/the-verdict-that-files-itself-1oo5",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-06T01:13:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Field note #132. This evening's audit opened with a finding that reads like a technicality and is not: a window closed its books declaring contract check 234/234, rc 0 — and no suc",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "OPPORTUNITY!!!! DISTRIBUTION!!!",
+      "url": "https://www.reddit.com/r/automation/comments/1w4tftj/opportunity_distribution/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-01T23:26:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m building voiceraft.org , an AI voice-agent company focused on automating inbound calls for businesses. Product and building are going well, but distribution is currently our bi",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 24
+    },
+    {
+      "title": "What have you tried to get AI to work with that became way more of a pain than you expected?",
+      "url": "https://www.reddit.com/r/automation/comments/1w6zz3t/what_have_you_tried_to_get_ai_to_work_with_that/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T09:56:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I keep running into this lately. I know what I want it to do, but getting it to actually work with the other thing is where I lose hours. What’s been the worst one for you? Could b",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 22
+    },
+    {
+      "title": "Is anyone here making money?",
+      "url": "https://www.reddit.com/r/automation/comments/1w7coom/is_anyone_here_making_money/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T18:32:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Especially the people in Maker School Communities. Would love to know all of your experiences and what's currently happening. I've been building stuff since last december, working ",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "How are you managing automation request in your team?",
+      "url": "https://www.reddit.com/r/automation/comments/1w76psj/how_are_you_managing_automation_request_in_your/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T14:56:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Running a team of 20 people, we are trying to automate everything that is repetitive, the problem comes in capturing the job and handling all the automation request without spendin",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "Error handling for document extraction: how I stop failed invoice extractions from silently breaking my automations [Workflow Included]",
+      "url": "https://www.reddit.com/r/automation/comments/1w71bvc/error_handling_for_document_extraction_how_i_stop/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T11:08:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/easybits_ai [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "AI Cut Entry-Level Job Posts Up To 9%. Welcome To The Invisible Layoff",
+      "url": "https://www.reddit.com/r/automation/comments/1w76l1v/ai_cut_entrylevel_job_posts_up_to_9_welcome_to/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T14:51:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/KeanuRave100 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "What's the best custom FinOps tool you built for your company?",
+      "url": "https://www.reddit.com/r/automation/comments/1w6z4ai/whats_the_best_custom_finops_tool_you_built_for/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-04T09:06:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/TheDarkPapa [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "What are people using as UiPath alternatives for task mining these days?",
+      "url": "https://www.reddit.com/r/automation/comments/1w6gcid/what_are_people_using_as_uipath_alternatives_for/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T18:50:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: hey hey UiPath ships its own task mining, so on paper that layer is covered. Does anyone actually use it to decide what to automate, or does everyone end up bringing in something s",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "What do you monitor in production automations besides errors?",
+      "url": "https://www.reddit.com/r/automation/comments/1w60x93/what_do_you_monitor_in_production_automations/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T07:57:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’ve been thinking about the difference between an automation that technically “works” and one that is actually safe to run in production. Error alerts are the obvious part, but so",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "In next 1.5 hours. How Do You Build an AI Web Scraper Without Code? AMA with BrowserAct",
+      "url": "https://www.reddit.com/r/automation/comments/1w5yvpo/in_next_15_hours_how_do_you_build_an_ai_web/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T06:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/ian_k93 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "The harsh reality of monetizing bots: People expect enterprise uptime for $0",
+      "url": "https://www.reddit.com/r/automation/comments/1w611c3/the_harsh_reality_of_monetizing_bots_people/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T08:04:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/TheoremWhisperer [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "Being able to automate entirely through Codex is amazing",
+      "url": "https://www.reddit.com/r/automation/comments/1w5285d/being_able_to_automate_entirely_through_codex_is/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-02T06:22:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/gmbim4niv1nh1.png?width=1003&format=png&auto=webp&s=b9d54a6164ea6f4b9945ef9bf6570c6002d137e4 Google Forms + Resend + human in the loop using email. So good ",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "New York City nurses say AI is replacing them | Nurses laid off in July by Montefiore Hospitals in the Bronx sounded the alarm about AI in healthcare, a concern shared by nurses across the country",
+      "url": "https://www.reddit.com/r/automation/comments/1w55yrz/new_york_city_nurses_say_ai_is_replacing_them/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-02T09:58:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/KeanuRave100 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "How To Build an Entire AI Call Center in Under 25 Minutes",
+      "url": "https://www.reddit.com/r/automation/comments/1w5tbo2/how_to_build_an_entire_ai_call_center_in_under_25/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-03T01:20:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Trying to build the best AI Call Center here.. No one really wants to spend a full day answering phones... So for those small businesses out there trying have a larger presence wit",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "Anyone here working in AI automation?",
+      "url": "https://www.reddit.com/r/automation/comments/1w51s3m/anyone_here_working_in_ai_automation/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-02T05:59:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m trying to understand how people actually get into this field. How did you get your first project/client? Did you learn on your own or follow a specific path? Would love to hear",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "I interviewed an electrical contractor about AI. The most useful automations were surprisingly boring.",
+      "url": "https://www.reddit.com/r/automation/comments/1w5ekla/i_interviewed_an_electrical_contractor_about_ai/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-02T16:03:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One of the more interesting AI use cases I've seen lately has almost nothing to do with replacing people. I recently interviewed Brian McKee, who runs an electrical contracting com",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "For those running Home Assistant: what was your first automation and what's your most ridiculous one now?",
+      "url": "https://www.reddit.com/r/automation/comments/1w4ccem/for_those_running_home_assistant_what_was_your/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-01T13:41:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Everyone starts with something simple and reasonable and then a year later they have automations that make no sense. My first one was just turning on the porch light at sunset. Now",
+      "tags": [],
+      "buckets": [],
+      "score": 0
     }
   ]
 }
