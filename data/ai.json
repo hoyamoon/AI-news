@@ -1,25 +1,6 @@
 {
-  "updated_at": "2026-09-07T02:57:33.166Z",
+  "updated_at": "2026-09-08T03:07:12.403Z",
   "items": [
-    {
-      "title": "Gpt 5,6,7: Does it even matter? The (ghost) productivity question. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w7f6kq/gpt_567_does_it_even_matter_the_ghost/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-04T20:02:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: an observation : GPT-5-class models are genuinely capable(They are) of doing a substantial fraction of knowledge work, why haven’t we seen a noticeable productivity shock in the re",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 157
-    },
     {
       "title": "Astra vs. Fable 5.1 on real ML tasks -- tradeoffs, strengths, shortcomings [P]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w8g1gk/astra_vs_fable_51_on_real_ml_tasks_tradeoffs/",
@@ -64,6 +45,27 @@
       "score": 126
     },
     {
+      "title": "Generating Bad Apple autonomously from a single initial state using a tiny recurrent dynamical system (417k params) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wa8rub/generating_bad_apple_autonomously_from_a_single/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-08T00:05:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A few weeks ago, I saw this post where the author trained a SIREN MLP to implicitly memorize Bad Apple as a coordinate function: (t, y, x) to pixel. That got me curious about a sli",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Notion Update",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "update",
+        "hot"
+      ],
+      "score": 115
+    },
+    {
       "title": "Rogue OpenAI agents appear to have organized another attack using a German wiki",
       "url": "https://www.theverge.com/ai-artificial-intelligence/990149/openai-rogue-agents-german-wiki",
       "source": "The Verge AI",
@@ -82,24 +84,46 @@
         "status",
         "hot"
       ],
-      "score": 126
+      "score": 114
     },
     {
-      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
-      "source": "The Verge AI",
-      "published_at": "2026-09-06T23:36:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI bega",
+      "title": "My lab found a way to migrate between embedding models with zero downtime. [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wabmm7/my_lab_found_a_way_to_migrate_between_embedding/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-08T02:16:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: So I've been messinga round with embedding models for a bit, and I think they are interesting enough to experiment with. They are useful for rag, especially in a localllm sense bec",
       "tags": [
-        "GPT/OpenAI",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "rag",
+        "eval",
+        "status",
         "hot"
       ],
-      "score": 95
+      "score": 113
+    },
+    {
+      "title": "I reduced image-processing token usage by ~95% compared with GPT-4o direct vision, while maintaining roughly the same accuracy.How significant is that?[P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wab7ui/i_reduced_imageprocessing_token_usage_by_95/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-08T01:57:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm testing a new approach for reducing the cost of image-based LLM inference. I evaluated it on the MOMA Graph benchmark, using 1,315 questions. Compared with using GPT-4o to proc",
+      "tags": [
+        "GPT/OpenAI",
+        "Eval/Observability",
+        "Multimodal"
+      ],
+      "buckets": [
+        "llm",
+        "eval",
+        "multimodal"
+      ],
+      "score": 99
     },
     {
       "title": "Evolve your marketing with new AI tools",
@@ -121,61 +145,6 @@
       "score": 89
     },
     {
-      "title": "This NAS company wants to run your local smart home",
-      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
-      "source": "The Verge AI",
-      "published_at": "2026-09-04T09:41:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugree",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 86
-    },
-    {
-      "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T22:19:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When I first started working in scientific machine learning, I understood the physics much better than the coding. Every time I wanted to try a new physics-informed neural network ",
-      "tags": [
-        "NotebookLM",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
-        "creators",
-        "hot"
-      ],
-      "score": 85
-    },
-    {
-      "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T07:33:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, re",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "Hot"
-      ],
-      "buckets": [
-        "rag",
-        "eval",
-        "hot"
-      ],
-      "score": 83
-    },
-    {
       "title": "GPT-6 reportedly jailbroken within 24 hours using an extended Task-in-Prompt (TIP) attack [N]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1w89m36/gpt6_reportedly_jailbroken_within_24_hours_using/",
       "source": "Reddit r/MachineLearning",
@@ -193,6 +162,96 @@
       "score": 82
     },
     {
+      "title": "Seattle Times and Newsday sue OpenAI and Microsoft for infringement",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/990932/seattle-times-newsday-lawsuit-openai-microsoft",
+      "source": "The Verge AI",
+      "published_at": "2026-09-06T23:36:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The OpenAI logo is displayed on a smartphone screen placed on a reflective surface on which the company's logo is projected in Creteil, France, on September 4, 2026, as OpenAI bega",
+      "tags": [
+        "GPT/OpenAI",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 82
+    },
+    {
+      "title": "Automotive Radar Object Classification [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9m26u/automotive_radar_object_classification_p/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-07T08:10:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello all, I'm a radar signal processing engineer and i trained a 5-class classifier (car, large_vehicle, two_wheeler, pedestrian, pedestrian_group) on RadarScenes radar point clou",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 75
+    },
+    {
+      "title": "This NAS company wants to run your local smart home",
+      "url": "https://www.theverge.com/tech/990006/this-nas-company-wants-to-run-your-local-smart-home",
+      "source": "The Verge AI",
+      "published_at": "2026-09-04T09:41:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Ugreen’s HomeAgent H100 Pro hub combines local storage, on-device AI, and a new voice assistant, Uliya, to run your smart home. | Photo by Jennifer Pattison Tuohy / The Verge Ugree",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "hot"
+      ],
+      "score": 74
+    },
+    {
+      "title": "PINNStudio: A free, open-source no-code GUI for setting up, training, and visualizing PINNs [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9a2i7/pinnstudio_a_free_opensource_nocode_gui_for/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-06T22:19:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When I first started working in scientific machine learning, I understood the physics much better than the coding. Every time I wanted to try a new physics-informed neural network ",
+      "tags": [
+        "NotebookLM",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 72
+    },
+    {
+      "title": "Is designing a memory graph around known data structure “overfitting” if I never touch the questions? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8ph8b/is_designing_a_memory_graph_around_known_data/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-06T07:33:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: building a missing data infrastructure and started benchmarking long multi-session conversations (LoCoMo). I know the data looks like: people, facts, claims, events, timestamps, re",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 70
+    },
+    {
       "title": "Microsoft says virtually nobody was grabbing NYT articles through its chatbot",
       "url": "https://www.theverge.com/policy/990267/microsoft-openai-new-york-times-authors-lawsuit",
       "source": "The Verge AI",
@@ -207,7 +266,7 @@
         "llm",
         "hot"
       ],
-      "score": 82
+      "score": 70
     },
     {
       "title": "Sam Altman apologizes for &#8216;messy&#8217; GPT-6 Astra rollout that’s locked out paying users",
@@ -224,81 +283,23 @@
         "llm",
         "hot"
       ],
-      "score": 82
+      "score": 70
     },
     {
-      "title": "An Alien Mind",
-      "url": "https://openai.com/index/an-alien-mind/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T16:27:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openai.com/index/an-alien-mind/ Comments URL: https://news.ycombinator.com/item?id=49588080 Points: 343 # Comments: 294",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://openai.com/index/research-acceleration-view-inside-openai",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T15:08:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openai.com/index/research-acceleration-view-inside-openai Comments URL: https://news.ycombinator.com/item?id=49587217 Points: 125 # Comments: 79",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Point density, not architecture, was the bottleneck for a 5-class radar-only object [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w934ew/point_density_not_architecture_was_the_bottleneck/",
+      "title": "Measuring LLM performance drift: observations and methodology from 31,352 repeated benchmark measurements [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9llr4/measuring_llm_performance_drift_observations_and/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T17:55:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello all, TL;DR: point density, not model architecture, was the real bottleneck for a 5-class radar-only classifier on RadarScenes. Going from 1 to 5 points per instance roughly d",
+      "published_at": "2026-09-07T07:44:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One thing that has bothered me about LLM benchmarks for a while is that most of them are essentially snapshots. A model is evaluated, a score is published, and we tend to talk abou",
       "tags": [
-        "RAG/Vector",
-        "Hot"
+        "Agents",
+        "Eval/Observability"
       ],
       "buckets": [
-        "rag",
-        "hot"
+        "agents",
+        "eval"
       ],
-      "score": 65
-    },
-    {
-      "title": "What is the correct way to vibe-code Machine Learning projects?[p]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w98h2p/what_is_the_correct_way_to_vibecode_machine/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T21:14:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm currently learning Machine Learning through a course, and I want to start building projects alongside it. My main goal right now is simply to build several good ML projects and",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "GPT-6 is released [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-04T05:13:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Benchmark scores: https://preview.redd.it/dgumcg67ggnh1.png?width=1378&format=png&auto=webp&s=fae8fb006ef46fcdebb0876717fc977a905baa89 https://openai.com/index/gpt-6-astra/ Above, ",
-      "tags": [
-        "GPT/OpenAI",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 62
+      "score": 67
     },
     {
       "title": "Inside our 353,000-person vibe coding course",
@@ -349,6 +350,22 @@
       "score": 59
     },
     {
+      "title": "KV cache as an agent runtime [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9myqc/kv_cache_as_an_agent_runtime_r/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-07T09:03:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Our research team has been exploring an alternative approach to achieving interactivity and better responsiveness with LLM systems. One of the team members wrote up a post about it",
+      "tags": [
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "source": "Google AI Blog",
@@ -363,53 +380,6 @@
         "hot"
       ],
       "score": 55
-    },
-    {
-      "title": "Introducing my first Field Intelligence prototype, a new kind of ML architecture based on the physics of the mind [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9ekjr/introducing_my_first_field_intelligence_prototype/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-07T01:42:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone! I'm very excited to finally be revealing what I've been working on this year! It is the culmination of 5 years of disciplined practice in observing my mind, in order t",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Applying Sliding Window Attention to pretrained LLMs at inference time [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8repz/applying_sliding_window_attention_to_pretrained/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T09:23:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been working on a practical implementation of Sliding Window Attention (SWA) for pretrained Hugging Face causal LLMs. The idea is simple: instead of allowing every generated t",
-      "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "AIStats 2027 Questions [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T03:33:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little ",
-      "tags": [
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "creators",
-        "hot"
-      ],
-      "score": 53
     },
     {
       "title": "[D] Self-Promotion Thread",
@@ -429,11 +399,27 @@
       "score": 50
     },
     {
-      "title": "MathKernel: An evidence-aware multi-engine mathematics kernel and MCP server",
-      "url": "https://github.com/Staatsgeheim/MathKernel",
+      "title": "GPT-6 is released [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w6v0ig/gpt6_is_released_n/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-04T05:13:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Benchmark scores: https://preview.redd.it/dgumcg67ggnh1.png?width=1378&format=png&auto=webp&s=fae8fb006ef46fcdebb0876717fc977a905baa89 https://openai.com/index/gpt-6-astra/ Above, ",
+      "tags": [
+        "GPT/OpenAI",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 50
+    },
+    {
+      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
+      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-09-07T00:21:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/Staatsgeheim/MathKernel Comments URL: https://news.ycombinator.com/item?id=49592366 Points: 9 # Comments: 0",
+      "published_at": "2026-09-08T01:16:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mcpherrin.ca/2026/09/07/rsa.html Comments URL: https://news.ycombinator.com/item?id=49604637 Points: 111 # Comments: 22",
       "tags": [
         "Agents"
       ],
@@ -523,46 +509,62 @@
       "score": 45
     },
     {
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
+      "title": "TALA Is Open-Source",
+      "url": "https://d2lang.com/blog/tala-is-open-source/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T20:31:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2505.12540 Comments URL: https://news.ycombinator.com/item?id=49590595 Points: 48 # Comments: 13",
+      "published_at": "2026-09-07T23:37:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://d2lang.com/blog/tala-is-open-source/ Comments URL: https://news.ycombinator.com/item?id=49604150 Points: 95 # Comments: 8",
       "tags": [
-        "RAG/Vector"
+        "Hot"
       ],
       "buckets": [
-        "rag"
+        "hot"
       ],
       "score": 45
     },
     {
-      "title": "Opalite Health (YC W26) Is Hiring – Founding GTM",
-      "url": "https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm",
+      "title": "Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon",
+      "url": "https://github.com/Sadpainy/Stuxnet",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T17:00:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/opalite-health/jobs/bNedVAD-founding-gtm Comments URL: https://news.ycombinator.com/item?id=49588466 Points: 0 # Comments: 0",
+      "published_at": "2026-09-07T22:12:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Stuxnet! Here reproduced by me. Only researchs educations purposes. Comments URL: https://news.ycombinator.com/item?id=49603546 Points: 109 # Comments: 35",
       "tags": [
-        "Google Opal"
+        "Hot"
       ],
       "buckets": [
-        "opal"
+        "hot"
       ],
       "score": 45
     },
     {
-      "title": "How Public Digital Footprints Get Left Behind (And How to Audit Your Own) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9fpvo/how_public_digital_footprints_get_left_behind_and/",
+      "title": "Watch Los Angeles get built, one building at a time (1880–2026)",
+      "url": "https://lax-skyline.parcelscope.net/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T18:52:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lax-skyline.parcelscope.net/ Comments URL: https://news.ycombinator.com/item?id=49601655 Points: 231 # Comments: 118",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "AIStats 2027 Questions [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8l0hn/aistats_2027_questions_d/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-07T02:37:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Much-Television-9449 [link] [comments]",
+      "published_at": "2026-09-06T03:33:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi All, Was reading AIStats' website and it seems like abstract submission is due in 3 weeks. Does anyone know where to find the LaTex template for 2027? It seems like very little ",
       "tags": [
-        "Multimodal"
+        "Creators",
+        "Release"
       ],
       "buckets": [
-        "multimodal"
+        "creators",
+        "hot"
       ],
-      "score": 41
+      "score": 40
     },
     {
       "title": "Language Models Can Control Their Own Attention [R]",
@@ -721,11 +723,11 @@
       "score": 35
     },
     {
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
+      "title": "Jellyfin 12.0",
+      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T17:49:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://github.com/zedeus/nitter https://xcancel.com/cdclegal https://nitter.net/ https://xcancel.com/ Comments URL: https://news.ycombinator.com/item?id=49588988 Points: 495 # Com",
+      "published_at": "2026-09-08T01:56:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://jellyfin.org/posts/jellyfin-release-12.0/ Comments URL: https://news.ycombinator.com/item?id=49604861 Points: 92 # Comments: 34",
       "tags": [
         "Release"
       ],
@@ -735,39 +737,25 @@
       "score": 35
     },
     {
-      "title": "Research carried out using NetBSD",
-      "url": "https://www.netbsd.org/gallery/research.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T16:10:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.netbsd.org/gallery/research.html Comments URL: https://news.ycombinator.com/item?id=49587903 Points: 79 # Comments: 19",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "NetBSD 9.5 released and EOL for NetBSD-9",
-      "url": "https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T15:44:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.netbsd.org/tnf/entry/netbsd_9_5_released_and Comments URL: https://news.ycombinator.com/item?id=49587636 Points: 112 # Comments: 10",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+      "title": "Rustuna: A High-Performance Rust Implementation of Optuna [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9nyhz/rustuna_a_highperformance_rust_implementation_of/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-06T15:59:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AACL-IJCNLP 2026 acceptance results will be released in a few hours. Feel free to share your thoughts and feelings! How did you do? submitted by /u/Starscream-11813 [link] [comment",
+      "published_at": "2026-09-07T10:01:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone! We just released Rustuna (GitHub: https://github.com/optuna/rustuna/ ), a high-speed, memory-efficient implementation of Optuna built in Rust. Optuna-Compatible Design",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "[UPDATE - EIC confirmed ghost reviewer]How to get rejected by IEEE T-PAMI with 'Excellent' scores?[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9v43o/update_eic_confirmed_ghost_reviewerhow_to_get/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-07T15:22:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Background : Our T-PAMI submission was rejected despite receiving three highly favorable reviews. The AE inadvertently revealed that the decision relied on negative comments attrib",
       "tags": [
         "Release"
       ],
@@ -791,110 +779,136 @@
       "score": 32
     },
     {
-      "title": "Grounding LLMs with JEPA-based world models trained in simulation — has this been tried? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1w69gvd/grounding_llms_with_jepabased_world_models/",
+      "title": "Macbeth and His Problems",
+      "url": "https://porticoquarterly.com/essay/macbeth-and-his-problems/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T20:34:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://porticoquarterly.com/essay/macbeth-and-his-problems/ Comments URL: https://news.ycombinator.com/item?id=49602716 Points: 45 # Comments: 17",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
+      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T20:32:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/ Comments URL: https://news.ycombinator.com/item?id=496",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Emacs Bedrock 2.0",
+      "url": "https://lambdaland.org/posts/2026-09-06-bedrock-v2/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T20:12:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lambdaland.org/posts/2026-09-06-bedrock-v2/ Comments URL: https://news.ycombinator.com/item?id=49602490 Points: 41 # Comments: 0",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "bzip3",
+      "url": "https://github.com/iczelia/bzip3",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T13:35:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/iczelia/bzip3 Comments URL: https://news.ycombinator.com/item?id=49598291 Points: 388 # Comments: 110",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Caltech Mathathon – first hackathon ever devoted to research level mathematics",
+      "url": "https://mathathonchallenge.com/index.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T09:26:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mathathonchallenge.com/index.html Comments URL: https://news.ycombinator.com/item?id=49596055 Points: 236 # Comments: 83",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Live map of public transport in Belgium",
+      "url": "https://openbaarvervoerbelgie.be/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T09:02:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openbaarvervoerbelgie.be/ Comments URL: https://news.ycombinator.com/item?id=49595865 Points: 188 # Comments: 77",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Keep Our Servers Running",
+      "url": "https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-07T03:29:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/ Comments URL: https://news.ycombinator.com/item?id=4959356",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "LLM-guided program evolution improves 10 best-known circle-packing solutions (Packomania csqv, N=101-114) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9xlyi/llmguided_program_evolution_improves_10_bestknown/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-09-03T14:45:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: LLMs describe physics well but don't \"understand\" it in any grounded sense — they've learned statistical relationships between tokens like \"falls\" and \"gravity\", not actual physica",
+      "published_at": "2026-09-07T16:54:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I used an LLM to iteratively evolve an optimization algorithm rather than solve the packing directly. Starting from a simple seed solver, the LLM proposes algorithmic changes guide",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Roboticists working in Learning-from-Demonstrations and Behavioral Cloning : What is going on in your field these days? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w9lt31/roboticists_working_in_learningfromdemonstrations/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-07T07:56:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Is LfD and BC research being effected by recent advances in (so-called) Frontier LLMs? Or is research in LfD and BC sort of going along in an independent direction from these? Are ",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
+      "url": "https://arxiv.org/abs/2607.24888",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-09-05T11:25:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2607.24888 Comments URL: https://news.ycombinator.com/item?id=49575515 Points: 165 # Comments: 36",
       "tags": [
-        "RAG/Vector",
         "Release"
       ],
       "buckets": [
-        "rag",
         "hot"
       ],
-      "score": 30
+      "score": 22
     },
     {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T23:14:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://austinhenley.com/blog/python1024.html Comments URL: https://news.ycombinator.com/item?id=49591876 Points: 110 # Comments: 44",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "[D] IJCNLP-AACL 2026: Paper Commitment Results (ARR May 2026 Cycle) [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w8zzja/d_ijcnlpaacl_2026_paper_commitment_results_arr/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-06T15:59:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AACL-IJCNLP 2026 acceptance results will be released in a few hours. Feel free to share your thoughts and feelings! How did you do? submitted by /u/Starscream-11813 [link] [comment",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 22
     },
     {
-      "title": "Hackers have withdrawn ~4k BTC (~$320M) from the Liquid Federation wallet",
-      "url": "https://twitter.com/Liquid_BTC/status/2096696272447218108",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T22:43:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://xcancel.com/Liquid_BTC/status/2096696272447218108 Comments URL: https://news.ycombinator.com/item?id=49591672 Points: 71 # Comments: 45",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T20:45:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/marsbos/mador Comments URL: https://news.ycombinator.com/item?id=49590738 Points: 71 # Comments: 22",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T20:32:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://anubis.techaro.lol/blog/2026/anubis-wasm/ Comments URL: https://news.ycombinator.com/item?id=49590611 Points: 156 # Comments: 94",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T20:24:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://grapheneos.social/@GrapheneOS/117225539756835649 Comments URL: https://news.ycombinator.com/item?id=49590512 Points: 210 # Comments: 139",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "D2 Is Non-Profit",
-      "url": "https://d2lang.com/blog/d2-non-profit/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T19:11:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://d2lang.com/blog/d2-non-profit/ Comments URL: https://news.ycombinator.com/item?id=49589768 Points: 31 # Comments: 12",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "A/I shuts down",
-      "url": "https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T14:34:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://keepitfree.ai/announcements/a/i-shuts-down-stay-human/ Comments URL: https://news.ycombinator.com/item?id=49586898 Points: 533 # Comments: 419",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Asahi Linux on M3",
-      "url": "https://asahilinux.org/2026/09/m2-episode-1/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T14:08:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.phoronix.com/news/Asahi-Linux-Official-M3 Comments URL: https://news.ycombinator.com/item?id=49586698 Points: 366 # Comments: 212",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "2026 Hugo Awards",
-      "url": "https://www.thehugoawards.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-09-06T12:41:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.thehugoawards.org/ Comments URL: https://news.ycombinator.com/item?id=49586005 Points: 75 # Comments: 41",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "NeurIPS Sydney SOLD OUT in minutes [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1w6gwni/neurips_sydney_sold_out_in_minutes_n/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-09-03T19:09:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Three weeks from decisions even. I wonder what percentage is industry and VC funded AI labs looking to mingle and recruit. submitted by /u/alrojo [link] [comments]",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     }
   ]
 }
