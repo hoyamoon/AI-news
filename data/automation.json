@@ -1,46 +1,44 @@
 {
-  "updated_at": "2026-09-08T03:07:47.461Z",
+  "updated_at": "2026-09-15T03:28:24.340Z",
   "items": [
     {
-      "title": "Building a Production RAG Pipeline with n8n, Qdrant, and Gemini: A Step-by-Step Walkthrough",
-      "url": "https://dev.to/hosseinhezami/building-a-production-rag-pipeline-with-n8n-qdrant-and-gemini-a-step-by-step-walkthrough-2in0",
+      "title": "AI Video Automation in 2026: Surviving Model Shutdowns",
+      "url": "https://dev.to/abhijeet_singh_4577af3ef9/ai-video-automation-in-2026-surviving-model-shutdowns-4l06",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-06T09:01:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The first version of a RAG system always looks convincing. You connect a document loader, a vector database, and a large model, ask a question, and the answer comes back with impre",
+      "published_at": "2026-09-14T04:30:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI video automation is the first place most small teams feel real vendor risk. You wire a pipeline to one model, it produces good clips for six months, and then the vendor posts a ",
       "tags": [
+        "GPT/OpenAI",
         "Gemini/Google",
-        "Agents",
         "RAG/Vector",
-        "Eval/Observability",
+        "Multimodal",
         "NotebookLM",
-        "Make",
         "n8n",
         "Notion Status",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "agents",
         "rag",
-        "eval",
+        "multimodal",
         "prod",
-        "make",
         "n8n",
         "status",
+        "creators",
         "hot"
       ],
-      "score": 229
+      "score": 250
     },
     {
-      "title": "How to set up agentic email without letting it send",
-      "url": "https://dev.to/jahanzaibai/how-to-set-up-agentic-email-without-letting-it-send-4kkd",
+      "title": "How to Build an AI Customer Support Chatbot (and Make It Upsell)",
+      "url": "https://dev.to/samchenreviews/how-to-build-an-ai-customer-support-chatbot-and-make-it-upsell-48ea",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-06T19:39:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Agentic email is a mailbox where an arriving message starts work instead of waiting for a human. There are four useful levels of autonomy, and almost every business between 5 and 5",
+      "published_at": "2026-09-14T16:30:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You can spin up a fully-featured chatbot that fields common support tickets and nudges customers toward higher-margin products in under a day. The bot will sit behind a webhook, us",
       "tags": [
-        "Claude/Anthropic",
-        "Gemini/Google",
+        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
@@ -58,424 +56,806 @@
         "zapier",
         "hot"
       ],
-      "score": 223
+      "score": 201
     },
     {
-      "title": "n8n vs Zapier: Why I Switched and Saved ₹12K/Year",
-      "url": "https://dev.to/automate-archit/n8n-vs-zapier-why-i-switched-and-saved-12kyear-2bng",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:45:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR: I switched from Zapier (₹15K/year) to self-hosted n8n (₹3K/year) and got unlimited workflows, unlimited steps, and full custom code support. The migration took a weekend. I ",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "n8n",
-        "Zapier",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "zapier",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 221
-    },
-    {
-      "title": "From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms",
-      "url": "https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-2co2",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:31:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms Developers building autonomous AI agents often start with a clever prompt and a notebook prototype. Moving from",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 197
-    },
-    {
-      "title": "Inside OpenAI’s Research Acceleration: What It Means for Automation B…",
-      "url": "https://dev.to/felipejac/inside-openais-research-acceleration-what-it-means-for-automation-b-abl",
+      "title": "OpenAI & Anthropic Skip Regulation Debate, Prompting New AI‑Workflow…",
+      "url": "https://dev.to/felipejac/openai-anthropic-skip-regulation-debate-prompting-new-ai-workflow-1j58",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-06T17:32:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happened OpenAI unveiled a research acceleration framework that cuts the time from prototype to production. The plan tightens internal pipelines, speeds data labeling, and boo",
+      "published_at": "2026-09-13T22:16:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happened David Sacks, a well‑known venture investor, tweeted that OpenAI and Anthropic will not seek regulatory oversight for their next frontier models. The tweet sparked deb",
       "tags": [
         "GPT/OpenAI",
+        "Claude/Anthropic",
         "Agents",
+        "Multimodal",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "multimodal",
+        "n8n",
+        "hot"
+      ],
+      "score": 186
+    },
+    {
+      "title": "L'antenne qui n'arrêtait pas de grandir",
+      "url": "https://dev.to/yannklein/lantenne-qui-narretait-pas-de-grandir-5c5i",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-13T10:53:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: English version here 🇬🇧 En ce moment même, pendant que vous lisez ces lignes, des satellites valant plusieurs millions d'euros passent au-dessus de vos têtes. Certains d'entre eu",
+      "tags": [
+        "Claude/Anthropic",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
         "NotebookLM",
         "n8n",
-        "Notion Update",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "eval",
+        "multimodal",
+        "prod",
+        "n8n",
+        "hot"
+      ],
+      "score": 182
+    },
+    {
+      "title": "[HIRING] Especialista en n8n + IA — Remoto LATAM — Colaboración estable",
+      "url": "https://www.reddit.com/r/n8n/comments/1we0s7n/hiring_especialista_en_n8n_ia_remoto_latam/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T02:57:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hola comunidad, Empresa: NODENA LLC Web: https://nodena.com NODENA es una empresa de automatización inteligente e IA para pymes. Diseñamos e implantamos soluciones con n8n, APIs, a",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Agents",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "n8n",
+        "hot"
+      ],
+      "score": 173
+    },
+    {
+      "title": "voice ai for appointment booking: Build a Vapi + ElevenLabs Agent that books slots and sends reminders 24/7",
+      "url": "https://dev.to/samchenreviews/voice-ai-for-appointment-booking-build-a-vapi-elevenlabs-agent-that-books-slots-and-sends-2mge",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-13T16:30:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You can wire Vapi's speech-to-intent engine to ElevenLabs' neural text-to-speech, then glue the two together with an n8n workflow that talks to Google Calendar and Twilio. The resu",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "RAG/Vector",
+        "Multimodal",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "prod",
+        "rag",
+        "multimodal",
         "n8n",
-        "update",
         "hot"
       ],
-      "score": 174
+      "score": 166
     },
     {
-      "title": "Your AI Chatbot Has Freeloaders: A Developer's Guide to Killing Runaway Token Bills",
-      "url": "https://dev.to/michaelaiglobal/your-ai-chatbot-has-freeloaders-a-developers-guide-to-killing-runaway-token-bills-4gpb",
+      "title": "How We Automated Our 69-Product Gumroad Store with n8n (and Why Distribution Beat Product Quality)",
+      "url": "https://dev.to/miguel_angelabarcavaldi/how-we-automated-our-69-product-gumroad-store-with-n8n-and-why-distribution-beat-product-quality-1gap",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-07T12:01:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You shipped a chatbot. Users love it. Then the invoice lands and finance asks why your \"cheap AI feature\" costs more than a junior engineer's salary. Welcome to the token economy, ",
+      "published_at": "2026-09-14T19:02:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How We Automated Our 69-Product Gumroad Store with n8n (and Why Distribution Beat Product Quality) We run a 69-product n8n automation store on Gumroad. Everything — 195 deliverable",
       "tags": [
-        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
         "n8n",
         "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 141
+    },
+    {
+      "title": "Your AI Agents Have Root Access and Nobody's Watching: A Governance Framework That Won't Kill Velocity",
+      "url": "https://dev.to/michaelaiglobal/your-ai-agents-have-root-access-and-nobodys-watching-a-governance-framework-that-wont-kill-4jpa",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-14T12:01:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most teams deploy AI agents the way they'd hand a new intern the production database password. The agent can read your CRM, send emails, trigger refunds, and write to your knowledg",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 141
+    },
+    {
+      "title": "n8n or a Custom AI Agent? A Decision Framework That Actually Holds Up in Production",
+      "url": "https://dev.to/michaelaiglobal/n8n-or-a-custom-ai-agent-a-decision-framework-that-actually-holds-up-in-production-48jc",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-13T12:01:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most automation decisions get made backwards. Someone sees a slick demo, picks a tool, then bends the problem to fit it. Six months later you're maintaining a Frankenstein workflow",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "Eval/Observability",
+        "n8n",
         "Hot"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 171
-    },
-    {
-      "title": "Human approval before an AI agent pays: a pattern that survives an audit",
-      "url": "https://dev.to/darius_ceponas_2b7889e363/human-approval-before-an-ai-agent-pays-a-pattern-that-survives-an-audit-13hp",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-06T15:46:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Cross-posted from raposa.group. An agent that can call a refund or payout API will, sooner or later, call it with the wrong number. The causes are boring and well documented: a hal",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "hot"
-      ],
-      "score": 150
-    },
-    {
-      "title": "I Rotated 4 Secrets in 6 Days. 3 of Them Broke Production.",
-      "url": "https://dev.to/achiya-automation/i-rotated-4-secrets-in-6-days-3-of-them-broke-production-3f0j",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-07T05:39:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every guide on secret rotation ends with \"and then update the consumers.\" That sentence is where production dies. I run two self-hosted n8n instances for an automation studio in Is",
-      "tags": [
-        "Agents",
-        "NotebookLM",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "prod",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 145
-    },
-    {
-      "title": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep",
-      "url": "https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-3780",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:03:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Built an Autonomous AI Agent That Earns USDC While I Sleep Target audience: developers who want to put a language‑model‑driven agent behind a micropayment gateway and run it ",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 139
-    },
-    {
-      "title": "OpenAI runs 3.1 agent-days per researcher-day. Half the tasks still need a human",
-      "url": "https://dev.to/toolkitcreators/openai-runs-31-agent-days-per-researcher-day-half-the-tasks-still-need-a-human-27h",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:20:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI just published the most useful public data I've seen on what AI agents actually accomplish. The headline: as of mid-August 2026, roughly 3.1 agent-days of work run in parall",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "Eval/Observability",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
         "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 138
+    },
+    {
+      "title": "Reddit brand-mention monitor template, deduping across runs is a pain",
+      "url": "https://www.reddit.com/r/n8n/comments/1wfvnq3/reddit_brandmention_monitor_template_deduping/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-14T06:29:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: the workflow itself is simple: schedule -> search Reddit for keywords -> filter -> post to Slack. What took the most iterations was the thing nobody mentions in monitoring workflow",
+      "tags": [
+        "GPT/OpenAI",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 135
+      "score": 137
     },
     {
-      "title": "Automating Kubernetes Pod Scaling Issues: Best Practices & Real-World Solutions",
-      "url": "https://dev.to/deep_fix_71a17f6aa38ff28a/automating-kubernetes-pod-scaling-issues-best-practices-real-world-solutions-23n0",
+      "title": "I built a continuity layer for n8n and AI workflows. In a controlled high-risk interruption test, it used 49.4% fewer model tokens, recovered 60.8% faster, and reduced premium-model cost per successful outcome by 63.6%.",
+      "url": "https://www.reddit.com/r/n8n/comments/1wfnp32/i_built_a_continuity_layer_for_n8n_and_ai/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-13T23:56:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The failure I’m working on is not “a node failed before doing anything.” It is partial success: an API call, database migration, approval, deployment, payment, or message already h",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Make",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "make",
+        "n8n",
+        "hot"
+      ],
+      "score": 134
+    },
+    {
+      "title": "n8n for iGaming & Sports Betting SaaS Vendors: 5 Automations for BSA/SAR Filing, Self-Exclusion Checks, and Multi-State Gaming Compliance",
+      "url": "https://dev.to/flowkithq/n8n-for-igaming-sports-betting-saas-vendors-5-automations-for-bsasar-filing-self-exclusion-47c1",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-14T13:37:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If your iGaming or sports betting SaaS platform routes player transactions through a cloud automation vendor, that vendor's execution log — not your compliance team's spreadsheet —",
+      "tags": [
+        "Eval/Observability",
+        "Multimodal",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "multimodal",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 131
+    },
+    {
+      "title": "Imou Web JavaScript SDK for Live Video in Browser Apps",
+      "url": "https://dev.to/imouopenplatform/imou-web-javascript-sdk-for-live-video-in-browser-apps-noh",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:13:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction Kubernetes makes it easy to run containers at scale, but pod scaling problems still trip up many teams. In this post we’ll walk through the most common scaling hiccups",
+      "published_at": "2026-09-15T03:27:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: for browser-based products, a JavaScript player or web SDK handles live video, playback surfaces, and optional two-way talk while your backend c",
       "tags": [
         "RAG/Vector",
         "Multimodal",
-        "Make",
-        "Creators",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
         "multimodal",
-        "make",
-        "creators",
+        "status",
         "hot"
       ],
-      "score": 133
+      "score": 111
     },
     {
-      "title": "The 40% Support Cost Cut That Doesn't Tank Your CSAT: An Engineering Playbook",
-      "url": "https://dev.to/michaelaiglobal/the-40-support-cost-cut-that-doesnt-tank-your-csat-an-engineering-playbook-3006",
+      "title": "How I Built a Fully Automated Brand Abuse Detection & DMCA Pipeline in n8n",
+      "url": "https://dev.to/naim_im_d327582a887633a6e/how-i-built-a-fully-automated-brand-abuse-detection-dmca-pipeline-in-n8n-38nh",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-06T12:01:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most AI support projects fail the same way. Someone bolts a chatbot onto the help center, it hallucinates a refund policy, CSAT drops eight points, and leadership quietly kills the",
+      "published_at": "2026-09-13T06:16:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: No lawyers on retainer. No manual monitoring. Just a scheduler, two search APIs, and some very strongly worded emails — sent automatically. A client runs multiple brands online. On",
       "tags": [
         "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
         "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 128
-    },
-    {
-      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
-      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-25i0",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:46:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: USDC Escrow for AI Agents: How Trustless Freelancing Actually Works Target audience: developers building autonomous AI agents that need to pay for external services (data, compute,",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "prod",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "Build an Email Support Agent That Reads the Thread Before It Replies",
-      "url": "https://dev.to/zhu_726761e22491e810619fc/build-an-email-support-agent-that-reads-the-thread-before-it-replies-4imo",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:21:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Official disclosure: we are the EngageLab Email team. This tutorial uses EngageLab Agent Email, but the safety pattern—read the full thread, prepare a review object, and require a ",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "prod",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
-      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-210i",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:11:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: USDC Escrow for AI Agents: How Trustless Freelancing Actually Works An engineering‑focused walkthrough of building a payment‑guaranteed workflow for autonomous agents on Base (or a",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
-        "rag",
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 117
+      "score": 108
     },
     {
-      "title": "How I Built an Autonomous AI Agent That Earns USDC While I Sleep",
-      "url": "https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-555a",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:16:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Built an Autonomous AI Agent That Earns USDC While I Sleep A pragmatic walk‑through for developers who want to turn a simple AI service into a self‑sustaining, micro‑paid wor",
+      "title": "Tired of production workflows breaking silently when upstream APIs drift — built an auto-healing proxy concept for n8n. How do you handle this?",
+      "url": "https://www.reddit.com/r/n8n/comments/1we9u7j/tired_of_production_workflows_breaking_silently/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T11:12:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey r/n8n, If you maintain production workflows, you’ve probably felt that sudden dread: Stripe quietly changes a nested payload format, HubSpot returns an unexpected null on a pho",
       "tags": [
-        "Agents",
-        "RAG/Vector",
+        "n8n",
+        "Notion Status",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
+        "n8n",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 104
+    },
+    {
+      "title": "n8n for WealthTech & RIA SaaS Vendors: 5 Automations for SEC Custody Rule, Form ADV, and Books & Records Compliance",
+      "url": "https://dev.to/flowkithq/n8n-for-wealthtech-ria-saas-vendors-5-automations-for-sec-custody-rule-form-adv-and-books--834",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-13T13:08:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Registered Investment Advisers and the SaaS platforms that serve them run on a deadline calendar that doesn't forgive manual tracking: Form ADV amendments, custody reconciliations,",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
         "rag",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 104
+    },
+    {
+      "title": "I moved my VPS watchdog alerts into n8n (4 workflows + scripts)",
+      "url": "https://www.reddit.com/r/n8n/comments/1wfwojb/i_moved_my_vps_watchdog_alerts_into_n8n_4/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-14T07:30:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I run a Laravel app and n8n on the same Ubuntu VPS. I had a few Bash checks doing their own thing, so I split the jobs: cron and Bash handle detection and local recovery, then send",
+      "tags": [
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "status",
         "hot"
       ],
       "score": 99
     },
     {
-      "title": "x402 Explained: HTTP-Native Micropayments for AI Agents (With Real Code)",
-      "url": "https://dev.to/nikhilranka23/x402-explained-http-native-micropayments-for-ai-agents-with-real-code-3005",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:17:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: x402 Explained: HTTP‑Native Micropayments for AI Agents (With Real Code) Target audience: developers who are building autonomous agents that need to purchase data, compute, or othe",
+      "title": "New to n8n, trying to build real AI automations for businesses — is my approach sane? (11 yrs SWE/AWS background)",
+      "url": "https://www.reddit.com/r/n8n/comments/1we1xzo/new_to_n8n_trying_to_build_real_ai_automations/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T03:54:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey all, Background: I've got ~11 years of production experience — Python, AWS (Lambda, EC2, S3, IAM, VPC), and I've built RAG pipelines (LangChain, ChromaDB, GPT-4o-mini) for work",
       "tags": [
-        "Agents",
-        "Multimodal",
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "n8n"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n"
+      ],
+      "score": 96
+    },
+    {
+      "title": "Player SDK vs Device API: Choosing the Right Imou Integration Layer",
+      "url": "https://dev.to/imouopenplatform/player-sdk-vs-device-api-choosing-the-right-imou-integration-layer-2mi4",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:24:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: player SDKs belong on the client for live render, playback UI, and two-way talk audio paths. Device APIs belong on the server for listing camera",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
-        "multimodal",
+        "rag",
+        "status",
         "hot"
       ],
       "score": 95
     },
     {
-      "title": "x402 Explained: HTTP-Native Micropayments for AI Agents (With Real Code)",
-      "url": "https://dev.to/nikhilranka23/x402-explained-http-native-micropayments-for-ai-agents-with-real-code-5d62",
+      "title": "Which Imou SDK for Live Stream, Voice Intercom, and Device Management?",
+      "url": "https://dev.to/imouopenplatform/which-imou-sdk-for-live-stream-voice-intercom-and-device-management-3m8h",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:26:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: x402 Explained: HTTP‑Native Micropayments for AI Agents (With Real Code) Published on dev.to AI agents often need to call external services—LLM APIs, data feeds, compute kernels—on",
+      "published_at": "2026-09-15T03:23:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: use a player-oriented SDK for live video and voice intercom in the client, and use device-management APIs on your server for inventory, binding,",
       "tags": [
-        "Agents",
-        "Multimodal",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "multimodal",
-        "hot"
-      ],
-      "score": 85
-    },
-    {
-      "title": "Building Serverless Workflows: Integrating n8n with Next.js",
-      "url": "https://dev.to/razi_kallayi/building-serverless-workflows-integrating-n8n-with-nextjs-3edi",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-06T12:09:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n is a powerful open-source workflow automation tool that can transform your Next.js applications into intelligent, automated systems. This comprehensive guide will walk you thro",
-      "tags": [
-        "n8n",
-        "Creators",
+        "RAG/Vector",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Imou Live and Playback Capability Checklist for Product Teams",
+      "url": "https://dev.to/imouopenplatform/imou-live-and-playback-capability-checklist-for-product-teams-1mmp",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:20:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. Product teams can rely on API access for both live video streaming and cloud playback when devices are bound, online where required, and en",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Live vs Playback: State Models for Camera Video APIs",
+      "url": "https://dev.to/imouopenplatform/live-vs-playback-state-models-for-camera-video-apis-2j7e",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:18:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. Imou exposes live streaming and cloud playback via API, yet they should not share one player state machine blindly. Live sessions start on ",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Cloud Playback Through Imou APIs: Architecture and Flow",
+      "url": "https://dev.to/imouopenplatform/cloud-playback-through-imou-apis-architecture-and-flow-587c",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:16:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. Live streaming and cloud playback are both reachable through API workflows, but they answer different user questions. Live shows what is ha",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Live Video Streaming via Imou API: What Developers Should Know",
+      "url": "https://dev.to/imouopenplatform/live-video-streaming-via-imou-api-what-developers-should-know-35mo",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:15:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. Imou supports live video streaming through API-driven sessions that your backend opens and your web or mobile player renders. Cloud playbac",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Auth, Binding, and Architecture for Imou Camera Integration",
+      "url": "https://dev.to/imouopenplatform/auth-binding-and-architecture-for-imou-camera-integration-3hbc",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:13:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. Integration succeeds when authentication, device binding, and video sessions stay in separate layers: your app decides who may view a site,",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Building a Mobile App With Imou Camera Integration",
+      "url": "https://dev.to/imouopenplatform/building-a-mobile-app-with-imou-camera-integration-29jn",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:11:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. Mobile applications can integrate Imou cameras when a backend lists bound devices, creates live sessions server-side, and a native SDK rend",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "Embedding Imou Cameras in a Multi-Tenant SaaS Product",
+      "url": "https://dev.to/imouopenplatform/embedding-imou-cameras-in-a-multi-tenant-saas-product-mdi",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:09:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have shipped this pattern before: yes. A SaaS product can embed Imou cameras by mapping devices to tenants and sites, issuing camera calls from a backend, and mounting a player o",
+      "tags": [
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 95
+    },
+    {
+      "title": "After a bunch of AI workflows, these are the 5 money leaks I learned to watch for",
+      "url": "https://www.reddit.com/r/n8n/comments/1wddhrn/after_a_bunch_of_ai_workflows_these_are_the_5/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-11T11:24:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 👋 Hey n8n Community, AI automation rarely blows up your bill in one go, it leaks. A few cents per run feels like nothing until you are doing thousands of runs a month and the invo",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "agents",
         "n8n",
         "creators",
+        "hot"
+      ],
+      "score": 86
+    },
+    {
+      "title": "How I track what’s happening in my self-hosted n8n",
+      "url": "https://www.reddit.com/r/n8n/comments/1wfgf8p/how_i_track_whats_happening_in_my_selfhosted_n8n/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-13T19:01:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Once you start running more workflows on a self-hosted n8n instance, I think one of the first things you want is a simple way to understand what is actually happening across the in",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "n8n",
         "hot"
       ],
       "score": 84
     },
     {
-      "title": "USDC Escrow for AI Agents: How Trustless Freelancing Actually Works",
-      "url": "https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-1gde",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-08T02:56:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: USDC Escrow for AI Agents: How Trustless Freelancing Actually Works Target audience: developers who are building autonomous AI agents that need to pay (or get paid) for services wi",
+      "title": "Microsoft Graph /users calls return 403 \"Insufficient privileges\" even though the right permissions are granted — anyone seen this?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wg6b7k/microsoft_graph_users_calls_return_403/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-14T15:18:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Banging my head against this one, hoping someone's hit it before. I'm building a workflow that reads SharePoint site owners from Microsoft Graph, so it can email them automatically",
       "tags": [
-        "Agents",
         "RAG/Vector",
+        "n8n",
         "Release"
       ],
       "buckets": [
-        "agents",
         "rag",
+        "n8n",
         "hot"
       ],
       "score": 79
     },
     {
-      "title": "I counted 150 AI video prompts, then built an n8n workflow that posts one a day",
-      "url": "https://dev.to/kavel/i-counted-150-ai-video-prompts-then-built-an-n8n-workflow-that-posts-one-a-day-3jme",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-07T14:00:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most \"prompt of the day\" bots are a random line of text in a Slack channel. Nobody reads them, because a prompt with no output next to it is just a sentence. I wanted the opposite:",
+      "title": "Threads Scraper - Posts, Profiles & Search — 5K Users Can't Be Wrong",
+      "url": "https://dev.to/nick_davies_323125afbb05c/threads-scraper-posts-profiles-search-5k-users-cant-be-wrong-3fb3",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:12:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Are you spending hours writing custom scrapers? There's probably an actor for that already. Search Threads posts by keyword, or grab any profile's posts, replies and reposts. Expor",
       "tags": [
-        "n8n",
+        "Agents",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "n8n",
+        "agents",
         "hot"
       ],
       "score": 79
     },
     {
-      "title": "How to Build a Stripe Failed-Payment Alert with n8n (Free Template)",
-      "url": "https://dev.to/thiago_oliveira_fa0e40290/how-to-build-a-stripe-failed-payment-alert-with-n8n-free-template-h4o",
+      "title": "Help / Feedback: Bulk invoice + custom greeting card PDF generation using n8n",
+      "url": "https://www.reddit.com/r/n8n/comments/1we7d3i/help_feedback_bulk_invoice_custom_greeting_card/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T08:50:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm currently working in a n8n flow for one of my customers, so he has two e-commerce stores one in Shopify and the other one in WooCommerce. So when a customer purchase item from ",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 76
+    },
+    {
+      "title": "Built a Gmail triage workflow that labels, logs and drafts replies | sharing the JSON + the 4 gotchas that cost me hours",
+      "url": "https://www.reddit.com/r/n8n/comments/1wd4zy2/built_a_gmail_triage_workflow_that_labels_logs/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-11T03:39:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Spent a day building an email triage workflow for my own inbox and hit four n8n behaviours that are not obvious. Sharing the cut-down version and the fixes. What it does: Gmail tri",
+      "tags": [
+        "GPT/OpenAI",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "n8n",
+        "hot"
+      ],
+      "score": 74
+    },
+    {
+      "title": "n8n was my training wheels: it taught me the flows, then I shipped leaner without it",
+      "url": "https://dev.to/c1-anderson/n8n-was-my-training-wheels-it-taught-me-the-flows-then-i-shipped-leaner-without-it-262k",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-07T17:45:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every subscription business loses a slice of MRR to payments that just... fail. A card expires, a bank flags a charge as suspicious, 3-D Secure times out. Stripe's dashboard shows ",
+      "published_at": "2026-09-13T08:00:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm not here to bury n8n. It did something genuinely valuable think in flows. Trigger → fetch → transform → branch → .py file never did. For a year it was how I prototyped every pi",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 66
+    },
+    {
+      "title": "Is there an easier alternative to Make for building AI agents?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wepqrs/is_there_an_easier_alternative_to_make_for/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T22:06:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m not a developer, and honestly I’m not even very good with no-code tools. I’ve tried Make, but once I start dealing with workflows, nodes, triggers, APIs, etc., I get lost prett",
+      "tags": [
+        "Agents",
+        "n8n"
+      ],
+      "buckets": [
+        "agents",
+        "n8n"
+      ],
+      "score": 60
+    },
+    {
+      "title": "Question for automators",
+      "url": "https://www.reddit.com/r/n8n/comments/1wf6pm3/question_for_automators/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-13T12:44:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For anyone using Zapier, Make, n8n, Power Automate etc: Have you ever had an automation run successfully but produce the wrong result? If so, how did you find out? Just researching",
+      "tags": [
+        "n8n",
+        "Zapier"
+      ],
+      "buckets": [
+        "n8n",
+        "zapier"
+      ],
+      "score": 56
+    },
+    {
+      "title": "WAHA WEBJS or Evolution API (Baileys) ban rates?",
+      "url": "https://www.reddit.com/r/n8n/comments/1we2e4x/waha_webjs_or_evolution_api_baileys_ban_rates/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T04:16:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm building WhatsApp AI automations for businesses and I'm trying to choose between: WAHA + WEBJS (Chromium/Puppeteer, actual WhatsApp Web browser) Evolution API + Baileys (WebSoc",
+      "tags": [
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 56
+    },
+    {
+      "title": "Can I do lead generation with just local hosted n8n?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wfyvq0/can_i_do_lead_generation_with_just_local_hosted/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-14T09:44:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I currently have list of leads I want to automate and send emails. Would it be possible with just that only or I need some paid tools to use? submitted by /u/Urinzi [link] [comment",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "How can i get n8n for free or at a low cost?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wg3x5x/how_can_i_get_n8n_for_free_or_at_a_low_cost/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-14T13:47:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I saw that it's possible to self-host, but I don't have my PC with me right now; is there any way to do it using a mobile phone? submitted by /u/Robin144p [link] [comments]",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Is n8n my way out after what happened to web dev?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wf5b9o/is_n8n_my_way_out_after_what_happened_to_web_dev/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-13T11:36:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I gave 2 years to web dev and now I can't find any work. I am thinking learning any other thing now, I thought I'd change my life with web dev. I'd be still be doing work that I do",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 46
+    },
+    {
+      "title": "Meta WhatsApp Business Test Number vs. Real Business Number",
+      "url": "https://www.reddit.com/r/n8n/comments/1wfd045/meta_whatsapp_business_test_number_vs_real/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-13T16:54:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m building an AI reminder workflow in n8n using the WhatsApp Business Cloud API. Currently, Meta only allows me to use the test WhatsApp number provided in the developer dashboar",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 46
+    },
+    {
+      "title": "Webhook double-fires and stuck “processing” jobs: how do you claim work safely?",
+      "url": "https://www.reddit.com/r/n8n/comments/1we463e/webhook_doublefires_and_stuck_processing_jobs_how/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-12T05:50:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Two failure modes I keep seeing in automation backends: 1) Duplicate side effects Webhook or queue delivers twice before your DB commit finishes. If the flow is “read then insert,”",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 46
+    },
+    {
+      "title": "Instagram Scraping Tools Compared — Which One Should You Use in 2026?",
+      "url": "https://dev.to/nick_davies_323125afbb05c/instagram-scraping-tools-compared-which-one-should-you-use-in-2026-1kbm",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-15T03:17:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you need to scrape Instagram data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing Instagram",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "How long does it usually take to get a community node published?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wdjvs1/how_long_does_it_usually_take_to_get_a_community/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-11T15:43:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I recently submitted my node and also applied for Creator verification. For those who’ve gone through the process before, how long did it take for you to get approved/published? Ju",
       "tags": [
         "n8n",
         "Creators"
@@ -484,23 +864,77 @@
         "n8n",
         "creators"
       ],
-      "score": 67
+      "score": 42
     },
     {
-      "title": "n8n Microsoft OAuth2: Fix 'Need Admin Approval'",
-      "url": "https://dev.to/mahdi_benrhouma_fe1c6005/n8n-microsoft-oauth2-fix-need-admin-approval-2efo",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-07T13:44:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The symptom in the original Stack Overflow question \"Need admin approval\". Their Entra admin went to Grant admin consent for [our company]. The grant succeeded. The That is the fru",
+      "title": "Built a cross-platform posting pipeline in n8n (FB, Threads, IG, more soon) + handling Meta's strict aspect ratio gotchas",
+      "url": "https://www.reddit.com/r/n8n/comments/1wf2smu/built_a_crossplatform_posting_pipeline_in_n8n_fb/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-13T09:14:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Wanted to share an automated distribution pipeline I built using n8n + Google Cloud Platform Services + Cloudflare that takes a single submission from a custom frontend and scatter",
       "tags": [
-        "n8n",
-        "Release"
+        "n8n"
       ],
       "buckets": [
-        "n8n",
-        "hot"
+        "n8n"
       ],
-      "score": 59
+      "score": 36
+    },
+    {
+      "title": "What still annoys you about using AI in your Workflows?",
+      "url": "https://www.reddit.com/r/n8n/comments/1wds1iw/what_still_annoys_you_about_using_ai_in_your/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-11T20:38:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For people who use AI tools regularly, what’s the one thing that still frustrates you the most? I feel like AI has gotten really good at doing things that used to take a lot of tim",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 24
+    },
+    {
+      "title": "n8n doesn't catch up Schedule Trigger runs it missed while restarting",
+      "url": "https://www.reddit.com/r/n8n/comments/1wdk689/n8n_doesnt_catch_up_schedule_trigger_runs_it/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-11T15:54:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If your instance was stopped, restarting or redeploying at the minute a Schedule Trigger was due, that execution doesn't happen. There's no catch-up, and nothing in the executions ",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 24
+    },
+    {
+      "title": "How to stop chatbot from replying after certain condition is met",
+      "url": "https://www.reddit.com/r/n8n/comments/1wd8gpf/how_to_stop_chatbot_from_replying_after_certain/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-11T06:42:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi, i need help stopping my ai chatbot from replying after getting all information i need like name email and such. Im new here help submitted by /u/minalav [link] [comments]",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 24
+    },
+    {
+      "title": "Freelance n8n/automation builder, DM if you need help",
+      "url": "https://www.reddit.com/r/n8n/comments/1wcj6g7/freelance_n8nautomation_builder_dm_if_you_need/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-09-10T13:26:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've made $8K+ doing n8n automation on Upwork. Top Rated, 100% Job Success, happy to show proof if you want. If you need help with n8n, CRM automation, Slack workflows, Voice AI, o",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 24
     }
   ]
 }
