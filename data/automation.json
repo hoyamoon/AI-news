@@ -1,153 +1,16 @@
 {
-  "updated_at": "2026-09-16T03:24:07.223Z",
+  "updated_at": "2026-09-18T03:15:45.832Z",
   "items": [
     {
-      "title": "AI Automation in India: Complete Guide (2026)",
-      "url": "https://dev.to/automate-archit/ai-automation-in-india-complete-guide-2026-3p6e",
+      "title": "The most expensive part of my agent stack wasn’t tokens — it was the invoice roulette",
+      "url": "https://dev.to/lars_winstand/the-most-expensive-part-of-my-agent-stack-wasnt-tokens-it-was-the-invoice-roulette-1ohk",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-15T12:45:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why I Wrote This Guide Over the past year, I have helped Indian businesses automate over 40 workflows, cut operational costs by lakhs, and free up teams from repetitive work that w",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "prod",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 269
-    },
-    {
-      "title": "I thought the DeepSeek price increase wouldn’t matter until my n8n workflow turned 1 task into 3 billable model runs",
-      "url": "https://dev.to/lars_winstand/i-thought-the-deepseek-price-increase-wouldnt-matter-until-my-n8n-workflow-turned-1-task-into-3-17ai",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-15T06:10:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I used to think model pricing changes were mostly a finance problem. Then I watched a “cheap” automation stop being cheap the second it hit real production behavior. That’s why the",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 265
-    },
-    {
-      "title": "The best n8n fix I found this month was boring: lower your agent concurrency settings before touching the prompt",
-      "url": "https://dev.to/lars_winstand/the-best-n8n-fix-i-found-this-month-was-boring-lower-your-agent-concurrency-settings-before-3k7p",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-15T22:11:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I spent an embarrassing amount of time blaming the model for a problem that was clearly my own fault. A webhook burst hit one of my n8n flows. Around 20+ executions landed almost a",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "n8n",
-        "Zapier",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "zapier",
-        "status",
-        "hot"
-      ],
-      "score": 243
-    },
-    {
-      "title": "AI Video Automation in 2026: Surviving Model Shutdowns",
-      "url": "https://dev.to/abhijeet_singh_4577af3ef9/ai-video-automation-in-2026-surviving-model-shutdowns-4l06",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-14T04:30:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI video automation is the first place most small teams feel real vendor risk. You wire a pipeline to one model, it produces good clips for six months, and then the vendor posts a ",
-      "tags": [
-        "GPT/OpenAI",
-        "Gemini/Google",
-        "RAG/Vector",
-        "Multimodal",
-        "NotebookLM",
-        "n8n",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "multimodal",
-        "prod",
-        "n8n",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 237
-    },
-    {
-      "title": "Automate Meeting Notes, Action Items & Task Creation with n8n and AI",
-      "url": "https://dev.to/mateo_ruiz_6992b1fce47843/automate-meeting-notes-action-items-task-creation-with-n8n-and-ai-5e4d",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-15T06:23:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Post-meeting documentation is one of the most consistently skipped steps in any team's workflow. Writing a summary, extracting action items, assigning owners, converting vague dead",
+      "published_at": "2026-09-17T22:09:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I hit a weird point with my agent stack a few months ago. Not when prompts were bad. It happened after everything started working. The flows were stable. The AI Agent node in n8n w",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
         "Gemini/Google",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "hot"
-      ],
-      "score": 194
-    },
-    {
-      "title": "How to Build an AI Customer Support Chatbot (and Make It Upsell)",
-      "url": "https://dev.to/samchenreviews/how-to-build-an-ai-customer-support-chatbot-and-make-it-upsell-48ea",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-14T16:30:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You can spin up a fully-featured chatbot that fields common support tickets and nudges customers toward higher-margin products in under a day. The bot will sit behind a webhook, us",
-      "tags": [
-        "GPT/OpenAI",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
@@ -165,82 +28,141 @@
         "zapier",
         "hot"
       ],
-      "score": 188
+      "score": 276
     },
     {
-      "title": "Self-Host n8n on AWS EC2 with Docker - Install to First Login",
-      "url": "https://dev.to/aws-builders/self-host-n8n-on-aws-ec2-with-docker-install-to-first-login-202n",
+      "title": "I thought lead routing was a prompt problem until the AI assigned a California lead to nobody",
+      "url": "https://dev.to/lars_winstand/i-thought-lead-routing-was-a-prompt-problem-until-the-ai-assigned-a-california-lead-to-nobody-4kj1",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-15T12:45:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n holds your keys. Stripe, your database, Slack, Google, all of it, sitting in one place. So the question of where it runs is not a detail. On the hosted plan, that pile of crede",
+      "published_at": "2026-09-17T06:10:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I stopped trusting AI-first lead routing the day a valid inbound lead from California got assigned to… nobody. Not the wrong rep. Not the fallback SDR queue. Nobody. That’s the mom",
       "tags": [
         "GPT/OpenAI",
+        "Claude/Anthropic",
         "Agents",
-        "RAG/Vector",
+        "Multimodal",
         "n8n",
+        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
+        "multimodal",
         "n8n",
+        "zapier",
         "hot"
       ],
-      "score": 163
+      "score": 219
     },
     {
-      "title": "The Unsexy AI Wins SMBs Are Actually Shipping in 2026",
-      "url": "https://dev.to/michaelaiglobal/the-unsexy-ai-wins-smbs-are-actually-shipping-in-2026-1h1",
+      "title": "Ask Telegram for a Release Digest: n8n, LangBot and GPT-6 Astra with Two Live Sources",
+      "url": "https://dev.to/rockchinq/ask-telegram-for-a-release-digest-n8n-langbot-and-gpt-6-astra-with-two-live-sources-3c49",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-15T12:01:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most of what gets written about AI for small business is either breathless (\"agents will run your company!\") or dismissive (\"it's all hype\"). The truth sits in a boring middle: SMB",
+      "published_at": "2026-09-17T06:51:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The time sink in release tracking is not checking whether something changed. It is opening several release pages and working out which changes deserve attention. This workflow fetc",
       "tags": [
         "GPT/OpenAI",
-        "Agents",
         "RAG/Vector",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "hot"
-      ],
-      "score": 163
-    },
-    {
-      "title": "告別逾期罰單！用 n8n 免費打造全台路邊停車費自動查詢 Telegram 機器人通知",
-      "url": "https://dev.to/letswrite/gao-bie-yu-qi-fa-dan-yong-n8n-mian-fei-da-zao-quan-tai-lu-bian-ting-che-fei-zi-dong-cha-xun-telegram-ji-qi-ren-tong-zhi-io3",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-15T12:41:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 本篇要解決的問題 最近裝的一個 App，因為變成必須要付費訂閱，才能有自動繳停車費的功能。為了避免停車費過期而多收錢，所以讓 ChatGPT 寫一個簡單的 n8n Workflow，匯入後修改一下設定資料，就可以每天自動通知還有沒有未繳的停車費。 August 希望做到以下幾件事： 不用每天自己打開停車費網站查詢。 可以同時查詢汽車、機車。 可以設定多台車。",
-      "tags": [
-        "GPT/OpenAI",
         "Eval/Observability",
+        "Multimodal",
+        "NotebookLM",
         "n8n",
         "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
+        "rag",
+        "eval",
+        "multimodal",
+        "prod",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 213
+    },
+    {
+      "title": "I built a headless Mac mini AI server and by week two I was debugging sleep, plist files, and Redis",
+      "url": "https://dev.to/lars_winstand/i-built-a-headless-mac-mini-ai-server-and-by-week-two-i-was-debugging-sleep-plist-files-and-redis-2c9g",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-17T14:10:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The moment I knew my cute little local AI box had turned into actual infrastructure was when a folder stopped moving files at 3:14 a.m. Nothing crashed. Disk was fine. Ollama was s",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
         "eval",
         "n8n",
+        "hot"
+      ],
+      "score": 201
+    },
+    {
+      "title": "Build a LINE and Discord Order Lookup Bot with n8n, LangBot and GPT-6 Astra",
+      "url": "https://dev.to/rockchinq/build-a-line-and-discord-order-lookup-bot-with-n8n-langbot-and-gpt-6-astra-1kdi",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-17T06:49:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: “Where is my order?” is a data lookup wearing the clothes of a chat question. A model cannot know whether a parcel shipped just because it can sound like a support agent. Here the ",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "Multimodal",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "multimodal",
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 135
+      "score": 177
     },
     {
-      "title": "How We Automated Our 69-Product Gumroad Store with n8n (and Why Distribution Beat Product Quality)",
-      "url": "https://dev.to/miguel_angelabarcavaldi/how-we-automated-our-69-product-gumroad-store-with-n8n-and-why-distribution-beat-product-quality-1gap",
+      "title": "Build a Slack and Discord Translation Bot with n8n, LangBot and GPT-6 Astra",
+      "url": "https://dev.to/rockchinq/build-a-slack-and-discord-translation-bot-with-n8n-langbot-and-gpt-6-astra-4gcb",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-14T19:02:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How We Automated Our 69-Product Gumroad Store with n8n (and Why Distribution Beat Product Quality) We run a 69-product n8n automation store on Gumroad. Everything — 195 deliverable",
+      "published_at": "2026-09-17T06:47:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The annoying part of team translation is often a single sentence: a deadline, a teammate's name, and a link that must survive intact. Opening another AI window for every message ad",
+      "tags": [
+        "GPT/OpenAI",
+        "Multimodal",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "multimodal",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 153
+    },
+    {
+      "title": "How to automate real estate lead follow-up in New Zealand",
+      "url": "https://dev.to/auxa/how-to-automate-real-estate-lead-follow-up-in-new-zealand-3j49",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-17T19:26:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to automate real estate lead follow-up in New Zealand There is no New Zealand answer to this question in circulation. Ask an AI assistant or search for it and every result is w",
       "tags": [
         "Agents",
         "RAG/Vector",
@@ -256,17 +178,39 @@
         "creators",
         "hot"
       ],
-      "score": 128
+      "score": 141
     },
     {
-      "title": "Your AI Agents Have Root Access and Nobody's Watching: A Governance Framework That Won't Kill Velocity",
-      "url": "https://dev.to/michaelaiglobal/your-ai-agents-have-root-access-and-nobodys-watching-a-governance-framework-that-wont-kill-4jpa",
+      "title": "Who to talk to about building n8n workflows in New Zealand",
+      "url": "https://dev.to/auxa/who-to-talk-to-about-building-n8n-workflows-in-new-zealand-15g0",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-14T12:01:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most teams deploy AI agents the way they'd hand a new intern the production database password. The agent can read your CRM, send emails, trigger refunds, and write to your knowledg",
+      "published_at": "2026-09-17T19:26:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Who to talk to about building n8n workflows in New Zealand There are three routes: n8n's own expert directory, a freelance marketplace like Upwork, or an automation agency. Which o",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Notion Status",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 137
+    },
+    {
+      "title": "OpenSpec: Lightweight AI Spec Framework for Production Workflows",
+      "url": "https://dev.to/felipejac/openspec-lightweight-ai-spec-framework-for-production-workflows-1h69",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-17T22:45:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happened OpenSpec is a lightweight framework for defining AI workflow specifications. Its declarative syntax lets developers describe inputs, outputs, and validation rules for",
       "tags": [
         "Agents",
-        "Eval/Observability",
         "n8n",
         "Notion Status",
         "Hot",
@@ -274,148 +218,146 @@
       ],
       "buckets": [
         "agents",
-        "eval",
         "n8n",
         "status",
         "hot"
       ],
-      "score": 128
+      "score": 123
     },
     {
-      "title": "I built a way for automations to update your iPhone Home Screen",
-      "url": "https://www.reddit.com/r/automation/comments/1wfi447/i_built_a_way_for_automations_to_update_your/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-13T20:03:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’ve been building Glance, an iOS app where you can create dynamic Home Screen widgets and have automations or AI agents continuously push information to them. Instead of an automa",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "hot"
-      ],
-      "score": 126
-    },
-    {
-      "title": "n8n for iGaming & Sports Betting SaaS Vendors: 5 Automations for BSA/SAR Filing, Self-Exclusion Checks, and Multi-State Gaming Compliance",
-      "url": "https://dev.to/flowkithq/n8n-for-igaming-sports-betting-saas-vendors-5-automations-for-bsasar-filing-self-exclusion-47c1",
+      "title": "You.com Adds Background Research Tasks for Asynchronous API and n8n Workflows",
+      "url": "https://dev.to/alifar/youcom-adds-background-research-tasks-for-asynchronous-api-and-n8n-workflows-52ea",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-14T13:37:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If your iGaming or sports betting SaaS platform routes player transactions through a cloud automation vendor, that vendor's execution log — not your compliance team's spreadsheet —",
+      "published_at": "2026-09-17T12:30:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You.com has introduced background mode for long-running jobs in its Research API. Instead of keeping an application connection open while deep research runs, a client can submit a ",
       "tags": [
+        "RAG/Vector",
         "Eval/Observability",
-        "Multimodal",
         "n8n",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "rag",
         "eval",
-        "multimodal",
         "n8n",
-        "creators",
         "hot"
       ],
-      "score": 118
+      "score": 117
     },
     {
-      "title": "How to Automate Pre-Flight Balance Checks for Verification Pipelines",
-      "url": "https://dev.to/checknumber/how-to-automate-pre-flight-balance-checks-for-verification-pipelines-ee5",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:20:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When building automated pipelines for bulk contact verification—such as checking phone numbers against platform registration signals—the most common point of failure isn't the data",
+      "title": "Build an AI SDR That Books Meetings While You Sleep (Without the Spam)",
+      "url": "https://dev.to/michaelaiglobal/build-an-ai-sdr-that-books-meetings-while-you-sleep-without-the-spam-5b37",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-17T12:00:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most \"AI SDR\" tools are just spray-and-pray email blasters with a language model bolted on. They burn your domain reputation and annoy prospects. A real AI SDR agent is different. ",
       "tags": [
-        "NotebookLM",
-        "Make",
+        "Agents",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "prod",
-        "make",
+        "agents",
+        "n8n",
         "hot"
       ],
-      "score": 101
+      "score": 103
     },
     {
-      "title": "International Assets Divorce Lawyer Albemarle County VA",
-      "url": "https://dev.to/harrycallumm/international-assets-divorce-lawyer-albemarle-county-va-2619",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an International Assets Divorce Lawyer in Albemarle County VA Do? An international assets divorce lawyer albemarle county va evaluates the full scope of your overseas hol",
+      "title": "Compress videos in n8n with FFHub and cloud FFmpeg",
+      "url": "https://dev.to/garydai/compress-videos-in-n8n-with-ffhub-and-cloud-ffmpeg-4ack",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-17T06:38:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Video compression often starts with a single FFmpeg command. In an automation workflow, you also need to submit the job, wait for it, handle failures, and pass the result to the ne",
       "tags": [
-        "Eval/Observability",
-        "Multimodal",
+        "RAG/Vector",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "eval",
-        "multimodal",
+        "rag",
+        "n8n",
         "hot"
       ],
-      "score": 89
+      "score": 99
     },
     {
-      "title": "Built a competitor hiring tracker in n8n, not sure what to use for the dashboard",
-      "url": "https://www.reddit.com/r/automation/comments/1wdg9jv/built_a_competitor_hiring_tracker_in_n8n_not_sure/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T13:25:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been working on a small workflow to keep an eye on competitor hiring. It pulls job postings from Coresignal, has Claude tag them by department and seniority, and then saves ev",
+      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
+      "url": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-4bo4",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-18T03:10:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scr",
       "tags": [
-        "Claude/Anthropic",
+        "RAG/Vector",
         "NotebookLM",
-        "n8n"
+        "Hot"
       ],
       "buckets": [
-        "llm",
+        "rag",
         "prod",
-        "n8n"
+        "hot"
       ],
-      "score": 86
+      "score": 87
     },
     {
-      "title": "Ocr / extraction help",
-      "url": "https://www.reddit.com/r/automation/comments/1wdokwx/ocr_extraction_help/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T18:32:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I might be behind or just clueless. But what are you guys using for OCR/data extraction now? i’m using claude/gemini but it’s making mistakes and I run out of credits like super fa",
+      "title": "Driver License Compact Lawyer Charles County MD",
+      "url": "https://dev.to/paulpeter/driver-license-compact-lawyer-charles-county-md-2f96",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-18T03:04:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is The Agreement Between States Regarding Traffic Offenses? The Driver License Compact is a multi-state agreement used to exchange information regarding traffic violations and",
       "tags": [
-        "Claude/Anthropic",
-        "Gemini/Google"
+        "Notion Status",
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "llm"
+        "status",
+        "hot"
       ],
       "score": 75
     },
     {
-      "title": "Integration developers: what are you tired of dealing with?",
-      "url": "https://www.reddit.com/r/automation/comments/1wgvdoe/integration_developers_what_are_you_tired_of/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T09:23:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Curious what kind of integration work developers here are actually getting asked to build these days. SaaS-to-SaaS? APIs? SFTP/files? Data sync? Event-driven workflows? AI/agent in",
+      "title": "Operating A Drug Involved Premises Lawyer Fairfax County VA",
+      "url": "https://dev.to/vincentturfy/operating-a-drug-involved-premises-lawyer-fairfax-county-va-30lp",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-18T03:03:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Operating a Drug Involved Premises Lawyer Fairfax County VA Do? An operating a drug involved premises lawyer Fairfax County VA reviews the complaint, assesses the evid",
       "tags": [
-        "Agents",
-        "n8n"
+        "Eval/Observability",
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "agents",
-        "n8n"
+        "eval",
+        "hot"
       ],
       "score": 73
     },
     {
-      "title": "We talk to a lot of people automating workflows that eventually hit CAPTCHA walls — here are the patterns we keep seeing",
-      "url": "https://www.reddit.com/r/automation/comments/1wgwgn1/we_talk_to_a_lot_of_people_automating_workflows/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T10:23:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Full disclosure upfront: we're the team behind CapMonster Cloud, a CAPTCHA-solving API, so take this with that context. Not pitching anything here — just sharing what we consistent",
+      "title": "International Assets Divorce Lawyer Clarke County VA",
+      "url": "https://dev.to/harrycallumm/international-assets-divorce-lawyer-clarke-county-va-2p67",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-18T03:03:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens to Foreign Bank Accounts When a Marriage Ends in Clarke County? If you are searching for an “international assets divorce lawyer clarke county va,” the short answer is",
+      "tags": [
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "multimodal",
+        "hot"
+      ],
+      "score": 71
+    },
+    {
+      "title": "Licensing Agreement Lawyer Livingston County NY",
+      "url": "https://dev.to/chrishtopher/licensing-agreement-lawyer-livingston-county-ny-1dh5",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-18T03:03:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does a Licensing Agreement Lawyer Do in Livingston County? A client in Livingston County might wonder why a licensing agreement lawyer livingston county ny is essential. The l",
       "tags": [
         "Hot",
         "Release"
@@ -426,40 +368,11 @@
       "score": 55
     },
     {
-      "title": "Beach Military Divorce Lawyer Frederick County VA",
-      "url": "https://dev.to/douglas012/beach-military-divorce-lawyer-frederick-county-va-50fm",
+      "title": "Do I Need A Lawyer For An Uncontested Divorce In Manassas Park",
+      "url": "https://dev.to/johnychristopher/do-i-need-a-lawyer-for-an-uncontested-divorce-in-manassas-park-336a",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Makes a Beach Military Divorce Different in Frederick County? A beach military divorce lawyer frederick county va must consider both civilian family law and the Uniformed Serv",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Tickets 2.3.0: a self-hosted issue tracker that can also act as a coordination layer for AI agents",
-      "url": "https://www.reddit.com/r/automation/comments/1wh8lpv/tickets_230_a_selfhosted_issue_tracker_that_can/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T18:29:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/ajbapps [link] [comments]",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
-    },
-    {
-      "title": "Google Search Results (~$0.05/1K Results) — 10K Users Can't Be Wrong",
-      "url": "https://dev.to/nick_davies_323125afbb05c/google-search-results-0051k-results-10k-users-cant-be-wrong-14ld",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:09:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Are you spending hours writing custom scrapers? There's probably an actor for that already. 🔥 ~$0.05/1K results ($0.50/1,000 SERPs) 🔥 CHEAPEST Google Search Results (SERP) Scrape",
+      "published_at": "2026-09-18T03:03:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Do I Really Need an Attorney for an Uncontested Divorce in Manassas Park? The short answer is “it depends.” Many people ask “do i need a lawyer for an uncontested divorce in manass",
       "tags": [
         "Hot"
       ],
@@ -469,11 +382,11 @@
       "score": 45
     },
     {
-      "title": "How Much Is My Personal Injury Case Worth In Fairfax",
-      "url": "https://dev.to/jamesencristiano/how-much-is-my-personal-injury-case-worth-in-fairfax-4i29",
+      "title": "How Do I Sponsor A Family Member For A Green Card From Roanoke County",
+      "url": "https://dev.to/camerongreenca/how-do-i-sponsor-a-family-member-for-a-green-card-from-roanoke-county-o8a",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Elements Determine How Much Is My Personal Injury Case Worth in Fairfax? When someone asks how much is my personal injury case worth in Fairfax, the answer starts with the nat",
+      "published_at": "2026-09-18T03:04:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Forms Do I Need to File When Sponsoring a Family Member? When you type “how do i sponsor a family member for a green card from roanoke county” into a search engine, the first ",
       "tags": [
         "Eval/Observability"
       ],
@@ -483,69 +396,11 @@
       "score": 43
     },
     {
-      "title": "Do I Need A Lawyer For A First Time Criminal Charge In Camden County",
-      "url": "https://dev.to/emmajohn12/do-i-need-a-lawyer-for-a-first-time-criminal-charge-in-camden-county-132j",
+      "title": "What Happens At A DUI Arraignment In Fairfax County",
+      "url": "https://dev.to/cumminspat12e/what-happens-at-a-dui-arraignment-in-fairfax-county-189p",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Do I Need a Lawyer for a First Time Criminal Charge in Camden County? Exploring Court Appearance Options When a first time criminal charge lands on your record, the natural query i",
-      "tags": [
-        "Eval/Observability"
-      ],
-      "buckets": [
-        "eval"
-      ],
-      "score": 43
-    },
-    {
-      "title": "Immediate Relative Petition Lawyer Virginia Beach VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-virginia-beach-va-2m35",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Immediate Relative Petition Lawyer Do in Virginia Beach? An immediate relative petition lawyer virginia beach va evaluates the sponsor’s eligibility, prepares Form I-1",
-      "tags": [
-        "Eval/Observability"
-      ],
-      "buckets": [
-        "eval"
-      ],
-      "score": 43
-    },
-    {
-      "title": "Built an AI lead qualifier in n8n — scores leads 1-10 vs my ICP, routes HOT/WARM/COLD, auto-replies. Sharing the structure + prompt approach",
-      "url": "https://www.reddit.com/r/automation/comments/1wepzda/built_an_ai_lead_qualifier_in_n8n_scores_leads/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-12T22:17:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Been running this for a while for my agency, figured the structure might help others. Flow: Form Trigger -> Set node with my \"ideal customer\" in plain English (business, ideal clie",
-      "tags": [
-        "n8n",
-        "Creators"
-      ],
-      "buckets": [
-        "n8n",
-        "creators"
-      ],
-      "score": 42
-    },
-    {
-      "title": "How are n8n agencies handling client ownership without exposing their workflows?",
-      "url": "https://www.reddit.com/r/automation/comments/1wgigja/how_are_n8n_agencies_handling_client_ownership/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-14T22:36:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m starting an automation agency and trying to figure out the best n8n setup for clients. From what I understand, if I host/manage client workflows and credentials in my own n8n i",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Driver License Compact Lawyer Queen Anne S County MD",
-      "url": "https://dev.to/paulpeter/driver-license-compact-lawyer-queen-anne-s-county-md-jdl",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens When A Traffic Conviction Is Reported Across State Lines? Have you received a traffic citation in Maryland and wondered if your home state will ever find out about it?",
+      "published_at": "2026-09-18T03:03:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens at a DUI Arraignment in Fairfax County – Your First Court Appearance What is the purpose of a DUI arraignment in Fairfax? This brief hearing tells you how the case mov",
       "tags": [
         "Release"
       ],
@@ -555,11 +410,11 @@
       "score": 35
     },
     {
-      "title": "Top 10 LEAD GENERATION APIs & Scrapers in 2026 — Ranked by Active Users",
-      "url": "https://dev.to/nick_davies_323125afbb05c/top-10-lead-generation-apis-scrapers-in-2026-ranked-by-active-users-4pnf",
+      "title": "Reckless Driving Lawyer Prince Edward",
+      "url": "https://dev.to/krishnoah/reckless-driving-lawyer-prince-edward-ac2",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Looking for the best lead generation tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 604K users | 4.7/5 rating | Pay per event Extrac",
+      "published_at": "2026-09-18T03:03:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Are the Elements of a Reckless Driving Charge in Prince Edward? In Prince Edward, the prosecution must prove that the driver acted with a conscious disregard for safety. This ",
       "tags": [
         "Release"
       ],
@@ -569,11 +424,11 @@
       "score": 35
     },
     {
-      "title": "Operating A Drug Involved Premises Lawyer Prince William County VA",
-      "url": "https://dev.to/vincentturfy/operating-a-drug-involved-premises-lawyer-prince-william-county-va-jkp",
+      "title": "What Happens At A DUI Arraignment In Shenandoah County",
+      "url": "https://dev.to/dianajhonson6668/what-happens-at-a-dui-arraignment-in-shenandoah-county-4746",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Operating A Drug Involved Premises Lawyer Prince William County Va – What Happens If Police Find Controlled Substances on My Property? When officers discover illegal drugs during a",
+      "published_at": "2026-09-18T03:03:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens at a DUI Arraignment in Shenandoah County – Frequently Asked Questions People often wonder what happens at a DUI arraignment in Shenandoah County, especially when they",
       "tags": [
         "Release"
       ],
@@ -583,11 +438,11 @@
       "score": 35
     },
     {
-      "title": "Reckless Driving Lawyer Roanoke VA",
-      "url": "https://dev.to/krishnoah/reckless-driving-lawyer-roanoke-va-4g8b",
+      "title": "Immediate Relative Petition Lawyer Chesterfield County VA",
+      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-chesterfield-county-va-52ef",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Are the First Steps After Being Charged With Reckless Driving? If you’ve just received a citation for dangerous driving, you may wonder whether a reckless driving lawyer roano",
+      "published_at": "2026-09-18T03:03:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Immediate Relative Petition Lawyer Chesterfield County VA Do? When you type “immediate relative petition lawyer chesterfield county va” into a search engine, you’re lo",
       "tags": [
         "Release"
       ],
@@ -597,212 +452,14 @@
       "score": 35
     },
     {
-      "title": "Licensing Agreement Lawyer Schoharie County NY",
-      "url": "https://dev.to/chrishtopher/licensing-agreement-lawyer-schoharie-county-ny-4jh1",
+      "title": "What Happens At A DUI Arraignment In Shenandoah County",
+      "url": "https://dev.to/sl2034728/what-happens-at-a-dui-arraignment-in-shenandoah-county-4gj6",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-16T03:03:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does a Licensing Agreement Lawyer Do in Schoharie County NY? A licensing agreement lawyer Schoharie County NY reviews the proposed contract, identifies missing clauses, and ad",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Learn how to automate, can anyone guide me how to pull GitHub repo make a video about it. Like tell what this repo does is there any workflow?",
-      "url": "https://www.reddit.com/r/automation/comments/1whi9xk/learn_how_to_automate_can_anyone_guide_me_how_to/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-16T00:47:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Beginning_Flow7340 [link] [comments]",
+      "published_at": "2026-09-18T03:03:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When Is the Arraignment Scheduled? Most drivers wonder how quickly they will appear in court after a DUI stop. In Shenandoah County, the summons typically specifies a date within 3",
       "tags": [],
       "buckets": [],
       "score": 25
-    },
-    {
-      "title": "How do you split a hard daily API cap across a job that runs hourly, without just guessing?",
-      "url": "https://www.reddit.com/r/automation/comments/1wh2tof/how_do_you_split_a_hard_daily_api_cap_across_a/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T15:01:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Im a data guy who runs a scan on a schedule, and the API behind it has a hard cap of 150 calls a day, where one request covers 15 date combos. My job needs 28 combos, so every run ",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "I built an automated value betting tool for UK and international racing markets",
-      "url": "https://www.reddit.com/r/automation/comments/1wgyh31/i_built_an_automated_value_betting_tool_for_uk/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T12:03:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: So I built a tool that scans exchanges to find true odds of an option then also scans the bookmakers odds to find any difference. It also has many built in markers for how reliable",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Before I Hand a Workflow to a Client, This Is How I Test It",
-      "url": "https://www.reddit.com/r/automation/comments/1wh353u/before_i_hand_a_workflow_to_a_client_this_is_how/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T15:13:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/easybits_ai [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "New OSS Codex harness optimized for privacy, simple installs, ease of use and long horizon tasks via voice control (OS World 2.0, other benchmark scores incl)",
-      "url": "https://www.reddit.com/r/automation/comments/1wgqzrf/new_oss_codex_harness_optimized_for_privacy/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-15T05:08:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/demeyer1 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "How to make your own AI agents: Clanker Cloud",
-      "url": "https://www.reddit.com/r/automation/comments/1wdeoj1/how_to_make_your_own_ai_agents_clanker_cloud/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T12:19:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone, I'm the co-founder and CEO of Clanker Cloud, we built a new web AI Workspace where you can make your own agents and then you can use them from anywhere, including in ",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 24
-    },
-    {
-      "title": "I need a clear handover point for AI integration projects",
-      "url": "https://www.reddit.com/r/automation/comments/1wg5th7/i_need_a_clear_handover_point_for_ai_integration/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-14T15:00:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I do integration work for small businesses. For an AI order assistant, the handover I'd worry about is the first email the system can't match to the product list. I don't want the ",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "We gave up on Xero search and indexed every PO",
-      "url": "https://www.reddit.com/r/automation/comments/1wfccln/we_gave_up_on_xero_search_and_indexed_every_po/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-13T16:30:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/tototoru [link] [comments]",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "After a bunch of AI workflows, these are the 5 money leaks I learned to watch for",
-      "url": "https://www.reddit.com/r/automation/comments/1wddjx1/after_a_bunch_of_ai_workflows_these_are_the_5/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T11:27:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/easybits_ai [link] [comments]",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 20
-    },
-    {
-      "title": "Better than AI for retail signage",
-      "url": "https://www.reddit.com/r/automation/comments/1wfkf5a/better_than_ai_for_retail_signage/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-13T21:33:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Used as late as 2015. Hand painted. Effective. submitted by /u/Pleasant_Tangelo6791 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "Which Email Platform Has the Best Automation Builder Right Now?",
-      "url": "https://www.reddit.com/r/automation/comments/1wf4qnz/which_email_platform_has_the_best_automation/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-13T11:06:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/polnikale [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "The missing automation status is \"unknown\"",
-      "url": "https://www.reddit.com/r/automation/comments/1wejkha/the_missing_automation_status_is_unknown/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-12T18:04:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most workflows have success and failed. That is not enough once tools can time out, continue in the background, or lose the response after the write landed. A timeout can mean: not",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "An AI workflow dry run should show the messages it would send, not just the rows it would change",
-      "url": "https://www.reddit.com/r/automation/comments/1wdr3gf/an_ai_workflow_dry_run_should_show_the_messages/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T20:02:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A proposed dry-run format for an AI-assisted support workflow: Input: a fictional customer asks to move a delivery to Friday. Instead of only showing \"delivery_date: Thursday -> Fr",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Stop repeating the same AI prompts, Scheduled Tasks are now on SurfMind",
-      "url": "https://www.reddit.com/r/automation/comments/1wed7io/stop_repeating_the_same_ai_prompts_scheduled/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-12T13:51:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Unlikely_Resist281 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 0
-    },
-    {
-      "title": "In an AI email workflow, a forwarded request is not automatically a new request",
-      "url": "https://www.reddit.com/r/automation/comments/1we5t02/in_an_ai_email_workflow_a_forwarded_request_is/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-12T07:20:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A fictional workflow: a customer emails \"please change my delivery address.\" An employee forwards the email to operations, and the customer later replies \"thanks\" with the original",
-      "tags": [],
-      "buckets": [],
-      "score": 0
-    },
-    {
-      "title": "What are you currently automating in your company?",
-      "url": "https://www.reddit.com/r/automation/comments/1wdl4hl/what_are_you_currently_automating_in_your_company/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T16:29:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A few days ago, I did a post that I feel like started an interesting discussion on whether automating from the bottom-up was the right way to go? Now, I'm curious as to where you a",
-      "tags": [],
-      "buckets": [],
-      "score": 0
-    },
-    {
-      "title": "Seeking advice on AI ideas for internal company use.",
-      "url": "https://www.reddit.com/r/automation/comments/1wd7oxr/seeking_advice_on_ai_ideas_for_internal_company/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-11T05:59:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/AccomplishedLunch468 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 0
     }
   ]
 }
