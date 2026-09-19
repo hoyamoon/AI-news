@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-18T03:15:45.832Z",
+  "updated_at": "2026-09-19T03:11:58.306Z",
   "items": [
     {
       "title": "The most expensive part of my agent stack wasn’t tokens — it was the invoice roulette",
@@ -28,62 +28,7 @@
         "zapier",
         "hot"
       ],
-      "score": 276
-    },
-    {
-      "title": "I thought lead routing was a prompt problem until the AI assigned a California lead to nobody",
-      "url": "https://dev.to/lars_winstand/i-thought-lead-routing-was-a-prompt-problem-until-the-ai-assigned-a-california-lead-to-nobody-4kj1",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-17T06:10:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I stopped trusting AI-first lead routing the day a valid inbound lead from California got assigned to… nobody. Not the wrong rep. Not the fallback SDR queue. Nobody. That’s the mom",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "Multimodal",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "multimodal",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 219
-    },
-    {
-      "title": "Ask Telegram for a Release Digest: n8n, LangBot and GPT-6 Astra with Two Live Sources",
-      "url": "https://dev.to/rockchinq/ask-telegram-for-a-release-digest-n8n-langbot-and-gpt-6-astra-with-two-live-sources-3c49",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-17T06:51:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The time sink in release tracking is not checking whether something changed. It is opening several release pages and working out which changes deserve attention. This workflow fetc",
-      "tags": [
-        "GPT/OpenAI",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Multimodal",
-        "NotebookLM",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "eval",
-        "multimodal",
-        "prod",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 213
+      "score": 263
     },
     {
       "title": "I built a headless Mac mini AI server and by week two I was debugging sleep, plist files, and Redis",
@@ -107,55 +52,120 @@
         "n8n",
         "hot"
       ],
-      "score": 201
+      "score": 188
     },
     {
-      "title": "Build a LINE and Discord Order Lookup Bot with n8n, LangBot and GPT-6 Astra",
-      "url": "https://dev.to/rockchinq/build-a-line-and-discord-order-lookup-bot-with-n8n-langbot-and-gpt-6-astra-1kdi",
+      "title": "SAP Embeds n8n in Joule Studio to Expand Visual AI Workflow Orchestration",
+      "url": "https://dev.to/alifar/sap-embeds-n8n-in-joule-studio-to-expand-visual-ai-workflow-orchestration-56kb",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-17T06:49:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: “Where is my order?” is a data lookup wearing the clothes of a chat question. A model cannot know whether a parcel shipped just because it can sound like a support agent. Here the ",
+      "published_at": "2026-09-18T17:15:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: SAP is embedding n8n's visual workflow orchestration capabilities into Joule Studio, extending its Business AI Platform with an environment for building multi-agent workflows acros",
       "tags": [
-        "GPT/OpenAI",
         "Agents",
-        "Multimodal",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
         "n8n",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
-        "multimodal",
+        "rag",
+        "eval",
+        "prod",
         "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 181
+    },
+    {
+      "title": "Automate Personalized Cold Outreach Sequences with Airtable, n8n, and OpenAI",
+      "url": "https://dev.to/samchenreviews/automate-personalized-cold-outreach-sequences-with-airtable-n8n-and-openai-3lj0",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-18T16:32:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: To automate personalized cold outreach sequences from CRM data, integrate Airtable as your data source, n8n for workflow automation, and OpenAI for generating personalized email co",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "n8n",
+        "Zapier",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n",
+        "zapier",
         "creators",
         "hot"
       ],
       "score": 177
     },
     {
-      "title": "Build a Slack and Discord Translation Bot with n8n, LangBot and GPT-6 Astra",
-      "url": "https://dev.to/rockchinq/build-a-slack-and-discord-translation-bot-with-n8n-langbot-and-gpt-6-astra-4gcb",
+      "title": "n8n’s Telegram Expense Template Turns Voice and Text Into Google Sheets Entries",
+      "url": "https://dev.to/alifar/n8ns-telegram-expense-template-turns-voice-and-text-into-google-sheets-entries-5f33",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-17T06:47:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The annoying part of team translation is often a single sentence: a deadline, a teammate's name, and a link that must survive intact. Opening another AI window for every message ad",
+      "published_at": "2026-09-18T10:15:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n has published a workflow template that turns Telegram into a lightweight expense-capture tool. A user can send a text message or voice note describing a purchase, then the work",
       "tags": [
         "GPT/OpenAI",
-        "Multimodal",
+        "Gemini/Google",
         "n8n",
         "Creators",
-        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "multimodal",
         "n8n",
         "creators",
         "hot"
       ],
-      "score": 153
+      "score": 152
+    },
+    {
+      "title": "Claude For How Businesses",
+      "url": "https://dev.to/samsoncli/claude-for-how-businesses-o0h",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-19T03:09:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude For How Businesses Here's what matters: Find one near you Find one near you Find one near you Claude for small business Run and grow your business Claude helps you run and g",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "hot"
+      ],
+      "score": 131
+    },
+    {
+      "title": "Claude For How Businesses",
+      "url": "https://dev.to/samsoncli/claude-for-how-businesses-o2b",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-19T03:03:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude For How Businesses Here's what matters: Find one near you Find one near you Find one near you Claude for small business Run and grow your business Claude helps you run and g",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "hot"
+      ],
+      "score": 131
     },
     {
       "title": "How to automate real estate lead follow-up in New Zealand",
@@ -178,7 +188,7 @@
         "creators",
         "hot"
       ],
-      "score": 141
+      "score": 128
     },
     {
       "title": "Who to talk to about building n8n workflows in New Zealand",
@@ -201,7 +211,7 @@
         "creators",
         "hot"
       ],
-      "score": 137
+      "score": 124
     },
     {
       "title": "OpenSpec: Lightweight AI Spec Framework for Production Workflows",
@@ -222,7 +232,27 @@
         "status",
         "hot"
       ],
-      "score": 123
+      "score": 110
+    },
+    {
+      "title": "GrassLobster: AI Agentic Generation of Parametric Geometry Workflows",
+      "url": "https://dev.to/felipejac/grasslobster-ai-agentic-generation-of-parametric-geometry-workflows-5abn",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-18T18:07:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happened GrassLobster appears in a new Miro Vision feature. The agent generates parametric geometry workflows from a short description, like “create a 3‑story modular building",
+      "tags": [
+        "Agents",
+        "Multimodal",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "agents",
+        "multimodal",
+        "n8n",
+        "hot"
+      ],
+      "score": 109
     },
     {
       "title": "You.com Adds Background Research Tasks for Asynchronous API and n8n Workflows",
@@ -243,37 +273,17 @@
         "n8n",
         "hot"
       ],
-      "score": 117
+      "score": 104
     },
     {
-      "title": "Build an AI SDR That Books Meetings While You Sleep (Without the Spam)",
-      "url": "https://dev.to/michaelaiglobal/build-an-ai-sdr-that-books-meetings-while-you-sleep-without-the-spam-5b37",
+      "title": "The Real Math on AI SDRs: A Cost Model B2B Teams Can Actually Use",
+      "url": "https://dev.to/michaelaiglobal/the-real-math-on-ai-sdrs-a-cost-model-b2b-teams-can-actually-use-2cbh",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-17T12:00:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most \"AI SDR\" tools are just spray-and-pray email blasters with a language model bolted on. They burn your domain reputation and annoy prospects. A real AI SDR agent is different. ",
-      "tags": [
-        "Agents",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "hot"
-      ],
-      "score": 103
-    },
-    {
-      "title": "Compress videos in n8n with FFHub and cloud FFmpeg",
-      "url": "https://dev.to/garydai/compress-videos-in-n8n-with-ffhub-and-cloud-ffmpeg-4ack",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-17T06:38:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Video compression often starts with a single FFmpeg command. In an automation workflow, you also need to submit the job, wait for it, handle failures, and pass the result to the ne",
+      "published_at": "2026-09-18T12:00:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Everyone selling AI SDR software leads with the same pitch: replace your $70k rep with a $500/month bot. The math looks obvious until you actually build the model. Then it gets int",
       "tags": [
         "RAG/Vector",
         "n8n",
-        "Hot",
         "Release"
       ],
       "buckets": [
@@ -281,83 +291,62 @@
         "n8n",
         "hot"
       ],
-      "score": 99
+      "score": 79
     },
     {
-      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
-      "url": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-4bo4",
+      "title": "Trustpilot All Reviews Scraper 💰$0.65+ · No Cap · AI Insights — 3K Users Can't Be Wrong",
+      "url": "https://dev.to/nick_davies_323125afbb05c/trustpilot-all-reviews-scraper-065-no-cap-ai-insights-3k-users-cant-be-wrong-3mb8",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:10:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scr",
+      "published_at": "2026-09-19T03:03:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Are you spending hours writing custom scrapers? There's probably an actor for that already. [From 💰$0.65/1K] Export every Trustpilot review — past the ~200-review web cap. Increme",
       "tags": [
-        "RAG/Vector",
-        "NotebookLM",
+        "Agents",
         "Hot"
       ],
       "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 69
+    },
+    {
+      "title": "Gate outbound lists in n8n with an email verification HTTP Request",
+      "url": "https://dev.to/jamessib/gate-outbound-lists-in-n8n-with-an-email-verification-http-request-23op",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-18T15:58:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In outbound and GTM pipelines, n8n is often the glue between scrapers, Clay exports, CRMs, and sequencers like Instantly or Smartlead. The missing gate is usually email verificatio",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "How Long Does A DUI Case Take In Shenandoah County",
+      "url": "https://dev.to/dianajhonson6668/how-long-does-a-dui-case-take-in-shenandoah-county-hnb",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-19T03:03:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is the Average Duration of a DUI Case in Shenandoah County? The short answer to how long does a dui case take in shenandoah county is “it varies,” but most cases resolve withi",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
         "rag",
-        "prod",
         "hot"
       ],
-      "score": 87
+      "score": 55
     },
     {
-      "title": "Driver License Compact Lawyer Charles County MD",
-      "url": "https://dev.to/paulpeter/driver-license-compact-lawyer-charles-county-md-2f96",
+      "title": "Child Support Arrears Lawyer Albemarle County VA",
+      "url": "https://dev.to/jinglis902/child-support-arrears-lawyer-albemarle-county-va-3jig",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:04:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is The Agreement Between States Regarding Traffic Offenses? The Driver License Compact is a multi-state agreement used to exchange information regarding traffic violations and",
-      "tags": [
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "status",
-        "hot"
-      ],
-      "score": 75
-    },
-    {
-      "title": "Operating A Drug Involved Premises Lawyer Fairfax County VA",
-      "url": "https://dev.to/vincentturfy/operating-a-drug-involved-premises-lawyer-fairfax-county-va-30lp",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Operating a Drug Involved Premises Lawyer Fairfax County VA Do? An operating a drug involved premises lawyer Fairfax County VA reviews the complaint, assesses the evid",
-      "tags": [
-        "Eval/Observability",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 73
-    },
-    {
-      "title": "International Assets Divorce Lawyer Clarke County VA",
-      "url": "https://dev.to/harrycallumm/international-assets-divorce-lawyer-clarke-county-va-2p67",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens to Foreign Bank Accounts When a Marriage Ends in Clarke County? If you are searching for an “international assets divorce lawyer clarke county va,” the short answer is",
-      "tags": [
-        "Multimodal",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 71
-    },
-    {
-      "title": "Licensing Agreement Lawyer Livingston County NY",
-      "url": "https://dev.to/chrishtopher/licensing-agreement-lawyer-livingston-county-ny-1dh5",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does a Licensing Agreement Lawyer Do in Livingston County? A client in Livingston County might wonder why a licensing agreement lawyer livingston county ny is essential. The l",
+      "published_at": "2026-09-19T03:03:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Triggers a Child Support Arrears Case in Albemarle County? A child support arrears lawyer albemarle county va explains that missed payments, failure to respond to a court noti",
       "tags": [
         "Hot",
         "Release"
@@ -368,11 +357,27 @@
       "score": 55
     },
     {
-      "title": "Do I Need A Lawyer For An Uncontested Divorce In Manassas Park",
-      "url": "https://dev.to/johnychristopher/do-i-need-a-lawyer-for-an-uncontested-divorce-in-manassas-park-336a",
+      "title": "Federal Immigration Appeal Lawyer Orange County VA",
+      "url": "https://dev.to/pauloronaldpaulo/federal-immigration-appeal-lawyer-orange-county-va-376j",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Do I Really Need an Attorney for an Uncontested Divorce in Manassas Park? The short answer is “it depends.” Many people ask “do i need a lawyer for an uncontested divorce in manass",
+      "published_at": "2026-09-19T03:03:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is The Role Of A Federal Immigration Appeal Lawyer In Orange County VA? A federal immigration appeal lawyer orange county va reviews the denial, identifies legal errors, and p",
+      "tags": [
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 53
+    },
+    {
+      "title": "Google maps Scraping Tools Compared — Which One Should You Use in 2026?",
+      "url": "https://dev.to/nick_davies_323125afbb05c/google-maps-scraping-tools-compared-which-one-should-you-use-in-2026-3flh",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-19T03:08:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you need to scrape Google maps data, there are multiple tools available. But which one should you pick? I compared the top 4 options. Tool Developer Rating Users Pricing Google ",
       "tags": [
         "Hot"
       ],
@@ -382,25 +387,11 @@
       "score": 45
     },
     {
-      "title": "How Do I Sponsor A Family Member For A Green Card From Roanoke County",
-      "url": "https://dev.to/camerongreenca/how-do-i-sponsor-a-family-member-for-a-green-card-from-roanoke-county-o8a",
+      "title": "Driver License Compact Lawyer Howard County MD",
+      "url": "https://dev.to/paulpeter/driver-license-compact-lawyer-howard-county-md-4n09",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:04:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Forms Do I Need to File When Sponsoring a Family Member? When you type “how do i sponsor a family member for a green card from roanoke county” into a search engine, the first ",
-      "tags": [
-        "Eval/Observability"
-      ],
-      "buckets": [
-        "eval"
-      ],
-      "score": 43
-    },
-    {
-      "title": "What Happens At A DUI Arraignment In Fairfax County",
-      "url": "https://dev.to/cumminspat12e/what-happens-at-a-dui-arraignment-in-fairfax-county-189p",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens at a DUI Arraignment in Fairfax County – Your First Court Appearance What is the purpose of a DUI arraignment in Fairfax? This brief hearing tells you how the case mov",
+      "published_at": "2026-09-19T03:03:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Will An Out Of State Ticket Affect My Home License? Many motorists assume that receiving a citation while traveling through Maryland means the record stays within state lines. ",
       "tags": [
         "Release"
       ],
@@ -410,11 +401,11 @@
       "score": 35
     },
     {
-      "title": "Reckless Driving Lawyer Prince Edward",
-      "url": "https://dev.to/krishnoah/reckless-driving-lawyer-prince-edward-ac2",
+      "title": "Strangulation Lawyer Prince William County VA",
+      "url": "https://dev.to/johnheisenberg/strangulation-lawyer-prince-william-county-va-2e3f",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Are the Elements of a Reckless Driving Charge in Prince Edward? In Prince Edward, the prosecution must prove that the driver acted with a conscious disregard for safety. This ",
+      "published_at": "2026-09-19T03:03:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is Considered Strangulation Under Virginia Law? Strangulation in Virginia is defined as the intentional application of pressure to the neck, throat, or a ligature that causes ",
       "tags": [
         "Release"
       ],
@@ -424,11 +415,11 @@
       "score": 35
     },
     {
-      "title": "What Happens At A DUI Arraignment In Shenandoah County",
-      "url": "https://dev.to/dianajhonson6668/what-happens-at-a-dui-arraignment-in-shenandoah-county-4746",
+      "title": "What Happens At An Immigration Court Hearing In Chesapeake",
+      "url": "https://dev.to/ew422898/what-happens-at-an-immigration-court-hearing-in-chesapeake-158j",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens at a DUI Arraignment in Shenandoah County – Frequently Asked Questions People often wonder what happens at a DUI arraignment in Shenandoah County, especially when they",
+      "published_at": "2026-09-19T03:03:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens At An Immigration Court Hearing In Chesapeake? Frequently Asked Questions When a notice arrives, the first question is: what happens at an immigration court hearing in",
       "tags": [
         "Release"
       ],
@@ -438,25 +429,21 @@
       "score": 35
     },
     {
-      "title": "Immediate Relative Petition Lawyer Chesterfield County VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-chesterfield-county-va-52ef",
+      "title": "How Long Does A DUI Case Take In Shenandoah County",
+      "url": "https://dev.to/sl2034728/how-long-does-a-dui-case-take-in-shenandoah-county-1205",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Immediate Relative Petition Lawyer Chesterfield County VA Do? When you type “immediate relative petition lawyer chesterfield county va” into a search engine, you’re lo",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
+      "published_at": "2026-09-19T03:03:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Quickly Does a Shenandoah County DUI Move Through the Courts? If you type how long does a dui case take in shenandoah county into a search box, you’ll find that the clock start",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     },
     {
-      "title": "What Happens At A DUI Arraignment In Shenandoah County",
-      "url": "https://dev.to/sl2034728/what-happens-at-a-dui-arraignment-in-shenandoah-county-4gj6",
+      "title": "What Damages Can I Recover In A Virginia Personal Injury Case",
+      "url": "https://dev.to/jamesencristiano/what-damages-can-i-recover-in-a-virginia-personal-injury-case-ebm",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-18T03:03:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When Is the Arraignment Scheduled? Most drivers wonder how quickly they will appear in court after a DUI stop. In Shenandoah County, the summons typically specifies a date within 3",
+      "published_at": "2026-09-19T03:03:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For more information, see What Damages Can I Recover In A Virginia Personal Injury Case",
       "tags": [],
       "buckets": [],
       "score": 25
