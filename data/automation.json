@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19T03:11:58.306Z",
+  "updated_at": "2026-09-20T03:29:03.768Z",
   "items": [
     {
       "title": "The most expensive part of my agent stack wasn’t tokens — it was the invoice roulette",
@@ -31,28 +31,26 @@
       "score": 263
     },
     {
-      "title": "I built a headless Mac mini AI server and by week two I was debugging sleep, plist files, and Redis",
-      "url": "https://dev.to/lars_winstand/i-built-a-headless-mac-mini-ai-server-and-by-week-two-i-was-debugging-sleep-plist-files-and-redis-2c9g",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-17T14:10:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The moment I knew my cute little local AI box had turned into actual infrastructure was when a folder stopped moving files at 3:14 a.m. Nothing crashed. Disk was fine. Ollama was s",
+      "title": "Anthropic and OpenAI Open Doors to Embedded Safety Evaluators",
+      "url": "https://dev.to/bansac1981/anthropic-and-openai-open-doors-to-embedded-safety-evaluators-40gd",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T02:30:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary Anthropic and OpenAI have proposed embedding independent third-party safety evaluators — including organisations like METR and Redwood Research — directly inside f",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
-        "Agents",
+        "RAG/Vector",
         "Eval/Observability",
-        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "agents",
+        "rag",
         "eval",
-        "n8n",
         "hot"
       ],
-      "score": 188
+      "score": 173
     },
     {
       "title": "SAP Embeds n8n in Joule Studio to Expand Visual AI Workflow Orchestration",
@@ -79,7 +77,7 @@
         "creators",
         "hot"
       ],
-      "score": 181
+      "score": 168
     },
     {
       "title": "Automate Personalized Cold Outreach Sequences with Airtable, n8n, and OpenAI",
@@ -104,7 +102,80 @@
         "creators",
         "hot"
       ],
-      "score": 177
+      "score": 164
+    },
+    {
+      "title": "How to Make a Reddit Story Bot for TikTok",
+      "url": "https://dev.to/samchenreviews/how-to-make-a-reddit-story-bot-for-tiktok-373e",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-19T16:01:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You can build a fully automated pipeline that pulls the day's hottest Reddit threads, rewrites them into a short script, generates a natural-sounding voiceover with ElevenLabs, sti",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "n8n",
+        "Zapier",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "n8n",
+        "zapier",
+        "creators",
+        "hot"
+      ],
+      "score": 161
+    },
+    {
+      "title": "Build a Terraform State MCP Server: Let AI Agents Query Your Infrastructure Without Leaking Secrets",
+      "url": "https://dev.to/devtocash/build-a-terraform-state-mcp-server-let-ai-agents-query-your-infrastructure-without-leaking-secrets-5h63",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T01:15:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 💡 Originally published on devtocash.com — where this guide stays updated. I write hands-on DevOps/SRE deep-dives there weekly. An alert hands your incident agent sg-0a1b2c3d4e5f o",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "eval",
+        "prod",
+        "status",
+        "hot"
+      ],
+      "score": 159
+    },
+    {
+      "title": "AI Lead Generation Automation: From Website Research to Automated Outreach",
+      "url": "https://dev.to/arshadthaheem/ai-lead-generation-automation-from-website-research-to-automated-outreach-4fne",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-19T14:00:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I recently built an AI lead generation automation workflow to solve a problem I was running into in my own prospecting process: too much repetitive work between finding a potential",
+      "tags": [
+        "GPT/OpenAI",
+        "RAG/Vector",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 157
     },
     {
       "title": "n8n’s Telegram Expense Template Turns Voice and Text Into Google Sheets Entries",
@@ -125,70 +196,49 @@
         "creators",
         "hot"
       ],
-      "score": 152
+      "score": 139
     },
     {
-      "title": "Claude For How Businesses",
-      "url": "https://dev.to/samsoncli/claude-for-how-businesses-o0h",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:09:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude For How Businesses Here's what matters: Find one near you Find one near you Find one near you Claude for small business Run and grow your business Claude helps you run and g",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "prod",
-        "hot"
-      ],
-      "score": 131
-    },
-    {
-      "title": "Claude For How Businesses",
-      "url": "https://dev.to/samsoncli/claude-for-how-businesses-o2b",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude For How Businesses Here's what matters: Find one near you Find one near you Find one near you Claude for small business Run and grow your business Claude helps you run and g",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "prod",
-        "hot"
-      ],
-      "score": 131
-    },
-    {
-      "title": "How to automate real estate lead follow-up in New Zealand",
-      "url": "https://dev.to/auxa/how-to-automate-real-estate-lead-follow-up-in-new-zealand-3j49",
+      "title": "Stop Buying AI Sales Tools. Build the Stack Instead.",
+      "url": "https://dev.to/michaelaiglobal/stop-buying-ai-sales-tools-build-the-stack-instead-19p1",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-17T19:26:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to automate real estate lead follow-up in New Zealand There is no New Zealand answer to this question in circulation. Ask an AI assistant or search for it and every result is w",
+      "published_at": "2026-09-19T12:00:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every week another \"AI SDR\" lands in your inbox promising to book meetings while you sleep. Most of them are a GPT wrapper around a cold email sequence with a churn problem baked i",
       "tags": [
-        "Agents",
-        "RAG/Vector",
+        "GPT/OpenAI",
+        "Eval/Observability",
         "n8n",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
-        "rag",
+        "llm",
+        "eval",
         "n8n",
-        "creators",
         "hot"
       ],
-      "score": 128
+      "score": 137
+    },
+    {
+      "title": "Uniting Biological Toolkits for a New Approach to ALS",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/uniting-biological-toolkits-for-a-new-approach-to-als-2jmn",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T00:20:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Uniting Biological Toolkits for a New Approach to ALS Amyotrophic Lateral Sclerosis (ALS) is a devastating neurological disease that affects thousands of people worldwide. Despite ",
+      "tags": [
+        "Gemini/Google",
+        "RAG/Vector",
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "prod",
+        "hot"
+      ],
+      "score": 132
     },
     {
       "title": "Who to talk to about building n8n workflows in New Zealand",
@@ -212,6 +262,70 @@
         "hot"
       ],
       "score": 124
+    },
+    {
+      "title": "Testing Telegram Profile Enrichment: Managing Positive and Negative Fixture Sets",
+      "url": "https://dev.to/checknumber/testing-telegram-profile-enrichment-managing-positive-and-negative-fixture-sets-38cp",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T03:20:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When building integrations for asynchronous profile enrichment, your testing strategy is the difference between a resilient system and a brittle one. As agents and automated workfl",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Make",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "eval",
+        "make",
+        "hot"
+      ],
+      "score": 121
+    },
+    {
+      "title": "A Stranger Emailed My AI Agent Three Sentences. It Almost Replied With My Whole Customer List.",
+      "url": "https://dev.to/ulnit/a-stranger-emailed-my-ai-agent-three-sentences-it-almost-replied-with-my-whole-customer-list-2bke",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T01:03:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It was a Tuesday, and my inbox triage agent was three weeks into an uneventful run. It read support emails, tagged them, drafted replies, and filed the boring ones. Then it receive",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "status",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "Why Every RAXXO Section Lives in Code, Not the Customizer",
+      "url": "https://dev.to/raxxostudios/why-every-raxxo-section-lives-in-code-not-the-customizer-59ab",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T00:33:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every RAXXO section is a tracked Liquid file, never a customizer edit, across 100+ custom sections One drag-and-drop change in the theme customizer once bled into every new page fo",
+      "tags": [
+        "RAG/Vector",
+        "NotebookLM",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 115
     },
     {
       "title": "OpenSpec: Lightweight AI Spec Framework for Production Workflows",
@@ -252,28 +366,42 @@
         "n8n",
         "hot"
       ],
-      "score": 109
+      "score": 96
     },
     {
-      "title": "You.com Adds Background Research Tasks for Asynchronous API and n8n Workflows",
-      "url": "https://dev.to/alifar/youcom-adds-background-research-tasks-for-asynchronous-api-and-n8n-workflows-52ea",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-17T12:30:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You.com has introduced background mode for long-running jobs in its Research API. Instead of keeping an application connection open while deep research runs, a client can submit a ",
+      "title": "Youtube Scraping Tools Compared — Which One Should You Use in 2026?",
+      "url": "https://dev.to/nick_davies_323125afbb05c/youtube-scraping-tools-compared-which-one-should-you-use-in-2026-55hg",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T03:16:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you need to scrape Youtube data, there are multiple tools available. But which one should you pick? I compared the top 8 options. Tool Developer Rating Users Pricing YouTube Scr",
       "tags": [
         "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
+        "NotebookLM",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "prod",
+        "hot"
+      ],
+      "score": 87
+    },
+    {
+      "title": "Psychiatric Defense in High-Stakes Murder Trial: What It Means for Healthcare and Justice",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/psychiatric-defense-in-high-stakes-murder-trial-what-it-means-for-healthcare-and-justice-hn3",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-20T00:15:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Psychiatric Defense in High-Stakes Murder Trial: What It Means for Healthcare and Justice The world of healthcare and justice is often intertwined, with the two fields influencing ",
+      "tags": [
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "eval",
-        "n8n",
+        "status",
         "hot"
       ],
-      "score": 104
+      "score": 75
     },
     {
       "title": "The Real Math on AI SDRs: A Cost Model B2B Teams Can Actually Use",
@@ -291,23 +419,22 @@
         "n8n",
         "hot"
       ],
-      "score": 79
+      "score": 66
     },
     {
-      "title": "Trustpilot All Reviews Scraper 💰$0.65+ · No Cap · AI Insights — 3K Users Can't Be Wrong",
-      "url": "https://dev.to/nick_davies_323125afbb05c/trustpilot-all-reviews-scraper-065-no-cap-ai-insights-3k-users-cant-be-wrong-3mb8",
+      "title": "GTA 6 Pre-Orders Open June 25: What You Need to Know",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/gta-6-pre-orders-open-june-25-what-you-need-to-know-2lfb",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Are you spending hours writing custom scrapers? There's probably an actor for that already. [From 💰$0.65/1K] Export every Trustpilot review — past the ~200-review web cap. Increme",
+      "published_at": "2026-09-20T00:25:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: GTA 6 Pre-Orders Open June 25: What You Need to Know The wait is almost over for fans of the Grand Theft Auto series. In just one week, pre-orders for Grand Theft Auto 6 (GTA 6) wi",
       "tags": [
-        "Agents",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "agents",
         "hot"
       ],
-      "score": 69
+      "score": 55
     },
     {
       "title": "Gate outbound lists in n8n with an email verification HTTP Request",
@@ -323,75 +450,28 @@
         "n8n",
         "hot"
       ],
-      "score": 59
+      "score": 46
     },
     {
-      "title": "How Long Does A DUI Case Take In Shenandoah County",
-      "url": "https://dev.to/dianajhonson6668/how-long-does-a-dui-case-take-in-shenandoah-county-hnb",
+      "title": "State Sex Crime Defense Baltimore",
+      "url": "https://dev.to/deborahviolet/state-sex-crime-defense-baltimore-p0b",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is the Average Duration of a DUI Case in Shenandoah County? The short answer to how long does a dui case take in shenandoah county is “it varies,” but most cases resolve withi",
+      "published_at": "2026-09-20T03:00:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is State Sex Crime Defense Baltimore Strategy? A person charged in Baltimore will wonder what the first move should be. The defense strategy begins with a thorough review of t",
       "tags": [
-        "RAG/Vector",
-        "Release"
+        "Eval/Observability"
       ],
       "buckets": [
-        "rag",
-        "hot"
+        "eval"
       ],
-      "score": 55
+      "score": 43
     },
     {
-      "title": "Child Support Arrears Lawyer Albemarle County VA",
-      "url": "https://dev.to/jinglis902/child-support-arrears-lawyer-albemarle-county-va-3jig",
+      "title": "Top 10 NEWS APIs & Scrapers in 2026 — Ranked by Active Users",
+      "url": "https://dev.to/nick_davies_323125afbb05c/top-10-news-apis-scrapers-in-2026-ranked-by-active-users-6k1",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Triggers a Child Support Arrears Case in Albemarle County? A child support arrears lawyer albemarle county va explains that missed payments, failure to respond to a court noti",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Federal Immigration Appeal Lawyer Orange County VA",
-      "url": "https://dev.to/pauloronaldpaulo/federal-immigration-appeal-lawyer-orange-county-va-376j",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is The Role Of A Federal Immigration Appeal Lawyer In Orange County VA? A federal immigration appeal lawyer orange county va reviews the denial, identifies legal errors, and p",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 53
-    },
-    {
-      "title": "Google maps Scraping Tools Compared — Which One Should You Use in 2026?",
-      "url": "https://dev.to/nick_davies_323125afbb05c/google-maps-scraping-tools-compared-which-one-should-you-use-in-2026-3flh",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:08:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you need to scrape Google maps data, there are multiple tools available. But which one should you pick? I compared the top 4 options. Tool Developer Rating Users Pricing Google ",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Driver License Compact Lawyer Howard County MD",
-      "url": "https://dev.to/paulpeter/driver-license-compact-lawyer-howard-county-md-4n09",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Will An Out Of State Ticket Affect My Home License? Many motorists assume that receiving a citation while traveling through Maryland means the record stays within state lines. ",
+      "published_at": "2026-09-20T03:10:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Looking for the best news tools? I put together a list of the top 10 most popular ones on Apify, ranked by active users. 43K users | 4.6/5 rating | Pay per event Pay Per Result, un",
       "tags": [
         "Release"
       ],
@@ -401,11 +481,11 @@
       "score": 35
     },
     {
-      "title": "Strangulation Lawyer Prince William County VA",
-      "url": "https://dev.to/johnheisenberg/strangulation-lawyer-prince-william-county-va-2e3f",
+      "title": "Statutory Rape Charges Maryland",
+      "url": "https://dev.to/deborahviolet/statutory-rape-charges-maryland-geo",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is Considered Strangulation Under Virginia Law? Strangulation in Virginia is defined as the intentional application of pressure to the neck, throat, or a ligature that causes ",
+      "published_at": "2026-09-20T03:02:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Exactly Constitutes Statutory Rape Under Maryland Law? Statutory rape charges Maryland arise when an adult engages in sexual conduct with anyone younger than 16, regardless of",
       "tags": [
         "Release"
       ],
@@ -413,40 +493,6 @@
         "hot"
       ],
       "score": 35
-    },
-    {
-      "title": "What Happens At An Immigration Court Hearing In Chesapeake",
-      "url": "https://dev.to/ew422898/what-happens-at-an-immigration-court-hearing-in-chesapeake-158j",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happens At An Immigration Court Hearing In Chesapeake? Frequently Asked Questions When a notice arrives, the first question is: what happens at an immigration court hearing in",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "How Long Does A DUI Case Take In Shenandoah County",
-      "url": "https://dev.to/sl2034728/how-long-does-a-dui-case-take-in-shenandoah-county-1205",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Quickly Does a Shenandoah County DUI Move Through the Courts? If you type how long does a dui case take in shenandoah county into a search box, you’ll find that the clock start",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "What Damages Can I Recover In A Virginia Personal Injury Case",
-      "url": "https://dev.to/jamesencristiano/what-damages-can-i-recover-in-a-virginia-personal-injury-case-ebm",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-19T03:03:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For more information, see What Damages Can I Recover In A Virginia Personal Injury Case",
-      "tags": [],
-      "buckets": [],
-      "score": 25
     }
   ]
 }
