@@ -27,6 +27,10 @@ jobs:
       - name: Install dependencies
         run: npm install rss-parser
 
+      - name: Run regression tests
+        timeout-minutes: 3
+        run: node --test scripts/build-news.test.mjs
+
       - name: Run build script
         timeout-minutes: 25
         env:
