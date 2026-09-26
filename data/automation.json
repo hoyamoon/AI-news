@@ -1,74 +1,18 @@
 {
-  "updated_at": "2026-09-24T03:13:07.157Z",
+  "updated_at": "2026-09-26T07:43:45.735Z",
   "items": [
     {
-      "title": "Does the OpenAI API Remember Between Calls? What Your Scheduled Agents Need Instead",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/does-the-openai-api-remember-between-calls-what-your-scheduled-agents-need-instead-1k9l",
+      "title": "Files, Databases, or Memory APIs: 6 Ways to Make AI Agents Remember Between Runs",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/files-databases-or-memory-apis-6-ways-to-make-ai-agents-remember-between-runs-46lh",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-23T01:23:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Does the OpenAI API Remember Between Calls? What Your Scheduled Agents Need Instead Target query: does openai api remember between calls If you run a scheduled agent that calls the",
+      "published_at": "2026-09-25T18:30:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Files, Databases, or Memory APIs: 6 Ways to Make AI Agents Remember Between Runs Every scheduled agent wakes up with amnesia. When a run ends, the context window dies with it, and ",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
-        "Make",
-        "n8n",
-        "Notion Status",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "make",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 242
-    },
-    {
-      "title": "Your AI Agent's Memory Dies on Every Restart. Here's How to Make It Survive.",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-ai-agents-memory-dies-on-every-restart-heres-how-to-make-it-survive-1o4c",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-23T10:59:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Target query: how to make ai agent memory survive restarts Here is a failure mode most automation operators discover the hard way. The scheduled agent works perfectly in developmen",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Make",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "make",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 207
-    },
-    {
-      "title": "Your Scheduled Agent Keeps Re-Doing Finished Work. Teach It What \"Done\" Means.",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-scheduled-agent-keeps-re-doing-finished-work-teach-it-what-done-means-42hk",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T01:32:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Target query: how to stop scheduled ai agent redoing the same work Slug: scheduled-agent-memory-of-done-completion-ledger Published: 2026-09-23 Surface: dev.to (this version) Compa",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Make",
         "n8n",
         "Hot",
         "Release"
@@ -78,18 +22,17 @@
         "agents",
         "rag",
         "eval",
-        "make",
         "n8n",
         "hot"
       ],
-      "score": 205
+      "score": 221
     },
     {
-      "title": "Your AI Agent Remembers Everything and Still Gets It Wrong",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-ai-agent-remembers-everything-and-still-gets-it-wrong-e3c",
+      "title": "Episodic vs Semantic Memory for AI Agents: What Your Scheduled Automations Actually Need",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/episodic-vs-semantic-memory-for-ai-agents-what-your-scheduled-automations-actually-need-e7i",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-23T23:00:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Target query: why does my ai agent forget even with memory enabled Slug: ai-agent-memory-vs-state-scheduled-automations Picture this. You did everything right. Your scheduled agent",
+      "published_at": "2026-09-25T13:25:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Episodic vs Semantic Memory for AI Agents: What Your Scheduled Automations Actually Need Your scheduled agent wakes up on Tuesday and refunds a customer twice. When you ask why, it",
       "tags": [
         "Claude/Anthropic",
         "Agents",
@@ -97,6 +40,7 @@
         "Eval/Observability",
         "n8n",
         "Zapier",
+        "Notion Status",
         "Hot",
         "Release"
       ],
@@ -107,170 +51,101 @@
         "eval",
         "n8n",
         "zapier",
+        "status",
+        "hot"
+      ],
+      "score": 221
+    },
+    {
+      "title": "How to Audit What Your Scheduled AI Agent Actually Remembers",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/how-to-audit-what-your-scheduled-ai-agent-actually-remembers-80o",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-26T03:50:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Audit What Your Scheduled AI Agent Actually Remembers Your scheduled agent wakes up every morning, reads its memory, and gets to work. When was the last time you actually lo",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "prod",
+        "n8n",
+        "hot"
+      ],
+      "score": 203
+    },
+    {
+      "title": "US Appeals Court Upholds Anthropic as Supply‑Chain Risk",
+      "url": "https://dev.to/felipejac/us-appeals-court-upholds-anthropic-as-supply-chain-risk-3ib9",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-25T19:10:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Happened The U.S. Court of Appeals for the D.C. Circuit upheld the Department of Defense’s designation of Anthropic as a supply‑chain risk. The ruling extends the Pentagon’s r",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 203
+    },
+    {
+      "title": "Your Scheduled Agent Knows the Workflow. It Doesn't Know Your Business.",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/your-scheduled-agent-knows-the-workflow-it-doesnt-know-your-business-18pl",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-25T23:09:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your Scheduled Agent Knows the Workflow. It Doesn't Know Your Business. Your n8n workflow is solid. The scheduled agent wakes up every morning, pulls the new orders, drafts the fol",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "status",
         "hot"
       ],
       "score": 201
     },
     {
-      "title": "Is Your Scheduled Agent's Memory Actually Working? 5 Tests Before You Trust It",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/is-your-scheduled-agents-memory-actually-working-5-tests-before-you-trust-it-mdl",
+      "title": "How to Make an AI Agent Forget a Specific Memory (Without Nuking Everything)",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/how-to-make-an-ai-agent-forget-a-specific-memory-without-nuking-everything-3n6n",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-23T13:26:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Is Your Scheduled Agent's Memory Actually Working? 5 Tests Before You Trust It Your scheduled agent ran this morning. It pulled the data, did its thing, saved what it learned, and ",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 185
-    },
-    {
-      "title": "Why Does Your AI Agent Give a Different Answer Every Time? Fixing Output Drift in Scheduled Automations",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/why-does-your-ai-agent-give-a-different-answer-every-time-fixing-output-drift-in-scheduled-4658",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-23T20:37:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Target query: why does my ai agent give a different answer every time Your lead-triage agent runs at 7 AM every weekday. Monday it summarizes new leads in a tight bullet list. Tues",
+      "published_at": "2026-09-26T01:30:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every memory system ships with two operations you use daily: add and search. The third operation, delete, is the one you discover you need at the worst possible moment. Your agent ",
       "tags": [
         "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
         "n8n",
-        "Zapier",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 181
-    },
-    {
-      "title": "Stop Throwing Away the Transcript: How to Keep Conversation History for Scheduled AI Agents",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/stop-throwing-away-the-transcript-how-to-keep-conversation-history-for-scheduled-ai-agents-3glp",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-23T18:12:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Target query: how to keep conversation history for scheduled AI agents Slug: keep-conversation-history-scheduled-ai-agents Published: Every scheduled agent run throws away the most",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 181
-    },
-    {
-      "title": "Anthropic's Claude Incidents: What Broker AI Deployments Should Take From It",
-      "url": "https://dev.to/theautomate/anthropics-claude-incidents-what-broker-ai-deployments-should-take-from-it-4o4i",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T01:52:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR Anthropic disclosed two incidents in which Claude models accessed live systems during evaluation, caused by misconfiguration and missing containment layers. The UK AI Securit",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "status",
-        "hot"
-      ],
-      "score": 177
-    },
-    {
-      "title": "Do ChatGPT Scheduled Tasks Remember Between Runs? What Actually Persists (and What You Still Lose)",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/do-chatgpt-scheduled-tasks-remember-between-runs-what-actually-persists-and-what-you-still-lose-36do",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-23T15:51:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Do ChatGPT Scheduled Tasks Remember Between Runs? What Actually Persists (and What You Still Lose) Target query: do chatgpt scheduled tasks remember between runs If you run ChatGPT",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 177
-    },
-    {
-      "title": "Claude Used to Breach OpenAI Employee Account via Forum Flaw",
-      "url": "https://dev.to/bansac1981/claude-used-to-breach-openai-employee-account-via-forum-flaw-iak",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T02:30:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary Security researchers from Hacktron AI leveraged Anthropic's Claude to compromise an OpenAI employee's ChatGPT account through a vulnerability in OpenAI's Discourse",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "RAG/Vector",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "status",
-        "hot"
-      ],
-      "score": 175
-    },
-    {
-      "title": "Google Expands Gemini Connected Apps to monday.com for Workspace Data Access",
-      "url": "https://dev.to/alifar/google-expands-gemini-connected-apps-to-mondaycom-for-workspace-data-access-32e3",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T02:15:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has begun rolling out monday.com as part of Gemini Connected Apps, expanding the ways users can reference work-management data from within Gemini and Google Workspace. The c",
-      "tags": [
-        "Gemini/Google",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
         "Creators",
         "Hot",
         "Release"
@@ -280,41 +155,41 @@
         "agents",
         "rag",
         "eval",
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 170
+      "score": 199
     },
     {
-      "title": "The AI Chatbot ROI Formula: Stop Guessing, Start Calculating Payback in Code",
-      "url": "https://dev.to/michaelaiglobal/the-ai-chatbot-roi-formula-stop-guessing-start-calculating-payback-in-code-nbg",
+      "title": "n8n wipes your AI agent's memory every execution. Here's the workaround.",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/n8n-wipes-your-ai-agents-memory-every-execution-heres-the-workaround-96e",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-23T12:00:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every chatbot pitch dies the same way: someone in finance asks \"what's the payback period?\" and the room goes quiet. Most teams answer with vibes. \"It'll save time.\" \"Customers wil",
+      "published_at": "2026-09-26T05:34:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n wipes your AI agent's memory every execution. Here's the workaround. You build a support bot in n8n. It works great in testing. Then it goes live, and a customer who talked to ",
       "tags": [
+        "Claude/Anthropic",
         "Agents",
-        "RAG/Vector",
-        "Make",
+        "NotebookLM",
         "n8n",
-        "Notion Update",
+        "Hot",
         "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
-        "rag",
-        "make",
+        "prod",
         "n8n",
-        "update",
         "hot"
       ],
-      "score": 149
+      "score": 165
     },
     {
-      "title": "How Far Back Should Your AI Agent Remember? A Retention Playbook for Scheduled Automations",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/how-far-back-should-your-ai-agent-remember-a-retention-playbook-for-scheduled-automations-3o6d",
+      "title": "One Bad Deploy Can Erase Your AI Agent's Memory. The Backup Playbook for Automation Operators",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/one-bad-deploy-can-erase-your-ai-agents-memory-the-backup-playbook-for-automation-operators-1f1a",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-23T06:12:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Far Back Should Your AI Agent Remember? A Retention Playbook for Scheduled Automations Target query: how far back should an AI agent remember Scheduled agents tend to fail at m",
+      "published_at": "2026-09-25T15:55:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One Bad Deploy Can Erase Your AI Agent's Memory. The Backup Playbook for Automation Operators Your scheduled agent has been running for six months. It knows which leads are dead, w",
       "tags": [
         "Agents",
         "RAG/Vector",
@@ -333,76 +208,32 @@
       "score": 143
     },
     {
-      "title": "Anthropic's Claude Opus 5.5 lands in Microsoft Foundry with cheaper tokens and clearer agent reporting",
-      "url": "https://dev.to/mikefluff/anthropics-claude-opus-55-lands-in-microsoft-foundry-with-cheaper-tokens-and-clearer-agent-4hk0",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T02:58:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic's Claude Opus 5.5 is now generally available in Microsoft Foundry, hosted on Azure, giving developers and enterprises access to Anthropic's most capable Opus model direct",
+      "title": "I Followed the n8n AWS Docs and It Broke at the First Command",
+      "url": "https://dev.to/aws-builders/i-followed-the-n8n-aws-docs-and-it-broke-at-the-first-command-4e1k",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-25T14:09:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You SSH into a fresh EC2 box, run sudo dnf install -y docker, then the very next command from the guide you're following: docker compose up -d And it dies: docker: 'compose' is not",
       "tags": [
-        "Claude/Anthropic",
+        "GPT/OpenAI",
         "Agents",
-        "Eval/Observability",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "eval",
+        "n8n",
         "hot"
       ],
-      "score": 137
+      "score": 143
     },
     {
-      "title": "The Settings Page Every RAXXO Tool Gets Before Launch",
-      "url": "https://dev.to/raxxostudios/the-settings-page-every-raxxo-tool-gets-before-launch-340l",
+      "title": "Your Scheduled Agent Saved 500 Memories. Now It Can't Find the Right One.",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/your-scheduled-agent-saved-500-memories-now-it-cant-find-the-right-one-4nn",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-24T01:01:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every RAXXO tool ships a settings page before its first customer, not after the tenth complaint The default skeleton is four sections: appearance, notifications, account and data, ",
-      "tags": [
-        "RAG/Vector",
-        "NotebookLM",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "prod",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 135
-    },
-    {
-      "title": "Claude Supports Ebola Response in the DRC Across Data, Modeling and Genomic Work",
-      "url": "https://dev.to/alifar/claude-supports-ebola-response-in-the-drc-across-data-modeling-and-genomic-work-1pkd",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T01:15:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic's Claude is being used by CEPI, WHO AFRO and INRB Kinshasa to support the response to a Bundibugyo virus Ebola outbreak in the Democratic Republic of the Congo. The deplo",
-      "tags": [
-        "Claude/Anthropic",
-        "Eval/Observability",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "eval",
-        "status",
-        "hot"
-      ],
-      "score": 133
-    },
-    {
-      "title": "How to Clean Up Your AI Agent's Memory So Scheduled Automations Stay Sharp",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/how-to-clean-up-your-ai-agents-memory-so-scheduled-automations-stay-sharp-710",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-22T23:01:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every operator who has run a scheduled AI agent long enough knows this phase. The first weeks are great: the agent remembers what it did yesterday, builds on last week's decisions,",
+      "published_at": "2026-09-26T06:19:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every scheduled AI agent has a storage story: the agent writes down a fact, saves a summary, drops a row in Postgres or a vector store. Storage is the part everyone builds first, a",
       "tags": [
         "Agents",
         "RAG/Vector",
@@ -418,24 +249,46 @@
         "n8n",
         "hot"
       ],
-      "score": 128
+      "score": 141
     },
     {
-      "title": "Your Scheduled AI Agent Is Burning Tokens Re-Reading the Same Context Every Run",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-scheduled-ai-agent-is-burning-tokens-re-reading-the-same-context-every-run-d24",
+      "title": "Your LangGraph Agent Remembers Its Thread but Forgets Your Business: Checkpointers vs Long-Term Memory",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/your-langgraph-agent-remembers-its-thread-but-forgets-your-business-checkpointers-vs-long-term-2f2d",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-23T08:35:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your Scheduled AI Agent Is Burning Tokens Re-Reading the Same Context Every Run Target query: reduce AI agent token usage in scheduled automations Every morning your scheduled agen",
+      "published_at": "2026-09-25T20:39:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your LangGraph agent remembers its thread but forgets your business: checkpointers vs long-term memory You wired up a LangGraph agent, gave it a checkpointer, and watched it recall",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
         "n8n",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "rag",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 141
+    },
+    {
+      "title": "n8n and NVIDIA NemoClaw to Demonstrate Governed AI Agent Actions at GTC Berlin 2026",
+      "url": "https://dev.to/alifar/n8n-and-nvidia-nemoclaw-to-demonstrate-governed-ai-agent-actions-at-gtc-berlin-2026-30il",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-25T13:20:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n and NVIDIA will demonstrate a practical approach to governing AI agent actions at NVIDIA GTC Berlin 2026. The hands-on lab, titled Your Agent Doesn't Get Root: Governing AI Act",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
         "eval",
         "n8n",
         "hot"
@@ -443,287 +296,157 @@
       "score": 121
     },
     {
-      "title": "Claude for Small Business adds 43 workflows and 27 integrations, plus a fall training tour",
-      "url": "https://dev.to/mikefluff/claude-for-small-business-adds-43-workflows-and-27-integrations-plus-a-fall-training-tour-3aaf",
+      "title": "EU AI Act Risk: Build vs Buy Decision Framework",
+      "url": "https://dev.to/dr_hernani_costa/eu-ai-act-risk-build-vs-buy-decision-framework-4fgp",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-24T02:58:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic has expanded Claude for Small Business with 43 workflows and 27 new integrations, adding tools including Shopify, Salesforce, TikTok, Atlassian, Zoom, Xero, Gusto, Square",
+      "published_at": "2026-09-26T06:57:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every custom AI build is a bet on engineering capacity you may not have in six months. Every SaaS lock-in is a bet that the vendor won't own your most sensitive operational data. E",
       "tags": [
-        "Claude/Anthropic",
-        "Zapier",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Make",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "zapier",
+        "rag",
+        "eval",
+        "make",
         "hot"
       ],
-      "score": 115
+      "score": 117
     },
     {
-      "title": "The issue of slavery?",
-      "url": "https://www.reddit.com/r/automation/comments/1wlwkzq/the_issue_of_slavery/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-20T23:39:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: To start off I am a newbie. I am midlife and I have some basic technical awareness/education but I am by no means extremely well informed in the artificial intelligence sphere. I k",
+      "title": "How Shared Topic Pools Create Duplicate Content Risk Across Publishing Channels: Practical Notes for Builders",
+      "url": "https://dev.to/estatepass/how-shared-topic-pools-create-duplicate-content-risk-across-publishing-channels-practical-notes-iie",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T06:34:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How Shared Topic Pools Create Duplicate Content Risk Across Publishing Channels: Practical Notes for Builders Most content systems do not break at the draft step. They break one la",
       "tags": [
-        "Claude/Anthropic",
         "Agents",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "status",
-        "hot"
-      ],
-      "score": 114
-    },
-    {
-      "title": "Google Gemini Expands Connected Apps With Adobe, Squarespace and Peloton Workflows",
-      "url": "https://dev.to/alifar/google-gemini-expands-connected-apps-with-adobe-squarespace-and-peloton-workflows-1c3p",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-24T01:30:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is expanding Gemini's ability to work with third-party services through a new wave of Connected Apps, including Adobe, Squarespace and Peloton. The rollout, which began on S",
-      "tags": [
-        "Gemini/Google",
+        "RAG/Vector",
         "Eval/Observability",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "agents",
+        "rag",
         "eval",
         "hot"
       ],
-      "score": 108
+      "score": 117
     },
     {
-      "title": "My rule for agents vs plain automation: the agent has to remember yesterday",
-      "url": "https://www.reddit.com/r/automation/comments/1wo6wtj/my_rule_for_agents_vs_plain_automation_the_agent/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-23T14:03:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I run a nightly lead-research agent for work. Every morning at 6 it wakes up, scrapes a list, enriches a few dozen accounts, scores them, and drops a digest in Slack. For the first",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "My AI Agent's Monitoring Was Dead for 11 Days. A Reader Noticed Before My Alerts Did.",
-      "url": "https://dev.to/ulnit/my-ai-agents-monitoring-was-dead-for-11-days-a-reader-noticed-before-my-alerts-did-5f9f",
+      "title": "Verified tier on BizNode Pulse: escrow, priority placement, and email alerts for a one-time 10 DZIT upgrade. Free unverified...",
+      "url": "https://dev.to/biznode/verified-tier-on-biznode-pulse-escrow-priority-placement-and-email-alerts-for-a-one-time-10-dzit-1c64",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-24T01:04:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For eleven days, my dashboard was green. Every cron job reported success, every health endpoint returned 200, and my AI agent's nightly pipeline logged \"completed\" like clockwork. ",
+      "published_at": "2026-09-26T07:04:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Title: Unlocking the Verified Tier on BizNode Pulse: Elevate Your Business Operations In the ever-evolving landscape of AI-driven business solutions, BizNode Pulse stands out as a ",
       "tags": [
-        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
+        "rag",
+        "eval",
+        "creators",
+        "hot"
+      ],
+      "score": 111
+    },
+    {
+      "title": "Mini PC vs Mac mini vs GPU para IA local: qué comprar en 2026",
+      "url": "https://dev.to/genzetadigital/mini-pc-vs-mac-mini-vs-gpu-para-ia-local-que-comprar-en-2026-2gce",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T07:01:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Mini PC vs Mac mini vs GPU para IA local: qué comprar en 2026 Como desarrolladores de aplicaciones de automatización y IA, hemos visto que la elección del equipo adecuado puede ser",
+      "tags": [
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
         "hot"
       ],
       "score": 79
     },
     {
-      "title": "Help needed!",
-      "url": "https://www.reddit.com/r/automation/comments/1wmsjdq/help_needed/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-21T23:07:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Guys im trying to create an ai assistant for my dads business but im kinda lost. Ive created accounts with many sites such as vapi, retell ai, n8n, twilio and chatgpt. Im getting s",
+      "title": "Automating Crypto Price Updates on Telegram: A Practical Guide for Busy Communities",
+      "url": "https://dev.to/echopost/automating-crypto-price-updates-on-telegram-a-practical-guide-for-busy-communities-p10",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T06:41:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Hidden Cost of Manual Crypto Price Posting If you run a Telegram channel focused on cryptocurrencies, you know the drill: every few hours, you manually check prices on an excha",
       "tags": [
-        "GPT/OpenAI",
-        "n8n"
-      ],
-      "buckets": [
-        "llm",
-        "n8n"
-      ],
-      "score": 76
-    },
-    {
-      "title": "I created a software that records my screen and camera like Loom, and then Claude Code edits the entire video for me (Open source)",
-      "url": "https://www.reddit.com/r/automation/comments/1wlhw5l/i_created_a_software_that_records_my_screen_and/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-20T14:01:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/3ivbeb7wloqh1.png?width=1080&format=png&auto=webp&s=eb404be5a21b2cfe0b446f954dc0f376a7477b10 What it does is you record your screen with whatever you want t",
-      "tags": [
-        "Claude/Anthropic",
+        "NotebookLM",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "prod",
         "hot"
       ],
-      "score": 70
+      "score": 77
     },
     {
-      "title": "The best scraping tools I've used",
-      "url": "https://www.reddit.com/r/automation/comments/1womxvc/the_best_scraping_tools_ive_used/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-24T00:24:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I went through a ton of providers while building my side project and I want to share some of my favorite tools! - Firecrawl: This has been the most pleasurable service. It's well-b",
+      "title": "How Can IT Parks in Pune Reduce Water Costs Across Multiple Office Towers?",
+      "url": "https://dev.to/mytank/how-can-it-parks-in-pune-reduce-water-costs-across-multiple-office-towers-4n9c",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T06:38:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most IT parks bill water as a shared campus cost, split across tenant companies by square footage or headcount. That works fine administratively, but it means nobody has a clear pi",
       "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Recommended readings on Process mapping and change management + implementing automation and AI?",
-      "url": "https://www.reddit.com/r/automation/comments/1wnxspm/recommended_readings_on_process_mapping_and/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-23T06:07:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am responsible for implementing automation and AI in my org I was wondering if you could suggest some books / ebooks / articles or even wikis Main challenge I face are - no mappe",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "How to spot a good AI visibility agency (and avoid the bad ones)",
-      "url": "https://www.reddit.com/r/automation/comments/1wn6zmm/how_to_spot_a_good_ai_visibility_agency_and_avoid/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T11:34:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’re hiring for AEO/GEO right now, and after a dozen calls here’s my filter: Green flags: · They show raw scans – timestamps, prompt sets, scan IDs. Not a quarterly PDF. HumansWit",
-      "tags": [
-        "GPT/OpenAI",
+        "Notion Status",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "status",
         "hot"
       ],
-      "score": 62
+      "score": 75
     },
     {
-      "title": "Anyone automating change approvals with AI in product lifecycle management or is it still mostly document search",
-      "url": "https://www.reddit.com/r/automation/comments/1wo7oww/anyone_automating_change_approvals_with_ai_in/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-23T14:33:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build internal automations for a hardware company of about forty people. Most of my work so far is Zapier flows and some Python glue between our ERP and shared drives. Engineerin",
+      "title": "BizNode workflow chains: /cw to create, /rw to run. BZeUSD escrow enforced. If any step fails, full rollback — your funds...",
+      "url": "https://dev.to/biznode/biznode-workflow-chains-cw-to-create-rw-to-run-bzeusd-escrow-enforced-if-any-step-fails-full-3g51",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T07:00:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The 1BZ Ecosystem CopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate) AI business operator node — https://biznode.1bz.biz ",
       "tags": [
-        "Zapier",
+        "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "zapier",
+        "creators",
+        "hot"
+      ],
+      "score": 73
+    },
+    {
+      "title": "Migrating Cloudways GitHub Actions CI/CD from API Key to Access Token",
+      "url": "https://dev.to/s1kopath/migrating-cloudways-github-actions-cicd-from-api-key-to-access-token-47g4",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T07:04:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Cloudways is deprecating its legacy API Key authentication and moving integrations to API Access Tokens. If you have an existing Laravel application deployed through GitHub Actions",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
         "hot"
       ],
       "score": 55
     },
     {
-      "title": "Tasket++ : Simulate your Windows actions automatically (free & open source)",
-      "url": "https://www.reddit.com/r/automation/comments/1wkcepd/tasket_simulate_your_windows_actions/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-19T04:36:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Tasket++ lets you define your own clicks, cursor positions, keystrokes, and routines, then replay them exactly when you want. It’s a simple Windows tool that handles repetitive wor",
-      "tags": [
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 52
-    },
-    {
-      "title": "Local AI agent or cloud-hosted agent — what are you using?",
-      "url": "https://www.reddit.com/r/automation/comments/1wo2u4y/local_ai_agent_or_cloudhosted_agent_what_are_you/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-23T11:02:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/techlatest_net [link] [comments]",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
-    },
-    {
-      "title": "My first n8n workflow was a drinking reminder. What was yours?",
-      "url": "https://www.reddit.com/r/automation/comments/1wo23bw/my_first_n8n_workflow_was_a_drinking_reminder/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-23T10:22:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/easybits_ai [link] [comments]",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 49
-    },
-    {
-      "title": "CapCut was taking too long, so I automated my entire YouTube Shorts workflow using FFmpeg and AI. Just hit my first 5 paying users",
-      "url": "https://www.reddit.com/r/automation/comments/1wmpioa/capcut_was_taking_too_long_so_i_automated_my/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-21T21:08:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A couple of months ago, I was proper fed up with spending hours piecing together vertical videos. I was honestly losing my mind spending forty minutes in CapCut clicking the exact ",
-      "tags": [
-        "NotebookLM",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 44
-    },
-    {
-      "title": "Agentic workflow automation vs plain RPA, where has the agent earned its keep for you?",
-      "url": "https://www.reddit.com/r/automation/comments/1wn7275/agentic_workflow_automation_vs_plain_rpa_where/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T11:38:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every conversation this year has been about agents, and I still cant get a straight answer on where one actually beats a well built bot. We run a small automation CoE in a shared s",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Make CI Automation Leave a Useful Receipt",
-      "url": "https://dev.to/mrdapperx/make-ci-automation-leave-a-useful-receipt-1bke",
+      "title": "How Shopping Malls in Lucknow Can Stop Losing Money to Water Overflow",
+      "url": "https://dev.to/mytank/how-shopping-malls-in-lucknow-can-stop-losing-money-to-water-overflow-5918",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-24T02:24:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Automation often gets judged by one question: did the command exit with zero? That is a useful first signal, but it is a poor handoff. When a scheduled job or CI check finishes, th",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "My video automation starts after the rough cut now",
-      "url": "https://www.reddit.com/r/automation/comments/1wlmjn1/my_video_automation_starts_after_the_rough_cut_now/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-20T17:04:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I built the dumb version first. Script in. Shot list out. One generated clip for every line. The queue worked. The edit did not. It gave equal attention to a key visual and a sente",
+      "published_at": "2026-09-26T06:33:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The scale is the problem. A mid-sized mall might have four or five separate tanks feeding different zones, and each one behaves differently depending on which section it serves. Th",
       "tags": [
         "Hot",
         "Release"
@@ -731,143 +454,27 @@
       "buckets": [
         "hot"
       ],
-      "score": 30
+      "score": 55
     },
     {
-      "title": "Best way to automate: Excel input → AI script → animation prompts → title/description?",
-      "url": "https://www.reddit.com/r/automation/comments/1wmikzr/best_way_to_automate_excel_input_ai_script/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-21T17:00:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Trying to build a workflow where I drop a video theme into an Excel row and it automatically: Writes a 2-3 min YouTube script in my style (ideally with some kind of review/revise p",
-      "tags": [
-        "Multimodal"
-      ],
-      "buckets": [
-        "multimodal"
-      ],
-      "score": 28
-    },
-    {
-      "title": "Do you run Hermes locally, in the cloud, or both?",
-      "url": "https://www.reddit.com/r/automation/comments/1wo2t0n/do_you_run_hermes_locally_in_the_cloud_or_both/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-23T11:01:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/techlatest_net [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Immediate Relative Petition Lawyer Powhatan County VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-powhatan-county-va-2jn3",
+      "title": "Чаты проекта Битрикс24: как разделить обсуждения по темам",
+      "url": "https://dev.to/_swebs_f392b7/chaty-proiekta-bitriks24-kak-razdielit-obsuzhdieniia-po-tiemam-1dl6",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-24T03:00:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Immediate Relative Petition Lawyer Do in Powhatan County? An immediate relative petition lawyer powhatan county va helps you complete and submit Form I-130, ensuring t",
+      "published_at": "2026-09-26T07:32:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: В командной переписке проекта быстро накапливается шум. Общая координация, вопросы по отдельному этапу и обсуждение конкретной задачи перемешиваются в одной бесконечной ленте, и ва",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "How is this channel generating/animating these visuals automatically?h",
-      "url": "https://www.reddit.com/r/automation/comments/1wngzbz/how_is_this_channel_generatinganimating_these/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T18:04:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How is this channel generating/animating these visuals automatically? Channel: youtube/@kaiexplainsYT What I cannot figure out is the visual/animation side. The videos have lots of",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "Everyone is moving something onto Jev this week",
-      "url": "https://www.reddit.com/r/automation/comments/1wnbu06/everyone_is_moving_something_onto_jev_this_week/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T14:58:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Everyone is moving something onto Jev this week. Fast, cheap, but nowhere near a frontier model if the task needs real thinking. That is the trade, and it is a good one as long as ",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "I started r/MuseAssistant — a community for Meta's Muse AI assistant 👋",
-      "url": "https://www.reddit.com/r/automation/comments/1wmywuz/i_started_rmuseassistant_a_community_for_metas/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T03:57:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone! I just launched r/MuseAssistant, a new community dedicated to Meta's Muse — the personal AI assistant. It's a place to share tips, news, builds, and automation workfl",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "Need help preparing for AI & Automation Manager interview",
-      "url": "https://www.reddit.com/r/automation/comments/1wn1hdb/need_help_preparing_for_ai_automation_manager/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T06:16:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi, I am appearing for a second round of interview for the role of for AI & Automation Manager in a financial sector company. Its a fairly big company. I don’t know how to prepare ",
+      "title": "Wireless Industrial Automation Solutions for Remote Monitoring",
+      "url": "https://dev.to/genesys_seo_239e1eb5b873b/wireless-industrial-automation-solutions-for-remote-monitoring-nf",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-26T07:23:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: \"Introduction Genesys UAE supports industrial customers with automation and instrumentation products. As one of the Industrial Automation Suppliers UAE, Genesys UAE helps businesse",
       "tags": [],
       "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "One thing I’ve noticed while building AI automations",
-      "url": "https://www.reddit.com/r/automation/comments/1wn4ysl/one_thing_ive_noticed_while_building_ai/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-22T09:45:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’ve been working on Kovax Voice AI for a while now, and one thing I’ve noticed is that people don’t necessarily want to automate their entire business. A lot of the time, it’s jus",
-      "tags": [],
-      "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "Any Idea on How to Automate This?",
-      "url": "https://www.reddit.com/r/automation/comments/1wm4xur/any_idea_on_how_to_automate_this/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-21T06:32:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Goal: Every week, I need to extract Hook and Hold Rate of around 35 or more reels from Instagram. Facebook has its own report and can manage to extract easily. For Linkedin I am us",
-      "tags": [],
-      "buckets": [],
-      "score": 12
-    },
-    {
-      "title": "How I automated outbound referrals for a primary care clinic",
-      "url": "https://www.reddit.com/r/automation/comments/1wlrt39/how_i_automated_outbound_referrals_for_a_primary/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-20T20:22:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Recently I built an automation for a general practice medical clinic to help them automate their outbound referrals. How their process worked was an employee would monitor a \"post ",
-      "tags": [],
-      "buckets": [],
-      "score": 0
-    },
-    {
-      "title": "Construí un grokbot gratis. ¿Qué hago ahora?",
-      "url": "https://www.reddit.com/r/automation/comments/1wl6ha9/construí_un_grokbot_gratis_qué_hago_ahora/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-20T03:58:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Fit-Conversation856 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 0
-    },
-    {
-      "title": "Automation engineer",
-      "url": "https://www.reddit.com/r/automation/comments/1wkj8sf/automation_engineer/",
-      "source": "Reddit r/automation",
-      "published_at": "2026-09-19T11:01:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Looking for an engineer that makes bots trying to set up a bot on macrorify but the swiper to swipe left isn't working submitted by /u/PhillGreen1234 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 0
+      "score": 25
     }
   ]
 }
