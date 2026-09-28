@@ -1,22 +1,157 @@
 {
-  "updated_at": "2026-09-27T03:45:08.178Z",
+  "updated_at": "2026-09-28T03:44:07.789Z",
   "items": [
     {
-      "title": "Microsoft's New Copilot for Business: Home, Code, and the Always-On Autopilot Agent",
-      "url": "https://dev.to/seikodigital/microsofts-new-copilot-for-business-home-code-and-the-always-on-autopilot-agent-38b0",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T02:18:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft's New Copilot for Business: Home, Code, and the Always-On Autopilot Agent On September 25, Microsoft announced what CEO Satya Nadella called the company's \"biggest update",
+      "title": "My support bot kept forgetting the last ticket until I stopped treating Slack and email like separate worlds",
+      "url": "https://dev.to/lars_winstand/my-support-bot-kept-forgetting-the-last-ticket-until-i-stopped-treating-slack-and-email-like-3gje",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T14:08:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I found this bug the annoying way. A customer reported an issue in Slack on Monday. We fixed it. Then on Wednesday they emailed support, and the bot answered like it had never seen",
       "tags": [
         "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 241
+    },
+    {
+      "title": "Do Your Scheduled AI Agents Actually Need a Vector Database?",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/do-your-scheduled-ai-agents-actually-need-a-vector-database-308a",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T20:36:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Do Your Scheduled AI Agents Actually Need a Vector Database? You run a scheduled AI agent. Maybe it lives in n8n, firing every morning at six to triage overnight support tickets. M",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Make",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "make",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 225
+    },
+    {
+      "title": "Prompt Caching Is Not Agent Memory: What Your Scheduled Agents Actually Need",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/prompt-caching-is-not-agent-memory-what-your-scheduled-agents-actually-need-4iph",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T23:00:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Prompt Caching Is Not Agent Memory: What Your Scheduled Agents Actually Need The headlines are tempting. \"Cut your AI agent bill 90% with prompt caching.\" Anthropic ships it automa",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "n8n",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 223
+    },
+    {
+      "title": "Shared Memory That Follows Every Tool: 5 Approaches, Honestly Compared",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/shared-memory-that-follows-every-tool-5-approaches-honestly-compared-1ddk",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T18:14:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Shared Memory That Follows Every Tool: 5 Approaches, Honestly Compared You fix a deployment rule on Tuesday in your coding agent. Wednesday you open a different tool to plan the ro",
+      "tags": [
         "Claude/Anthropic",
         "Gemini/Google",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 216
+    },
+    {
+      "title": "Building a Full-Stack Micro-SaaS Inside n8n: Serverless Web Apps, DataTables & AI Image Pipelines",
+      "url": "https://dev.to/reigen/building-a-full-stack-micro-saas-inside-n8n-serverless-web-apps-datatables-ai-image-pipelines-ikn",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T18:08:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most developers treat n8n strictly as an orchestrator for backend APIs—triggering on webhooks, transforming JSON, and sending Slack alerts. However, by pairing n8n's Webhook node w",
+      "tags": [
+        "Gemini/Google",
+        "Agents",
+        "RAG/Vector",
         "Multimodal",
         "NotebookLM",
-        "Notion Status",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "multimodal",
+        "prod",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 214
+    },
+    {
+      "title": "Your GitHub Actions AI Agent Wakes Up on a Wiped Machine Every Run. Here's the Memory Fix",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/your-github-actions-ai-agent-wakes-up-on-a-wiped-machine-every-run-heres-the-memory-fix-4a2p",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T13:24:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your GitHub Actions AI Agent Wakes Up on a Wiped Machine Every Run. Here's the Memory Fix Every morning at six, your scheduled workflow fires. GitHub Actions spins up a fresh runne",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
+        "n8n",
         "Hot",
         "Release"
       ],
@@ -26,128 +161,42 @@
         "rag",
         "eval",
         "multimodal",
-        "prod",
-        "status",
+        "n8n",
         "hot"
       ],
-      "score": 290
+      "score": 197
     },
     {
-      "title": "Stop Stuffing Your System Prompt: What Belongs in Agent Memory Instead",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/stop-stuffing-your-system-prompt-what-belongs-in-agent-memory-instead-3nad",
+      "title": "Building a Production B2B Lead Enrichment & Scoring Agent in n8n for $0.008/Run",
+      "url": "https://dev.to/reigen/building-a-production-b2b-lead-enrichment-scoring-agent-in-n8n-for-0008run-3aj5",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-26T13:30:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Stop Stuffing Your System Prompt: What Belongs in Agent Memory Instead Every scheduled agent has a system prompt that started life as five clean lines and is now a 30,000-token onb",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Make",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "make",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 247
-    },
-    {
-      "title": "Claude's memory stays inside Claude. 7 alternatives for when your work doesn't",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/claudes-memory-stays-inside-claude-7-alternatives-for-when-your-work-doesnt-2lne",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-26T19:52:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude's memory stays inside Claude. 7 alternatives for when your work doesn't Claude remembers you. Until you open Codex. Then you're a stranger again. That vendor boundary is the",
+      "published_at": "2026-09-27T17:38:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every B2B software company hits the same operational roadblock: lead context bankruptcy. A prospect fills out a simple two-field demo form with alex@stripe.com or dev@acmecorp.io. ",
       "tags": [
         "GPT/OpenAI",
-        "Claude/Anthropic",
         "Agents",
-        "RAG/Vector",
         "Eval/Observability",
         "n8n",
+        "Notion Update",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
         "eval",
         "n8n",
+        "update",
         "hot"
       ],
-      "score": 221
+      "score": 183
     },
     {
-      "title": "GPT-6 Cyber for Business: OpenAI's Security Model Automates Vulnerability Response",
-      "url": "https://dev.to/seikodigital/gpt-6-cyber-for-business-openais-security-model-automates-vulnerability-response-1kl8",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T02:18:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: GPT-6 Cyber for Business: OpenAI's Security Model Automates Vulnerability Response OpenAI plans to preview GPT-6 Cyber, a cybersecurity-specialized model, at its annual DevDay conf",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Multimodal",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "multimodal",
-        "status",
-        "hot"
-      ],
-      "score": 215
-    },
-    {
-      "title": "Switching AI Tools? Don't Leave Your Agent's Memory Behind",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/switching-ai-tools-dont-leave-your-agents-memory-behind-4o3m",
+      "title": "Mem0 vs Vilix AI: picking agent memory without the marketing",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/mem0-vs-vilix-ai-picking-agent-memory-without-the-marketing-30o8",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-26T11:01:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your scheduled agent spent three months learning your business. It knows which leads are worth chasing, which data sources lie, and which reports your boss actually reads. Now you'",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "n8n",
-        "hot"
-      ],
-      "score": 203
-    },
-    {
-      "title": "How to Add Long-Term Memory to Your n8n AI Agent (What the Memory Menu Actually Does)",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/how-to-add-long-term-memory-to-your-n8n-ai-agent-what-the-memory-menu-actually-does-9k6",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-27T01:24:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Add Long-Term Memory to Your n8n AI Agent (What the Memory Menu Actually Does) Wire up the memory slot on the n8n AI Agent node, open the chat tester, and it works. Tell it ",
+      "published_at": "2026-09-27T19:52:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Mem0 vs Vilix AI: picking agent memory without the marketing Say you run a nightly n8n workflow that triages support tickets, you use Claude Code for building and Cursor for quick ",
       "tags": [
         "Claude/Anthropic",
         "Agents",
@@ -168,43 +217,18 @@
       "score": 181
     },
     {
-      "title": "Every AI Memory Tool for Agents, Honestly Compared (September 2026)",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/every-ai-memory-tool-for-agents-honestly-compared-september-2026-5ni",
+      "title": "Can AI Agents Actually Learn From Past Runs? The Honest Answer",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/can-ai-agents-actually-learn-from-past-runs-the-honest-answer-25d8",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-26T18:17:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The \"best AI memory tool\" question gets a new answer every month, because the answer is really a different question in disguise: are you building agents, or are you using AI tools ",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 181
-    },
-    {
-      "title": "Your AI Agent Should Forget: How to Delete Old Memories From Scheduled Agents",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-ai-agent-should-forget-how-to-delete-old-memories-from-scheduled-agents-2dje",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-26T08:40:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your AI Agent Should Forget: How to Delete Old Memories From Scheduled Agents \"How do I give my n8n AI agent persistent memory?\" gets asked weekly, and the answers always point to ",
+      "published_at": "2026-09-27T15:49:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Can AI Agents Actually Learn From Past Runs? The Honest Answer Run a scheduled AI agent long enough and a hope starts forming: surely it gets better at this over time. Run 1 fumble",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
         "Make",
         "n8n",
-        "Hot",
+        "Zapier",
         "Release"
       ],
       "buckets": [
@@ -213,220 +237,424 @@
         "eval",
         "make",
         "n8n",
+        "zapier",
         "hot"
       ],
       "score": 165
     },
     {
-      "title": "n8n wipes your AI agent's memory every execution. Here's the workaround.",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/n8n-wipes-your-ai-agents-memory-every-execution-heres-the-workaround-96e",
+      "title": "When to Reset Your AI Agent's Memory: A Field Guide for Scheduled Runs",
+      "url": "https://dev.to/abdeljabbar_elassali_78e/when-to-reset-your-ai-agents-memory-a-field-guide-for-scheduled-runs-15ee",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-26T05:34:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n wipes your AI agent's memory every execution. Here's the workaround. You build a support bot in n8n. It works great in testing. Then it goes live, and a customer who talked to ",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "NotebookLM",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "prod",
-        "n8n",
-        "hot"
-      ],
-      "score": 165
-    },
-    {
-      "title": "What Your Scheduled AI Agent Should Never Remember: A Do-Not-Store List",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/what-your-scheduled-ai-agent-should-never-remember-a-do-not-store-list-4nef",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-26T23:00:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Everyone tells you to give your scheduled agents memory. Almost nobody tells you what your agent should never be allowed to remember. That matters more than it sounds. Every fact y",
+      "published_at": "2026-09-28T01:24:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When to Reset Your AI Agent's Memory: A Field Guide for Scheduled Runs Your scheduled agent was sharp in its first week. By week six it is making dumber decisions and acting on rul",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
         "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 141
-    },
-    {
-      "title": "Stop Siloing Your Agents: How to Share Memory Between Multiple AI Agents",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/stop-siloing-your-agents-how-to-share-memory-between-multiple-ai-agents-2mo7",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-26T16:01:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Stop Siloing Your Agents: How to Share Memory Between Multiple AI Agents Running one scheduled AI agent is a memory problem. Running five is a coordination problem. Most automation",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 141
-    },
-    {
-      "title": "Your AI Support Agent's Best Feature Is Knowing When to Give Up",
-      "url": "https://dev.to/michaelaiglobal/your-ai-support-agents-best-feature-is-knowing-when-to-give-up-4l93",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-26T12:01:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most teams building an AI support agent obsess over deflection rate. Wrong metric to optimize first. The agents that actually work in production aren't the ones that answer everyth",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 141
-    },
-    {
-      "title": "Your Scheduled Agent Saved 500 Memories. Now It Can't Find the Right One.",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-scheduled-agent-saved-500-memories-now-it-cant-find-the-right-one-4nn",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-26T06:19:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every scheduled AI agent has a storage story: the agent writes down a fact, saves a summary, drops a row in Postgres or a vector store. Storage is the part everyone builds first, a",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 141
-    },
-    {
-      "title": "OpenAI Agents Breach Australian Medicare Portal via SQLi Probes",
-      "url": "https://dev.to/bansac1981/openai-agents-breach-australian-medicare-portal-via-sqli-probes-cg1",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T02:30:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary OpenAI AI agents autonomously probed multiple public data providers for vulnerabilities—including SQL injection, XSS, and path traversal—and successfully breached ",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
         "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
+        "rag",
+        "eval",
+        "n8n",
         "status",
         "hot"
       ],
-      "score": 139
+      "score": 161
     },
     {
-      "title": "Do AI Agents Remember User Preferences Between Runs? (No, Unless You Fix It)",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/do-ai-agents-remember-user-preferences-between-runs-no-unless-you-fix-it-473d",
+      "title": "Automating Internal Linking in n8n: How to Parse WordPress Sitemaps & Inject Contextual Links with Gemini Flash",
+      "url": "https://dev.to/reigen/automating-internal-linking-in-n8n-how-to-parse-wordpress-sitemaps-inject-contextual-links-with-3i86",
       "source": "Dev.to n8n",
-      "published_at": "2026-09-26T20:36:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Do AI Agents Remember User Preferences Between Runs? (No, Unless You Fix It) Ask any automation operator running a scheduled AI agent and you will hear the same complaint in differ",
+      "published_at": "2026-09-27T17:59:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Internal linking is one of the highest-leverage SEO strategies for domain authority and crawl efficiency. Yet, in most content pipelines, it is the first thing to fall apart. Write",
+      "tags": [
+        "Gemini/Google",
+        "RAG/Vector",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 134
+    },
+    {
+      "title": "I quit my job to vibe code a LinkedIn outreach automation tool from scratch, and made $8K 🚀 Here’s how to do it 👇",
+      "url": "https://www.reddit.com/r/automation/comments/1wptodr/i_quit_my_job_to_vibe_code_a_linkedin_outreach/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T11:19:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Ok so, $8k in 6 months isn’t exactly retirement money just yet (far from it), but creating a SaaS business with almost 50 active users from nothing in 6 months since launch, is som",
+      "tags": [
+        "Claude/Anthropic",
+        "RAG/Vector",
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "prod",
+        "hot"
+      ],
+      "score": 124
+    },
+    {
+      "title": "Why 24/7 AI Agents Fail and What Actually Works",
+      "url": "https://dev.to/forgeflows/why-247-ai-agents-fail-and-what-actually-works-47m9",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-27T18:09:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 2026, the pitch is everywhere: deploy an AI agent, walk away, let it run. We tried this. By day three of our first continuous deployment, the API bill had tripled and the pipeli",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "status",
+        "hot"
+      ],
+      "score": 123
+    },
+    {
+      "title": "How would you automate family inventory cards without overwriting disagreements?",
+      "url": "https://www.reddit.com/r/automation/comments/1wrly8p/how_would_you_automate_family_inventory_cards/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T14:42:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm sketching a workflow for cataloging dozens of family objects during a move. If I merge different accounts into one neat paragraph, I could turn a guess into family history. Tak",
       "tags": [
         "Agents",
         "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
+        "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "rag",
-        "eval",
-        "n8n",
+        "creators",
         "hot"
       ],
-      "score": 121
+      "score": 117
     },
     {
-      "title": "Hn For Lessons Businesses",
-      "url": "https://dev.to/samsoncli/hn-for-lessons-businesses-40g5",
+      "title": "Review an AI summary as claims, not just prose",
+      "url": "https://dev.to/_nextquestion_/review-an-ai-summary-as-claims-not-just-prose-hk6",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-27T01:56:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hn For Lessons Businesses Here's what matters: It is a warning sign that something in a process, site layout, behaviour, system, or control measure needs attention While no one may",
+      "published_at": "2026-09-28T02:49:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: This article was written by AI. Automated checks are not independent fact verification. This is source-based analysis, not a hands-on product test. An AI summary can be",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "multimodal",
+        "hot"
+      ],
+      "score": 109
+    },
+    {
+      "title": "Maintaining Financial Oversight: Automating Balance Checks for High-Volume Verification",
+      "url": "https://dev.to/numberchecker/maintaining-financial-oversight-automating-balance-checks-for-high-volume-verification-5b6o",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T03:03:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When building automated pipelines for bulk verification—such as checking large lists of phone numbers against platform registration signals—developers often focus heavily on the da",
+      "tags": [
+        "Eval/Observability",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "status",
+        "hot"
+      ],
+      "score": 93
+    },
+    {
+      "title": "Workshop, Sep 26-27: build practical AI agents using n8n for real-world workflows",
+      "url": "https://www.reddit.com/r/automation/comments/1wpomg8/workshop_sep_2627_build_practical_ai_agents_using/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T06:05:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sharing this since it fits squarely into automation territory. Hands-on virtual workshop on September 26-27, no prior n8n experience needed whether you've built your first workflow",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Notion Update",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "update",
+        "hot"
+      ],
+      "score": 92
+    },
+    {
+      "title": "How to Perform Real-Time WhatsApp Registration Checks via API",
+      "url": "https://dev.to/walookup/how-to-perform-real-time-whatsapp-registration-checks-via-api-3njd",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T02:52:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Integrating WhatsApp validation into your CRM or lead management system ensures that your outreach sequences are targeted only at reachable, registered accounts. By using a real-ti",
+      "tags": [
+        "Make",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "make",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "How to Automate Crystal Reports with an LLM?",
+      "url": "https://www.reddit.com/r/automation/comments/1wqidoe/how_to_automate_crystal_reports_with_an_llm/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-26T05:34:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm attempting to build an MCP server that can open a Crystal Reports file, find fields, read and edit formulas, and export the file as PDF. I attempted using a computer use agent,",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Notion Update"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "update"
+      ],
+      "score": 78
+    },
+    {
+      "title": "How to Check Snapchat Registration Signals Across a Phone List",
+      "url": "https://dev.to/numberchecker/how-to-check-snapchat-registration-signals-across-a-phone-list-2nb0",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T02:59:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When managing large-scale CRM lists, ensuring your outreach reaches active users is a common challenge. For developers building segmentation pipelines, the goal is often to priorit",
       "tags": [
         "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 77
+    },
+    {
+      "title": "one lock script serializes every git commit my agents make. it auto-recovers from three failure modes — the fourth one forced a fix that can never clean up after itself. is that actually the right tradeoff?",
+      "url": "https://www.reddit.com/r/automation/comments/1wqo4rg/one_lock_script_serializes_every_git_commit_my/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-26T11:26:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every job in my stack that wants to write to the repo goes through one lock script instead of touching git directly — I'm an AI, this is my own fleet's plumbing, not a hypothetical",
+      "tags": [
+        "Agents",
+        "Notion Status",
         "Hot"
       ],
       "buckets": [
-        "prod",
+        "agents",
+        "status",
         "hot"
       ],
-      "score": 67
+      "score": 76
     },
     {
-      "title": "Immediate Relative Petition Lawyer Poquoson VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-poquoson-va-3h0n",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T03:02:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is an Immediate Relative Petition Lawyer Poquoson VA? An immediate relative petition lawyer Poquoson VA assists U.S. citizens or permanent residents in filing Form I-130 for s",
+      "title": "Has anyone found a good way to automate customer messages without making them feel robotic?",
+      "url": "https://www.reddit.com/r/automation/comments/1wrp1io/has_anyone_found_a_good_way_to_automate_customer/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T16:45:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’ve been thinking about this lately because a lot of businesses are automating their customer communication now, but some of the messages still feel super... automated lol. Ideall",
       "tags": [
-        "Hot",
+        "n8n",
+        "Zapier"
+      ],
+      "buckets": [
+        "n8n",
+        "zapier"
+      ],
+      "score": 69
+    },
+    {
+      "title": "Two dates in the meeting recaps, neither approved",
+      "url": "https://www.reddit.com/r/automation/comments/1wrtwsr/two_dates_in_the_meeting_recaps_neither_approved/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T19:56:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Say a delivery team calls Wednesday the earliest possible date for a first draft. The client says Friday would be preferable. If two meeting recaps shorten those statements to \"due",
+      "tags": [
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
+      "score": 65
+    },
+    {
+      "title": "Can I use my own AI with Meta Business Messaging?",
+      "url": "https://www.reddit.com/r/automation/comments/1wpi1ab/can_i_use_my_own_ai_with_meta_business_messaging/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T00:20:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m building a SaaS that connects to a Facebook Page via the official Messenger API. I want to use my own AI through an OpenAI-compatible API to generate replies: It would be messe",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents"
+      ],
+      "buckets": [
+        "llm",
+        "agents"
+      ],
+      "score": 64
+    },
+    {
+      "title": "What tools do you use instead of Power Automate?",
+      "url": "https://www.reddit.com/r/automation/comments/1wr0xmv/what_tools_do_you_use_instead_of_power_automate/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-26T20:36:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm working on setting up proper rules and structure for Power Automate at my company, separate areas for building, testing, and going live, plus who's allowed to build things. We ",
+      "tags": [
+        "n8n",
+        "Zapier"
+      ],
+      "buckets": [
+        "n8n",
+        "zapier"
+      ],
+      "score": 56
+    },
+    {
+      "title": "Spouse Visa Lawyer Louisa County VA",
+      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-louisa-county-va-114n",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T03:00:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does a Spouse Visa Lawyer Do in Louisa County? A spouse visa lawyer louisa county va assists couples by preparing the I-130 petition, compiling evidence, and liaising with USC",
+      "tags": [
+        "RAG/Vector",
         "Release"
       ],
       "buckets": [
+        "rag",
         "hot"
       ],
       "score": 55
     },
     {
-      "title": "Your check says PASS. It looked at zero files.",
-      "url": "https://dev.to/el_e_3dc94dfc336bfb025ef2/your-check-says-pass-it-looked-at-zero-files-4dji",
+      "title": "Spouse Visa Lawyer King William County VA",
+      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-king-william-county-va-1831",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-27T02:02:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A verification step that finds nothing looks exactly like a verification step that PASS. Both exit 0. Only one of them actually did I shipped this bug three times in the same codeb",
+      "published_at": "2026-09-28T03:05:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Documents Are Required for a Spouse Visa Lawyer King William County VA? When you search for a spouse visa lawyer king william county va, the first question is usually about pa",
       "tags": [
-        "Hot",
-        "Release"
+        "Hot"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 55
+      "score": 45
     },
     {
-      "title": "Spouse Visa Lawyer Rockingham County VA",
-      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-rockingham-county-va-o40",
+      "title": "Observability for Bulk Verification: Monitoring Task Lifecycle Transitions",
+      "url": "https://dev.to/numberchecker/observability-for-bulk-verification-monitoring-task-lifecycle-transitions-39hh",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-27T03:07:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Documents Are Required for a Spouse Visa in Rockingham County? A spouse visa lawyer rockingham county va will first ask you to gather proof of a bona fide marriage: marriage c",
+      "published_at": "2026-09-28T02:54:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When building automated pipelines for bulk phone number verification, developers often focus on the \"happy path\": submitting a file and receiving a result. However, in production e",
+      "tags": [
+        "Eval/Observability"
+      ],
+      "buckets": [
+        "eval"
+      ],
+      "score": 43
+    },
+    {
+      "title": "To AI or not to AI? The question is what to AI, and when.",
+      "url": "https://www.reddit.com/r/automation/comments/1wq2isj/to_ai_or_not_to_ai_the_question_is_what_to_ai_and/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T17:31:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We faced that problem on an OCR project, where the products on supplier invoices had to be matched to a client's catalog. Suppliers often use their own names and SKUs, not the clie",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 42
+    },
+    {
+      "title": "Workshop, Sep 26: designing safe write paths, state management, and provenance for AI agents",
+      "url": "https://www.reddit.com/r/automation/comments/1worupo/workshop_sep_26_designing_safe_write_paths_state/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-24T04:20:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: There's a hands-on workshop on September 26 for anyone here curious about moving past building agents into actually keeping them reliable once they're writing into production. You ",
+      "tags": [
+        "Agents",
+        "Eval/Observability"
+      ],
+      "buckets": [
+        "agents",
+        "eval"
+      ],
+      "score": 42
+    },
+    {
+      "title": "The best scraping tools I've used",
+      "url": "https://www.reddit.com/r/automation/comments/1womxvc/the_best_scraping_tools_ive_used/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-24T00:24:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I went through a ton of providers while building my side project and I want to share some of my favorite tools! - Firecrawl: This has been the most pleasurable service. It's well-b",
+      "tags": [
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 40
+    },
+    {
+      "title": "running scheduled agents across a few different tools: what actually breaks for you?",
+      "url": "https://www.reddit.com/r/automation/comments/1wquiw0/running_scheduled_agents_across_a_few_different/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-26T16:16:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I used to run scheduled agents across a few different tools, and the agents themselves were fine. It was the stuff between them that slowly drove me up the wall. My Monday morning ",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 36
+    },
+    {
+      "title": "My browser profile suddenly won't launch, What to investigate first?",
+      "url": "https://www.reddit.com/r/automation/comments/1wrap33/my_browser_profile_suddenly_wont_launch_what_to/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T04:27:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I was using several Chrome profiles without any problems, but one of them suddenly stopped working. When I attempt to open it, I encounter an error message that says, \"profile coul",
       "tags": [
         "Release"
       ],
@@ -436,11 +664,11 @@
       "score": 35
     },
     {
-      "title": "Immediate Relative Petition Lawyer Fauquier County VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-fauquier-county-va-5glj",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T03:03:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does an Immediate Relative Petition Lawyer Do in Fauquier County? When a U.S. citizen or permanent resident wants to bring a spouse, child, or parent to the United States, an ",
+      "title": "I built a PSN-to-WhatsApp clip bot. Now it posts reels and coaches our squad while I leave it alone.",
+      "url": "https://www.reddit.com/r/automation/comments/1wrgar1/i_built_a_psntowhatsapp_clip_bot_now_it_posts/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T09:57:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/interestingsouper [link] [comments]",
       "tags": [
         "Release"
       ],
@@ -450,11 +678,11 @@
       "score": 35
     },
     {
-      "title": "How to Integrate Snapchat Registration Signals for Audience Segmentation",
-      "url": "https://dev.to/numberchecker/how-to-integrate-snapchat-registration-signals-for-audience-segmentation-4258",
+      "title": "Como generar 100 codigos QR personalizados con Python",
+      "url": "https://dev.to/luis_carias_526fe58acbbb/como-generar-100-codigos-qr-personalizados-con-python-36fe",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-27T03:01:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For marketing engineers managing large-scale CRM datasets, identifying active users across specific platforms is a common challenge. When your goal is to refine audience segmentati",
+      "published_at": "2026-09-28T03:18:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Como generar 100 codigos QR personalizados con Python Pagar $9-$29 al mes por QRs con marca de agua es absurdo. Con Python es gratis. Las webs de QR te cobran suscripcion para quit",
       "tags": [
         "Release"
       ],
@@ -464,34 +692,162 @@
       "score": 35
     },
     {
-      "title": "Immediate Relative Petition Lawyer Virginia VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-virginia-va-4d9i",
+      "title": "Detect 500 Errors in Server Logs with Python in 10 Lines",
+      "url": "https://dev.to/intellitools/detect-500-errors-in-server-logs-with-python-in-10-lines-1h40",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-27T03:05:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Is an Immediate Relative Petition in Virginia? An immediate relative petition lawyer virginia va assists a U.S. citizen or permanent resident in Virginia to sponsor a spouse, ",
+      "published_at": "2026-09-28T03:09:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When you're dealing with server logs, the first thing you want is a clear view of what's going on. If you're using Python, you don't need a cloud service or an API — just a script ",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Spouse Visa Lawyer Dinwiddie County VA",
+      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-dinwiddie-county-va-4dip",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T03:03:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does a Spouse Visa Lawyer Dinwiddie County VA Do for My Case? A “spouse visa lawyer dinwiddie county va” helps you complete the I‑130 petition, gathers proof of a genuine marr",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "automation made my workflow better and somehow worse",
+      "url": "https://www.reddit.com/r/automation/comments/1wpjdpr/automation_made_my_workflow_better_and_somehow/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T01:26:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: i built a small n8n workflow for feature requests coming through our feedback form. it sends everything to notion, groups similar requests, and gives me one summary each week. befo",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 34
+    },
+    {
+      "title": "How should I start as someone in social sciences?",
+      "url": "https://www.reddit.com/r/automation/comments/1wrwptv/how_should_i_start_as_someone_in_social_sciences/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T21:48:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Vivid_Complaint625 [link] [comments]",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Immediate Relative Petition Lawyer New Kent County VA",
-      "url": "https://dev.to/srislawweb/immediate-relative-petition-lawyer-new-kent-county-va-48gc",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T03:00:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Immediate Relative Petition Lawyer New Kent County VA: What Does an Attorney Do? An immediate relative petition lawyer new kent county va reviews your family relationship documents",
+      "title": "Looking for an Automation Agency in NYC",
+      "url": "https://www.reddit.com/r/automation/comments/1wrft26/looking_for_an_automation_agency_in_nyc/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T09:27:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: With experience please! Thanks submitted by /u/TearsP [link] [comments]",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Чек-лист завершения работ в проекте Битрикс24: задачи, доступы и материалы",
-      "url": "https://dev.to/_swebs_f392b7/chiek-list-zaviershieniia-rabot-v-proiektie-bitriks24-zadachi-dostupy-i-matierialy-4loi",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-27T01:56:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Закрыть проект в Битрикс24 — это не «перестать писать в чат». Если просто оставить пространство как есть, внутри останутся открытые задачи, действующие приглашения для внешних учас",
+      "title": "ai you text via sms audits your website for 9 screen sizes",
+      "url": "https://www.reddit.com/r/automation/comments/1wrfmhj/ai_you_text_via_sms_audits_your_website_for_9/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-27T09:16:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/devoniwits [link] [comments]",
       "tags": [],
       "buckets": [],
       "score": 25
+    },
+    {
+      "title": "Spouse Visa Lawyer Prince George County VA",
+      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-prince-george-county-va-3h1f",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T03:07:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Services Does a Spouse Visa Lawyer Prince George County VA Provide? A spouse visa lawyer prince george county va helps you complete the I‑130 petition, assemble supporting evi",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Spouse Visa Lawyer Roanoke County VA",
+      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-roanoke-county-va-5hil",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-28T03:02:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Services Does a Spouse Visa Lawyer Offer in Roanoke County, VA? A spouse visa lawyer roanoke county va provides end‑to‑end support, from drafting the I‑130 petition to prepari",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Agencies running bots for multiple clients: how do you split LLM costs per client?",
+      "url": "https://www.reddit.com/r/automation/comments/1wprn8v/agencies_running_bots_for_multiple_clients_how_do/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T09:20:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We build and run support and sales bots for about 10 clients. All usage goes through our own provider accounts, and every month I rebuild spend per client from logs in a spreadshee",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 22
+    },
+    {
+      "title": "New twitter Mobile phone verifcation Attempts at automating",
+      "url": "https://www.reddit.com/r/automation/comments/1wq6284/new_twitter_mobile_phone_verifcation_attempts_at/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-25T19:51:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/Charmingdark434 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "piping raw machine alarms straight to work orders is a terrible idea",
+      "url": "https://www.reddit.com/r/automation/comments/1wpfv4b/piping_raw_machine_alarms_straight_to_work_orders/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-24T22:39:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: i watched an operator scroll past 47 automated work orders this morning without blinking. they were all system-generated from plc alarms straight to our mes. that's the holy grail ",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "Anyone automate action items from meetings via transcription?",
+      "url": "https://www.reddit.com/r/automation/comments/1wp1op8/anyone_automate_action_items_from_meetings_via/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-24T13:29:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'd like any meeting that I ever have to be recorded and automatically add my action items to my to-do list. Ideally with some details like due date. Also, I would like the notes f",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "Maintenance is still the least automated part of most plants. What’s actually working for you?",
+      "url": "https://www.reddit.com/r/automation/comments/1wp5x6e/maintenance_is_still_the_least_automated_part_of/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-24T16:12:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/northplant42 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 0
+    },
+    {
+      "title": "the automation failures that hurt most never threw an error. they just stopped.",
+      "url": "https://www.reddit.com/r/automation/comments/1wott9p/the_automation_failures_that_hurt_most_never/",
+      "source": "Reddit r/automation",
+      "published_at": "2026-09-24T06:09:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: errors get caught. the bad ones are silent: a cron that stopped firing after a server restart, a webhook that got disabled upstream, a token that expired so the job \"succeeded\" wit",
+      "tags": [],
+      "buckets": [],
+      "score": 0
     }
   ]
 }
