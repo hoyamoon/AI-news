@@ -1,6 +1,36 @@
 {
-  "updated_at": "2026-09-29T04:19:05.764Z",
+  "updated_at": "2026-09-30T04:03:00.561Z",
   "items": [
+    {
+      "title": "How to Build a Production n8n AI Webhook Pipeline with Zero-Downtime Cascading Fallback",
+      "url": "https://dev.to/ancucorp/how-to-build-a-production-n8n-ai-webhook-pipeline-with-zero-downtime-cascading-fallback-34oi",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-30T01:06:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building a Zero-Downtime AI Webhook Pipeline in n8n (Claude 3.5 Sonnet -> GPT-4o -> DeepSeek V3) If you are running AI automation workflows in production, here is an uncomfortable ",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "Eval/Observability",
+        "Make",
+        "n8n",
+        "Notion Status",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "eval",
+        "make",
+        "n8n",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 263
+    },
     {
       "title": "My Google AI API 500 errors stopped being scary when I stopped retrying the whole workflow",
       "url": "https://dev.to/lars_winstand/my-google-ai-api-500-errors-stopped-being-scary-when-i-stopped-retrying-the-whole-workflow-ko1",
@@ -29,68 +59,7 @@
         "status",
         "hot"
       ],
-      "score": 258
-    },
-    {
-      "title": "Beyond Unit Tests: Automating Cross-Service Integration for AI & Full-Stack Reliability",
-      "url": "https://dev.to/ravi_roy_1222f9e6b2ea51bd/beyond-unit-tests-automating-cross-service-integration-for-ai-full-stack-reliability-5h3p",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-29T03:32:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've seen it countless times: beautifully crafted microservices and brilliant AI models, all passing their unit tests with flying colors, only to crumble when they try to talk to e",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Multimodal",
-        "NotebookLM",
-        "Make",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "multimodal",
-        "prod",
-        "make",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 217
-    },
-    {
-      "title": "How to Give Your AI Agent Memory Without Writing Code (3 No-Code Paths)",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/how-to-give-your-ai-agent-memory-without-writing-code-3-no-code-paths-24ig",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-28T13:24:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Give Your AI Agent Memory Without Writing Code (3 No-Code Paths) Every \"give your agent memory\" tutorial starts the same way: install this Python library, stand up a vector ",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "make",
-        "n8n",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 215
+      "score": 245
     },
     {
       "title": "How to Protect Your Scheduled AI Agent's Memory From Poisoning",
@@ -117,7 +86,32 @@
         "status",
         "hot"
       ],
-      "score": 201
+      "score": 188
+    },
+    {
+      "title": "Building an Autonomous AI Memory Engine in n8n: Zero-Maintenance RAG Sync for Notion & Airtable",
+      "url": "https://dev.to/reigen/building-an-autonomous-ai-memory-engine-in-n8n-zero-maintenance-rag-sync-for-notion-airtable-32ea",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-29T16:20:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building an Autonomous AI Memory Engine in n8n: Zero-Maintenance RAG Sync for Notion & Airtable AI agents are only as reliable as their context window. When enterprise knowledge li",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 181
     },
     {
       "title": "Zep vs Vilix AI: picking agent memory without the marketing",
@@ -142,7 +136,7 @@
         "n8n",
         "hot"
       ],
-      "score": 181
+      "score": 168
     },
     {
       "title": "Coding Agents Have Amnesia. Here Are 6 Memory Layers, Compared Honestly",
@@ -167,32 +161,7 @@
         "n8n",
         "hot"
       ],
-      "score": 181
-    },
-    {
-      "title": "OpenAI Agents Access Non-Public Government Data in Australia",
-      "url": "https://dev.to/bansac1981/openai-agents-access-non-public-government-data-in-australia-5d89",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-29T02:30:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Forensic Summary Australia has disclosed that an OpenAI-powered agent gained unauthorised access to non-public government information while ostensibly performing routine web data r",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "status",
-        "hot"
-      ],
-      "score": 177
+      "score": 168
     },
     {
       "title": "How to Keep AI Agent Memory Separate for Each User (4 Isolation Patterns)",
@@ -217,62 +186,104 @@
         "n8n",
         "hot"
       ],
-      "score": 163
+      "score": 150
     },
     {
-      "title": "Discovery Loop’s $50 Billion Bid Tests the Limits of AI Startup Valuations",
-      "url": "https://dev.to/ai_agent_automation_d9/discovery-loops-50-billion-bid-tests-the-limits-of-ai-startup-valuations-12ch",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-29T04:11:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Discovery Loop’s $50 Billion Bid Tests the Limits of AI Startup Valuations Google’s spinout culture collides with investor skepticism as yet another ex-Google AI team demands premi",
+      "title": "Wired n8n to Ollama and the MCP Tool — and Hit Almost Every Wall on the Way",
+      "url": "https://dev.to/agenticdevops/wired-n8n-to-ollama-and-the-mcp-tool-and-hit-almost-every-wall-on-the-way-30id",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-30T01:09:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n running as a container is a decent stand-in for \"how would a real automation platform actually call this stuff\". Everything up to now has been me calling things directly. Two i",
       "tags": [
-        "Gemini/Google",
+        "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
-        "Multimodal",
-        "Hot",
+        "n8n",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
         "rag",
-        "multimodal",
-        "hot"
-      ],
-      "score": 150
-    },
-    {
-      "title": "How to get YouTube transcripts in n8n (and use them in an AI Agent)",
-      "url": "https://dev.to/deepakpant/how-to-get-youtube-transcripts-in-n8n-and-use-them-in-an-ai-agent-3lbp",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-28T14:22:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you want an n8n workflow to read what's actually said in a YouTube video (not just the title and description), you need a transcript. Here are two ways to get one: a built-in HT",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
         "n8n",
         "hot"
       ],
       "score": 143
     },
     {
-      "title": "How AI Is Automating Influencer Marketing for SaaS Teams in 2026",
-      "url": "https://dev.to/productwatch/how-ai-is-automating-influencer-marketing-for-saas-teams-in-2026-551k",
+      "title": "The n8n Workflow That Broke Silently for Six Weeks",
+      "url": "https://dev.to/abyzgenic/the-n8n-workflow-that-broke-silently-for-six-weeks-167h",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-29T06:42:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A client asked me in July to stop forwarding her contact form leads to a spreadsheet and just handle them. Score the lead, draft a reply, ping her on Slack if it looked like a real",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "n8n",
+        "Zapier",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 137
+    },
+    {
+      "title": "Why Meeting Prep Is a System Problem, Not a Skill Gap",
+      "url": "https://dev.to/forgeflows/why-meeting-prep-is-a-system-problem-not-a-skill-gap-1887",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-29T06:05:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Real Cost of Walking In Unprepared In 2026, the gap between professionals who prepare systematically and those who improvise is widening fast. It is not a confidence gap or a s",
+      "tags": [
+        "Eval/Observability",
+        "NotebookLM",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "prod",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 137
+    },
+    {
+      "title": "The $40K Chatbot Bill Nobody Saw Coming: A Token Cost Governance Playbook",
+      "url": "https://dev.to/michaelaiglobal/the-40k-chatbot-bill-nobody-saw-coming-a-token-cost-governance-playbook-2487",
+      "source": "Dev.to n8n",
+      "published_at": "2026-09-29T12:01:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You shipped a support chatbot. It works. Users love it. Then the invoice lands and your CFO wants a meeting. This is the pattern we see constantly. Teams obsess over model quality ",
+      "tags": [
+        "GPT/OpenAI",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "n8n",
+        "hot"
+      ],
+      "score": 119
+    },
+    {
+      "title": "How to Scrape 10,000 Leads in 10 Minutes with Python (HTTPX + Playwright Stealth)",
+      "url": "https://dev.to/ancucorp/how-to-scrape-10000-leads-in-10-minutes-with-python-httpx-playwright-stealth-hic",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-29T03:27:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For many SaaS engineering and growth teams, the challenge is not just building a great product, but getting it in front of the right technical audience. While influencer marketing ",
+      "published_at": "2026-09-30T01:37:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Scrape 10,000 Leads in 10 Minutes with Python (HTTPX + Playwright Stealth) Most developers and agency founders believe web scraping at scale requires paying $99 to $250 ever",
       "tags": [
         "Agents",
         "RAG/Vector",
-        "Eval/Observability",
         "Creators",
         "Hot",
         "Release"
@@ -280,115 +291,50 @@
       "buckets": [
         "agents",
         "rag",
-        "eval",
         "creators",
         "hot"
       ],
-      "score": 135
+      "score": 117
     },
     {
-      "title": "I Built a Hindsight Agent That Remembers Failed Fixes",
-      "url": "https://dev.to/surya_20997be9af5cd4548bd/i-built-a-hindsight-agent-that-remembers-failed-fixes-442a",
+      "title": "How Can Indore Wards Detect Pipeline Leaks Using IoT?",
+      "url": "https://dev.to/mytank/how-can-indore-wards-detect-pipeline-leaks-using-iot-5l3",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-29T02:12:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Production incidents are rarely difficult because nobody knows how to restart a service. They are difficult because engineers have to remember what happened the last time. A simila",
+      "published_at": "2026-09-30T03:01:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A water engineer in any Indian city knows the number that never quite adds up. The treatment plant sends out a certain volume, consumers are billed for less, and the difference van",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "prod",
+        "hot"
+      ],
+      "score": 115
+    },
+    {
+      "title": "Stop Healing Your Tests: Why Throwaway Automation Fits the AI Era",
+      "url": "https://dev.to/ferdianluthfi/stop-healing-your-tests-why-throwaway-automation-fits-the-ai-era-45g5",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-30T02:11:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Self-healing tests are solving the wrong problem. When a \"healer\" swaps a broken locator for a \"close enough\" element, the run stays green, but the test might now be asserting some",
       "tags": [
         "Agents",
         "Make",
-        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "make",
-        "status",
         "hot"
       ],
-      "score": 123
-    },
-    {
-      "title": "Your Scheduled Agent Rewrites Its Memory Every Run. Can You Roll It Back?",
-      "url": "https://dev.to/abdeljabbar_elassali_78e/your-scheduled-agent-rewrites-its-memory-every-run-can-you-roll-it-back-4oc6",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-28T11:02:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your Scheduled Agent Rewrites Its Memory Every Run. Can You Roll It Back? Picture a Tuesday morning. Your scheduled agent wakes up at 6 AM, reads its memory, does its job, writes a",
-      "tags": [
-        "Agents",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 123
-    },
-    {
-      "title": "Tag filter, metadata cites: how I structured Hindsight memories",
-      "url": "https://dev.to/rose_marly/tag-filter-metadata-cites-how-i-structured-hindsight-memories-1g1j",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-29T03:29:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A lawyer asks: \"Did Seabreeze start any work on the land before they had permissions?\" The right answer isn't a paragraph. It's a paragraph with a finger pointing at the exact diar",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "prod",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "What I Check Before Deploying a Website to Production",
-      "url": "https://dev.to/caelora/what-i-check-before-deploying-a-website-to-production-3b0f",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-29T02:53:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What I Check Before Deploying a Website to Production Deploying a website can feel like the finish line. The code works. Then you deploy it and discover that something important wa",
-      "tags": [
-        "RAG/Vector",
-        "NotebookLM",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "prod",
-        "status",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Appointment reminders that cut no-shows: a complete n8n workflow, JSON included",
-      "url": "https://dev.to/vlotstroom/appointment-reminders-that-cut-no-shows-a-complete-n8n-workflow-json-included-k0i",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-28T12:46:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build n8n automations for small salons and clinics. The most requested Every 6 hours the workflow reads upcoming appointments from a Google A sample row: appointment_id, customer",
-      "tags": [
-        "Eval/Observability",
-        "n8n",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "eval",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 105
+      "score": 103
     },
     {
       "title": "n8n, Zapier o software su misura? Quando un'automazione basta e quando no",
@@ -408,105 +354,126 @@
         "zapier",
         "hot"
       ],
-      "score": 103
+      "score": 90
     },
     {
-      "title": "n8n’s GTC Berlin Session Will Focus on Guardrails for AI Agent Workflows",
-      "url": "https://dev.to/alifar/n8ns-gtc-berlin-session-will-focus-on-guardrails-for-ai-agent-workflows-5f0g",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-28T16:30:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n Director of Engineering Claire Knight is scheduled to speak at NVIDIA GTC Berlin 2026 about bringing stronger controls to AI agent workflows. The confirmed session, titled “Bri",
+      "title": "Your Jira automation rules break silently. How would you test them?",
+      "url": "https://dev.to/skyblueballykid/your-jira-automation-rules-break-silently-how-would-you-test-them-568g",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-30T03:32:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every Jira admin I've read about has the same story. Someone edits an automation rule, or a field, a permission, or the workflow a rule depends on. The rule keeps \"running\", the au",
+      "tags": [
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
+      "score": 75
+    },
+    {
+      "title": "A Tiny Cost Model for LLM + WhatsApp Automations (Bring Your Own Rates)",
+      "url": "https://dev.to/ujjwal_dubey_9/a-tiny-cost-model-for-llm-whatsapp-automations-bring-your-own-rates-14lc",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-30T02:36:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm a builder at NxFlowAI, a Mumbai AI automation agency. This post contains no vendor prices on purpose. Prices change, and I don't want you copying a number from me. You supply t",
+      "tags": [
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "creators",
+        "hot"
+      ],
+      "score": 73
+    },
+    {
+      "title": "A Minimal Lead Schema for WhatsApp CRM (Fields You Actually Need)",
+      "url": "https://dev.to/ujjwal_dubey_9/a-minimal-lead-schema-for-whatsapp-crm-fields-you-actually-need-3eg2",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-30T02:44:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I build these handoffs at NxFlowAI. WhatsApp CRM automation for multi-person teams collapses when the schema is either a novel or a single notes blob. Here is a minimal",
+      "tags": [
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "creators",
+        "hot"
+      ],
+      "score": 63
+    },
+    {
+      "title": "Autonomous agents: give it a job, not a prompt",
+      "url": "https://dev.to/jackhamr/autonomous-agents-give-it-a-job-not-a-prompt-1ngp",
+      "source": "Dev.to Automation",
+      "published_at": "2026-09-30T01:10:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every agent so far has waited for you. You write, it works, it stops, and then it waits for the next order. That is the right shape for a task and the wrong shape for a job. Nobody",
       "tags": [
         "Agents",
-        "Eval/Observability",
-        "n8n",
         "Release"
       ],
       "buckets": [
         "agents",
-        "eval",
-        "n8n",
         "hot"
       ],
-      "score": 101
+      "score": 59
     },
     {
-      "title": "Cómo enviar mensajes de Telegram a WhatsApp: 4 formas (con pros y contras)",
-      "url": "https://dev.to/alex_gv_24192032990395354/como-enviar-mensajes-de-telegram-a-whatsapp-4-formas-con-pros-y-contras-5bhn",
+      "title": "Tutorial: Building a Cost-Aware Task Orchestrator for Bulk Phone Intelligence",
+      "url": "https://dev.to/numdetect/tutorial-building-a-cost-aware-task-orchestrator-for-bulk-phone-intelligence-19a4",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-29T03:50:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Divulgación: soy el creador de wa2tg.app, uno de los servicios que menciono abajo. Escribí esta guía para que sea útil de verdad — incluyo todas las opciones que conozco, incluidas",
+      "published_at": "2026-09-30T03:18:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When working with bulk phone number intelligence, the difference between a successful batch job and a rejected file often comes down to pre-submission validation. Because the NumDe",
       "tags": [
-        "n8n",
-        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "n8n",
-        "zapier",
         "hot"
       ],
-      "score": 99
+      "score": 55
     },
     {
-      "title": "Como enviar mensagens do Telegram para o WhatsApp: 4 formas (com prós e contras)",
-      "url": "https://dev.to/alex_gv_24192032990395354/como-enviar-mensagens-do-telegram-para-o-whatsapp-4-formas-com-pros-e-contras-bki",
+      "title": "Reliable Private Transfers from Plymouth to Luton Airport",
+      "url": "https://dev.to/fahavof176/reliable-private-transfers-from-plymouth-to-luton-airport-326e",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-29T03:49:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Divulgação: sou o criador do wa2tg.app, um dos serviços citados abaixo. Escrevi este guia para ser útil de verdade — incluo todas as opções que conheço, inclusive as gratuitas e as",
+      "published_at": "2026-09-30T01:21:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Reliable Private Transfers from Plymouth to Luton Airport Albion Airport Cars provides private door-to-door transfers with professional drivers, comfortable vehicles, fixed pricing",
       "tags": [
-        "n8n",
-        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "n8n",
-        "zapier",
         "hot"
       ],
-      "score": 99
+      "score": 55
     },
     {
-      "title": "The Honest Chatbot ROI Math: When AI Support Pays for Itself (and When It Burns Cash)",
-      "url": "https://dev.to/michaelaiglobal/the-honest-chatbot-roi-math-when-ai-support-pays-for-itself-and-when-it-burns-cash-13f7",
-      "source": "Dev.to n8n",
-      "published_at": "2026-09-28T12:01:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every vendor demo makes the same promise: deploy a chatbot, deflect 60% of tickets, watch your support costs collapse. The demo always works. Your production traffic is messier. Af",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
-      "score": 79
-    },
-    {
-      "title": "Spouse Visa Lawyer Virginia Beach VA",
-      "url": "https://dev.to/srislawweb/spouse-visa-lawyer-virginia-beach-va-2847",
+      "title": "Agency-Built Automations vs Product Chatbots: A Practitioner Checklist for Ops Engineers",
+      "url": "https://dev.to/ujjwal_dubey_9/agency-built-automations-vs-product-chatbots-a-practitioner-checklist-for-ops-engineers-p9e",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-29T03:00:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Does a Spouse Visa Lawyer Do in Virginia Beach? A spouse visa lawyer virginia beach va evaluates eligibility, prepares Form I-130, and assembles supporting documents. The atto",
+      "published_at": "2026-09-30T02:40:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I build at NxFlowAI (nxflowai.com). This is a practitioner checklist, not a vendor ranking. If you are shortlisting an AI automation agency for small-business workflows",
       "tags": [
-        "Eval/Observability",
+        "Creators",
         "Release"
       ],
       "buckets": [
-        "eval",
+        "creators",
         "hot"
       ],
       "score": 53
     },
     {
-      "title": "Debugging Asynchronous Task Failures in Telegram Activity Pipelines",
-      "url": "https://dev.to/numberchecker/debugging-asynchronous-task-failures-in-telegram-activity-pipelines-9k4",
+      "title": "Zero-capital automation: how I run a business from Termux",
+      "url": "https://dev.to/sam_hiotis_117598dbfa3ac2/zero-capital-automation-how-i-run-a-business-from-termux-5hcn",
       "source": "Dev.to Automation",
-      "published_at": "2026-09-29T02:58:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When building automated contact hygiene pipelines, handling asynchronous workflows is a common hurdle. If your integration receives a 200 OK for task creation but finds the task st",
+      "published_at": "2026-09-30T01:49:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I can’t write this article as requested because the framing—“zero-capital automation,” “run a business from Termux,” ending with a crypto-exchange referral link—matches a common sc",
       "tags": [
         "Hot"
       ],
@@ -514,20 +481,6 @@
         "hot"
       ],
       "score": 45
-    },
-    {
-      "title": "FastAPI: reintentos seguros para emails de prueba",
-      "url": "https://dev.to/silviutech/fastapi-reintentos-seguros-para-emails-de-prueba-6cj",
-      "source": "Dev.to Automation",
-      "published_at": "2026-09-29T02:23:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Los flujos de email de prueba suelen fallar por una razón poco visible: un timeout no significa que la operación no ocurrió. Un cliente puede repetir la llamada, un worker puede pr",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
     }
   ]
 }
