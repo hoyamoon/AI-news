@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-04T04:23:01.514Z",
+  "updated_at": "2026-10-05T04:08:07.161Z",
   "items": [
     {
       "title": "AI Connect Tools Compared 2026: n8n Wins",
@@ -28,7 +28,38 @@
         "zapier",
         "hot"
       ],
-      "score": 282
+      "score": 269
+    },
+    {
+      "title": "\"Why your n8n AI agent workflows fail in production (and how to fix them)\"",
+      "url": "https://dev.to/payload-tools/why-your-n8n-ai-agent-workflows-fail-in-production-and-how-to-fix-them-pi8",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-04T22:14:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your n8n AI agent workflow ran perfectly for two weeks. Then on a Tuesday afternoon, a customer got an email confidently summarizing a search result that never existed, your OpenAI",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Make",
+        "n8n",
+        "Notion Status",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "make",
+        "n8n",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 243
     },
     {
       "title": "My support bot stopped forgetting everything when I changed AI memory write triggers",
@@ -55,35 +86,34 @@
         "zapier",
         "hot"
       ],
-      "score": 221
+      "score": 208
     },
     {
-      "title": "Best Zapier Alternatives in 2026 (Cheaper and More Powerful)",
-      "url": "https://dev.to/stimlau/best-zapier-alternatives-in-2026-cheaper-and-more-powerful-16eg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-04T00:33:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR Make is the best overall pick among Zapier alternatives: 10,000 credits for n8n is free if you Pipedream suits developers wiring AI agents. IFTTT is the cheap personal Workat",
+      "title": "How I Built an Autonomous B2B Directory Scraping & Enrichment Pipeline with n8n and Python",
+      "url": "https://dev.to/reigen/how-i-built-an-autonomous-b2b-directory-scraping-enrichment-pipeline-with-n8n-and-python-47m6",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-04T14:23:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How I Built an Autonomous B2B Directory Scraping & Enrichment Pipeline with n8n and Python Modern web scraping for B2B intelligence has shifted. Three years ago, a static requests ",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
-        "Make",
+        "NotebookLM",
         "n8n",
-        "Zapier",
         "Creators",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "agents",
         "rag",
         "eval",
-        "make",
+        "prod",
         "n8n",
-        "zapier",
         "creators",
         "hot"
       ],
-      "score": 193
+      "score": 181
     },
     {
       "title": "Best AI Agent Builder in 2026: 7 Tools Tested",
@@ -110,115 +140,43 @@
         "zapier",
         "hot"
       ],
-      "score": 183
+      "score": 170
     },
     {
-      "title": "Why Linear Webhook Bots Fail: The Telegram to n8n Architecture Autopsy",
-      "url": "https://dev.to/amansuryavanshi-ai/why-linear-webhook-bots-fail-the-telegram-to-n8n-architecture-autopsy-5cm3",
+      "title": "At 10:36 PM, a Phone That Samsung Never Built Rewrote 13 Products in My Client's Store",
+      "url": "https://dev.to/rentierdigital/at-1036-pm-a-phone-that-samsung-never-built-rewrote-13-products-in-my-clients-store-2cmd",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-03T16:25:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Replace a Fragile n8n Telegram Bot with a Decoupled State Machine TL;DR: Direct chat-to-API webhooks create an opaque operational black box that fails silently on non-determ",
+      "published_at": "2026-10-04T13:41:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The email came from my own bot at 10:36 PM on a Thursday. \"Optimization started,\" it said, followed by the name of a CSV file and the little signature I gave it: n8n bot. 7 minutes",
       "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 181
-    },
-    {
-      "title": "n8n vs Make: Which Automation Platform Earns Its Keep?",
-      "url": "https://dev.to/stimlau/n8n-vs-make-which-automation-platform-earns-its-keep-3mj8",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-03T13:42:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR n8n wins for developers and self-hosters: unlimited executions when self-hosted, Make wins for n8n (fair-code licensed) is a node-based workflow engine that started life for ",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "NotebookLM",
-        "Make",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "prod",
-        "make",
-        "n8n",
-        "hot"
-      ],
-      "score": 169
-    },
-    {
-      "title": "What Is Jev? I Tested TypeSafe's Decision Model on My Comments and Email",
-      "url": "https://dev.to/henry_dan_81513dd35a2f540/what-is-jev-i-tested-typesafes-decision-model-on-my-comments-and-email-4l1h",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-04T03:13:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In September 2026 a company called TypeSafe released Jev, and it isn't a chatbot. It never writes a sentence. You give it some text and a question with fixed answer options, and it",
-      "tags": [
-        "GPT/OpenAI",
         "Claude/Anthropic",
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "hot"
-      ],
-      "score": 155
-    },
-    {
-      "title": "Self-hosted n8n for business: VPS cost, security, backups and GDPR",
-      "url": "https://dev.to/nexflow/self-hosted-n8n-for-business-vps-cost-security-backups-and-gdpr-24ph",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-02T21:09:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: “Self-hosted n8n is free” is true only about the licence. This article is about the rest — the server, the backups, the updates, and how much time it actually takes. The n8n Commun",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "Make",
+        "Agents",
         "n8n",
         "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "eval",
-        "make",
+        "llm",
+        "agents",
         "n8n",
         "status",
         "hot"
       ],
-      "score": 148
+      "score": 163
     },
     {
-      "title": "Your AI Agent Is a Model and a Browser. Only One of Them Is the Problem.",
-      "url": "https://dev.to/yanoai/your-ai-agent-is-a-model-and-a-browser-only-one-of-them-is-the-problem-17ia",
+      "title": "AI + Temporal in .NET 10: Building Reliable AI Workflows",
+      "url": "https://dev.to/sanjay7827/ai-temporal-in-net-10-building-reliable-ai-workflows-342j",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-04T01:40:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Daily requests from AI agents on Cloudflare's network grew by more than 1,700% over the past year, and for the first time more than half the traffic Cloudflare carries is not human",
+      "published_at": "2026-10-05T03:24:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI applications are no longer just: Request ↓ AI Model ↓ Response Real-world AI applications often involve multiple steps: User Request ↓ AI Analysis ↓ External API ↓ Database ↓ Hu",
       "tags": [
         "GPT/OpenAI",
+        "Gemini/Google",
         "Agents",
         "Eval/Observability",
-        "Hot",
-        "Release"
+        "Hot"
       ],
       "buckets": [
         "llm",
@@ -226,89 +184,72 @@
         "eval",
         "hot"
       ],
-      "score": 137
+      "score": 162
     },
     {
-      "title": "How Much Does n8n Automation Cost for a Small Business?",
-      "url": "https://dev.to/farzamshah/how-much-does-n8n-automation-cost-for-a-small-business-4ak4",
+      "title": "n8n vs Zapier in 2026: Self-Hosted Power or Cloud Convenience?",
+      "url": "https://dev.to/stimlau/n8n-vs-zapier-in-2026-self-hosted-power-or-cloud-convenience-4lga",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-03T12:19:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By Syed Farzam Saadat | Published October 2, 2026 | Updated October 2, 2026 | 11 min read n8n automation pricing has two main parts: the platform and the build. The platform costs ",
+      "published_at": "2026-10-04T11:17:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR n8n vs Zapier comes down to who runs the infrastructure. Self-hosted n8n is $0 in licence fees with unlimited executions (you pay a $5–15/mo server); $19.99/mo on annual bill",
       "tags": [
-        "NotebookLM",
+        "Agents",
+        "RAG/Vector",
         "n8n",
         "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "prod",
+        "agents",
+        "rag",
         "n8n",
         "zapier",
         "hot"
       ],
-      "score": 121
+      "score": 143
     },
     {
-      "title": "Arrêtez de payer 15€/mois pour Calendly. Voici comment j'ai cloné l'architecture avec n8n et Python.",
-      "url": "https://dev.to/reigen/arretez-de-payer-15eumois-pour-calendly-voici-comment-jai-clone-larchitecture-avec-n8n-et-python-56o2",
+      "title": "n8n for Senior Care & Assisted Living Operators: 5 Automations for Medication Documentation, Incident Reporting, and License Compliance",
+      "url": "https://dev.to/flowkithq/n8n-for-senior-care-assisted-living-operators-5-automations-for-medication-documentation-1gnm",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-02T19:31:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Les développeurs détestent les abonnements inutiles. Pourquoi payer 15€/mois pour Calendly alors que vous pouvez répliquer sa logique métier avec des outils open-source ? Aujourd'h",
+      "published_at": "2026-10-05T00:06:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Assisted living and senior care operators run on razor-thin staff ratios and zero tolerance for missed documentation. A single 80-bed facility generates hundreds of medication-pass",
       "tags": [
-        "Gemini/Google",
+        "RAG/Vector",
         "n8n",
         "Notion Status",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
+        "rag",
         "n8n",
         "status",
-        "hot"
-      ],
-      "score": 121
-    },
-    {
-      "title": "Comet puts an assistant in your browser. Put one in a cloud browser that works on a schedule",
-      "url": "https://dev.to/burrowbox/comet-puts-an-assistant-in-your-browser-put-one-in-a-cloud-browser-that-works-on-a-schedule-4o9g",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-04T02:49:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What Comet does Perplexity launched Comet on July 9, 2025. It's a web browser with Perplexity's search built in and an assistant in a sidebar. The Comet Assistant can summarize ema",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 119
-    },
-    {
-      "title": "My EPUB Passed My Own Checks. The Store's Validator Found 17 Errors.",
-      "url": "https://dev.to/dbsoul/my-epub-passed-my-own-checks-the-stores-validator-found-17-errors-38j8",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-04T04:10:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A field note from the autonomous Claude Code agent I run every day on one Windows PC. The numbers come from its own ledgers, not from memory. My agent builds the ebook file for a K",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
         "creators",
         "hot"
       ],
-      "score": 117
+      "score": 137
+    },
+    {
+      "title": "Account Isolation Is More Than an IP Swap: What Actually Links Two Sessions",
+      "url": "https://dev.to/socks5ip/account-isolation-is-more-than-an-ip-swap-what-actually-links-two-sessions-4iib",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-05T02:08:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Two accounts, two proxies, two browser profiles — and the second is still restricted within a week. The usual conclusion is \"the proxy was dirty.\" That is rarely the whole story. S",
+      "tags": [
+        "NotebookLM",
+        "Make",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "make",
+        "hot"
+      ],
+      "score": 101
     },
     {
       "title": "How to Make UGC Video Ads in n8n with the Google Flow API",
@@ -328,46 +269,83 @@
         "creators",
         "hot"
       ],
-      "score": 112
+      "score": 99
     },
     {
-      "title": "My Automated Quality Check Passed Garbage. Here Is the Second Layer I Added.",
-      "url": "https://dev.to/revanzart/my-automated-quality-check-passed-garbage-here-is-the-second-layer-i-added-1lgf",
+      "title": "Beyond Background Jobs: Building Durable Workflows with Temporal and .NET 10",
+      "url": "https://dev.to/sanjay7827/beyond-background-jobs-building-durable-workflows-with-temporal-and-net-10-54ll",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-04T02:22:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: My pipeline had a quality gate. It worked. That was the problem. It checked structure: is the file the right size, does it open, does it contain what it should. By every one of tho",
+      "published_at": "2026-10-05T03:23:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've worked with .NET applications, you've probably written code like this: await ChargePayment(); It looks simple. But what happens if the application crashes after ReserveIn",
       "tags": [
-        "RAG/Vector",
-        "Multimodal",
+        "Eval/Observability",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 97
+    },
+    {
+      "title": "What Is Instagram DM Automation? The Complete Beginner's Guide (2026)",
+      "url": "https://dev.to/peter11241342/what-is-instagram-dm-automation-the-complete-beginners-guide-2026-j3i",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-05T02:35:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instagram DM automation sends replies, follow-ups, and lead magnets from your Instagram inbox without you typing them by hand. Here is how it works, what is allowed, and how to pic",
+      "tags": [
+        "Agents",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "multimodal",
+        "agents",
         "creators",
         "hot"
       ],
-      "score": 109
+      "score": 97
     },
     {
-      "title": "5 n8n workflows that automate a sales team (with templates)",
-      "url": "https://dev.to/baw_ban_e189b8ac0e4ae1053/5-n8n-workflows-that-automate-a-sales-team-with-templates-1559",
+      "title": "Turn finished visits into reviews and rebookings: an n8n follow-up workflow, JSON included",
+      "url": "https://dev.to/vlotstroom/turn-finished-visits-into-reviews-and-rebookings-an-n8n-follow-up-workflow-json-included-1ca2",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-03T05:48:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Automating a small sales team with n8n is one of the highest-ROI things you can do as a solo founder or micro-agency. Here are 5 workflows that actually move revenue. Webhook from ",
+      "published_at": "2026-10-04T04:57:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build n8n automations for small salons and clinics. The series so far Every salon owner knows the playbook: message the customer the day after, The fix is boring and effective: a",
       "tags": [
-        "GPT/OpenAI",
+        "Eval/Observability",
         "n8n",
-        "Creators"
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "llm",
+        "eval",
         "n8n",
-        "creators"
+        "hot"
       ],
-      "score": 107
+      "score": 97
+    },
+    {
+      "title": "Why Automating Shopify Admin is a Nightmare (And How We Solved It)",
+      "url": "https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-05T03:57:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Shopify is one of the harder platforms to automate reliably, and not for the reasons most teams expect. Creating a product or syncing a feed isn't complex logic. The hard part is e",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 93
     },
     {
       "title": "Building a Sub-Minute Cross-Platform Inventory Sync Engine with n8n, Shopify, WooCommerce & Airtable",
@@ -386,69 +364,32 @@
         "zapier",
         "hot"
       ],
-      "score": 99
+      "score": 86
     },
     {
-      "title": "Expense Report Automation with n8n: Design the Review Process First",
-      "url": "https://dev.to/farzamshah/expense-report-automation-with-n8n-design-the-review-process-first-4o5j",
+      "title": "n8n for Cannabis & CannaTech SaaS Vendors: 5 Automations for METRC Seed-to-Sale, 280E Tax Segregation, and SAFE Banking Compliance",
+      "url": "https://dev.to/flowkithq/n8n-for-cannabis-cannatech-saas-vendors-5-automations-for-metrc-seed-to-sale-280e-tax-2k7j",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-03T14:21:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Expense report automation moves employee submissions through consistent data collection, checks, record creation, and review notifications. A useful workflow makes missing informat",
+      "published_at": "2026-10-04T23:04:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Cannabis/CannaTech SaaS platforms (POS, inventory, delivery, compliance dashboards) sit on top of a regulatory stack that doesn't exist anywhere else in software: federally illegal",
       "tags": [
-        "RAG/Vector",
         "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "Is Instagram DM Automation Safe? Rules, Bans and How to Stay Compliant (2026)",
-      "url": "https://dev.to/peter11241342/is-instagram-dm-automation-safe-rules-bans-and-how-to-stay-compliant-2026-12o3",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-04T02:31:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Short answer: yes, Instagram DM automation is safe when the tool uses Instagram's official API. Bans hit password-sharing bots and scrapers, not API-based automation. TL;DR: Instag",
-      "tags": [
-        "Agents",
         "Creators",
-        "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 97
+      "score": 77
     },
     {
-      "title": "Claude Code is a great engineer. Here is how to make it your Chief of Staff.",
-      "url": "https://dev.to/backshift/claude-code-is-a-great-engineer-here-is-how-to-make-it-your-chief-of-staff-36m6",
+      "title": "How to get emails for your Google Maps leads (and only pay for the ones that have them)",
+      "url": "https://dev.to/jfaro/how-to-get-emails-for-your-google-maps-leads-and-only-pay-for-the-ones-that-have-them-1164",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-04T03:33:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Claude Code is very good at a task. It is not, by default, good at everything you are running: several goals, a dozen projects, a budget, and a pile of decisions nobody is making. ",
-      "tags": [
-        "Claude/Anthropic",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 95
-    },
-    {
-      "title": "Bypassing the bank: How to set up a direct-to-custody payroll DCA",
-      "url": "https://dev.to/btc-dca_com/bypassing-the-bank-how-to-set-up-a-direct-to-custody-payroll-dca-57m6",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-04T03:25:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every month, my salary used to take a scenic route. It went from my employer's bank, to my bank, to a crypto exchange, and finally—if I didn't get lazy or greedy—into my hardware w",
+      "published_at": "2026-10-05T02:46:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you prospect local businesses, you've probably scraped Google Maps. You get a nice list of business names, categories, ratings and websites, and then you hit a wall. Google Maps",
       "tags": [
         "RAG/Vector",
         "Hot",
@@ -461,11 +402,27 @@
       "score": 75
     },
     {
-      "title": "Automating Docker Installation on an AWS EC2 Instance Using User Data",
-      "url": "https://dev.to/simran_rajoriya/automating-docker-installation-on-an-aws-ec2-instance-using-user-data-10mj",
+      "title": "懸賞7件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった",
+      "url": "https://dev.to/atu_ino_ed473db24d76d234a/xuan-shang-7jian-nozi-dong-ying-mu-roguwoquan-bu-ji-ji-sitara-ying-mu-dao-xian-todang-xuan-waku-nidi-wei-naya-gaatuta-3fk9",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-04T03:02:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Automating Docker Installation on an AWS EC2 Instance Using User Data 🚀 While working with AWS EC2, I wanted to automate the Docker installation process instead of connecting to t",
+      "published_at": "2026-10-05T02:35:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: title: 懸賞7件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった python automation datajournalism japanese apify private: true 国内懸賞 7件を自動収集し、3アカウントで 3件のエントリーを実行した。その生ログから、応募導線・当選枠・締切の分布を機械可読な形で集計し",
+      "tags": [
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "Finding the Room Where People Complain Doesn't Mean the Room Will Listen to You",
+      "url": "https://dev.to/starebrain/finding-the-room-where-people-complain-doesnt-mean-the-room-will-listen-to-you-2eol",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-05T03:54:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This week's research thread produced a method that actually worked: stop searching for the vocabulary people would use to describe a problem, and instead find the venue where they'",
       "tags": [
         "Hot",
         "Release"
@@ -476,25 +433,26 @@
       "score": 55
     },
     {
-      "title": "Adaptive Intelligence: Why the Next Generation of AI Systems Will Learn From Change",
-      "url": "https://dev.to/aonica_/adaptive-intelligence-why-the-next-generation-of-ai-systems-will-learn-from-change-28ih",
+      "title": "Stop Instagram and TikTok labelling your Photoshop and Premiere exports as AI",
+      "url": "https://dev.to/sebastian_balog_c88dc2913/stop-instagram-and-tiktok-labelling-your-photoshop-and-premiere-exports-as-ai-27lk",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-04T03:35:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This architecture works well when the environment remains reasonably stable. The important difference is the loop. Notice that adaptation does not necessarily mean constant action.",
+      "published_at": "2026-10-05T01:58:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Quick fix: the label comes from Content Credentials (C2PA) that Photoshop and Premiere Pro write into your export after a generative edit, and export settings don't switch them off",
       "tags": [
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 45
+      "score": 55
     },
     {
-      "title": "Backups de PostgreSQL que se prueban solos: pg_dump, cifrado y verificación automática con GitHub Actions",
-      "url": "https://dev.to/crjl11/backups-de-postgresql-que-se-prueban-solos-pgdump-cifrado-y-verificacion-automatica-con-github-4a84",
+      "title": "懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった",
+      "url": "https://dev.to/atu_ino_ed473db24d76d234a/xuan-shang-1871jian-nozi-dong-ying-mu-roguwoquan-bu-ji-ji-sitara-ying-mu-dao-xian-todang-xuan-waku-nidi-wei-naya-gaatuta-1eb8",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-04T02:59:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Autor: Carlos Jimenez Laura Curso: Base de Datos II · Universidad Privada de Tacna En este proyecto partimos de una pregunta sencilla: ¿cómo sabemos que un backup sirve antes de ne",
+      "published_at": "2026-10-05T03:01:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: title: 懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった python automation datajournalism japanese private: true 国内懸賞 1,871件を自動収集し、9アカウントで 2,348件のエントリーを実行した。その生ログから、応募導線・当選枠・締切の分布を機械可読",
       "tags": [
         "Release"
       ],
@@ -502,6 +460,30 @@
         "hot"
       ],
       "score": 35
+    },
+    {
+      "title": "懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった",
+      "url": "https://dev.to/atu_ino_ed473db24d76d234a/xuan-shang-1871jian-nozi-dong-ying-mu-roguwoquan-bu-ji-ji-sitara-ying-mu-dao-xian-todang-xuan-waku-nidi-wei-naya-gaatuta-j78",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-05T02:34:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: title: 懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった 国内懸賞 1,871件を自動収集し、9アカウントで 2,348件のエントリーを実行した。その生ログから、応募導線・当選枠・締切の分布を機械可読な形で集計したのがこのレポートだ。手作業では絶対に作れない「1,871件横断の傾向」を見ていく。 対象: dat",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "[Boost]",
+      "url": "https://dev.to/mariela_estefanyramoslo/-28cm",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-05T02:42:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: De los datos a la nube: un dashboard de ventas con Streamlit y despliegue automático MARIELA ESTEFANY RAMOS LOZA Oct 5 #devops #python #datascience #tutorial Add Comment 4 min read",
+      "tags": [],
+      "buckets": [],
+      "score": 25
     }
   ]
 }
