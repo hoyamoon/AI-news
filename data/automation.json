@@ -1,35 +1,6 @@
 {
-  "updated_at": "2026-10-05T04:08:07.161Z",
+  "updated_at": "2026-10-06T04:56:59.372Z",
   "items": [
-    {
-      "title": "AI Connect Tools Compared 2026: n8n Wins",
-      "url": "https://dev.to/shaam_ai/ai-connect-tools-compared-2026-n8n-wins-hk9",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-04T03:43:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you are searching for an AI connect tool, the shortlist in 2026 is n8n, Zapier MCP and Make, and n8n wins for most technical teams. It bills per workflow execution rather than p",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google",
-        "Agents",
-        "RAG/Vector",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 269
-    },
     {
       "title": "\"Why your n8n AI agent workflows fail in production (and how to fix them)\"",
       "url": "https://dev.to/payload-tools/why-your-n8n-ai-agent-workflows-fail-in-production-and-how-to-fix-them-pi8",
@@ -59,22 +30,51 @@
         "creators",
         "hot"
       ],
-      "score": 243
+      "score": 230
     },
     {
-      "title": "My support bot stopped forgetting everything when I changed AI memory write triggers",
-      "url": "https://dev.to/lars_winstand/my-support-bot-stopped-forgetting-everything-when-i-changed-ai-memory-write-triggers-40o1",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-03T22:09:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I had a support bot that looked great in demos and acted like it had amnesia in production. The failure mode was embarrassingly simple: customer already rebooted the router three t",
+      "title": "Agentic Test Automation: An In-Depth Guide for SDETs and Quality Engineers",
+      "url": "https://dev.to/himanshuai/agentic-test-automation-an-in-depth-guide-for-sdets-and-quality-engineers-1mmg",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T04:36:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Written by Himanshu Agarwal Want the full reference set? This article is a deep overview. My complete Agentic Test Automation bundle (three Markdown guides, about 33,000 words, 28 ",
       "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "Notion Status",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "eval",
+        "prod",
+        "make",
+        "status",
+        "creators",
+        "hot"
+      ],
+      "score": 201
+    },
+    {
+      "title": "Stop Searching Your Documents Manually: Build Your Own AI Knowledge Base with n8n, Gemini, and Qdrant",
+      "url": "https://dev.to/glenallen/stop-searching-your-documents-manually-build-your-own-ai-knowledge-base-with-n8n-gemini-and-l5p",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T13:39:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every growing company hits the same wall eventually. Someone asks a question in Slack that’s already been answered in a PDF from eight months ago, or buried in a page of documentat",
+      "tags": [
+        "Gemini/Google",
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
         "n8n",
-        "Zapier",
+        "Creators",
+        "Hot",
         "Release"
       ],
       "buckets": [
@@ -83,10 +83,55 @@
         "rag",
         "eval",
         "n8n",
-        "zapier",
+        "creators",
         "hot"
       ],
-      "score": 208
+      "score": 194
+    },
+    {
+      "title": "How to Turn Web Pages, YouTube Videos and RSS Feeds into NotebookLM Podcasts with n8n",
+      "url": "https://dev.to/useapi/how-to-turn-web-pages-youtube-videos-and-rss-feeds-into-notebooklm-podcasts-with-n8n-1m0g",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T05:53:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction Two free n8n workflows send your links to NotebookLM through the useapi.net NotebookLM API (Gemini Notebook API) and bring back the finished podcast as an .m4a file. O",
+      "tags": [
+        "Claude/Anthropic",
+        "Gemini/Google",
+        "Agents",
+        "NotebookLM",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "prod",
+        "n8n",
+        "hot"
+      ],
+      "score": 190
+    },
+    {
+      "title": "Stop Paying Per Seat: A 2026 Pricing Teardown of 10 Social Media Automation Tools",
+      "url": "https://dev.to/saptadev27/stop-paying-per-seat-a-2026-pricing-teardown-of-10-social-media-automation-tools-5013",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T03:40:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most social media automation tools promise the same things on their landing pages: a visual content calendar, an AI caption assistant, suggested best times, and analytics reports. ",
+      "tags": [
+        "GPT/OpenAI",
+        "Gemini/Google",
+        "NotebookLM",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 170
     },
     {
       "title": "How I Built an Autonomous B2B Directory Scraping & Enrichment Pipeline with n8n and Python",
@@ -113,101 +158,102 @@
         "creators",
         "hot"
       ],
-      "score": 181
+      "score": 168
     },
     {
-      "title": "Best AI Agent Builder in 2026: 7 Tools Tested",
-      "url": "https://dev.to/stimlau/best-ai-agent-builder-in-2026-7-tools-tested-1lj7",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-03T16:25:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR n8n is the best AI agent builder for most teams: visual workflows plus code when you LangGraph + if you want code-first control with tracing ($0 Developer seat, $39/seat Dify",
+      "title": "Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees",
+      "url": "https://dev.to/rikinptl/generative-simulation-benchmarking-for-smart-agriculture-microgrid-orchestration-with-zero-trust-3gkg",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T01:41:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Generative Simulation Benchmarking for smart agriculture microgrid orchestration with zero-trust governance guarantees My Journey into an Unexpected Intersection A few months ago, ",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
-        "NotebookLM",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 170
-    },
-    {
-      "title": "At 10:36 PM, a Phone That Samsung Never Built Rewrote 13 Products in My Client's Store",
-      "url": "https://dev.to/rentierdigital/at-1036-pm-a-phone-that-samsung-never-built-rewrote-13-products-in-my-clients-store-2cmd",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-04T13:41:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The email came from my own bot at 10:36 PM on a Thursday. \"Optimization started,\" it said, followed by the name of a CSV file and the little signature I gave it: n8n bot. 7 minutes",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "n8n",
+        "Make",
         "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
-        "n8n",
+        "rag",
+        "eval",
+        "make",
         "status",
         "hot"
       ],
-      "score": 163
+      "score": 161
     },
     {
-      "title": "AI + Temporal in .NET 10: Building Reliable AI Workflows",
-      "url": "https://dev.to/sanjay7827/ai-temporal-in-net-10-building-reliable-ai-workflows-342j",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T03:24:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI applications are no longer just: Request ↓ AI Model ↓ Response Real-world AI applications often involve multiple steps: User Request ↓ AI Analysis ↓ External API ↓ Database ↓ Hu",
+      "title": "The one n8n node I make every agency add before AI touches a social account",
+      "url": "https://dev.to/noahberg_cs/the-one-n8n-node-i-make-every-agency-add-before-ai-touches-a-social-account-450h",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T06:40:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most \"AI writes your social posts\" workflows I see in n8n have the same shape. Trigger, an LLM node, then straight into a publish call. It works great in the demo. Then it posts a ",
       "tags": [
-        "GPT/OpenAI",
-        "Gemini/Google",
-        "Agents",
-        "Eval/Observability",
-        "Hot"
+        "Claude/Anthropic",
+        "Multimodal",
+        "NotebookLM",
+        "n8n",
+        "Creators",
+        "Release"
       ],
       "buckets": [
         "llm",
-        "agents",
-        "eval",
+        "multimodal",
+        "prod",
+        "n8n",
+        "creators",
         "hot"
       ],
-      "score": 162
+      "score": 155
     },
     {
-      "title": "n8n vs Zapier in 2026: Self-Hosted Power or Cloud Convenience?",
-      "url": "https://dev.to/stimlau/n8n-vs-zapier-in-2026-self-hosted-power-or-cloud-convenience-4lga",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-04T11:17:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR n8n vs Zapier comes down to who runs the infrastructure. Self-hosted n8n is $0 in licence fees with unlimited executions (you pay a $5–15/mo server); $19.99/mo on annual bill",
+      "title": "Email Marketing for Affiliate Income: Build a List from Scratch",
+      "url": "https://dev.to/already_herellc_c954583f/email-marketing-for-affiliate-income-build-a-list-from-scratch-267i",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T01:03:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Email Marketing for Affiliate Income: Build a List from Scratch: practical workflows, implementation steps, trade-offs, measurement guidance, and safeguards for durable, { \"title\":",
       "tags": [
-        "Agents",
         "RAG/Vector",
-        "n8n",
-        "Zapier",
+        "NotebookLM",
+        "Notion Update",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
         "rag",
-        "n8n",
-        "zapier",
+        "prod",
+        "update",
+        "creators",
         "hot"
       ],
-      "score": 143
+      "score": 137
+    },
+    {
+      "title": "Summarize weekly appointment KPIs into a Monday digest: an n8n workflow (JSON included)",
+      "url": "https://dev.to/vlotstroom/summarize-weekly-appointment-kpis-into-a-monday-digest-an-n8n-workflow-json-included-563f",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T04:54:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build n8n automations for small salons and clinics. The series so far Here is the honest failure mode of automation projects: the reminders The fix costs one message a week. Ever",
+      "tags": [
+        "Eval/Observability",
+        "NotebookLM",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "prod",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 124
     },
     {
       "title": "n8n for Senior Care & Assisted Living Operators: 5 Automations for Medication Documentation, Incident Reporting, and License Compliance",
@@ -230,91 +276,114 @@
         "creators",
         "hot"
       ],
-      "score": 137
+      "score": 124
     },
     {
-      "title": "Account Isolation Is More Than an IP Swap: What Actually Links Two Sessions",
-      "url": "https://dev.to/socks5ip/account-isolation-is-more-than-an-ip-swap-what-actually-links-two-sessions-4iib",
+      "title": "From APIs to Skills: The New Way to Integrate Your Product with AI Agents and Your Website",
+      "url": "https://dev.to/hoverbot/from-apis-to-skills-the-new-way-to-integrate-your-product-with-ai-agents-and-your-website-3o0g",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-05T02:08:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Two accounts, two proxies, two browser profiles — and the second is still restricted within a week. The usual conclusion is \"the proxy was dirty.\" That is rarely the whole story. S",
-      "tags": [
-        "NotebookLM",
-        "Make",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "make",
-        "hot"
-      ],
-      "score": 101
-    },
-    {
-      "title": "How to Make UGC Video Ads in n8n with the Google Flow API",
-      "url": "https://dev.to/useapi/how-to-make-ugc-video-ads-in-n8n-with-the-google-flow-api-3b2n",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-04T00:25:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Introduction A free n8n template makes AI UGC video ads through the useapi.net Google Flow API: one form, up to five products, a consistent Omni 1.1 Flash presenter and voice, and ",
-      "tags": [
-        "Gemini/Google",
-        "n8n",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "Beyond Background Jobs: Building Durable Workflows with Temporal and .NET 10",
-      "url": "https://dev.to/sanjay7827/beyond-background-jobs-building-durable-workflows-with-temporal-and-net-10-54ll",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T03:23:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've worked with .NET applications, you've probably written code like this: await ChargePayment(); It looks simple. But what happens if the application crashes after ReserveIn",
-      "tags": [
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 97
-    },
-    {
-      "title": "What Is Instagram DM Automation? The Complete Beginner's Guide (2026)",
-      "url": "https://dev.to/peter11241342/what-is-instagram-dm-automation-the-complete-beginners-guide-2026-j3i",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T02:35:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instagram DM automation sends replies, follow-ups, and lead magnets from your Instagram inbox without you typing them by hand. Here is how it works, what is allowed, and how to pic",
+      "published_at": "2026-10-06T03:06:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you have ever run an integration project, you know the routine: API docs, SDK setup, auth scopes, edge cases, and more time than anyone estimated. That model is still important.",
       "tags": [
         "Agents",
+        "Make",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
+        "make",
         "creators",
         "hot"
       ],
-      "score": 97
+      "score": 121
     },
     {
-      "title": "Turn finished visits into reviews and rebookings: an n8n follow-up workflow, JSON included",
-      "url": "https://dev.to/vlotstroom/turn-finished-visits-into-reviews-and-rebookings-an-n8n-follow-up-workflow-json-included-1ca2",
+      "title": "An n8n AI Agent That Pays Invoices Only Inside Rules You Set",
+      "url": "https://dev.to/quinn_854b15f517d8632ed4f/an-n8n-ai-agent-that-pays-invoices-only-inside-rules-you-set-2e4p",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-04T04:57:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I build n8n automations for small salons and clinics. The series so far Every salon owner knows the playbook: message the customer the day after, The fix is boring and effective: a",
+      "published_at": "2026-10-05T11:45:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Short answer: in n8n, you don't give the AI Agent node a spending limit in its prompt. You attach an MCP Client Tool node pointed at a payments server that enforces the limit itsel",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 121
+    },
+    {
+      "title": "Googlebook Is Google's Gemini-Enabled Laptop Family With Android Integration",
+      "url": "https://dev.to/alifar/googlebook-is-googles-gemini-enabled-laptop-family-with-android-integration-24c4",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T01:30:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has formally introduced Googlebook, a new family of laptops designed around Gemini Intelligence and closer integration with Android phones. The product line combines element",
+      "tags": [
+        "Gemini/Google",
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "eval",
+        "hot"
+      ],
+      "score": 108
+    },
+    {
+      "title": "n8n Opens US Headquarters in Boston and Plans Autom8 Event for AI Builders",
+      "url": "https://dev.to/alifar/n8n-opens-us-headquarters-in-boston-and-plans-autom8-event-for-ai-builders-38ij",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T16:00:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n has opened its US headquarters in Boston and plans to bring local AI builders together at Autom8 Boston on Oct. 29. The event is set to focus on production agentic workflows, w",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 101
+    },
+    {
+      "title": "Recursive Governance: When Agents Write the Rules They Execute",
+      "url": "https://dev.to/maref/recursive-governance-when-agents-write-the-rules-they-execute-1d0b",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T02:20:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We almost lost forty modules to a file that never changed. The sync job ran every six hours, mirroring our shared working directory into a test workspace. At 21:47 on a Tuesday, it",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "hot"
+      ],
+      "score": 99
+    },
+    {
+      "title": "n8n Cloud Offers Free Jev Model Usage Through Gateway Credits Until October 10",
+      "url": "https://dev.to/alifar/n8n-cloud-offers-free-jev-model-usage-through-gateway-credits-until-october-10-3epa",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T19:00:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n Cloud users on Starter, Pro, and new trial plans can use TypeSafe AI's Jev model without Gateway credits being deducted until October 10, 2026, at 23:59 UTC. The limited promot",
       "tags": [
         "Eval/Observability",
         "n8n",
@@ -329,42 +398,115 @@
       "score": 97
     },
     {
-      "title": "Why Automating Shopify Admin is a Nightmare (And How We Solved It)",
-      "url": "https://dev.to/cloudqa/why-automating-shopify-admin-is-a-nightmare-and-how-we-solved-it-1hmo",
+      "title": "25 Instagram DM Scripts That Convert Followers Into Buyers (2026)",
+      "url": "https://dev.to/peter11241342/25-instagram-dm-scripts-that-convert-followers-into-buyers-2026-47ei",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-05T03:57:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Shopify is one of the harder platforms to automate reliably, and not for the reasons most teams expect. Creating a product or syncing a feed isn't complex logic. The hard part is e",
+      "published_at": "2026-10-06T02:35:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most creators lose sales in their DMs. Not because the product is bad, but because the reply is late, long, or awkward. These 25 copy-paste Instagram DM scripts fix that, and every",
       "tags": [
         "RAG/Vector",
-        "Eval/Observability",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "rag",
-        "eval",
+        "creators",
         "hot"
       ],
       "score": 93
     },
     {
-      "title": "Building a Sub-Minute Cross-Platform Inventory Sync Engine with n8n, Shopify, WooCommerce & Airtable",
-      "url": "https://dev.to/reigen/building-a-sub-minute-cross-platform-inventory-sync-engine-with-n8n-shopify-woocommerce-airtable-13jg",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-03T20:25:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Building a Sub-Minute Cross-Platform Inventory Sync Engine with n8n, Shopify, WooCommerce & Airtable Dual-channel e-commerce sounds great on a slide deck until an order drops simul",
+      "title": "The Saturday Data Run: 771 Matches, Six Exports, Zero Manual Steps",
+      "url": "https://dev.to/kickindi_com/the-saturday-data-run-771-matches-six-exports-zero-manual-steps-2pka",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T04:17:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One match day, 771 finished matches across the data set. The daily export landed with 546 standings rows, 200 scorer lines and 124 rows of match statistics — every number pulled re",
       "tags": [
-        "n8n",
-        "Zapier",
+        "RAG/Vector",
+        "Multimodal",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "n8n",
-        "zapier",
+        "rag",
+        "multimodal",
         "hot"
       ],
-      "score": 86
+      "score": 91
+    },
+    {
+      "title": "The PDF Is Not the Handover: How to Test a Job Record",
+      "url": "https://dev.to/thedoctorau/the-pdf-is-not-the-handover-how-to-test-a-job-record-2adp",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T02:32:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The PDF Is Not the Handover: How to Test a Job Record A technician completes the field paperwork, adds the required confirmation and signature, and produces a PDF. The document exi",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "multimodal",
+        "hot"
+      ],
+      "score": 89
+    },
+    {
+      "title": "What Splitting a Docker Image Actually Costs You (SPA Routing, CORS, and Five More Surprises)",
+      "url": "https://dev.to/rjeff-sudo/what-splitting-a-docker-image-actually-costs-you-spa-routing-cors-and-five-more-surprises-1e99",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T03:33:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A few weeks into DevOps work on our team's chama (savings-group) app, I made a call that seemed simple on paper: ship the Go backend and the React frontend as one combined Docker i",
+      "tags": [
+        "Make",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "make",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "n8n's Postgres Node Doesn't Send Parameters. My Dry-Run Did.",
+      "url": "https://dev.to/achiya-automation/n8ns-postgres-node-doesnt-send-parameters-my-dry-run-did-2j5b",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-05T05:49:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The n8n docs for the Postgres node say you can use $1, $2 and $3 in a query \"to build prepared statements to use with query parameters.\" On September 18 I found out what that means",
+      "tags": [
+        "Eval/Observability",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "n8n",
+        "hot"
+      ],
+      "score": 77
+    },
+    {
+      "title": "Managing Notion Databases as Code with notionctl",
+      "url": "https://dev.to/mamoth_surfing_27ed94e147/managing-notion-databases-as-code-with-notionctl-2nln",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-06T04:08:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you've ever tried to automate Notion databases — setting up relations, managing IDs across workspaces, or keeping databases consistent across environments — you know the pain. D",
+      "tags": [
+        "Notion Update",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "update",
+        "creators",
+        "hot"
+      ],
+      "score": 75
     },
     {
       "title": "n8n for Cannabis & CannaTech SaaS Vendors: 5 Automations for METRC Seed-to-Sale, 280E Tax Segregation, and SAFE Banking Compliance",
@@ -382,108 +524,7 @@
         "creators",
         "hot"
       ],
-      "score": 77
-    },
-    {
-      "title": "How to get emails for your Google Maps leads (and only pay for the ones that have them)",
-      "url": "https://dev.to/jfaro/how-to-get-emails-for-your-google-maps-leads-and-only-pay-for-the-ones-that-have-them-1164",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T02:46:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you prospect local businesses, you've probably scraped Google Maps. You get a nice list of business names, categories, ratings and websites, and then you hit a wall. Google Maps",
-      "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 75
-    },
-    {
-      "title": "懸賞7件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった",
-      "url": "https://dev.to/atu_ino_ed473db24d76d234a/xuan-shang-7jian-nozi-dong-ying-mu-roguwoquan-bu-ji-ji-sitara-ying-mu-dao-xian-todang-xuan-waku-nidi-wei-naya-gaatuta-3fk9",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T02:35:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: title: 懸賞7件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった python automation datajournalism japanese apify private: true 国内懸賞 7件を自動収集し、3アカウントで 3件のエントリーを実行した。その生ログから、応募導線・当選枠・締切の分布を機械可読な形で集計し",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 59
-    },
-    {
-      "title": "Finding the Room Where People Complain Doesn't Mean the Room Will Listen to You",
-      "url": "https://dev.to/starebrain/finding-the-room-where-people-complain-doesnt-mean-the-room-will-listen-to-you-2eol",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T03:54:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This week's research thread produced a method that actually worked: stop searching for the vocabulary people would use to describe a problem, and instead find the venue where they'",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Stop Instagram and TikTok labelling your Photoshop and Premiere exports as AI",
-      "url": "https://dev.to/sebastian_balog_c88dc2913/stop-instagram-and-tiktok-labelling-your-photoshop-and-premiere-exports-as-ai-27lk",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T01:58:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Quick fix: the label comes from Content Credentials (C2PA) that Photoshop and Premiere Pro write into your export after a generative edit, and export settings don't switch them off",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった",
-      "url": "https://dev.to/atu_ino_ed473db24d76d234a/xuan-shang-1871jian-nozi-dong-ying-mu-roguwoquan-bu-ji-ji-sitara-ying-mu-dao-xian-todang-xuan-waku-nidi-wei-naya-gaatuta-1eb8",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T03:01:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: title: 懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった python automation datajournalism japanese private: true 国内懸賞 1,871件を自動収集し、9アカウントで 2,348件のエントリーを実行した。その生ログから、応募導線・当選枠・締切の分布を機械可読",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった",
-      "url": "https://dev.to/atu_ino_ed473db24d76d234a/xuan-shang-1871jian-nozi-dong-ying-mu-roguwoquan-bu-ji-ji-sitara-ying-mu-dao-xian-todang-xuan-waku-nidi-wei-naya-gaatuta-j78",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T02:34:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: title: 懸賞1,871件の自動応募ログを全部集計したら、「応募導線」と「当選枠」に地味な崖があった 国内懸賞 1,871件を自動収集し、9アカウントで 2,348件のエントリーを実行した。その生ログから、応募導線・当選枠・締切の分布を機械可読な形で集計したのがこのレポートだ。手作業では絶対に作れない「1,871件横断の傾向」を見ていく。 対象: dat",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "[Boost]",
-      "url": "https://dev.to/mariela_estefanyramoslo/-28cm",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-05T02:42:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: De los datos a la nube: un dashboard de ventas con Streamlit y despliegue automático MARIELA ESTEFANY RAMOS LOZA Oct 5 #devops #python #datascience #tutorial Add Comment 4 min read",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "score": 64
     }
   ]
 }
