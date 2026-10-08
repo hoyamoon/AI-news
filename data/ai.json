@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T04:23:15.657Z",
+  "updated_at": "2026-10-08T04:34:31.095Z",
   "items": [
     {
       "title": "SWE-Race: a coding-agent benchmark of 188 real concurrency bugs, with results from three models [P]",
@@ -20,77 +20,45 @@
         "eval",
         "hot"
       ],
-      "score": 137
+      "score": 124
     },
     {
-      "title": "OpenAI is adding text watermarking in ChatGPT and Codex",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004880/openai-chatgpt-text-watermarks-eu-ai-act",
-      "source": "The Verge AI",
-      "published_at": "2026-10-05T18:08:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An invisible, machine-readable watermark in text output is rolling out to ChatGPT and Codex, but only for users in the European Union at first. OpenAI says its textGrain watermarki",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 127
-    },
-    {
-      "title": "Wikipedia operator says OpenAI&#8217;s &#8216;rogue&#8217; bots may be linked to a May outage",
-      "url": "https://www.theverge.com/news/1004929/wikipedia-openai-rogue-bots-wikimedia-foundation-outage",
-      "source": "The Verge AI",
-      "published_at": "2026-10-05T19:05:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Following many recent disclosures about AI agents accessing third-party websites and services, the Wikimedia Foundation, which hosts Wikipedia, says that it \"can confirm that we ha",
-      "tags": [
-        "GPT/OpenAI",
-        "Agents",
-        "Notion Status",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "status",
-        "hot"
-      ],
-      "score": 116
-    },
-    {
-      "title": "Nonobench: an open benchmark of 49 LLMs on nonogram puzzles, public and open source [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxa2bs/nonobench_an_open_benchmark_of_49_llms_on/",
+      "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-04T07:57:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nonobench measures how well LLMs solve nonograms (picross). Each model gets the row and column clues once and returns the full grid. No tools, one attempt per puzzle. Method: - Sta",
+      "published_at": "2026-10-08T03:46:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Write-up + demo: https://drksci.com/labs-phosphene So this started as a bit of a gripe. Modern terminal renderers are seriously impressive and seriously complicated. GPU glyph atla",
       "tags": [
-        "GPT/OpenAI",
         "Claude/Anthropic",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 112
-    },
-    {
-      "title": "All the drama around AI&#8217;s takeover of mathematics",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004933/ai-math-openai-breakthrough-solution",
-      "source": "The Verge AI",
-      "published_at": "2026-10-05T19:28:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This past year, OpenAI, Anthropic, and other labs have announced breakthroughs on numerous long-standing mathematical problems, in some cases pushing well beyond what researchers e",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
+        "Agents",
+        "Creators",
         "Release"
       ],
       "buckets": [
         "llm",
+        "agents",
+        "creators",
         "hot"
       ],
-      "score": 102
+      "score": 117
+    },
+    {
+      "title": "Muse launches on the iPad",
+      "url": "https://www.theverge.com/tech/1006813/muse-ai-agent-ios-app-ipad-support",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T15:37:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After launching nearly a month ago and spending several weeks as the top free app in Apple's App Store, the latest update to Meta's Muse iOS app introduces native support for the i",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 99
     },
     {
       "title": "Language barrier, shadier terms and jargon fog [D]",
@@ -108,29 +76,29 @@
       "score": 92
     },
     {
-      "title": "OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1004827/openai-sam-altman-vanity-fair-interview-pr",
-      "source": "The Verge AI",
-      "published_at": "2026-10-05T16:55:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An OpenAI publicist tried to change the topic of CEO Sam Altman's interview with Vanity Fair's Mark Guiducci after the editor brought up a ChatGPT user's suicide. When Guiducci con",
+      "title": "How much of AutoResearch is research, and how much is search?[D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzxqze/how_much_of_autoresearch_is_research_and_how_much/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-07T14:18:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've recently been working part-time on an AutoResearch-style project. The setup is roughly: humans take recent work from top-tier ML/AI conferences, turn part of it into a well-de",
       "tags": [
-        "GPT/OpenAI",
-        "Notion Status",
-        "Hot"
+        "Agents",
+        "Eval/Observability",
+        "Notion Update"
       ],
       "buckets": [
-        "llm",
-        "status",
-        "hot"
+        "agents",
+        "eval",
+        "update"
       ],
-      "score": 92
+      "score": 89
     },
     {
-      "title": "Decisions API is in public beta",
-      "url": "https://developers.openai.com/api/docs/guides/decisions",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T20:57:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://developers.openai.com/api/docs/guides/decisions Comments URL: https://news.ycombinator.com/item?id=49984025 Points: 186 # Comments: 82",
+      "title": "ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1007276/openai-chatgpt-intelligent-ui-gpt-6",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T19:10:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI is launching a new Intelligent UI feature in ChatGPT that allows the chatbot to answer your questions with interactive visuals. The update, which is rolling out to all users",
       "tags": [
         "GPT/OpenAI",
         "Release"
@@ -140,6 +108,128 @@
         "hot"
       ],
       "score": 75
+    },
+    {
+      "title": "ChatGPT is getting college planning tools",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005194/openai-chatgpt-teens-college-planner-notecards",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A preview of OpenAI’s College Planner. | Image: OpenAI OpenAI is bringing new tools to ChatGPT for Teens, a mode for teens introduced in August with safeguards and break reminders,",
+      "tags": [
+        "GPT/OpenAI",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 75
+    },
+    {
+      "title": "ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1006355/openai-chatgpt-for-teens-common-sense-media",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T09:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Common Sense Media, a nonprofit that offers reviews of apps, services, and entertainment with a focus on youth safety, today said that OpenAI's ChatGPT for Teens is an \"unacceptabl",
+      "tags": [
+        "GPT/OpenAI",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 75
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 70
+    },
+    {
+      "title": "Google invests millions in Mark Zuckerberg’s efforts to create a ‘virtual cell’",
+      "url": "https://www.theverge.com/tech/1006766/google-meta-biohub-investment-virtual-cell",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T14:40:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google DeepMind, Meta, and AI drug discovery startup Isomorphic Labs are jointly investing $300 million into an initiative to create a \"virtual cell\" that researchers can use to co",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 70
+    },
+    {
+      "title": "Looking for developer-friendly inference providers who give you enough API credits to experiment [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzqmka/looking_for_developerfriendly_inference_providers/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-07T07:51:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m hitting rate limits on Together AI. For context, I’ve been working on an agentic repository indexing and benchmark generation tool, and I’m running multiple agents in parallel ",
+      "tags": [
+        "Agents",
+        "Hot"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 69
+    },
+    {
+      "title": "Meta and Microsoft take steps to reduce employee usage of Claude AI",
+      "url": "https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-07T18:49:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.rswebsols.com/news/meta-and-microsoft-take-steps-to-reduce-employee-usage-of-claude-ai/ Comments URL: https://news.ycombinator.com/item?id=49997161 Points:",
+      "tags": [
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 65
+    },
+    {
+      "title": "Claude Haiku 5.5",
+      "url": "https://www.anthropic.com/claude-haiku-5-5",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-07T18:01:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.anthropic.com/claude-haiku-5-5 Comments URL: https://news.ycombinator.com/item?id=49996437 Points: 751 # Comments: 378",
+      "tags": [
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 65
+    },
+    {
+      "title": "GPT‑6 and Intelligent UI for everyone",
+      "url": "https://openai.com/index/gpt-6-for-everyone/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-07T18:00:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openai.com/index/gpt-6-for-everyone/ Comments URL: https://news.ycombinator.com/item?id=49996425 Points: 543 # Comments: 281",
+      "tags": [
+        "GPT/OpenAI"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 65
     },
     {
       "title": "OpenAI drops another batch of mathematical breakthroughs",
@@ -155,79 +245,7 @@
         "llm",
         "hot"
       ],
-      "score": 75
-    },
-    {
-      "title": "Strands Decider 2B: a small, open-source, decision model",
-      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-07T02:02:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://strandsagents.com/blog/introducing-strands-decider/ Comments URL: https://news.ycombinator.com/item?id=49987076 Points: 57 # Comments: 5",
-      "tags": [
-        "Agents",
-        "Hot"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 69
-    },
-    {
-      "title": "Integer multiplication below n log n",
-      "url": "https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T23:14:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/openai/math/tree/main/preprints/Integer-multiplication-below-n-log-n-September-23-2026 Comments URL: https://news.ycombinator.com/item?id=49985524 P",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Sharing AI progress in mathematics",
-      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T22:17:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://github.com/openai/math https://github.com/openai/math/tree/main/preprints Comments URL: https://news.ycombinator.com/item?id=49984923 Points: 576 # Comments: 512",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Claude Code’s suggested message feature: I think the real customer is the model",
-      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T18:00:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.zohaib.cc/blog/smartest-claude-code-feature Comments URL: https://news.ycombinator.com/item?id=49981905 Points: 134 # Comments: 71",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "Google is about to remove free access to Gemini Flash and Pro",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005451/google-gemini-free-flash-lite-only",
-      "source": "The Verge AI",
-      "published_at": "2026-10-06T13:19:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Starting on October 9th, anyone using Google Gemini on a free plan will be limited to the Flash Lite model. Free users can currently choose from Gemini Flash Lite, Flash, and Pro, ",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 60
+      "score": 62
     },
     {
       "title": "DevFest is back",
@@ -262,11 +280,11 @@
       "score": 55
     },
     {
-      "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-06T16:27:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Someone who has always loved looking at the space between different AI techniques, this time I went a little deeper into the memory trade-offs between RNNs, Transformers and SSMs. ",
+      "title": "Everything announced at Microsoft&#8217;s Surface Laptop Ultra event",
+      "url": "https://www.theverge.com/tech/1007147/microsoft-surface-laptop-ultra-windows-event-everything-announced",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T18:42:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft just wrapped up a big Windows and Surface-focused keynote in San Francisco. The biggest announcement was arguably the release details about the Surface Laptop Ultra, its ",
       "tags": [
         "RAG/Vector",
         "Release"
@@ -276,22 +294,6 @@
         "hot"
       ],
       "score": 55
-    },
-    {
-      "title": "AFP-GIC: Controllable Generative Image Compression [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-06T19:12:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi ML Community, I am excited to share our latest framework, AFP-GIC, officially published in IEEE Access (2026). We have released the deployment codebase and hosted an interactive",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 53
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -327,11 +329,11 @@
       "score": 50
     },
     {
-      "title": "South Korea says AI agents appear to have been used to hack the country's banks",
-      "url": "https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/",
+      "title": "Docker Agent",
+      "url": "https://github.com/docker/docker-agent",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T23:50:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.reuters.com/world/south-koreas-lee-says-ai-appears-have-been-used-bank-hacks-2026-10-06/ Comments URL: https://news.ycombinator.com/item?id=49985861 Points",
+      "published_at": "2026-10-07T17:48:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/docker/docker-agent Comments URL: https://news.ycombinator.com/item?id=49996259 Points: 201 # Comments: 89",
       "tags": [
         "Agents"
       ],
@@ -341,32 +343,32 @@
       "score": 49
     },
     {
-      "title": "Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end",
-      "url": "https://www.theverge.com/tech/1005342/amazon-alexa-plus-keeps-creepily-singing-lalala-for-minutes-on-end",
+      "title": "Microsoft is giving Copilot more control over Windows and your files",
+      "url": "https://www.theverge.com/tech/1007113/microsoft-windows-copilot-ai-control-search-hybrid-intelligence",
       "source": "The Verge AI",
-      "published_at": "2026-10-06T10:53:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Amazon Echo Studio is one of the speakers that runs Alexa Plus. | Photo by John Higgins / The Verge An unsettling Alexa Plus bug has seen some Amazon Echo smart home speakers r",
+      "published_at": "2026-10-07T18:01:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: At today's Windows and Surface event, Microsoft showed off an upgrade to its Copilot AI system that will give it access to local files on your PC and the ability to take actions ac",
       "tags": [
-        "NotebookLM"
+        "Agents"
       ],
       "buckets": [
-        "prod"
+        "agents"
       ],
-      "score": 47
+      "score": 49
     },
     {
-      "title": "Gemini Call for Me might tell your mom you&#8217;re running late",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1005177/google-gemini-call-for-me-expansion-rumors",
+      "title": "AI could upend food delivery",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1005726/doordash-ai-agentic-food-delivery-bites",
       "source": "The Verge AI",
-      "published_at": "2026-10-05T23:09:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google may be expanding its \"Call for Me\" AI feature beyond business calls so you can use it to send messages to friends and family. Android Authority reports finding a \"Gemini Cal",
+      "published_at": "2026-10-07T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: DoorDash, the leading food delivery app, processed 970 million orders in its second quarter this year and generated $4.5 billion in revenue. A 10-person startup called Bites is a b",
       "tags": [
-        "Gemini/Google"
+        "Agents"
       ],
       "buckets": [
-        "llm"
+        "agents"
       ],
-      "score": 47
+      "score": 49
     },
     {
       "title": "The latest AI news we announced in September 2026",
@@ -433,32 +435,48 @@
       "score": 45
     },
     {
-      "title": "Penguin Mail – open-source Rust email client for Linux with AI",
-      "url": "https://penguin-mail.com/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T21:59:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://penguin-mail.com/ Comments URL: https://news.ycombinator.com/item?id=49984716 Points: 104 # Comments: 48",
+      "title": "stuck on finding a approach for app detection ( making a transformer modal out of unlabeled network data) [R] [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x08xbn/stuck_on_finding_a_approach_for_app_detection/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-07T21:29:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As the title suggests I'm currently trying to make a modal to identify which app is being used. The thing is I don't have labelled data and generating it is out of question since t",
       "tags": [
-        "Hot"
+        "RAG/Vector"
       ],
       "buckets": [
-        "hot"
+        "rag"
       ],
       "score": 45
     },
     {
-      "title": "Paramount Skydance has completed its $111B merger with Warner Bros. Discovery",
-      "url": "https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T20:33:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arstechnica.com/tech-policy/2026/10/paramount-completes-111b-warner-merger-creating-skydance-behemoth/ Comments URL: https://news.ycombinator.com/item?id=49983",
+      "title": "Uploaded 5.6 billion TikTok videos metadata on Hugging Face, spanning from 2014 to October 2026 [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x04235/uploaded_56_billion_tiktok_videos_metadata_on/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-07T18:20:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Dataset: https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos If you want to explore the data without downloading billions of rows, you can query my ClickHouse database di",
       "tags": [
-        "Hot"
+        "Creators"
       ],
       "buckets": [
+        "creators"
+      ],
+      "score": 43
+    },
+    {
+      "title": "Transformers vs RNNs vs SSMs: Where Does Memory Actually Live? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wz71g3/transformers_vs_rnns_vs_ssms_where_does_memory/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-06T16:27:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Someone who has always loved looking at the space between different AI techniques, this time I went a little deeper into the memory trade-offs between RNNs, Transformers and SSMs. ",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
         "hot"
       ],
-      "score": 45
+      "score": 42
     },
     {
       "title": "Embedding Every Font with Neural Networks makes some Nice Structures (including a flower) [P]",
@@ -508,22 +526,6 @@
       "score": 42
     },
     {
-      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-04T10:24:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/gkjgii48gfth1.png?width=575&format=png&auto=webp&s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (K",
-      "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 42
-    },
-    {
       "title": "Q&A: Rethinking how innovation happens",
       "url": "https://news.mit.edu/2026/qa-eugene-fitzgerald-rethinking-how-innovation-happens-0817",
       "source": "MIT News AI",
@@ -556,50 +558,20 @@
       "score": 42
     },
     {
-      "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
-      "url": "https://arxiv.org/abs/2609.38721",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-06T22:51:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2609.38721 Comments URL: https://news.ycombinator.com/item?id=49985292 Points: 13 # Comments: 3",
-      "tags": [
-        "Multimodal"
-      ],
-      "buckets": [
-        "multimodal"
-      ],
-      "score": 41
-    },
-    {
-      "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
+      "title": "AFP-GIC: Controllable Generative Image Compression [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzbe6r/afpgic_controllable_generative_image_compression_r/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-05T04:11:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In this project, I distilled the Stockfish value function into a ResNet/ViT model using 1 billion positions from the Gigafish dataset. The 3.9 billion position dataset is available",
+      "published_at": "2026-10-06T19:12:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi ML Community, I am excited to share our latest framework, AFP-GIC, officially published in IEEE Access (2026). We have released the deployment codebase and hosted an interactive",
       "tags": [
-        "Multimodal",
+        "Eval/Observability",
         "Release"
       ],
       "buckets": [
-        "multimodal",
+        "eval",
         "hot"
       ],
-      "score": 38
-    },
-    {
-      "title": "Here are some pictures of a robot costume wearing high-specularity edge-case mirror suit, a dataset (425 RAW/JPEGs) for benchmarking CV & depth-estimation algorithms against extreme mirror reflections [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wx7jg6/here_are_some_pictures_of_a_robot_costume_wearing/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-04T05:21:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Purpose-built to stress-test computer vision models, depth cameras, and spatial AI against severe specular glare and geometric reflections. This 425-asset production archive featur",
-      "tags": [
-        "Multimodal",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 38
+      "score": 40
     },
     {
       "title": "Google Beam expands with new regions, partners, and customers",
@@ -770,25 +742,11 @@
       "score": 35
     },
     {
-      "title": "5 ways to upgrade your home decor with Google Search",
-      "url": "https://blog.google/products-and-platforms/products/search/home-decor-tips/",
-      "source": "Google AI Blog",
-      "published_at": "2026-08-25T16:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Learn how to use Google Search tools to find home decor inspiration, shop for furniture, and tackle DIY projects.",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 35
-    },
-    {
-      "title": "MIT announces the MIT for America initiative, to strengthen STEM education across the country",
-      "url": "https://news.mit.edu/2026/mit-america-initiative-strengthens-stem-education-across-country-1006",
-      "source": "MIT News AI",
-      "published_at": "2026-10-06T15:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The effort aims to help U.S. learners from kindergarten to community college, with an emphasis on math, making, and the constructive use of AI.",
+      "title": "Margaret Hamilton has died",
+      "url": "https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-07T21:16:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007 Comments URL: https://news.ycombinator.com/item?id=49998895 Points: 1006 # Comments: 112",
       "tags": [
         "Release"
       ],
@@ -798,11 +756,11 @@
       "score": 35
     },
     {
-      "title": "We can’t just change the definition of ‘recording’",
-      "url": "https://www.theverge.com/column/1005697/we-cant-just-change-the-definition-of-recording",
-      "source": "The Verge AI",
-      "published_at": "2026-10-06T16:29:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: With AI hardware, tech companies are pushing the definition of what does and doesn't constitute a recording. For most of gadget history, it'd be reasonable to assume that a device ",
+      "title": "Visa, Mastercard, major banks facing new litigation over 'anticompetitive' fees",
+      "url": "https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-07T15:09:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.classaction.org/news/visa-mastercard-major-banks-facing-new-litigation-over-anticompetitive-merchant-credit-card-transaction-fees Comments URL: https://new",
       "tags": [
         "Release"
       ],
@@ -812,32 +770,106 @@
       "score": 35
     },
     {
-      "title": "the official ICLR template .bib has had Bengio listed twice since 2019 [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxe9qx/the_official_iclr_template_bib_has_had_bengio/",
+      "title": "Saw this on Rednote, WTF [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzpzh3/saw_this_on_rednote_wtf_d/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-04T12:15:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: i work on reference checking stuff so i was reading through the ICLR 2027 author guidelines and style files this week the sample .bib that ships with the template has the Deep Lear",
+      "published_at": "2026-10-07T07:08:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/t7wxguxqvzth1.png?width=1314&format=png&auto=webp&s=0ba382fb88894c6e687d5bb9a4b14a85334eae67 Guess we have a dataset for sycophancy and AI content detection",
       "tags": [
-        "Creators"
+        "Release"
       ],
       "buckets": [
-        "creators"
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Split the Differences, Pool the Rest: Provably Efficient Multi-Objective Imitation [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0854j/split_the_differences_pool_the_rest_provably/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-07T20:58:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/i2c0cdkg04uh1.png?width=2532&format=png&auto=webp&s=fdfed9fe7ed2cef8e45791110a5152ff163a0ce8 TLDR: The question we answer: how do you learn from experts wit",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "NeurIPS 26 Event Metadata Deadline [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wzrj5l/neurips_26_event_metadata_deadline_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-07T08:52:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi All, Does anyone know when is the deadline to fill in event metadata? (the screenshot below) Is it the same time as camera-ready? Or there is a deadline for it? And is everyone'",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Using AI to mitigate the growing environmental threat of data centers",
+      "url": "https://news.mit.edu/2026/mitigating-environmental-threat-of-data-centers-christina-delimitrou-1008",
+      "source": "MIT News AI",
+      "published_at": "2026-10-08T04:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By rethinking how large cloud computing systems operate, Associate Professor Christina Delimitrou seeks to make data centers more energy efficient.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Surface RTX Spark Dev Box is available for preorder for $5,999",
+      "url": "https://www.theverge.com/tech/1006915/microsoft-surface-rtx-spark-dev-box-preorder",
+      "source": "The Verge AI",
+      "published_at": "2026-10-07T17:46:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft's Nvidia-powered Surface RTX Spark Dev Box is available for preorder now and is slated to ship in November for just about $6,000. It's pricier than the DGX Spark mini PC ",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Top ARC-ΑGI-3 scores on Kaggle just went from 7% to 56% [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxcd4k/top_arcαgi3_scores_on_kaggle_just_went_from_7_to/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-04T10:24:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/gkjgii48gfth1.png?width=575&format=png&auto=webp&s=4e1c35bdacf41d18a6409baedcddc9432ec79814 This happened over the past 30 days. So smallish local models (K",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
       ],
       "score": 30
     },
     {
-      "title": "Working with an AI Company That Does Things You Disagree With [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxar4x/working_with_an_ai_company_that_does_things_you/",
+      "title": "Distilling Stockfish on a Billion Positions, Full 3.9B Dataset Available [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1wxz5qq/distilling_stockfish_on_a_billion_positions_full/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-04T08:41:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm a PhD student in machine learning in the EU and was looking for internships at exciting companies. I shortlisted few and applied by reaching out to people and now reading proje",
+      "published_at": "2026-10-05T04:11:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In this project, I distilled the Stockfish value function into a ResNet/ViT model using 1 billion positions from the Gigafish dataset. The 3.9 billion position dataset is available",
       "tags": [
-        "Multimodal"
+        "Multimodal",
+        "Release"
       ],
       "buckets": [
-        "multimodal"
+        "multimodal",
+        "hot"
       ],
-      "score": 28
+      "score": 26
     },
     {
       "title": "How a medical database developed at MIT evolved into a global standard of data-sharing",
@@ -856,41 +888,21 @@
       "score": 26
     },
     {
-      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
-      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "title": "'Jonathan' is the oldest land animal on Earth",
+      "url": "https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-07T03:16:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nanochess.org/la_cueva_bbs.html Comments URL: https://news.ycombinator.com/item?id=49987675 Points: 9 # Comments: 1",
+      "published_at": "2026-10-07T20:01:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/ Comments URL: https://news.ycombinator.com/item?id=49998066 Points: 93 # Comments: 36",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Xbox has secured exclusive GTA 6 streaming rights",
-      "url": "https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights",
+      "title": "Push ifs up and fors down: The idiom, its algebra, and its limits",
+      "url": "https://debasishg.github.io/blog/push-ifs-up-fors-down/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-07T02:22:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.theverge.com/report/1005859/microsoft-xbox-gta-6-streaming-rights Comments URL: https://news.ycombinator.com/item?id=49987245 Points: 13 # Comments: 11",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "ESP32-C3 Adblock",
-      "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-07T01:39:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/M-Abozaid/esp32-c3-adblock Comments URL: https://news.ycombinator.com/item?id=49986862 Points: 20 # Comments: 5",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Jev-Driven SRE Diagnosis: What Worked and What Failed",
-      "url": "https://www.sregym.com/blog/jev-driven-sre-diagnosis",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-07T01:27:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.sregym.com/blog/jev-driven-sre-diagnosis Comments URL: https://news.ycombinator.com/item?id=49986765 Points: 10 # Comments: 2",
+      "published_at": "2026-10-07T18:43:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://debasishg.github.io/blog/push-ifs-up-fors-down/ Comments URL: https://news.ycombinator.com/item?id=49997073 Points: 121 # Comments: 59",
       "tags": [],
       "buckets": [],
       "score": 25
