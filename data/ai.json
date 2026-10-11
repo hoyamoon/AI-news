@@ -1,6 +1,29 @@
 {
-  "updated_at": "2026-10-10T04:23:36.401Z",
+  "updated_at": "2026-10-11T04:04:36.953Z",
   "items": [
+    {
+      "title": "Anthropic is cutting off its internal evaluations from the internet",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009286/anthropic-is-cutting-off-its-internal-evaluations-from-the-internet",
+      "source": "The Verge AI",
+      "published_at": "2026-10-10T14:41:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After a recent spate of high-profile incidents in which AI agents escaped containment, Anthropic is cutting off internet access for all internal evaluations. In a report Friday, th",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Eval/Observability",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "eval",
+        "status",
+        "hot"
+      ],
+      "score": 157
+    },
     {
       "title": "ThinkingBox: Solving an agent task once vs. solving it 20/20: 507 stateful workflows graded on terminal database state [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x17shf/thinkingbox_solving_an_agent_task_once_vs_solving/",
@@ -65,45 +88,61 @@
       "score": 121
     },
     {
-      "title": "Moonworks Lunara: Modeling Artistic Intelligence [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x13zf7/moonworks_lunara_modeling_artistic_intelligence_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-08T21:54:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Lunara introduces a novel Diffusion Mixture Transformer architecture with fewer than 10B active parameters for modeling artistic intelligence in image generation. Its CAT training ",
+      "title": "AI agent makers are promising privacy — will they deliver?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009051/privacy-ai-agent-promises-openai-meta-muse-dots",
+      "source": "The Verge AI",
+      "published_at": "2026-10-10T13:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: At this year's OpenAI DevDay, CEO Sam Altman unveiled the company's new AI agent Dots - and told the crowd that the company wants to \"set a new standard for privacy in frontier AI.",
       "tags": [
         "GPT/OpenAI",
-        "Eval/Observability",
-        "Multimodal",
+        "Agents",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "eval",
-        "multimodal",
+        "agents",
         "hot"
       ],
-      "score": 116
+      "score": 119
     },
     {
-      "title": "Instead of another GPU terminal renderer, I trained a 1.26M-param model to turn TUIs (htop, vim, emacs…) into real UI components [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0gvnt/instead_of_another_gpu_terminal_renderer_i/",
+      "title": "Are .ipynb notebooks already outdated in the agentic era? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2cbug/are_ipynb_notebooks_already_outdated_in_the/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-08T03:46:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Write-up + demo: https://drksci.com/labs-phosphene So this started as a bit of a gripe. Modern terminal renderers are seriously impressive and seriously complicated. GPU glyph atla",
+      "published_at": "2026-10-10T10:51:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am a data scientist who started working in the industry before the LLM revolution. Back then, Jupyter Notebooks were a perfect fit for the classical DS pipeline: EDA -> data prep",
       "tags": [
         "Claude/Anthropic",
         "Agents",
-        "Creators",
+        "Eval/Observability",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "creators",
+        "eval",
         "hot"
       ],
-      "score": 104
+      "score": 117
+    },
+    {
+      "title": "Woven by Toyota MLE Interview - PyTorch Debugging [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x230k9/woven_by_toyota_mle_interview_pytorch_debugging_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-10T01:45:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have an upcoming interview with Woven by Toyota for an MLE perception role. I was told the round would be focused on ML coding/debugging. Specifically, I was told to focus on Pyt",
+      "tags": [
+        "Claude/Anthropic",
+        "Make",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "make",
+        "hot"
+      ],
+      "score": 96
     },
     {
       "title": "[2610.08927] Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station",
@@ -123,7 +162,7 @@
         "eval",
         "hot"
       ],
-      "score": 97
+      "score": 84
     },
     {
       "title": "OpenAI doubles down on decision to fire three AI safety researchers",
@@ -131,58 +170,6 @@
       "source": "The Verge AI",
       "published_at": "2026-10-09T09:48:26.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI is standing firm on its decision to fire three safety researchers after an investigation found they committed \"a significant breach of trust.\" In a post on X on Friday, the ",
-      "tags": [
-        "GPT/OpenAI",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 95
-    },
-    {
-      "title": "Best practices when running a benchmark on online models [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0o8de/best_practices_when_running_a_benchmark_on_online/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-08T11:15:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm developing a benchmark for a low resource language and I don't want it to be leaked and used for training when it is being used to get predictions. For locally run models it sh",
-      "tags": [
-        "GPT/OpenAI",
-        "Eval/Observability",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "eval",
-        "hot"
-      ],
-      "score": 90
-    },
-    {
-      "title": "Anthropic launches free AI security scans for open-source projects",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008521/anthropic-open-source-oss-scanner",
-      "source": "The Verge AI",
-      "published_at": "2026-10-08T21:53:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic's offering to help open-source projects track down security vulnerabilities with a new service called OSS Scanner. It says open-source projects that opt-in will get \"thor",
-      "tags": [
-        "Claude/Anthropic",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 82
-    },
-    {
-      "title": "USA Today becomes the latest publisher to sue OpenAI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008198/usa-today-openai-copyright-lawsuit",
-      "source": "The Verge AI",
-      "published_at": "2026-10-08T17:58:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: USA Today Co., along with the several local newspapers it owns, is suing OpenAI over claims that the company copied \"hundreds of thousands\" of articles to train its AI models, as r",
       "tags": [
         "GPT/OpenAI",
         "Hot",
@@ -209,7 +196,23 @@
         "agents",
         "hot"
       ],
-      "score": 79
+      "score": 66
+    },
+    {
+      "title": "Satya Nadella says we should assume all AI models are ‘compromised’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised",
+      "source": "The Verge AI",
+      "published_at": "2026-10-10T22:10:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In a lengthy post on X, Microsoft's CEO laid out his views on the dangers posed by highly advanced AI models and how to confront those risks. Nadella says we can no longer accept a",
+      "tags": [
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
+      "score": 65
     },
     {
       "title": "Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide",
@@ -225,7 +228,7 @@
         "llm",
         "hot"
       ],
-      "score": 75
+      "score": 62
     },
     {
       "title": "&#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop",
@@ -241,7 +244,7 @@
         "llm",
         "hot"
       ],
-      "score": 75
+      "score": 62
     },
     {
       "title": "Talus: a 23M-parameter diffusion model for game terrain, evaluated against a real-vs-real noise floor, running in the browser on WebGPU [P]",
@@ -259,21 +262,7 @@
         "eval",
         "hot"
       ],
-      "score": 73
-    },
-    {
-      "title": "Anthropic AI model submits false tip on unsolved Philly murder",
-      "url": "https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T22:00:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.nbcphiladelphia.com/news/local/anthropic-ai-model-submits-false-tip-on-unsolved-philly-murder-police-say/4477051/ Comments URL: https://news.ycombinator.co",
-      "tags": [
-        "Claude/Anthropic"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
+      "score": 60
     },
     {
       "title": "DevFest is back",
@@ -292,11 +281,11 @@
       "score": 59
     },
     {
-      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
-      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
-      "source": "The Verge AI",
-      "published_at": "2026-10-09T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: inv",
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-11T02:02:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://momo5502.com/posts/2026-10-09-game-decompilation/ Comments URL: https://news.ycombinator.com/item?id=50039092 Points: 59 # Comments: 40",
       "tags": [
         "Agents",
         "Release"
@@ -306,22 +295,6 @@
         "hot"
       ],
       "score": 59
-    },
-    {
-      "title": "Introducing Playground: Create and play custom games",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-07T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 57
     },
     {
       "title": "Proactive cyber defense for governments and enterprises",
@@ -340,11 +313,11 @@
       "score": 55
     },
     {
-      "title": "Trump’s attempt to rename AI is looking awfully artificial",
-      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "title": "DistroKid has been quietly taking down songs in response to UMG lawsuit",
+      "url": "https://www.theverge.com/entertainment/1009309/distrokid-take-down-songs-umg-lawsuit",
       "source": "The Verge AI",
-      "published_at": "2026-10-09T14:25:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he ",
+      "published_at": "2026-10-10T18:52:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Artists are taking to social media to complain that DistroKid has unceremoniously removed their work without notice. Now DistroKid has confirmed to The Verge that the takedowns are",
       "tags": [
         "Hot",
         "Release"
@@ -388,27 +361,11 @@
       "score": 50
     },
     {
-      "title": "Production Grade Retrieval Pipeline That Admits \"I Don't Know\" [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x0xt5x/production_grade_retrieval_pipeline_that_admits_i/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-08T17:55:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you're moving a RAG prototype to production, this is the checklist I wish I'd had. - Citations on every answer - Refusing when the context doesn't support one - Access control t",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability"
-      ],
-      "buckets": [
-        "rag",
-        "eval"
-      ],
-      "score": 50
-    },
-    {
-      "title": "Rewriting Prime Agent in Rust",
-      "url": "https://www.primeintellect.ai/blog/prime-agent-rust",
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "url": "https://github.com/vahmoh25/Veda",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T23:06:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.primeintellect.ai/blog/prime-agent-rust Comments URL: https://news.ycombinator.com/item?id=50027694 Points: 31 # Comments: 10",
+      "published_at": "2026-10-11T00:22:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/vahmoh25/Veda Comments URL: https://news.ycombinator.com/item?id=50038473 Points: 35 # Comments: 7",
       "tags": [
         "Agents"
       ],
@@ -416,6 +373,66 @@
         "agents"
       ],
       "score": 49
+    },
+    {
+      "title": "Talorys – A self-hosted personal AI agent on Cloudflare's free tier",
+      "url": "https://github.com/rociiu/talorys",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-10T10:52:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/rociiu/talorys Comments URL: https://news.ycombinator.com/item?id=50031614 Points: 264 # Comments: 123",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Has machine learning research gotten more \"wordy\"? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x2uklq/has_machine_learning_research_gotten_more_wordy_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-11T00:39:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I feel like I am unable to digest most machine learning research these days. The primary reason is because I feel like they have gotten tremendously wordy. I find it not uncommon t",
+      "tags": [
+        "Notion Update"
+      ],
+      "buckets": [
+        "update"
+      ],
+      "score": 47
+    },
+    {
+      "title": "Instinct was the buzziest AI agent around — can it survive Muse?",
+      "url": "https://www.theverge.com/tech/1008254/instinct-agent-ai-hands-on-muse-dots",
+      "source": "The Verge AI",
+      "published_at": "2026-10-09T14:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Instinct’s agent is always just a text away. Before there were cute little guys, there was Instinct. In August, the startup got its AI agent to market with an unusual playbook: inv",
+      "tags": [
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 46
+    },
+    {
+      "title": "Introducing Playground: Create and play custom games",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/playground-experimental-gaming-platform/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-07T12:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Playground is a new experimental gaming platform that lets you create, play, and share custom games.",
+      "tags": [
+        "Gemini/Google",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "hot"
+      ],
+      "score": 45
     },
     {
       "title": "The latest AI news we announced in September 2026",
@@ -482,18 +499,20 @@
       "score": 45
     },
     {
-      "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
+      "title": "Real-time neural weather restyling for Minecraft on a GTX 1650 (1.4M-param U-Net, distilled from FLUX.2 klein, 30-40 FPS realtime on budget GPU) [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x25kq2/realtime_neural_weather_restyling_for_minecraft/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-09T13:29:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ALHR - Adaptive Learnable Hierarchical Routing, uses static binary trees and learnable functions to minimize the amount of keys to be read. It does use a dense teacher while phase ",
+      "published_at": "2026-10-10T04:02:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Teacher: FLUX.2 klein 4B paints ~3k frames (snow / wet / night at 3 strengths). Student: 1.4M-param U-Net with FiLM sliders, 512×288, ~26 ms/frame via ONNX Runtime inside a Fabric ",
       "tags": [
-        "RAG/Vector"
+        "RAG/Vector",
+        "Release"
       ],
       "buckets": [
-        "rag"
+        "rag",
+        "hot"
       ],
-      "score": 45
+      "score": 42
     },
     {
       "title": "Have URMs and UTs been integrated into frontier models? Or did they disappear into the dustbin of forgotten papers? [D]",
@@ -544,6 +563,21 @@
       "score": 42
     },
     {
+      "title": "Trump’s attempt to rename AI is looking awfully artificial",
+      "url": "https://www.theverge.com/policy/1008677/trump-super-intelligence-ai-rebranding",
+      "source": "The Verge AI",
+      "published_at": "2026-10-09T14:25:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: President Donald Trump has a knack for turning words against his enemies. His first successful presidential run was built on monikers like \"Little Marco\" and \"Crooked Hillary\"; he ",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 42
+    },
+    {
       "title": "The Alchemy of Semi-Supervision [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1x14a61/the_alchemy_of_semisupervision_r/",
       "source": "Reddit r/MachineLearning",
@@ -558,6 +592,20 @@
         "hot"
       ],
       "score": 38
+    },
+    {
+      "title": "Five months treating bugs like patients and coding agents like a medical team",
+      "url": "https://www.cockroachlabs.com/blog/experiment-running-hospital-code/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-09T15:26:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cockroachlabs.com/blog/experiment-running-hospital-code/ Comments URL: https://news.ycombinator.com/item?id=50021899 Points: 90 # Comments: 38",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 36
     },
     {
       "title": "Should I optimize for ML conference publications? [D]",
@@ -742,11 +790,11 @@
       "score": 35
     },
     {
-      "title": "The logarithms of rational numbers have irrationality exponent 2 [pdf]",
-      "url": "https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf",
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T23:32:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://jdb19937.github.io/log-irrationality-measure/logmeasure.pdf Comments URL: https://news.ycombinator.com/item?id=50027884 Points: 13 # Comments: 3",
+      "published_at": "2026-10-10T20:31:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://housing.over.pizza/ Comments URL: https://news.ycombinator.com/item?id=50036864 Points: 226 # Comments: 83",
       "tags": [
         "Release"
       ],
@@ -756,44 +804,58 @@
       "score": 35
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
+      "title": "Rampart: Browser native on-device PII radaction",
+      "url": "https://ndstudio.gov/posts/say-hello-to-rampart",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T18:10:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Showing off carrier-explode, one of my side projects that continuously archives carrier settings for all major phone brands. carrier-explode also contains decoders and explanations",
+      "published_at": "2026-10-09T17:52:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ndstudio.gov/posts/say-hello-to-rampart Comments URL: https://news.ycombinator.com/item?id=50024242 Points: 82 # Comments: 31",
       "tags": [
-        "Release"
+        "NotebookLM"
+      ],
+      "buckets": [
+        "prod"
+      ],
+      "score": 34
+    },
+    {
+      "title": "Telegram Desktop vulnerability allowed any user's file to be stolen",
+      "url": "https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-10T03:02:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/ Comments URL: https://news.ycombinator.com/item?id=50029123 Points: 434 # Comments: 277",
+      "tags": [
+        "Hot"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 32
     },
     {
-      "title": "Nikon microscopic video competition winner disqualified for using generative AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1008930/nikon-small-world-in-motion-winner-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-10-09T18:06:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The original first place video used AI in post-processing. | Image: Dr. Ning Xu Nikon says the video that originally won first place in its Small World in Motion contest \"did not c",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Uploaded 5.6 billion TikTok videos metadata on Hugging Face, spanning from 2014 to October 2026 [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1x04235/uploaded_56_billion_tiktok_videos_metadata_on/",
+      "title": "I built ALHR: A tree based sparse attention system that achieves sub-quadratic inference while retaining accuracy. [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1x1lem3/i_built_alhr_a_tree_based_sparse_attention_system/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-07T18:20:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Dataset: https://huggingface.co/datasets/datasocial/tiktok-5.6B-videos If you want to explore the data without downloading billions of rows, you can query my ClickHouse database di",
+      "published_at": "2026-10-09T13:29:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ALHR - Adaptive Learnable Hierarchical Routing, uses static binary trees and learnable functions to minimize the amount of keys to be read. It does use a dense teacher while phase ",
       "tags": [
-        "Creators"
+        "RAG/Vector"
       ],
       "buckets": [
-        "creators"
+        "rag"
+      ],
+      "score": 32
+    },
+    {
+      "title": "Recent AI models struggled to match a human algorithmic innovation",
+      "url": "https://epoch.ai/publications/innovationeval",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-09T22:14:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://epoch.ai/publications/innovationeval Comments URL: https://news.ycombinator.com/item?id=50027257 Points: 85 # Comments: 64",
+      "tags": [
+        "Eval/Observability"
+      ],
+      "buckets": [
+        "eval"
       ],
       "score": 30
     },
@@ -814,91 +876,51 @@
       "score": 26
     },
     {
-      "title": "REA Reverse – Engineer Anything",
-      "url": "https://rea.tools/",
+      "title": "WallHop – 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-10T00:37:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://rea.tools/ Comments URL: https://news.ycombinator.com/item?id=50028275 Points: 187 # Comments: 53",
+      "published_at": "2026-10-11T00:46:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://wallhop.io/ Comments URL: https://news.ycombinator.com/item?id=50038634 Points: 157 # Comments: 72",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Has the Autonomous Trucking Revolution Arrived?",
-      "url": "https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/",
+      "title": "PSPi 6 – Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T23:57:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://phenomenalworld.org/analysis/has-the-autonomous-trucking-revolution-arrived/ Comments URL: https://news.ycombinator.com/item?id=50028062 Points: 14 # Comments:",
+      "published_at": "2026-10-11T00:45:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/othermod/PSPi-Version-6 Comments URL: https://news.ycombinator.com/item?id=50038623 Points: 31 # Comments: 5",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Clinical trial of a prion disease drug candidate begins enrolling participants",
-      "url": "https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants",
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T23:53:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.broadinstitute.org/news/clinical-trial-prion-disease-drug-candidate-begins-enrolling-participants Comments URL: https://news.ycombinator.com/item?id=500280",
+      "published_at": "2026-10-10T22:50:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nishtahir.com/build-your-own-decision-model/ Comments URL: https://news.ycombinator.com/item?id=50037949 Points: 165 # Comments: 31",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "url": "https://lwn.net/Articles/1055211/",
+      "title": "Nvidia in talks to acquire US 'open' model startup Reflection AI",
+      "url": "https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T23:28:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lwn.net/Articles/1055211/ Comments URL: https://news.ycombinator.com/item?id=50027853 Points: 38 # Comments: 3",
+      "published_at": "2026-10-10T18:48:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ft.com/content/052610c5-22b4-4dd4-932e-b7f9f0628b6a Comments URL: https://news.ycombinator.com/item?id=50035886 Points: 137 # Comments: 91",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Atari Falcon",
-      "url": "https://atarimuseum.nl/atari-falcon/",
+      "title": "Why DuckDB 2.0 is faster",
+      "url": "https://motherduck.com/blog/why-duckdb-20-is-faster/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T22:54:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://atarimuseum.nl/atari-falcon/ Comments URL: https://news.ycombinator.com/item?id=50027590 Points: 26 # Comments: 5",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T21:06:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306 Comments URL: https://news.ycombinator.com/item?id=5",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "M7.6 Earthquake in Panama",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T18:22:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://earthquake.usgs.gov/earthquakes/eventpage/us6000u18k/executive Comments URL: https://news.ycombinator.com/item?id=50024669 Points: 142 # Comments: 36",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "What mathematicians should know about the Lean Theorem Prover: reliability & AI",
-      "url": "https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T17:42:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://terrytao.wordpress.com/2026/10/09/what-mathematicians-should-know-about-the-lean-theorem-proverquestions-of-reliability-and-ai/ Comments URL: https://news.ycom",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Show HN: The rarest tech books and docs you've probably never read",
-      "url": "https://readrare.com/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-09T17:39:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://readrare.com/ Comments URL: https://news.ycombinator.com/item?id=50024055 Points: 88 # Comments: 26",
+      "published_at": "2026-10-10T18:08:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://motherduck.com/blog/why-duckdb-20-is-faster/ Comments URL: https://news.ycombinator.com/item?id=50035530 Points: 168 # Comments: 51",
       "tags": [],
       "buckets": [],
       "score": 25
