@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-16T03:12:11.538Z",
+  "updated_at": "2026-10-17T03:03:33.969Z",
   "items": [
     {
       "title": "Notion AI vs ClickUp Brain in 2026: Which Workspace AI Is Worth Paying For?",
@@ -31,31 +31,6 @@
       "score": 245
     },
     {
-      "title": "Best AI Note Taking App in 2026: Notion, Obsidian, Mem and More Compared",
-      "url": "https://dev.to/stimlau/best-ai-note-taking-app-in-2026-tested-notion-obsidian-mem-1g03",
-      "source": "Dev.to Notion",
-      "published_at": "2026-10-04T04:48:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR Notion AI is the best AI note taking app for most people in 2026: one workspace where Business plan at $20/member/mo. Obsidian + AI plugins wins on ownership Mem is the best ",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Gemini/Google",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "hot"
-      ],
-      "score": 207
-    },
-    {
       "title": "Notion's API almost never errors out. That's the hard part.",
       "url": "https://dev.to/eugeniya_ivanova_4a58eadc/notions-api-almost-never-errors-out-thats-the-hard-part-5g2k",
       "source": "Dev.to Notion",
@@ -79,25 +54,27 @@
       "score": 134
     },
     {
-      "title": "Make Notion invalid_request_url: fix the empty page ID after Gmail and Search Objects",
-      "url": "https://dev.to/flowpaja/make-notion-invalidrequesturl-fix-the-empty-page-id-after-gmail-and-search-objects-59j0",
+      "title": "Setting Up a Notion Workspace as a Freelancer: Clients, Projects and Invoices in One Place",
+      "url": "https://dev.to/freetierkits/setting-up-a-notion-workspace-as-a-freelancer-clients-projects-and-invoices-in-one-place-1efm",
       "source": "Dev.to Notion",
-      "published_at": "2026-10-15T15:55:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Short answer: Notion's API returns invalid_request_url when the page URL ends at /v1/pages/ with no page ID. In Make that usually means Gmail → Notion Search Objects looked success",
+      "published_at": "2026-10-16T19:49:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: this post was written with AI assistance. Freelancers usually run their business across five tools: a spreadsheet for clients, a to-do app, a folder of invoices, an ema",
       "tags": [
-        "Make",
+        "Multimodal",
+        "Zapier",
         "Notion Update",
-        "Notion Status",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "make",
+        "multimodal",
+        "zapier",
         "update",
-        "status",
+        "creators",
         "hot"
       ],
-      "score": 121
+      "score": 131
     },
     {
       "title": "I build my Notion templates as code: generate, review on disk, then push",
@@ -123,61 +100,25 @@
       "score": 112
     },
     {
-      "title": "bulk applying page templates to records that already have content - lifetime dealio thingie.",
-      "url": "https://www.reddit.com/r/Notion/comments/1x5w2ly/bulk_applying_page_templates_to_records_that/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T16:37:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm sure somebody's going to say that I work for them. I don't. I just have a pain in my ass when it comes to Notion: changing my page template and then having to go back and chang",
-      "tags": [
-        "Claude/Anthropic",
-        "n8n",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 104
-    },
-    {
-      "title": "Best Notion AI Alternatives in 2026",
-      "url": "https://dev.to/stimlau/best-notion-ai-alternatives-in-2026-n6j",
+      "title": "Make Notion invalid_request_url: fix the empty page ID after Gmail and Search Objects",
+      "url": "https://dev.to/flowpaja/make-notion-invalidrequesturl-fix-the-empty-page-id-after-gmail-and-search-objects-59j0",
       "source": "Dev.to Notion",
-      "published_at": "2026-10-04T04:56:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR The best Notion AI alternative for individuals is Obsidian + AI plugins — free app, Gemini for Workspace wins for teams already on Google Docs and Gmail Coda AI for docs that",
+      "published_at": "2026-10-15T15:55:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Fix Notion invalid_request_url in Make: Search Objects shows green but returns no page ID, so the PATCH URL ends at /v1/pages/. Filter, fix the search, use Notion modules. Updated ",
       "tags": [
-        "Gemini/Google",
-        "Agents",
+        "Make",
+        "Notion Update",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "agents",
+        "make",
+        "update",
+        "status",
         "hot"
       ],
-      "score": 89
-    },
-    {
-      "title": "the 3 database client tracker i ended up with after overbuilding one (freelance setup)",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6ok83/the_3_database_client_tracker_i_ended_up_with/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T15:21:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: my first freelance crm in notion had like 25 properties and i stopped updating it after two weeks. this is the stripped down version that actually stuck, in case it helps anyone se",
-      "tags": [
-        "RAG/Vector",
-        "Creators",
-        "Hot"
-      ],
-      "buckets": [
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 83
+      "score": 108
     },
     {
       "title": "How to Track MRR and Monthly Profit per Product in Notion (Free Template)",
@@ -200,39 +141,6 @@
       "score": 82
     },
     {
-      "title": "Charged for a \"frozen\" subscription period and denied a refund on the same day",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6htrp/charged_for_a_frozen_subscription_period_and/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T10:12:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello Guys I wanted to share a very frustrating experience I just had with Notion billing. My workspace invoice was generated on September 26, 2026. Because my card had no funds, t",
-      "tags": [
-        "Agents",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 79
-    },
-    {
-      "title": "File-based Notion alternative",
-      "url": "https://www.reddit.com/r/Notion/comments/1x66xa8/filebased_notion_alternative/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T23:54:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Does anyone have the desire for a file-based Notion alternative? Notion x Obsidian. In the cloud with nice editing like Notion but based on files like Obsidian (markdown, csv, etc.",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents"
-      ],
-      "buckets": [
-        "llm",
-        "agents"
-      ],
-      "score": 76
-    },
-    {
       "title": "Build in Public #2: Where Do Free Tools Get Found? (Still 0 Sales)",
       "url": "https://dev.to/showayzun/build-in-public-2-where-do-free-tools-get-found-still-0-sales-2kii",
       "source": "Dev.to Notion",
@@ -250,53 +158,6 @@
         "hot"
       ],
       "score": 72
-    },
-    {
-      "title": "FINAL UPDATE: The Billing Escalations team reviewed my ticket and granted a FULL REFUND! We won! 🎉",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6w134/final_update_the_billing_escalations_team/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T20:03:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone, I have amazing news! After being strictly denied twice by the first-line support agent (Brian), I followed your advice, demanded a manual review, and escalated the ti",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 59
-    },
-    {
-      "title": "NOTION : Version history , is this acceptable or what would you do?",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6ipnz/notion_version_history_is_this_acceptable_or_what/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T11:04:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We've gotten a large database in Notion. This summer they've updated their version history system. We've noticed when they changed, we suddenly lost all our version history , and n",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "[Help Needed] Has anyone successfully redeemed the 3-month Notion Business LinkedIn offer? Struggling with payment verification in China",
-      "url": "https://www.reddit.com/r/Notion/comments/1x5suwy/help_needed_has_anyone_successfully_redeemed_the/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T14:34:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone! I'm from mainland China, and I'm hoping someone with experience in international payments or Notion subscriptions can help me solve a frustrating problem. Recently, I ",
-      "tags": [
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 54
     },
     {
       "title": "Notion AI Pricing Explained: Is the Add-On Worth It in 2026?",
@@ -382,20 +243,6 @@
       "score": 50
     },
     {
-      "title": "I stopped forgetting to chase late invoices with one Notion formula",
-      "url": "https://www.reddit.com/r/Notion/comments/1x73fwk/i_stopped_forgetting_to_chase_late_invoices_with/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-16T01:32:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm a freelancer and I kept losing track of who still owed me money. So I added a \"Next step\" formula to my invoices database in Notion, and now each invoice tells me what to do. H",
-      "tags": [
-        "Notion Update"
-      ],
-      "buckets": [
-        "update"
-      ],
-      "score": 47
-    },
-    {
       "title": "Gemini 3 Pro is live",
       "url": "https://www.notion.so/releases/2025-11-19",
       "source": "Notion Releases",
@@ -410,62 +257,6 @@
         "hot"
       ],
       "score": 45
-    },
-    {
-      "title": "Home maintenance in Notion: do you separate repair history from the next task?",
-      "url": "https://www.reddit.com/r/Notion/comments/1x73l57/home_maintenance_in_notion_do_you_separate_repair/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-16T01:39:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Say a dishwasher has been repaired twice, but also needs a new service appointment. Would you keep all three entries in one database, or separate the completed service history from",
-      "tags": [
-        "Creators"
-      ],
-      "buckets": [
-        "creators"
-      ],
-      "score": 43
-    },
-    {
-      "title": "I made an interactive Notion habit tracker that lets you navigate through months",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6xzmt/i_made_an_interactive_notion_habit_tracker_that/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T21:21:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/suespace- [link] [comments]",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "UPDATE: Denied by support, launching a daily tracker until Notion reviews my logs",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6om0s/update_denied_by_support_launching_a_daily/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T15:23:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Since support refuses to escalate my ticket to a billing manager, I am not giving up. My workspace was strictly locked and suspended during the unpaid period, yet Notion charged me",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Computer updated download latest version, still get this screen, any help?",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6l5x7/computer_updated_download_latest_version_still/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T13:07:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: been getting this message for a while. Don't really understand my computer is fully updated. Windows 11. and I keep redownloading the latest version from the website and continuall",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
     },
     {
       "title": "Notion 3.8: Context for your agents  ",
@@ -786,20 +577,6 @@
       "score": 30
     },
     {
-      "title": "Find your Ideal Customer | ICP",
-      "url": "https://www.reddit.com/r/Notion/comments/1x68luq/find_your_ideal_customer_icp/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T01:15:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I see a lot of people on here who post random templates from time to time and promote stuff, so I figured I would share one of my favorite templates over the years. This is the ICP",
-      "tags": [
-        "Creators"
-      ],
-      "buckets": [
-        "creators"
-      ],
-      "score": 30
-    },
-    {
       "title": "How to import your Pocket export into Notion (and keep your tags)",
       "url": "https://dev.to/binbuilds0/how-to-import-your-pocket-export-into-notion-and-keep-your-tags-1i89",
       "source": "Dev.to Notion",
@@ -831,82 +608,14 @@
       "score": 28
     },
     {
-      "title": "Cursor keeps moving",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6zoj5/cursor_keeps_moving/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T22:34:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The cursor that my text comes from keeps moving. Usually it happens when I use a contraction or a random word. For the word, it will move the cursor back a few characters and It'll",
+      "title": "Notion Quick Capture CLI: Fast Note-Taking from the Command Line",
+      "url": "https://dev.to/itsevilduck/notion-quick-capture-cli-fast-note-taking-from-the-command-line-2fif",
+      "source": "Dev.to Notion",
+      "published_at": "2026-10-16T09:57:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've built and shipped the Notion Quick Capture CLI. This tool is a command-line interface designed to streamline the process of adding new entries to a Notion database. The primar",
       "tags": [],
       "buckets": [],
       "score": 25
-    },
-    {
-      "title": "Using Notion",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6qweu/using_notion/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T16:49:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello all! I am a user of Notion for a long time, but do not use it to its full potential I think. I am on the free plan, and thinking of upgrading. My problem mainly is that I wan",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "I tried using fewer productivity apps for a week and it was surprisingly helpful",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6kidm/i_tried_using_fewer_productivity_apps_for_a_week/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T12:38:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have accumulated quite a few productivity tools over time. One for tasks, one for notes, one for calendars, reminders on my phone, and various AI tools I occasionally remember to",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "AI dumber and slower...",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6ixbq/ai_dumber_and_slower/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T11:16:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have been away from Notion AI for roughly one month, and I have noticed that the AI has gotten dumber and slower to respond. Is it only my feeling or does anyone else have been n",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "why we don't have an side bar in notion mobile lick we have in notion windows",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6f5re/why_we_dont_have_an_side_bar_in_notion_mobile/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T07:22:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/AdPractical6579 [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "For people who use digital and paper system together, what do you use notion for and what do you use pen and paper for?",
-      "url": "https://www.reddit.com/r/Notion/comments/1x6a20l/for_people_who_use_digital_and_paper_system/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-15T02:28:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am having difficulty visualizing a system that balance the two since notion is pretty powerful. I want some paper element too since I want to use my fountain pens more. I have my",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "Notion AI Chatbot Model Selection Issue",
-      "url": "https://www.reddit.com/r/Notion/comments/1x5owqr/notion_ai_chatbot_model_selection_issue/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T11:38:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello, Since yesterday, the model selection option in Notion AI has disappeared. It is no longer available in either the settings or the main page. The strange thing is that the fr",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
     },
     {
       "title": "The Job Application Tracker I Wish I'd Started With (Free Notion Template)",
@@ -923,34 +632,326 @@
       "score": 18
     },
     {
-      "title": "Quick Notes App paired with Notion",
-      "url": "https://www.reddit.com/r/Notion/comments/1x5vfyh/quick_notes_app_paired_with_notion/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T16:13:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have been finding Notion too slow to capture those rapid notes I want to capture throughout the day. However, Notion is where I want to warehouse and work with them. Any recommen",
-      "tags": [],
-      "buckets": [],
-      "score": 12
+      "title": "Your Developer Portal, now in the sidebar",
+      "url": "https://www.notion.so/releases/2026-08-19",
+      "source": "Notion Releases",
+      "published_at": "2026-08-19T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
     },
     {
-      "title": "What have you quietly stopped using Notion for?",
-      "url": "https://www.reddit.com/r/Notion/comments/1x5lbhz/what_have_you_quietly_stopped_using_notion_for/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T07:55:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I still use Notion a lot, so this isn’t a “Notion is terrible now” post. But I’ve noticed that I don’t really quit tools all at once. I just slowly stop trusting them for certain j",
-      "tags": [],
-      "buckets": [],
-      "score": 12
+      "title": "Model selection, simplified",
+      "url": "https://www.notion.so/releases/2026-08-14",
+      "source": "Notion Releases",
+      "published_at": "2026-08-14T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
     },
     {
-      "title": "How do I get rid of this AI thing that keeps appearing in the middle of every page? It’s doing a great job of convincing me to move my entire workspace to Obsidian.",
-      "url": "https://www.reddit.com/r/Notion/comments/1x5hp62/how_do_i_get_rid_of_this_ai_thing_that_keeps/",
-      "source": "Reddit r/Notion",
-      "published_at": "2026-10-14T04:11:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/mosstarossa [link] [comments]",
-      "tags": [],
-      "buckets": [],
-      "score": 12
+      "title": "High contrast mode",
+      "url": "https://www.notion.so/releases/2026-07-30",
+      "source": "Notion Releases",
+      "published_at": "2026-07-30T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Workers, now in your Notion credits dashboard",
+      "url": "https://www.notion.so/releases/2026-07-24",
+      "source": "Notion Releases",
+      "published_at": "2026-07-24T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Share Notion Workers across your team",
+      "url": "https://www.notion.so/releases/2026-07-09",
+      "source": "Notion Releases",
+      "published_at": "2026-07-09T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Merge cells in simple tables",
+      "url": "https://www.notion.so/releases/2026-05-26",
+      "source": "Notion Releases",
+      "published_at": "2026-05-26T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "3.5: Notion Developer Platform",
+      "url": "https://www.notion.so/releases/2026-05-13",
+      "source": "Notion Releases",
+      "published_at": "2026-05-13T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Plan Mode",
+      "url": "https://www.notion.so/releases/2026-05-07",
+      "source": "Notion Releases",
+      "published_at": "2026-05-07T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "A new home on mobile",
+      "url": "https://www.notion.so/releases/2026-05-04",
+      "source": "Notion Releases",
+      "published_at": "2026-05-04T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Find pages faster from the breadcrumb",
+      "url": "https://www.notion.so/releases/2026-04-24",
+      "source": "Notion Releases",
+      "published_at": "2026-04-24T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Mail & Calendar, now in your settings",
+      "url": "https://www.notion.so/releases/2026-04-17",
+      "source": "Notion Releases",
+      "published_at": "2026-04-17T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Opus 4.7, now in Notion",
+      "url": "https://www.notion.so/releases/2026-04-16",
+      "source": "Notion Releases",
+      "published_at": "2026-04-16T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Notion 3.4, part 2",
+      "url": "https://www.notion.so/releases/2026-04-14",
+      "source": "Notion Releases",
+      "published_at": "2026-04-14T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Customize your tabs in databases",
+      "url": "https://www.notion.so/releases/2026-04-10",
+      "source": "Notion Releases",
+      "published_at": "2026-04-10T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "New page cover art from timeless collections",
+      "url": "https://www.notion.so/releases/2026-04-09",
+      "source": "Notion Releases",
+      "published_at": "2026-04-09T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Mute discussion replies",
+      "url": "https://www.notion.so/releases/2026-04-08",
+      "source": "Notion Releases",
+      "published_at": "2026-04-08T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Share Notion AI chats as a link",
+      "url": "https://www.notion.so/releases/2026-04-07",
+      "source": "Notion Releases",
+      "published_at": "2026-04-07T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Voice input on desktop",
+      "url": "https://www.notion.so/releases/2026-04-06",
+      "source": "Notion Releases",
+      "published_at": "2026-04-06T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Keep pages tidy with tabs",
+      "url": "https://www.notion.so/releases/2026-03-30",
+      "source": "Notion Releases",
+      "published_at": "2026-03-30T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Archive outdated pages to keep your workspace fresh",
+      "url": "https://www.notion.so/releases/2026-03-27",
+      "source": "Notion Releases",
+      "published_at": "2026-03-27T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Notion 3.4, part 1",
+      "url": "https://www.notion.so/releases/2026-03-26",
+      "source": "Notion Releases",
+      "published_at": "2026-03-26T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Custom skills for Notion AI",
+      "url": "https://www.notion.so/releases/2026-03-20",
+      "source": "Notion Releases",
+      "published_at": "2026-03-20T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
+    },
+    {
+      "title": "Notion Academy & certifications, in 6 new languages",
+      "url": "https://www.notion.so/releases/2026-03-19",
+      "source": "Notion Releases",
+      "published_at": "2026-03-19T00:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨.",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 10
     }
   ]
 }
