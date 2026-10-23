@@ -1,70 +1,46 @@
 {
-  "updated_at": "2026-10-22T03:21:22.866Z",
+  "updated_at": "2026-10-23T03:26:18.125Z",
   "items": [
     {
-      "title": "n8n vs Zapier vs Make vs Custom Code: Which One Should Run Your Business Automation?",
-      "url": "https://dev.to/saurabh_bhayana/n8n-vs-zapier-vs-make-vs-custom-code-which-one-should-run-your-business-automation-1lc8",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T13:01:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This guide was first published on saurabhbhayana.com. Zapier, Make and n8n all promise the same thing: connect your apps and let the boring work run itself. They are not the same p",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Make",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "make",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 247
-    },
-    {
-      "title": "10 n8n Workflows Every Small Business Should Automate",
-      "url": "https://dev.to/octatechno/10-n8n-workflows-every-small-business-should-automate-1aaf",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T19:12:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Small businesses don't have an automation problem — they have a \"death by a thousand copy-pastes\" problem. Leads sit in inboxes for hours. Invoices get chased by hand. The same rep",
-      "tags": [
-        "GPT/OpenAI",
-        "Gemini/Google",
-        "Agents",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "n8n",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 216
-    },
-    {
-      "title": "Using AI to Build My Own Midterm Elections Newsletter",
-      "url": "https://dev.to/bdjang/using-ai-to-build-my-own-midterm-elections-newsletter-4g6a",
+      "title": "AI Voice Agent Handoff: A 15-Scenario Acceptance Test",
+      "url": "https://dev.to/isabelle_dubuis_d858453d7/ai-voice-agent-handoff-a-15-scenario-acceptance-test-3nbe",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-22T02:10:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It's less than 2 weeks before the 2026 midterm elections and none of the newsletters I receive send me the type of content that I want and when I want it - so I decided to build my",
+      "published_at": "2026-10-23T00:14:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An AI phone agent is not ready for a live customer line merely because it sounds natural, answers quickly, or can invoke a transfer tool. The go-live decision should turn on a more",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "RAG/Vector",
+        "Eval/Observability",
+        "NotebookLM",
+        "Make",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "eval",
+        "prod",
+        "make",
+        "status",
+        "hot"
+      ],
+      "score": 223
+    },
+    {
+      "title": "Debugging a Memory Leak in a Long-Running Node Process",
+      "url": "https://dev.to/raxxostudios/debugging-a-memory-leak-in-a-long-running-node-process-p9e",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T01:17:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A healthy Node process has a sawtooth memory graph; a rising floor means a leak Take two heap snapshots and diff them to find the growing object class The three usual suspects: unr",
       "tags": [
         "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
+        "NotebookLM",
         "Creators",
         "Hot",
         "Release"
@@ -73,268 +49,216 @@
         "llm",
         "agents",
         "rag",
+        "prod",
         "creators",
         "hot"
       ],
-      "score": 157
+      "score": 179
     },
     {
-      "title": "n8n: Reddit RSS Stops on November 13. Swap the RSS Read Node for One HTTP Request (ProLevelMax)",
-      "url": "https://dev.to/robert_breen_d96e41ecd765/n8n-reddit-rss-stops-on-november-13-swap-the-rss-read-node-for-one-http-request-prolevelmax-3i23",
+      "title": "n8n Demonstrates Fully Local AI Workflows on a Single NVIDIA DGX Spark",
+      "url": "https://dev.to/alifar/n8n-demonstrates-fully-local-ai-workflows-on-a-single-nvidia-dgx-spark-d44",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-21T17:11:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: ProLevelMax is a third-party product. I built a free lesson around it and joined its referral program, so one link below is a referral link. This is my own write-up, no",
+      "published_at": "2026-10-22T19:45:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n has demonstrated a way to run AI workflows locally on a single NVIDIA DGX Spark, without relying on cloud AI APIs. The setup combines locally deployed models, an OpenAI-compati",
       "tags": [
         "GPT/OpenAI",
-        "Agents",
-        "NotebookLM",
+        "RAG/Vector",
+        "Eval/Observability",
+        "Multimodal",
         "n8n",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "llm",
-        "agents",
-        "prod",
+        "rag",
+        "eval",
+        "multimodal",
         "n8n",
+        "hot"
+      ],
+      "score": 173
+    },
+    {
+      "title": "Invoice extraction in n8n: let the LLM read, let code check, let a human approve",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcmq3u/invoice_extraction_in_n8n_let_the_llm_read_let/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T16:06:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been automating supplier invoices (Israeli VAT, Hebrew + English documents) in n8n. The main lesson: don't trust the model's numbers. Have it extract, then validate in plain c",
+      "tags": [
+        "GPT/OpenAI",
+        "Multimodal",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "multimodal",
+        "n8n",
+        "status",
         "hot"
       ],
       "score": 155
     },
     {
-      "title": "AI Automation Using Node.js: Build Intelligent Workflows with JavaScript",
-      "url": "https://dev.to/ansh_sheladiya/ai-automation-using-nodejs-build-intelligent-workflows-with-javascript-19h8",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T02:30:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI automation is changing how developers build software, manage repetitive tasks, and deliver better user experiences. Instead of writing separate rules for every possible scenario",
+      "title": "7 Silent Failures in n8n AI Workflows (and the Error Trigger Setup That Catches Them)",
+      "url": "https://dev.to/crzy_undefinedundefined/7-silent-failures-in-n8n-ai-workflows-and-the-error-trigger-setup-that-catches-them-44hp",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-22T06:12:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A normal n8n workflow fails the way you'd expect. A node errors, the execution turns red, and you go and fix it. Workflows with an LLM in the middle fail differently. The model ret",
       "tags": [
         "GPT/OpenAI",
         "Agents",
-        "Make",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "make",
+        "n8n",
         "hot"
       ],
       "score": 143
     },
     {
-      "title": "An n8n lead-form HubSpot Slack workflow that doesn't create duplicates (free template)",
-      "url": "https://dev.to/devxtools/an-n8n-lead-form-hubspot-slack-workflow-that-doesnt-create-duplicates-free-template-4p4n",
+      "title": "How to Build Stronger Identity Security for AI-Powered Businesses",
+      "url": "https://dev.to/biztechpulsehub/how-to-build-stronger-identity-security-for-ai-powered-businesses-d3m",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-22T00:40:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most \"lead form to CRM\" automations I see break in the same three ways: every resubmission creates a duplicate contact, junk and bot submissions land in the CRM, and when the CRM A",
-      "tags": [
-        "Agents",
-        "n8n",
-        "Zapier",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "zapier",
-        "creators",
-        "hot"
-      ],
-      "score": 141
-    },
-    {
-      "title": "You QA'd 12 AI conversations last month. Your AI had 3,400 conversations. Here's the sampling plan that actually finds problems.",
-      "url": "https://dev.to/chenwengui23/you-qad-12-ai-conversations-last-month-your-ai-had-3400-conversations-heres-the-sampling-plan-1jo2",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T02:10:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The owner of a home-services franchise did the diligent thing: every Friday, she pulled two random AI conversation transcripts and read them herself. Forty-eight conversations revi",
+      "published_at": "2026-10-23T03:01:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Build Stronger Identity Security for AI-Powered Businesses Modern businesses rely on cloud applications, digital workspaces, and automated systems to manage daily operations",
       "tags": [
         "Agents",
         "RAG/Vector",
+        "NotebookLM",
         "Notion Status",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "rag",
+        "prod",
         "status",
+        "hot"
+      ],
+      "score": 141
+    },
+    {
+      "title": "My clients explain automations in rambling WhatsApp voice notes. Now my laptop answers with an n8n workflow",
+      "url": "https://dev.to/gartox/my-clients-explain-automations-in-rambling-whatsapp-voice-notes-now-my-laptop-answers-with-an-n8n-4dj0",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-23T03:10:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is a submission for the Hacktoberfest Open-Source AI Challenge Week 3: Slow and Steady I build n8n automations for small businesses in Tabasco, Mexico. My clients don't write ",
+      "tags": [
+        "Eval/Observability",
+        "n8n",
+        "Notion Update",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "n8n",
+        "update",
         "creators",
         "hot"
       ],
       "score": 137
     },
     {
-      "title": "n8n: Turn Invoice PDFs Into JSON With AI, Then Two-Way Match Them Against the PO in a Code Node",
-      "url": "https://dev.to/robert_breen_d96e41ecd765/n8n-turn-invoice-pdfs-into-json-with-ai-then-two-way-match-them-against-the-po-in-a-code-node-52id",
+      "title": "The Wait Node Is the Easy Part: 6 Ways an n8n Human-Approval Step Breaks (and the .NET Fixes)",
+      "url": "https://dev.to/michael_maurice/the-wait-node-is-the-easy-part-6-ways-an-n8n-human-approval-step-breaks-and-the-net-fixes-517b",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-21T17:16:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In most small offices, paying a vendor invoice goes like this. The PDF arrives by email. Someone types the vendor, invoice number and total into a spreadsheet. Then, if they're car",
+      "published_at": "2026-10-22T12:02:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Putting a human between an AI draft and the publish button sounds like a one-node job in n8n. Drop in a Wait node set to \"resume on webhook\", hand someone the resume URL, done. And",
       "tags": [
         "GPT/OpenAI",
+        "Multimodal",
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
+        "multimodal",
         "n8n",
+        "hot"
+      ],
+      "score": 135
+    },
+    {
+      "title": "A PDF inbox that summarises itself: Google Drive, n8n and an LLM (free workflow)",
+      "url": "https://dev.to/fast_data_asap/a-pdf-inbox-that-summarises-itself-google-drive-n8n-and-an-llm-free-workflow-7lg",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-22T16:51:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Every team has a folder where PDFs go to be ignored: supplier invoices, signed offers, a 40-page report someone \"will read later\". The fix I wanted was boring and specific: drop a ",
+      "tags": [
+        "GPT/OpenAI",
+        "Multimodal",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "multimodal",
+        "n8n",
+        "hot"
+      ],
+      "score": 125
+    },
+    {
+      "title": "The critic agent had the draft, but not the knowledge-base passages",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcuszl/the_critic_agent_had_the_draft_but_not_the/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T21:05:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I went back to a support bot shared here and checked the published workflow again. The main agent could search the knowledge base and received up to ten stored messages. But the cr",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 121
+    },
+    {
+      "title": "n8n's Error Trigger Is Opt-In. My Bot Gate Failed for 71 Hours and Alerted Nobody.",
+      "url": "https://dev.to/achiya-automation/n8ns-error-trigger-is-opt-in-my-bot-gate-failed-for-71-hours-and-alerted-nobody-57pf",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-22T16:04:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One of my own workflows — the gate that decides whether a new WhatsApp contact gets the bot or gets me — failed 24 times between Thursday and Sunday. Seventy-one hours. I found out",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "status",
         "hot"
       ],
       "score": 119
     },
     {
-      "title": "I built an n8n pipeline that researches, plans, writes, and generates images for blog articles",
-      "url": "https://www.reddit.com/r/n8n/comments/1xakck5/i_built_an_n8n_pipeline_that_researches_plans/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T06:06:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been working on an SEO content generation pipeline, and I wanted to connect all the pieces into one workflow. Instead of using AI just to generate a blog post, I wanted a syst",
-      "tags": [
-        "Gemini/Google",
-        "Multimodal",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "multimodal",
-        "n8n",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Missed-call text back in n8n and Twilio: why the Dial action beats the status callback (free workflow JSON)",
-      "url": "https://dev.to/smallbizautopilot/missed-call-text-back-in-n8n-and-twilio-why-the-dial-action-beats-the-status-callback-free-3l08",
+      "title": "Building crypto price level alerts in n8n that fire once and re-arm",
+      "url": "https://dev.to/cryptoflows/building-crypto-price-level-alerts-in-n8n-that-fire-once-and-re-arm-479m",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-21T20:31:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A \"missed-call text back\" is simple to describe: when a call to a business number isn't answered, text the caller something like \"Sorry we missed you, what can we help with?\" Most ",
-      "tags": [
-        "Eval/Observability",
-        "n8n",
-        "Zapier",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "n8n",
-        "zapier",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Why we moved our automations from n8n to Python",
-      "url": "https://dev.to/devaland/why-we-moved-our-automations-from-n8n-to-python-1bk2",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T14:00:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Quick answer: We ran n8n ourselves. As our automations grew, three things mattered most: testing every change, reviewing who changed what, and knowing within minutes when something",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "eval",
-        "n8n",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Bulk-upscale product photos from a Google Sheet with n8n and Real-ESRGAN",
-      "url": "https://dev.to/fast_data_asap/bulk-upscale-product-photos-from-a-google-sheet-with-n8n-and-real-esrgan-3fe5",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T11:44:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you have ever imported products from a supplier, you know the problem: half of the images are 400 pixels wide. Marketplaces want 1,000+ px, zoom features want more, and nobody w",
-      "tags": [
-        "RAG/Vector",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Practical patterns for LLM scoring in n8n workflows",
-      "url": "https://dev.to/reaver1000/practical-patterns-for-llm-scoring-in-n8n-workflows-2aag",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T10:18:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: My n8n workflows follow one hard rule, learned the hard way: rules are cheap, deterministic, and auditable, so they run first. Language models are none of those things, so they run",
-      "tags": [
-        "RAG/Vector",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "Claude or chatgpt?",
-      "url": "https://www.reddit.com/r/n8n/comments/1xalmtw/claude_or_chatgpt/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T07:25:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Noticed yesterday I made a workflow from claude but it wasn't even a final version. And yet, somehow i exhausted my 10% weekly limit on the pro plan. Thinking about adding chatgpt ",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "n8n"
-      ],
-      "buckets": [
-        "llm",
-        "n8n"
-      ],
-      "score": 116
-    },
-    {
-      "title": "Running A 39-Product Asset Pipeline On A 2 GB VPS With No GPU",
-      "url": "https://dev.to/revanzart/running-a-39-product-asset-pipeline-on-a-2-gb-vps-with-no-gpu-41mn",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T03:00:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last March I lost a whole weekend to a CSV header. I had 60 assets ready for Adobe Stock, generated a metadata file with my own column order, hit submit, and the portal rejected th",
-      "tags": [
-        "RAG/Vector",
-        "Multimodal",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "multimodal",
-        "prod",
-        "hot"
-      ],
-      "score": 113
-    },
-    {
-      "title": "Make your n8n workflows prove they did their job: six patterns for silent failures",
-      "url": "https://dev.to/vlotstroom/make-your-n8n-workflows-prove-they-did-their-job-six-patterns-for-silent-failures-5bei",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T12:46:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A green execution in n8n means the nodes ran. It does not mean any work happened. Three failure shapes stay perfectly green: the source returned zero rows, every row got filtered o",
+      "published_at": "2026-10-22T13:01:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you have ever built a \"tell me when BTC is above X\" alert, you have probably hit the same problem I did: the check runs every minute, the condition is true every minute, and you",
       "tags": [
         "Eval/Observability",
         "Multimodal",
@@ -371,11 +295,11 @@
       "score": 110
     },
     {
-      "title": "n8n: Guard Rails for an AI Agent That Touches Client Data (Draft Alone, Send Only With a Yes)",
-      "url": "https://dev.to/robert_breen_d96e41ecd765/n8n-guard-rails-for-an-ai-agent-that-touches-client-data-draft-alone-send-only-with-a-yes-58cf",
-      "source": "Dev.to n8n",
-      "published_at": "2026-10-21T17:14:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: Guardian is a third-party product from guardian-safety-gate.com. I built a free lesson around it in my own account. There is no affiliate link and Guardian doesn't pay ",
+      "title": "Your n8n workflow can command a country in a live world war (one webhook: JSON in, orders out)",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcbjvf/your_n8n_workflow_can_command_a_country_in_a_live/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T06:59:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Proxy Republic is a browser war on the real world map where every country has an AI general. A player's general can be their own agent, and that includes an n8n workflow. **How it ",
       "tags": [
         "Agents",
         "n8n",
@@ -390,41 +314,61 @@
       "score": 103
     },
     {
-      "title": "Your browser agent should not read the chart",
-      "url": "https://dev.to/vousmeevoyez/your-browser-agent-should-not-read-the-chart-49p6",
+      "title": "Dark Software Factories: What Runs Lights-Out and What Breaks Without a Human in the Loop",
+      "url": "https://dev.to/nguyen_tu_ca842184efc96f4/dark-software-factories-what-runs-lights-out-and-what-breaks-without-a-human-in-the-loop-c6n",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-22T01:34:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last week I ran a same-task test of two browser tools for Claude Code: opencli cost 62% less than claude-in-chrome across five read-only tasks. I left one gap open: pages where the",
+      "published_at": "2026-10-23T01:32:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The tenth most-read story on daily.dev today is a question about the industry's newest industrial metaphor: are \"dark software factories\" the next big thing? The piece frames a fut",
       "tags": [
-        "Claude/Anthropic",
         "Agents",
+        "NotebookLM",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "agents",
+        "prod",
         "hot"
       ],
-      "score": 99
+      "score": 101
     },
     {
-      "title": "Add Page Numbers to PDF Footers Using Python",
-      "url": "https://dev.to/jack_du_64a902eb1614b3933/add-page-numbers-to-pdf-footers-using-python-12bg",
+      "title": "Instagram DM Automation With n8n: Build a Keyword-Based Auto-Reply Flow (2026)",
+      "url": "https://dev.to/peter11241342/instagram-dm-automation-with-n8n-build-a-keyword-based-auto-reply-flow-2026-3172",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-22T01:29:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When processing PDF documents in batches, you often need to add consistent page numbering to existing files. With Spire.PDF for Python, you can draw dynamic page numbers directly o",
+      "published_at": "2026-10-23T02:38:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Want Instagram DM automation without paying for another SaaS tool? Here's how to wire up a keyword-based auto-reply flow in n8n, step by step. Instagram DM automation sounds compli",
       "tags": [
-        "NotebookLM",
+        "n8n",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "prod",
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 95
+      "score": 97
+    },
+    {
+      "title": "I Built a WhatsApp Order Bot with n8n — No Monthly Fees, It Runs on Your Own Server",
+      "url": "https://dev.to/mohsinakram91/i-built-a-whatsapp-order-bot-with-n8n-no-monthly-fees-it-runs-on-your-own-server-1ba9",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-22T21:46:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I Built a WhatsApp Order Bot with n8n A small shop owner asked me a fair question: \"Why does a WhatsApp bot cost $50 a month?\" He wasn't wrong to ask. Tools like ManyChat and WATI ",
+      "tags": [
+        "n8n",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 97
     },
     {
       "title": "How do you filter and group a 50k-row Google Sheet without reading every row?",
@@ -442,26 +386,41 @@
         "n8n",
         "hot"
       ],
-      "score": 93
+      "score": 80
     },
     {
-      "title": "Advice",
-      "url": "https://www.reddit.com/r/n8n/comments/1xb2d5x/advice/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T19:54:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have recently started creating basic workflows in n8n, working with basic APIs, web hooks, and similar things. I have also built one or two basic agents. After that, I downloaded",
+      "title": "Stop re-reading the whole sheet: a push-sync design for Google Sheets and n8n",
+      "url": "https://dev.to/vlotstroom/stop-re-reading-the-whole-sheet-a-push-sync-design-for-google-sheets-and-n8n-4jod",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-22T04:55:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A cron workflow that reads a Google Sheet on every run pays the same tax every time: the full download. The Sheets node reads a range, and the v4 read behind it (spreadsheets.value",
       "tags": [
-        "Agents",
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
         "n8n",
         "hot"
       ],
-      "score": 90
+      "score": 79
+    },
+    {
+      "title": "Wireless Energy for Autonomous Underwater Vehicles: A Game-Changer for Ocean Exploration?",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/wireless-energy-for-autonomous-underwater-vehicles-a-game-changer-for-ocean-exploration-48h3",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T00:20:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Wireless Energy for Autonomous Underwater Vehicles: A Game-Changer for Ocean Exploration? Introduction The world of autonomous underwater vehicles (AUVs) has been revolutionizing t",
+      "tags": [
+        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "prod",
+        "hot"
+      ],
+      "score": 77
     },
     {
       "title": "I want to do automation for cold emailing",
@@ -477,23 +436,7 @@
         "llm",
         "n8n"
       ],
-      "score": 89
-    },
-    {
-      "title": "How are you handling LLM failures in n8n workflows?",
-      "url": "https://www.reddit.com/r/n8n/comments/1xbn7f0/how_are_you_handling_llm_failures_in_n8n_workflows/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-21T13:29:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been working with n8n and Claude on a ticket classification workflow. One issue I wanted to avoid was having the whole workflow fail whenever the LLM times out or returns an u",
-      "tags": [
-        "Claude/Anthropic",
-        "n8n"
-      ],
-      "buckets": [
-        "llm",
-        "n8n"
-      ],
-      "score": 89
+      "score": 76
     },
     {
       "title": "Nobody use N8n, make, dify",
@@ -509,7 +452,40 @@
         "llm",
         "n8n"
       ],
-      "score": 89
+      "score": 76
+    },
+    {
+      "title": "I created an Ai agent for client inquiries in my Facebook page but meta wont let me publish it",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcc9di/i_created_an_ai_agent_for_client_inquiries_in_my/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T07:44:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Pls help is there a way to bypass meta app review? I'm learning how to automate and I created this Ai agent using n8n, all I need is to make it public but there's a lot of requirem",
+      "tags": [
+        "Agents",
+        "n8n"
+      ],
+      "buckets": [
+        "agents",
+        "n8n"
+      ],
+      "score": 73
+    },
+    {
+      "title": "Faceless Video at Agency Scale: The Queue Architecture Nobody Talks About",
+      "url": "https://dev.to/reggiebro/faceless-video-at-agency-scale-the-queue-architecture-nobody-talks-about-20ng",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T00:50:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Faceless Video at Agency Scale: The Queue Architecture Nobody Talks About The demo on the product page generates one script. That is the whole point of a demo — it shows you the sh",
+      "tags": [
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "creators",
+        "hot"
+      ],
+      "score": 73
     },
     {
       "title": "Multi state agentic workflow",
@@ -527,42 +503,39 @@
         "n8n",
         "hot"
       ],
-      "score": 83
+      "score": 70
     },
     {
-      "title": "Part 2: Why invoice exceptions are a good test for agents",
-      "url": "https://dev.to/thasha/part-2-why-invoice-exceptions-are-a-good-test-for-agents-15dg",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T02:21:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Part 2 · One Agent, Five Platforms In Part 1 I said I'd build the same invoice-exception agent on five platforms. Before building anything, it's worth being precise about the job, ",
+      "title": "What breaks when you move Pipedream code steps to n8n (tested on 92 workflows)",
+      "url": "https://dev.to/aidnurs/what-breaks-when-you-move-pipedream-code-steps-to-n8n-tested-on-92-workflows-1a85",
+      "source": "Dev.to n8n",
+      "published_at": "2026-10-22T10:38:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Pipedream Workflows stops running on March 31, 2027, and the data is deleted by April 30, 2027. If you are moving to n8n, the triggers and app actions are the easy part. The code s",
       "tags": [
-        "Agents",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 79
-    },
-    {
-      "title": "Best books/learning ressources to really learn n8n thoroughly",
-      "url": "https://www.reddit.com/r/n8n/comments/1xaq2ug/best_bookslearning_ressources_to_really_learn_n8n/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T11:53:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I really wanna do a deep dive into n8n and workflow automation ideally with actual workflows from real life rather than surface level demos. I was looking into the more famous yout",
-      "tags": [
-        "NotebookLM",
         "n8n",
         "Hot"
       ],
       "buckets": [
-        "prod",
         "n8n",
         "hot"
       ],
-      "score": 78
+      "score": 69
+    },
+    {
+      "title": "I need to build a workflow for creating RFQ and a simple mail template",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcg9vs/i_need_to_build_a_workflow_for_creating_rfq_and_a/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T11:43:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: So my team gets an excel sheet of BOM( BILL OF material). So the excel consists of different types of material and there QTY required mentioned so now what my company does is take ",
+      "tags": [
+        "n8n",
+        "Creators"
+      ],
+      "buckets": [
+        "n8n",
+        "creators"
+      ],
+      "score": 67
     },
     {
       "title": "How I handle the WhatsApp Cloud API webhook + bookings in n8n without duplicates or double-booking",
@@ -580,24 +553,7 @@
         "creators",
         "hot"
       ],
-      "score": 77
-    },
-    {
-      "title": "Four Python Scripts That Package Stock Assets Without A Cloud Account",
-      "url": "https://dev.to/revanzart/four-python-scripts-that-package-stock-assets-without-a-cloud-account-25c2",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T03:00:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I still have the rejection email open in a tab. Sixty-four assets, a full weekend of rendering, and Adobe Stock bounced the whole batch because my CSV had six columns in the header",
-      "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 75
+      "score": 64
     },
     {
       "title": "How do you catch AI agents that make the wrong changes in production?",
@@ -613,7 +569,37 @@
         "agents",
         "n8n"
       ],
-      "score": 73
+      "score": 60
+    },
+    {
+      "title": "Soundcore Liberty 5 Pro Max: Revolutionizing the Way We Listen and Record",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/soundcore-liberty-5-pro-max-revolutionizing-the-way-we-listen-and-record-51ia",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T00:25:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Soundcore Liberty 5 Pro Max: Revolutionizing the Way We Listen and Record The world of audio technology is constantly evolving, and the latest innovation from Soundcore, the Libert",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
+    },
+    {
+      "title": "The World Cup: A Celebration of Sport, or a Warning About Climate Change?",
+      "url": "https://dev.to/yagyaraj_sharma_6cd410179/the-world-cup-a-celebration-of-sport-or-a-warning-about-climate-change-17h9",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T00:15:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The World Cup: A Celebration of Sport, or a Warning About Climate Change? The FIFA World Cup is just around the corner, and millions of fans are gearing up to cheer on their favori",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
     },
     {
       "title": "What is your trick for handing over n8n workflows without the credentials setup pain?",
@@ -629,73 +615,133 @@
         "n8n",
         "creators"
       ],
-      "score": 67
+      "score": 54
     },
     {
-      "title": "dry-running n8n workflows against a sandbox before touching live APIs, anyone else doing this?",
-      "url": "https://www.reddit.com/r/n8n/comments/1xata6b/dryrunning_n8n_workflows_against_a_sandbox_before/",
+      "title": "How to be very good at automation that i becomes second nature?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcn7ua/how_to_be_very_good_at_automation_that_i_becomes/",
       "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T14:14:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: been building n8n workflows that hit stripe, zendesk, hubspot, gmail, calendar, slack, resend. every time i wire up a new integration it tests fine inside n8n but something breaks ",
+      "published_at": "2026-10-22T16:24:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi been learning automation on and off, what are the things to master to be really good at this niche? submitted by /u/Any-Revolution1007 [link] [comments]",
       "tags": [
-        "n8n",
-        "Hot",
-        "Release"
+        "n8n"
       ],
       "buckets": [
-        "n8n",
-        "hot"
+        "n8n"
       ],
-      "score": 66
+      "score": 49
     },
     {
-      "title": "An n8n execution can show Success after processing zero items",
-      "url": "https://www.reddit.com/r/n8n/comments/1xadlkd/an_n8n_execution_can_show_success_after/",
+      "title": "Can official Facebook API moderation put a client’s Page at risk?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcw8gk/can_official_facebook_api_moderation_put_a/",
       "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T00:17:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When a node returns zero items, n8n doesn't run the nodes after it, and the execution still ends as Success. Nothing failed, so your Error Workflow never runs, and the executions l",
+      "published_at": "2026-10-22T22:03:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone, I’m building an n8n automation for a client who gets too many troll/spam comments to moderate manually. The plan is to read comments through the official Graph API, f",
       "tags": [
-        "n8n",
-        "Hot",
-        "Release"
+        "n8n"
       ],
       "buckets": [
-        "n8n",
-        "hot"
+        "n8n"
       ],
-      "score": 66
+      "score": 49
     },
     {
-      "title": "n8n Workflow Not Running? The 6-Stage Diagnosis Ladder",
-      "url": "https://dev.to/trigger-workflow/n8n-workflow-not-running-the-6-stage-diagnosis-ladder-29a7",
+      "title": "How are you handling the document extraction step in n8n workflows?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcf0vb/how_are_you_handling_the_document_extraction_step/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T10:36:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm curious what people are using when the incoming PDFs aren't standardized. The workflow itself seems straightforward: Email/Drive → PDF → extract fields → validate → database/ac",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Evolution API apenas para puxar as mensagens é muito arriscado?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcrnxe/evolution_api_apenas_para_puxar_as_mensagens_é/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T19:07:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sou gestor de tráfego e quero apenas puxar as mensagens para um CRM próprio ao invés de depender de usar outros CRM para essa conexão, não tenho interesse em mandar nenhuma mensage",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Evolution API apenas para puxar as mensagens é muito arriscado?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcrkh6/evolution_api_apenas_para_puxar_as_mensagens_é/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T19:03:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sou gestor de tráfego e quero apenas puxar as mensagens para um CRM próprio ao invés de depender de usar outros CRM para essa conexão, não tenho interesse em mandar nenhuma mensage",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "How I route support emails to the right person, including the prompts I used [Workflow Included]",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcjinw/how_i_route_support_emails_to_the_right_person/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T14:05:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 👋 Hey n8n Community, I met a friend who works at a small, family-owned electronics store. December is their worst month for support emails, not because anything breaks, but becaus",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Do you integrate n8n with Full-stack web apps?",
+      "url": "https://www.reddit.com/r/n8n/comments/1xcfbg6/do_you_integrate_n8n_with_fullstack_web_apps/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-22T10:52:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey guys, I'm Building a small internal tools (<20 users) and wanted to validate my setup: Frontend / Backend - React + FastAPI + Postgres (Auth, database, standard UI CRUD) N8N - ",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "n8n Webhook Not Firing? 7 Fixes Ranked by Actual Frequency",
+      "url": "https://dev.to/trigger-workflow/n8n-webhook-not-firing-7-fixes-ranked-by-actual-frequency-3nlb",
       "source": "Dev.to n8n",
-      "published_at": "2026-10-21T17:20:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When a self-hosted n8n workflow is not running, the debugging hour splits in two: the part where everyone stares at the canvas, and the part where the actual cause — which lives ou",
+      "published_at": "2026-10-22T17:17:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: \"Webhook not firing\" is the most-reported complaint in self-hosted n8n — and it concentrates into seven causes. Fix #1 alone decides most cases. The ranking follows how often each ",
       "tags": [
-        "n8n",
-        "Release"
+        "n8n"
       ],
       "buckets": [
-        "n8n",
-        "hot"
+        "n8n"
       ],
-      "score": 59
+      "score": 49
     },
     {
-      "title": "Self-hosted Plausible analytics, in one command",
-      "url": "https://dev.to/moktar_cffd734aa15706ed2c/self-hosted-plausible-analytics-in-one-command-12j3",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T01:00:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For a while, railyard.run ran with zero analytics. Not out of principle — we just hadn’t gotten to it, which meant every “is anyone actually reading this” question was a guess. Fix",
+      "title": "Brand Refresh! n8n got a new look!",
+      "url": "https://www.reddit.com/r/n8n/comments/1xb9lz9/brand_refresh_n8n_got_a_new_look/",
+      "source": "Reddit r/n8n",
+      "published_at": "2026-10-21T01:06:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: No, your eyes aren't playing tricks on you. No, you have not been too many automations. No, it is not April fools. Yes, still pink. I am the first to admit change is not always som",
       "tags": [
-        "Creators",
-        "Release"
+        "n8n"
       ],
       "buckets": [
-        "creators",
-        "hot"
+        "n8n"
       ],
-      "score": 53
+      "score": 36
     },
     {
       "title": "How much do I need to learn n8n I don't know anything in this field and I want to learn",
@@ -709,7 +755,7 @@
       "buckets": [
         "n8n"
       ],
-      "score": 49
+      "score": 36
     },
     {
       "title": "Free workflow: crypto morning snapshot to Telegram (no API keys, Code-node pattern for stateful alerts)",
@@ -717,34 +763,6 @@
       "source": "Reddit r/n8n",
       "published_at": "2026-10-21T12:36:27.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been building crypto alert workflows in n8n and found a pattern that keeps them small: Schedule → Set (Config) → Code → Code (Notify). Config holds every setting, so there are",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 49
-    },
-    {
-      "title": "Autonomous Agent Orchestration On Android — Field Notes 22Oct-356",
-      "url": "https://dev.to/sam_hiotis_117598dbfa3ac2/autonomous-agent-orchestration-on-android-field-notes-22oct-356-5fce",
-      "source": "Dev.to Automation",
-      "published_at": "2026-10-22T00:51:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: [llm-offline] HTTP Error 429: Too Many Requests Disclosure: links above support independent tooling development. 👉 FractalMesh Sovereign Deployment Bundle — $19 AUD",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
-    },
-    {
-      "title": "Brand Refresh! n8n got a new look!",
-      "url": "https://www.reddit.com/r/n8n/comments/1xb9lz9/brand_refresh_n8n_got_a_new_look/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-21T01:06:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: No, your eyes aren't playing tricks on you. No, you have not been too many automations. No, it is not April fools. Yes, still pink. I am the first to admit change is not always som",
       "tags": [
         "n8n"
       ],
@@ -782,81 +800,39 @@
       "score": 36
     },
     {
-      "title": "AI AUTOMATION",
-      "url": "https://www.reddit.com/r/n8n/comments/1xazlou/ai_automation/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T18:11:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What do you think is the most sought-after area and automation in 2026? submitted by /u/VlAdIsLaV_Al [link] [comments]",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Free executions?",
-      "url": "https://www.reddit.com/r/n8n/comments/1xaqy7t/free_executions/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T12:34:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I hit my monthly limit twice now and I still get free executions, even though there is an email that says I will need to upgrade my plan. I have 10K/month. Does anyone else see thi",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "How do you handle client approvals inside your n8n workflows?",
-      "url": "https://www.reddit.com/r/n8n/comments/1xaxa8y/how_do_you_handle_client_approvals_inside_your/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T16:46:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Genuine question for people building automations for clients. My setup for social content is pretty simple: n8n builds the post (copy + image), then the Zernio node publishes it to",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "How N8N help in the Ecom space",
-      "url": "https://www.reddit.com/r/n8n/comments/1xao55z/how_n8n_help_in_the_ecom_space/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T10:05:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey guys i would like to ask if anyone here in the ecom spaces and how does N8N helps into this space , i would like to know if there’s any real cases submitted by /u/zizo_energy [",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Working on upgrading pre-existing workflows or building new ones via a mini python microservice.",
-      "url": "https://www.reddit.com/r/n8n/comments/1xao6ib/working_on_upgrading_preexisting_workflows_or/",
-      "source": "Reddit r/n8n",
-      "published_at": "2026-10-20T10:08:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I’m a CS student working with self-hosted n8n and Python APIs. My personal project uses n8n for scheduled monitoring, bulk intake, notifications, and retry paths, with a Python ser",
-      "tags": [
-        "n8n"
-      ],
-      "buckets": [
-        "n8n"
-      ],
-      "score": 36
-    },
-    {
-      "title": "Sovereign Local-First Ai Infrastructure — Field Notes 22Oct-4",
-      "url": "https://dev.to/sam_hiotis_117598dbfa3ac2/sovereign-local-first-ai-infrastructure-field-notes-22oct-4-1p6o",
+      "title": "When a desktop automation is unsure whether Save worked",
+      "url": "https://dev.to/macro8n/a-desktop-automation-needs-a-failure-plan-not-just-a-click-sequence-7d3",
       "source": "Dev.to Automation",
-      "published_at": "2026-10-22T01:02:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: [llm-offline] HTTP Error 429: Too Many Requests Disclosure: links above support independent tooling development. 👉 Regulatory Compliance Automation Pack — $29 AUD",
+      "published_at": "2026-10-23T02:44:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A desktop workflow submits a form. The app pauses, then the window changes. Did the record save, or did the request fail? That is an unknown outcome, and it deserves its own state ",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Instagram DM automation: booking with checks",
+      "url": "https://dev.to/matintellect/instagram-dm-automation-booking-with-checks-4lpg",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T01:13:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Answering every question is the hardest part of booking clients through Instagram. There can be a huge range of conversation paths, just as in any business. The AI receptionist's j",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Make desktop automations reliable: wait for state, not just time",
+      "url": "https://dev.to/macro8n/make-desktop-automations-reliable-wait-for-state-not-just-time-m69",
+      "source": "Dev.to Automation",
+      "published_at": "2026-10-23T01:45:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Desktop automations often work perfectly on the developer’s machine, then fail on a slower computer, a busy browser, or a screen that loads in a different order. A common cause is ",
       "tags": [],
       "buckets": [],
       "score": 25
