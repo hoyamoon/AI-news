@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-24T03:20:16.596Z",
+  "updated_at": "2026-10-25T03:15:26.485Z",
   "items": [
     {
       "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
@@ -40,27 +40,7 @@
         "status",
         "hot"
       ],
-      "score": 129
-    },
-    {
-      "title": "Show HN: Corgi, a helpful {agent, terminal} multiplexer",
-      "url": "https://corgi.computer/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T19:46:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey everyone, Inspired by Herdr, I've built an agent multiplexer that I've been using as my daily driver for a few weeks now. I think I improved on the concept in a few ways, focus",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "hot"
-      ],
-      "score": 119
+      "score": 116
     },
     {
       "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
@@ -118,24 +98,7 @@
         "eval",
         "hot"
       ],
-      "score": 97
-    },
-    {
-      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-23T15:37:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Rei",
-      "tags": [
-        "Agents",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 79
+      "score": 84
     },
     {
       "title": "Canva’s first AI image model plans designs before generating them",
@@ -156,30 +119,28 @@
       "score": 78
     },
     {
-      "title": "When eight systems share a benchmark top score, what should the table show?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xayxs1/when_eight_systems_share_a_benchmark_top_score/",
+      "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdhf7r/r_the_hive_mind_is_a_single_reinforcement/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-20T17:47:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have been thinking about how result tables get read when the interesting part is how close everyone is. The Agent Memory Leaderboard's public board from August is a nice case. On",
+      "published_at": "2026-10-23T15:37:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR We prove a mathematical equivalence between collective decision-making via local imitation (such as honey bees choosing a nest site via the waggle dance) and single-agent Rei",
       "tags": [
         "Agents",
-        "Eval/Observability",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
-        "eval",
         "hot"
       ],
-      "score": 72
+      "score": 66
     },
     {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment/",
+      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
+      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T19:50:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openai.com/index/securing-our-frontier-model-training-environment/ Comments URL: https://news.ycombinator.com/item?id=50214416 Points: 83 # Comments: 98",
+      "published_at": "2026-10-24T15:35:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=5022",
       "tags": [
         "GPT/OpenAI"
       ],
@@ -187,23 +148,6 @@
         "llm"
       ],
       "score": 65
-    },
-    {
-      "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-21T10:09:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read nois",
-      "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 62
     },
     {
       "title": "DevFest is back",
@@ -222,22 +166,6 @@
       "score": 59
     },
     {
-      "title": "An interactive map of all 9,110 NeurIPS 2026 papers, and what changed since 2025 [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xbz5kf/an_interactive_map_of_all_9110_neurips_2026/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-21T20:55:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I embedded the title and abstract of every NeurIPS 2026 paper (and every 2025 paper) with Qwen3-Embedding-0.6B, grouped them into 150 topics and 20 areas, and put them on one map w",
-      "tags": [
-        "Agents",
-        "RAG/Vector"
-      ],
-      "buckets": [
-        "agents",
-        "rag"
-      ],
-      "score": 56
-    },
-    {
       "title": "Proactive cyber defense for governments and enterprises",
       "url": "https://blog.google/innovation-and-ai/technology/safety-security/fairwind-program/",
       "source": "Google AI Blog",
@@ -252,86 +180,6 @@
         "hot"
       ],
       "score": 55
-    },
-    {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T23:30:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bD",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
-      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T19:34:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update Comments URL: https://news.ycombinator.com/item?id=50214218 Points: 301 # ",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
-      "source": "The Verge AI",
-      "published_at": "2026-10-23T19:32:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had wit",
-      "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-23T17:25:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 53
-    },
-    {
-      "title": "AI generates research ideas faster than I can test them. Anyone else? [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xa3svs/ai_generates_research_ideas_faster_than_i_can/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-19T17:50:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been using AI extensively for ML research, and I've noticed a bottleneck: brainstorming research directions and generating smoke run implementations has become incredibly fast",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "eval",
-        "hot"
-      ],
-      "score": 52
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -367,18 +215,21 @@
       "score": 50
     },
     {
-      "title": "Southeast Asia’s digital economy to hit $368 billion",
-      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-      "source": "Google AI Blog",
-      "published_at": "2026-10-21T04:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-21T10:09:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read nois",
       "tags": [
-        "Gemini/Google"
+        "RAG/Vector",
+        "Hot",
+        "Release"
       ],
       "buckets": [
-        "llm"
+        "rag",
+        "hot"
       ],
-      "score": 47
+      "score": 50
     },
     {
       "title": "Introducing Playground: Create and play custom games",
@@ -461,11 +312,11 @@
       "score": 45
     },
     {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
+      "title": "Show HN: Steal My Bitcoin",
+      "url": "https://stealmybitcoin.com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T21:21:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://cve.0xosprey.com/ Comments URL: https://news.ycombinator.com/item?id=50215530 Points: 117 # Comments: 52",
+      "published_at": "2026-10-24T20:30:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.y",
       "tags": [
         "Hot"
       ],
@@ -475,11 +326,11 @@
       "score": 45
     },
     {
-      "title": "No Source Code? No Problem",
-      "url": "https://queue.acm.org/doi/10.1145/945131.945155",
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T20:38:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://queue.acm.org/doi/10.1145/945131.945155 Comments URL: https://news.ycombinator.com/item?id=50214994 Points: 38 # Comments: 31",
+      "published_at": "2026-10-24T19:43:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 130 # Comments: 85",
       "tags": [
         "Hot"
       ],
@@ -489,46 +340,67 @@
       "score": 45
     },
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T16:59:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.kimi.com/code/docs/en/kimi-code/models.html https://artificialanalysis.ai/models/kimi-k3-1-pro https://www.modelcompare.ai/blog/china-open-source-ai Comments URL: https",
+      "title": "An interactive map of all 9,110 NeurIPS 2026 papers, and what changed since 2025 [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xbz5kf/an_interactive_map_of_all_9110_neurips_2026/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-21T20:55:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I embedded the title and abstract of every NeurIPS 2026 paper (and every 2025 paper) with Qwen3-Embedding-0.6B, grouped them into 150 topics and 20 areas, and put them on one map w",
       "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Show HN: Swurf – Swipe through the real web",
-      "url": "https://swurf.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T06:54:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello HN, Swurf allows you to swipe through the real web one page after another. It learns what you like and doesn’t show you the same page twice. The idea came naturally: there’s ",
-      "tags": [
+        "Agents",
         "RAG/Vector"
       ],
       "buckets": [
+        "agents",
         "rag"
       ],
-      "score": 45
+      "score": 44
     },
     {
-      "title": "Meta delays new business terms after publisher pushback on AI scraping",
-      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
+      "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1017906/jack-dorsey-block-dessa-ai-voice-speech",
       "source": "The Verge AI",
-      "published_at": "2026-10-23T14:47:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earl",
+      "published_at": "2026-10-23T19:32:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Jack Dorsey's Block announced an AI model called Dessa that's trained \"from scratch on nothing but human conversation,\" and to show off the model, Block shared chats it has had wit",
       "tags": [
-        "Hot"
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 42
+    },
+    {
+      "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
+      "source": "The Verge AI",
+      "published_at": "2026-10-23T16:52:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google has updated its privacy policy in a way that could mean you'll start seeing targeted ads based on your personal data if you're using personalized AI features. The update, sp",
+      "tags": [
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "hot"
       ],
-      "score": 45
+      "score": 42
+    },
+    {
+      "title": "Stenosis detection in coronary angiograms, need recall over precision [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xdkcav/stenosis_detection_in_coronary_angiograms_need/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-23T17:25:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already",
+      "tags": [
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 40
     },
     {
       "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
@@ -545,6 +417,20 @@
         "hot"
       ],
       "score": 40
+    },
+    {
+      "title": "Southeast Asia’s digital economy to hit $368 billion",
+      "url": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-10-21T04:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Widespread AI adoption is propelling Southeast Asia's digital economy to a projected $368 billion in 2026 and $1 trillion by 2035.",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 35
     },
     {
       "title": "Gemini 4 Argon: Built to solve your hardest problems",
@@ -701,11 +587,11 @@
       "score": 35
     },
     {
-      "title": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques",
-      "url": "https://www.sciencedaily.com/releases/2026/10/261018084421.htm",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T01:53:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.sciencedaily.com/releases/2026/10/261018084421.htm Comments URL: https://news.ycombinator.com/item?id=50217683 Points: 27 # Comments: 2",
+      "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-24T09:58:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the",
       "tags": [
         "Release"
       ],
@@ -715,39 +601,11 @@
       "score": 35
     },
     {
-      "title": "Rune 1.3: adds TypeScript, a Helix editor, Kitty graphics and OSC-7501",
-      "url": "https://rune.build/blog/rune-1-3-release",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T19:42:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://rune.build/blog/rune-1-3-release Comments URL: https://news.ycombinator.com/item?id=50214325 Points: 41 # Comments: 9",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "At MIT, Martha Minow speaks on sustaining democracy, both by using and overcoming AI",
-      "url": "https://news.mit.edu/2026/martha-minow-speaks-on-sustaining-democracy-using-overcoming-ai-1023",
-      "source": "MIT News AI",
-      "published_at": "2026-10-23T21:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In Compton Lecture, the distinguished legal scholar warns of potential “loss of the Enlightenment” while suggesting ways innovations can meet our civic and cultural needs.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "The iPhone Duo should have been an iPad",
-      "url": "https://www.theverge.com/podcast/1017447/iphone-duo-ipad-review-score-vergecast",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "source": "The Verge AI",
-      "published_at": "2026-10-23T17:00:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We gave the iPhone Duo a 7 /10. But that wasn't always the score we planned, and it might not be the right score forever. Such are the challenges of reviewing - and assessing - a b",
+      "published_at": "2026-10-24T21:29:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, cry",
       "tags": [
         "Release"
       ],
@@ -757,11 +615,11 @@
       "score": 35
     },
     {
-      "title": "Retro gaming is being overrun with AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1015430/ai-retro-games-decomp-recomp-port",
+      "title": "Pennsylvania will require labels on AI-generated ads",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
       "source": "The Verge AI",
-      "published_at": "2026-10-23T12:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Retro video games are everywhere lately - especially in places where they aren't supposed to be. Halo in a web browser, Wind Waker on the iPhone, Super Smash Bros. in mixed reality",
+      "published_at": "2026-10-24T18:32:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires a",
       "tags": [
         "Release"
       ],
@@ -785,11 +643,11 @@
       "score": 32
     },
     {
-      "title": "Meta turns Muse sharing back on",
-      "url": "https://www.theverge.com/tech/1017066/meta-muse-sharing-back-on-artifiacts",
+      "title": "Meta delays new business terms after publisher pushback on AI scraping",
+      "url": "https://www.theverge.com/tech/1017450/meta-business-terms-delayed-ai-scraping",
       "source": "The Verge AI",
-      "published_at": "2026-10-22T20:24:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Meta has re-enabled Muse sharing after security researchers had reported that public conversation links could be easy to find. The researchers said they had been able to find Muse ",
+      "published_at": "2026-10-23T14:47:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Meta is delaying the enforcement of its new business terms after publishers raised concerns that they could allow the company to scrape news sites for AI training, as reported earl",
       "tags": [
         "Hot"
       ],
@@ -799,91 +657,181 @@
       "score": 32
     },
     {
-      "title": "Mark Zuckerberg Pushed Meta to Shield Him from California's Proposed Wealth Tax",
-      "url": "https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html",
+      "title": "Cerebras Deploys Trillion-Parameter AI Models",
+      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T01:35:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.nytimes.com/2026/10/21/technology/mark-zuckerberg-meta-california-wealth-tax.html Comments URL: https://news.ycombinator.com/item?id=50217587 Points: 39 # ",
+      "published_at": "2026-10-25T01:33:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 9 # Comme",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Twelve Years of Distributed SQLite",
-      "url": "https://philipotoole.com/twelve-years-of-distributed-sqlite/",
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "url": "https://codeberg.org/Misom/FindMyWeb",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T01:16:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://philipotoole.com/twelve-years-of-distributed-sqlite/ Comments URL: https://news.ycombinator.com/item?id=50217500 Points: 16 # Comments: 0",
+      "published_at": "2026-10-24T23:42:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 26 # Comments: 7",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "A whirlwind tour of systemd-nspawn containers (2025)",
-      "url": "https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/",
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T20:37:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://quantum5.ca/2025/03/22/whirlwind-tour-of-systemd-nspawn-containers/ Comments URL: https://news.ycombinator.com/item?id=50214983 Points: 36 # Comments: 7",
+      "published_at": "2026-10-24T23:33:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 35 # Comments: 9",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T19:09:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://block.xyz/dessa Comments URL: https://news.ycombinator.com/item?id=50213925 Points: 271 # Comments: 111",
+      "published_at": "2026-10-24T23:11:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 205 # Comments: 183",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "DNS: A Replacement for Finger",
-      "url": "https://altchan.org/sh/42",
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T19:00:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://altchan.org/sh/42 Comments URL: https://news.ycombinator.com/item?id=50213791 Points: 30 # Comments: 22",
+      "published_at": "2026-10-24T21:47:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 221 # Comments: 179",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Air Purifiers as White Noise Machines",
-      "url": "https://www.jefftk.com/p/air-purifiers-as-white-noise-machines",
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T17:28:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.jefftk.com/p/air-purifiers-as-white-noise-machines Comments URL: https://news.ycombinator.com/item?id=50212507 Points: 78 # Comments: 99",
+      "published_at": "2026-10-24T21:44:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 48 # Comments: 3",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Animations for System Builders",
-      "url": "https://brooker.co.za/blog/2026/10/23/animations.html",
+      "title": "The Importance of Limitations for Creativity and Learning (2023)",
+      "url": "https://ratfactor.com/cards/limitations",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T17:02:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://brooker.co.za/blog/2026/10/23/animations.html Comments URL: https://news.ycombinator.com/item?id=50212124 Points: 43 # Comments: 3",
+      "published_at": "2026-10-24T21:42:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 34 # Comments: 10",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
+      "title": "No signs of AI payoff outside the tech sector",
+      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T16:21:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.calif.io/p/iphone Comments URL: https://news.ycombinator.com/item?id=50211474 Points: 770 # Comments: 520",
+      "published_at": "2026-10-24T19:47:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Reforming English Spelling",
-      "url": "https://blog.oup.com/2026/10/reforming-english-spelling/",
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-23T15:56:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.oup.com/2026/10/reforming-english-spelling/ Comments URL: https://news.ycombinator.com/item?id=50211084 Points: 30 # Comments: 88",
+      "published_at": "2026-10-24T19:19:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 89 # Comments: 12",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T19:06:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 269 # Comments: 178",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Bbtree: Fastest Ordered Map",
+      "url": "https://bbtree.xiangpeng.systems/post/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T18:22:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 62 # Comments: 10",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Why is AI generated language so hard to understand?",
+      "url": "https://arxiv.org/abs/2610.29162",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T18:04:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 164 # Comments: 151",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
+      "url": "https://de.numista.com/9866",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T16:41:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 99 # Comments: 32",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Roku developer repositories moved from GitHub to GitLab",
+      "url": "https://blog.roku.com/developer/gitlab-move",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T16:06:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 268 # Comments: 183",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Neural chip decodes interactions between brain regions",
+      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T15:57:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 96 # Comments: 34",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "FreeDNS",
+      "url": "https://freedns.afraid.org/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T15:20:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 261 # Comments: 65",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-24T09:58:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 196 # Comments: 63",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-24T14:18:07.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What do you all think about this? It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor. As a graduate stud",
       "tags": [],
       "buckets": [],
       "score": 25
