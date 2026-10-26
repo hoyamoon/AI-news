@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25T03:15:26.485Z",
+  "updated_at": "2026-10-26T03:16:59.356Z",
   "items": [
     {
       "title": "Frontier models are bad at hearing ASMR: 8 judges vs human labels on 480 clips [P]",
@@ -20,7 +20,7 @@
         "rag",
         "hot"
       ],
-      "score": 177
+      "score": 165
     },
     {
       "title": "OpenAI now trains its frontier AI models with no internet access",
@@ -43,6 +43,40 @@
       "score": 116
     },
     {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T21:11:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://minimaxir.com/2026/10/cheap-llms/ Comments URL: https://news.ycombinator.com/item?id=50236102 Points: 183 # Comments: 207",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 105
+    },
+    {
+      "title": "Nanbeige releases Nanbeige4.3-33B, an Apache 2.0 teacher model for smaller agents [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xf6x35/nanbeige_releases_nanbeige4333b_an_apache_20/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-25T16:32:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nanbeige released Nanbeige4.3-33B as the teacher for its planned smaller agents, including an upcoming 3B model. the weights are Apache 2.0, and the model card lists a 512K context",
+      "tags": [
+        "Agents",
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "eval",
+        "hot"
+      ],
+      "score": 97
+    },
+    {
       "title": "Carbon-X is an open 14.8B model trained jointly on DNA and text [R]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xchayq/carbonx_is_an_open_148b_model_trained_jointly_on/",
       "source": "Reddit r/MachineLearning",
@@ -59,7 +93,7 @@
         "rag",
         "hot"
       ],
-      "score": 102
+      "score": 90
     },
     {
       "title": "I built Open-XTTS-Trainer: Now you can add new language scripts and train all 3 XTTS v2 components in 1 click [P]",
@@ -78,7 +112,7 @@
         "rag",
         "hot"
       ],
-      "score": 102
+      "score": 90
     },
     {
       "title": "Are we solving LLM memory by remembering more, when the real problem is knowing what to forget?[D]",
@@ -101,22 +135,22 @@
       "score": 84
     },
     {
-      "title": "Canva’s first AI image model plans designs before generating them",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model",
-      "source": "The Verge AI",
-      "published_at": "2026-10-22T21:51:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Canva is diving even deeper into AI with the launch of an image generation model that competes directly with those from OpenAI, Microsoft, and Google. The model, called Canva Craft",
+      "title": "memt-1.0 architecture breakdown gated deltanet-2, mixture-of-storage, and 66x smaller storage footprint for agent memory [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu0ht/memt10_architecture_breakdown_gated_deltanet2/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-25T05:31:19.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: been digesting the details behind memt-1.0's memory-native architecture recently, and the engineering tradeoffs between full context kv caching and internalized parametric memory a",
       "tags": [
-        "GPT/OpenAI",
-        "Multimodal",
+        "Agents",
+        "RAG/Vector",
         "Release"
       ],
       "buckets": [
-        "llm",
-        "multimodal",
+        "agents",
+        "rag",
         "hot"
       ],
-      "score": 78
+      "score": 79
     },
     {
       "title": "[R] The Hive Mind is a Single Reinforcement Learning Agent: Deriving the Exact Equivalence Between Swarm Dynamics and Multi-Armed Bandits",
@@ -136,16 +170,34 @@
       "score": 66
     },
     {
-      "title": "Oai-math-revised: a community hub for revising OpenAI's math write-ups",
-      "url": "https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/",
+      "title": "Active incident at Dreamhost forcing password reset",
+      "url": "https://www.dreamhoststatus.com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T15:35:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://terrytao.wordpress.com/2026/10/24/oai-math-revised-a-community-hub-for-revising-openais-math-write-ups/ Comments URL: https://news.ycombinator.com/item?id=5022",
+      "published_at": "2026-10-25T13:09:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.dreamhoststatus.com/ Comments URL: https://news.ycombinator.com/item?id=50231166 Points: 127 # Comments: 54",
       "tags": [
-        "GPT/OpenAI"
+        "Notion Status",
+        "Hot"
       ],
       "buckets": [
-        "llm"
+        "status",
+        "hot"
+      ],
+      "score": 65
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge AI",
+      "published_at": "2026-10-25T13:25:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The mods at r/opensource posted new submission rules that, among other things, banned projects that use AI. The post made Saturday evening opens by saying, \"If your project uses AI",
+      "tags": [
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "status",
+        "hot"
       ],
       "score": 65
     },
@@ -162,6 +214,22 @@
       "buckets": [
         "llm",
         "agents"
+      ],
+      "score": 59
+    },
+    {
+      "title": "I ran a blind test on self-hosted AI agents. Here are the results, guess who's who [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xfgf1w/i_ran_a_blind_test_on_selfhosted_ai_agents_here/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-25T22:57:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: everything here ran on my own hardware, an M5 Max MacBook Pro with 64GB. blind test of self-hosted AI agents, every one on Qwen 3.8 27B uncensored Q4_K_M in llama.cpp, same 5 every",
+      "tags": [
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
       ],
       "score": 59
     },
@@ -203,23 +271,6 @@
       "source": "Reddit r/MachineLearning",
       "published_at": "2026-10-02T02:15:05.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Please post your personal projects, startups, product placements, collaboration needs, blogs etc. Please mention the payment and pricing requirements for products and services. Ple",
-      "tags": [
-        "RAG/Vector",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 50
-    },
-    {
-      "title": "Few-read fault localization in simulated analog crossbars: a sparse-recovery decoder vs reading every cell (with the claims that failed) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xbj6nj/fewread_fault_localization_in_simulated_analog/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-21T10:09:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TL;DR In simulation, a sparse-recovery decoder over a few random +/-1 probe reads localizes up to 64 stuck cells in a 256x256 analog tile with 4 to 12 counted reads at 1% read nois",
       "tags": [
         "RAG/Vector",
         "Hot",
@@ -312,11 +363,11 @@
       "score": 45
     },
     {
-      "title": "Show HN: Steal My Bitcoin",
-      "url": "https://stealmybitcoin.com/",
+      "title": "Oregon Police Are Charging a Local News Outlet $2.5M for Records About One Cop",
+      "url": "https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T20:30:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Made this because I'm curious if anyone out there has figured out how to actually use this PHP RCE we spent the last few days panicking over. Have fun! Comments URL: https://news.y",
+      "published_at": "2026-10-25T18:04:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://theintercept.com/2026/10/01/oregon-police-misconduct-public-records-cost-fee/ Comments URL: https://news.ycombinator.com/item?id=50234232 Points: 411 # Comment",
       "tags": [
         "Hot"
       ],
@@ -326,16 +377,30 @@
       "score": 45
     },
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
+      "title": "UTS #39: Unicode Security Mechanisms",
+      "url": "https://unicode.org/reports/tr39/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T19:43:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://missileer.watch Comments URL: https://news.ycombinator.com/item?id=50224422 Points: 130 # Comments: 85",
+      "published_at": "2026-10-25T16:40:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://unicode.org/reports/tr39/ Comments URL: https://news.ycombinator.com/item?id=50233438 Points: 36 # Comments: 19",
       "tags": [
         "Hot"
       ],
       "buckets": [
         "hot"
+      ],
+      "score": 45
+    },
+    {
+      "title": "What's the hardest part of creating edge cases for fine-tuning open-weight models? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xfa17z/whats_the_hardest_part_of_creating_edge_cases_for/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-25T18:35:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I'm interested in how people build datasets for fine-tuning open-weight models, especially when it is about making a model handling edge cases than just perform well on common exam",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
       ],
       "score": 45
     },
@@ -354,6 +419,21 @@
         "rag"
       ],
       "score": 44
+    },
+    {
+      "title": "Show HN: Hurston-1 open source TTS that speak Southern American and Afro-English",
+      "url": "https://huggingface.co/destined/hurston-1",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T01:30:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey HN, I’m open sourcing my Hurston-1 narrowband TTS model (Apache-2.0). It is very good with American English and does especially well with Southern American and Regional African",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 42
     },
     {
       "title": "Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend",
@@ -392,22 +472,6 @@
       "source": "Reddit r/MachineLearning",
       "published_at": "2026-10-23T17:25:52.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Starting a project to detect candidate stenoses in x-ray coronary angiograms. The goal is high recall, false positives are fine as long as it doesn't flag half the image. I already",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 40
-    },
-    {
-      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-22T20:57:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A while back I posted SteerTTS v1, a small English TTS you steer with numbers (https://huggingface.co/WhissleAI/steer-tts). Today I am releasing the edge variant: https://huggingfa",
       "tags": [
         "Eval/Observability",
         "Release"
@@ -587,11 +651,11 @@
       "score": 35
     },
     {
-      "title": "Got a pretrained music transformer to jam with me live, no fine-tuning, just steering the sampling [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe4pex/got_a_pretrained_music_transformer_to_jam_with_me/",
+      "title": "Titans learns during inference. What if it learns the wrong thing? [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xfl9qp/titans_learns_during_inference_what_if_it_learns/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-24T09:58:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I wanted to see how far you can get making a pretrained symbolic music model \"listen\" to a live player without training it. Turns out pretty far. Setup: I play a MIDI keyboard, the",
+      "published_at": "2026-10-26T02:44:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Titans gives AI a separate neural memory that updates its own weights as information arrives. I wrote a short visual explainer on how it works. In my small synthetic experiment, co",
       "tags": [
         "Release"
       ],
@@ -599,48 +663,6 @@
         "hot"
       ],
       "score": 35
-    },
-    {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-10-24T21:29:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: BBC's Blue Planet III is looking to prove its authenticity by leaving in the less-than-perfect shots. Previous incarnations of the nature series were defined by their gorgeous, cry",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "Pennsylvania will require labels on AI-generated ads",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-      "source": "The Verge AI",
-      "published_at": "2026-10-24T18:32:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires a",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 35
-    },
-    {
-      "title": "This design software reimagines everyday objects as self-aware devices",
-      "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
-      "source": "MIT News AI",
-      "published_at": "2026-10-22T20:45:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: “X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 32
     },
     {
       "title": "Meta delays new business terms after publisher pushback on AI scraping",
@@ -657,181 +679,177 @@
       "score": 32
     },
     {
-      "title": "Cerebras Deploys Trillion-Parameter AI Models",
-      "url": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-25T01:33:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras Comments URL: https://news.ycombinator.com/item?id=50227356 Points: 9 # Comme",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "url": "https://codeberg.org/Misom/FindMyWeb",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T23:42:52.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://codeberg.org/Misom/FindMyWeb Comments URL: https://news.ycombinator.com/item?id=50226646 Points: 26 # Comments: 7",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T23:33:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt Comments URL: https://news.ycombinator.com/item?id=50226577 Points: 35 # Comments: 9",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T23:11:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class Comments URL: https://news.ycombinator.com/item?id=50226419 Points: 205 # Comments: 183",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T21:47:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://danluu.com/ambitious/ Comments URL: https://news.ycombinator.com/item?id=50225695 Points: 221 # Comments: 179",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T21:44:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ratfactor.com/cards/pl-small Comments URL: https://news.ycombinator.com/item?id=50225674 Points: 48 # Comments: 3",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The Importance of Limitations for Creativity and Learning (2023)",
-      "url": "https://ratfactor.com/cards/limitations",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T21:42:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ratfactor.com/cards/limitations Comments URL: https://news.ycombinator.com/item?id=50225663 Points: 34 # Comments: 10",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "No signs of AI payoff outside the tech sector",
-      "url": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T19:47:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector Comments URL: https://news.ycombinator.com/item?id=50224",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T19:19:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.speedcrunch.org/ Comments URL: https://news.ycombinator.com/item?id=50224210 Points: 89 # Comments: 12",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T19:06:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://twitter.com/ID_AA_Carmack/status/2113704269274636568 Comments URL: https://news.ycombinator.com/item?id=50224100 Points: 269 # Comments: 178",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Bbtree: Fastest Ordered Map",
-      "url": "https://bbtree.xiangpeng.systems/post/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T18:22:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://bbtree.xiangpeng.systems/post/ Comments URL: https://news.ycombinator.com/item?id=50223777 Points: 62 # Comments: 10",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Why is AI generated language so hard to understand?",
-      "url": "https://arxiv.org/abs/2610.29162",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T18:04:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2610.29162 Comments URL: https://news.ycombinator.com/item?id=50223647 Points: 164 # Comments: 151",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "The St. Helena 5 pence coin shows Jonathan, a roughly 190 year old tortoise",
-      "url": "https://de.numista.com/9866",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T16:41:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://de.numista.com/9866 Comments URL: https://news.ycombinator.com/item?id=50222927 Points: 99 # Comments: 32",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Roku developer repositories moved from GitHub to GitLab",
-      "url": "https://blog.roku.com/developer/gitlab-move",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T16:06:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.roku.com/developer/gitlab-move Comments URL: https://news.ycombinator.com/item?id=50222622 Points: 268 # Comments: 183",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Neural chip decodes interactions between brain regions",
-      "url": "https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T15:57:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://actu.epfl.ch/news/neural-chip-decodes-interactions-between-brain-r-2/ Comments URL: https://news.ycombinator.com/item?id=50222525 Points: 96 # Comments: 34",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "FreeDNS",
-      "url": "https://freedns.afraid.org/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T15:20:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://freedns.afraid.org/ Comments URL: https://news.ycombinator.com/item?id=50222133 Points: 261 # Comments: 65",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "GPU-unlock: FP/BF16 instruction issue rate on Nvidia 3000's cards",
-      "url": "https://github.com/Zagitta/gpu-unlock",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-10-24T09:58:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/Zagitta/gpu-unlock Comments URL: https://news.ycombinator.com/item?id=50219700 Points: 196 # Comments: 63",
-      "tags": [],
-      "buckets": [],
-      "score": 25
-    },
-    {
-      "title": "Increasing number of UG authors in A* conferences with no supervisor [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xe9uoh/increasing_number_of_ug_authors_in_a_conferences/",
+      "title": "We shrank our steerable small TTS to 11.84 MB. WER is unchanged, UTMOS drops ~0.1 [p]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xcum4s/we_shrank_our_steerable_small_tts_to_1184_mb_wer/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-10-24T14:18:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What do you all think about this? It seems increasingly common for undergraduate students to conduct research and publish at A* conferences without a supervisor. As a graduate stud",
+      "published_at": "2026-10-22T20:57:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A while back I posted SteerTTS v1, a small English TTS you steer with numbers (https://huggingface.co/WhissleAI/steer-tts). Today I am releasing the edge variant: https://huggingfa",
+      "tags": [
+        "Eval/Observability",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
+        "hot"
+      ],
+      "score": 28
+    },
+    {
+      "title": "IBM CEO says open weight models are now irresistibly good and cheap on-prem",
+      "url": "https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-26T01:47:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.theregister.com/systems/2026/10/22/ibm-ceo-says-open-weight-models-are-now-irresistibly-good-and-cheap-on-prem/5304640 Comments URL: https://news.ycombinat",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "iPhone Duo Teardown",
+      "url": "https://www.ifixit.com/News/119895/iphone-duo-teardown",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-26T01:23:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ifixit.com/News/119895/iphone-duo-teardown Comments URL: https://news.ycombinator.com/item?id=50237896 Points: 42 # Comments: 13",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Removing Next.js Got My Blog to 100 on Every Lighthouse Category",
+      "url": "https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-26T01:03:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://korindiehacker.bloffy.blog/en/removing-nextjs-got-my-blog-to-100-on-every-lighthouse-category Comments URL: https://news.ycombinator.com/item?id=50237712 Point",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Steal My Bitcoin CTF PoC",
+      "url": "https://github.com/KillaBoi/StealMyBitcoin-PoC",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-26T00:15:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/KillaBoi/StealMyBitcoin-PoC Comments URL: https://news.ycombinator.com/item?id=50237379 Points: 19 # Comments: 4",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T23:52:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2512.19428 Comments URL: https://news.ycombinator.com/item?id=50237224 Points: 34 # Comments: 15",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T23:27:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://hypnotize.works/gdx-3ds/postmortem/index.html Comments URL: https://news.ycombinator.com/item?id=50237078 Points: 69 # Comments: 34",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Proton Flock Camera Map",
+      "url": "https://proton.me/flock-camera-map",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T22:39:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://proton.me/flock-camera-map Comments URL: https://news.ycombinator.com/item?id=50236748 Points: 77 # Comments: 14",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T20:32:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html Comments URL: https://news.ycombinator.com/item?id=50235780 Points: 97 # Comments: 27",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T20:27:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.disneyanimation.com/process/ Comments URL: https://news.ycombinator.com/item?id=50235738 Points: 105 # Comments: 43",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Eunice is almost here",
+      "url": "https://armincat.com/articles/eunice-is-almost-here",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T19:40:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://armincat.com/articles/eunice-is-almost-here Comments URL: https://news.ycombinator.com/item?id=50235316 Points: 66 # Comments: 61",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T19:11:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.alfie.wtf/programming/why-i-am-a-programmer.html Comments URL: https://news.ycombinator.com/item?id=50235017 Points: 149 # Comments: 55",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T18:58:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://iosiflazaridis.github.io/battles-of-the-romans/ Comments URL: https://news.ycombinator.com/item?id=50234879 Points: 56 # Comments: 26",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T18:23:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: With today's news, I thought I'd share this great program: “When I was growing up in the hills of East Tennessee, I knew my dreams would come true. I know there are children in you",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "I refuse to accept a censored Internet. Join Me at FOSDEM 27",
+      "url": "https://talkweb.eu/openweb/4558/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T17:30:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://talkweb.eu/openweb/4558/ Comments URL: https://news.ycombinator.com/item?id=50233929 Points: 408 # Comments: 206",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-10-25T17:15:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://lynchlab.net/llm-skin-cancer Comments URL: https://news.ycombinator.com/item?id=50233779 Points: 468 # Comments: 216",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "ICLR 2027 is still handing out desk rejects [N]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xeu2z1/iclr_2027_is_still_handing_out_desk_rejects_n/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-10-25T05:35:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Thank you for your efforts in protecting the community from AI slop. submitted by /u/Temporary_Switch_339 [link] [comments]",
       "tags": [],
       "buckets": [],
       "score": 25
