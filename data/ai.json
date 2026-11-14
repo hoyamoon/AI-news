@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-11-13T05:07:46.080Z",
+  "updated_at": "2026-11-14T04:58:19.641Z",
   "items": [
     {
-      "title": "I built a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuyxw5/i_built_a_legorastyle_legal_conflict_detector/",
+      "title": "How to make a Legora-style legal conflict detector tool using only NLI and encoder models [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuzv6d/how_to_make_a_legorastyle_legal_conflict_detector/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-13T04:57:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey r/MachineLearning! I’m Tabs, a legal engineer at Isaacus. I built an open-source legal conflict detector that finds deviations and gaps between pairs of legal documents using o",
+      "published_at": "2026-11-13T05:48:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey r/learnmachinelearning! I’m Tabs, a legal engineer at Isaacus. Still getting better at machine learning things but here we go. I built an open-source legal conflict detector th",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
@@ -28,53 +28,63 @@
       "score": 217
     },
     {
-      "title": "Jensen Huang is out. What did China want from him?",
-      "url": "https://www.theverge.com/podcast/1031260/nvidia-jensen-huang-resign-china-spy-scandal-ai-chips-trump",
-      "source": "The Verge AI",
-      "published_at": "2026-11-12T16:30:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Today, we’re talking about the Jensen Huang scandal at Nvidia, which is developing so quickly that we had to do an emergency update of this intro minutes before publishing this epi",
+      "title": "Four frontier models scored 97.8–100 on a 7-part materials-science research test. How should we score long-horizon agent evals instead? [d]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvgf6h/four_frontier_models_scored_978100_on_a_7part/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-11-13T18:58:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I work in graphene and 2D materials, and I built a test of the everyday technical work in a research group. It has seven parts: reducing a messy tensile data set against a lab SOP ",
       "tags": [
-        "GPT/OpenAI",
         "Claude/Anthropic",
-        "RAG/Vector",
+        "Gemini/Google",
+        "Agents",
         "Eval/Observability",
-        "Multimodal",
-        "Make",
-        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "rag",
+        "agents",
         "eval",
-        "multimodal",
-        "make",
         "hot"
       ],
-      "score": 213
+      "score": 152
     },
     {
-      "title": "Show HN: Kapso – Iterative learning from enterprise data",
-      "url": "https://news.ycombinator.com/item?id=50471281",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T17:51:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey HN! We're Alireza and Majid building Leeroo (https://leeroo.com/). Previously we’ve built AI systems for products with millions of users, including at LinkedIn and Meta. We’re ",
+      "title": "Claude’s Duet agent is a little neurotic and surprisingly helpful",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032518/claude-duet-ai-agent-hands-on",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T14:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Let’s get to work. | Photo: Allison Johnson / The Verge Normally, the products I test don't offer to help me write up my experience with them. Duet is different. Claude Duet is Ant",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "ChatGPT Wallet lets OpenAI’s Dots agents make purchases for you",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1033425/openai-chatgpt-wallet",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T20:45:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After launching its Dots AI agents platform earlier this year, OpenAI is launching a wallet for the agents. ChatGPT Wallet is rolling out starting today for ChatGPT Pro subscribers",
       "tags": [
         "GPT/OpenAI",
         "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
         "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
-        "eval",
         "hot"
       ],
-      "score": 157
+      "score": 119
     },
     {
       "title": "I fine-tuned EVA-02 in a week to build a neural video retrieval engine for what CLIP still won't do [P]",
@@ -100,39 +110,6 @@
       "score": 118
     },
     {
-      "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-      "url": "https://github.com/Parcha-ai/agentrun/blob/main/README.md",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T18:15:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We (GREP.AI, YC F26) are open-sourcing AgentRun and turning it into a full managed agents platform. Read more about it in this post: https://agentrun.ai/blog/introducing-agentrun-r",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "hot"
-      ],
-      "score": 109
-    },
-    {
-      "title": "AI chatbots are recommending fake retail websites, study finds",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
-      "source": "The Verge AI",
-      "published_at": "2026-11-12T17:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP pr",
-      "tags": [
-        "GPT/OpenAI",
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 100
-    },
-    {
       "title": "Can we talk about the ML research coming from China? [D]",
       "url": "https://www.reddit.com/r/MachineLearning/comments/1xteym8/can_we_talk_about_the_ml_research_coming_from/",
       "source": "Reddit r/MachineLearning",
@@ -148,19 +125,19 @@
       "score": 92
     },
     {
-      "title": "Why are Anthropic's top researchers cited twice as much as OpenAI's? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xt5xld/why_are_anthropics_top_researchers_cited_twice_as/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-11T02:22:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/NegotiationOk7535 [link] [comments]",
+      "title": "AI chatbots are recommending fake retail websites, study finds",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032020/gemini-chatgpt-perplexity-shopping-test-risky-fake-websites-citations",
+      "source": "The Verge AI",
+      "published_at": "2026-11-12T17:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Shoppers using AI chatbots to research products or find places to buy items could be directed to imposters and other risky websites, a new study found. The study conducted by IP pr",
       "tags": [
         "GPT/OpenAI",
-        "Claude/Anthropic"
+        "Gemini/Google"
       ],
       "buckets": [
         "llm"
       ],
-      "score": 92
+      "score": 87
     },
     {
       "title": "No, AI agents did not discover a previously unknown Maya site",
@@ -178,58 +155,7 @@
         "status",
         "hot"
       ],
-      "score": 89
-    },
-    {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
-      "source": "The Verge AI",
-      "published_at": "2026-11-12T21:55:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specif",
-      "tags": [
-        "Gemini/Google",
-        "NotebookLM"
-      ],
-      "buckets": [
-        "llm",
-        "prod"
-      ],
-      "score": 82
-    },
-    {
-      "title": "I built a small streaming text tagger that reads text word by word, so a voice agent can react mid sentence [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xu548q/i_built_a_small_streaming_text_tagger_that_reads/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-12T06:04:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We listen and type word by word, yet most AI only acts per turn. That wastes time and tokens, and it misses intent that was already clear halfway through the sentence. So I built A",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "eval",
-        "hot"
-      ],
-      "score": 77
-    },
-    {
-      "title": "More game developers are starting to use generative AI",
-      "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
-      "source": "The Verge AI",
-      "published_at": "2026-11-12T17:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A photo from the GDC Festival of Gaming 2026 event. More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of G",
-      "tags": [
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 77
+      "score": 76
     },
     {
       "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
@@ -250,67 +176,33 @@
       "score": 71
     },
     {
-      "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-12T17:16:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TRIBE v2 predicts fMRI from video/audio/text. Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) — and its methods",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "source": "The Verge AI",
+      "published_at": "2026-11-12T21:55:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specif",
       "tags": [
-        "RAG/Vector",
-        "Multimodal",
-        "Release"
+        "Gemini/Google",
+        "NotebookLM"
       ],
       "buckets": [
-        "rag",
-        "multimodal",
-        "hot"
+        "llm",
+        "prod"
       ],
-      "score": 71
+      "score": 69
     },
     {
-      "title": "Former Nvidia CEO Huang had a relationship with a second employee, sources say",
-      "url": "https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/",
+      "title": "Amtrak booking system experiencing major issues amid nationwide FAA ground stop",
+      "url": "https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T19:51:33.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.forbes.com/sites/alisondurkee/2026/11/12/jensen-... Comments URL: https://news.ycombinator.com/item?id=50473190 Points: 165 # Comments: 209",
-      "tags": [
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 67
-    },
-    {
-      "title": "Service degradation on Microsoft 365",
-      "url": "https://status.cloud.microsoft/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T18:20:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.abc.net.au/news/2026-11-13/microsoft-outage-affe... https://www.reddit.com/r/sysadmin/comments/1xuje83/microsoft... https://downdetector.com/status/microsoft-365/ Comme",
+      "published_at": "2026-11-14T00:52:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.fox5dc.com/news/amtrak-outage-ticket-booking-faa-ground-stop-november-13-2026 Comments URL: https://news.ycombinator.com/item?id=50492315 Points: 145 # Com",
       "tags": [
         "Notion Status",
         "Hot"
       ],
       "buckets": [
         "status",
-        "hot"
-      ],
-      "score": 65
-    },
-    {
-      "title": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-13T00:25:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am the maintainer of Inkvec, a open-source raster-to-vector tracer for logos and icons (see: github.com/logolabs/inkvec ). Right now the main issue with Inkvec is that it uses MD",
-      "tags": [
-        "RAG/Vector",
-        "Hot"
-      ],
-      "buckets": [
-        "rag",
         "hot"
       ],
       "score": 65
@@ -332,63 +224,22 @@
       "score": 63
     },
     {
-      "title": "mlxVS: cuVS-style GPU nearest-neighbor search (NN-Descent, CAGRA) on Apple Silicon with MLX [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtt5tx/mlxvs_cuvsstyle_gpu_nearestneighbor_search/",
+      "title": "Does Meta's brain-response model (TRIBE v2) actually recover retinotopy/tonotopy/motion maps? [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuillf/does_metas_brainresponse_model_tribe_v2_actually/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-11T20:46:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've released mlxVS, an open-source (Apache-2.0) library that runs the main GPU nearest-neighbor algorithms from NVIDIA's cuVS on Apple Silicon, built on MLX. It covers exact k-NN,",
+      "published_at": "2026-11-12T17:16:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: TRIBE v2 predicts fMRI from video/audio/text. Its own paper never tested whether it reproduces classic topographic maps (retinotopy, tonotopy, motion selectivity) — and its methods",
       "tags": [
         "RAG/Vector",
-        "Hot",
+        "Multimodal",
         "Release"
       ],
       "buckets": [
         "rag",
+        "multimodal",
         "hot"
       ],
-      "score": 62
-    },
-    {
-      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
-      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-12T18:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 60
-    },
-    {
-      "title": "Gemini 4 Hydrogen and Orchestrator",
-      "url": "https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T18:52:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/ Comments URL: https://news.ycombinator.com/item?id=50472260 Points: 351 # Comments: 94",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 60
-    },
-    {
-      "title": "Gemini 4 Hydrogen",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T18:01:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/ Comments URL: https://news.ycombinator.com/item?id=50471431 Poin",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 60
+      "score": 58
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -407,48 +258,32 @@
       "score": 57
     },
     {
-      "title": "Google Cloud launches Gemini for healthcare.",
-      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T13:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
+      "title": "I have trained a model to predict my blood sugar [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvja5n/i_have_trained_a_model_to_predict_my_blood_sugar_p/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-11-13T20:48:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I have trained a custom 31,253 parameter encoder-only transformer on a pregenerated synthetic CGM dataset and fitted it to my own personal data using LoRA. It is competitive among ",
       "tags": [
-        "Gemini/Google",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "llm",
         "hot"
       ],
-      "score": 57
+      "score": 55
     },
     {
-      "title": "Oh, Palantir is ‘progressive’ now, is it?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
-      "source": "The Verge AI",
-      "published_at": "2026-11-12T18:06:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left g",
+      "title": "Scaling to 1T MoE on TorchTitan [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvce5h/scaling_to_1t_moe_on_torchtitan_p/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-11-13T16:28:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone! Over the last few months we've been in the trenches with the TorchTitan and PyTorch maintainers, trying to find out how far GH200 (the GPUs inside the JUPITER supercom",
       "tags": [
         "RAG/Vector",
         "Release"
       ],
       "buckets": [
         "rag",
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Nvidia CEO Jensen Huang has resigned. What happens next?",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
-      "source": "The Verge AI",
-      "published_at": "2026-11-12T15:01:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an invest",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
         "hot"
       ],
       "score": 55
@@ -468,6 +303,22 @@
         "update"
       ],
       "score": 54
+    },
+    {
+      "title": "I need feedback on this architecture for amodal raster-to-vector using a hybrid approach. [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xutg9v/i_need_feedback_on_this_architecture_for_amodal/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-11-13T00:25:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am the maintainer of Inkvec, a open-source raster-to-vector tracer for logos and icons (see: github.com/logolabs/inkvec ). Right now the main issue with Inkvec is that it uses MD",
+      "tags": [
+        "RAG/Vector",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 52
     },
     {
       "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
@@ -503,11 +354,11 @@
       "score": 50
     },
     {
-      "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-      "url": "https://brave.com/blog/search-api-agentic-payments/",
+      "title": "Autonomous (YC F25) is hiring MTS to build AI agents that manage your wealth",
+      "url": "https://atg.science/careers",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-13T03:08:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://brave.com/blog/search-api-agentic-payments/ Comments URL: https://news.ycombinator.com/item?id=50477649 Points: 9 # Comments: 1",
+      "published_at": "2026-11-13T21:01:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://atg.science/careers Comments URL: https://news.ycombinator.com/item?id=50489589 Points: 0 # Comments: 0",
       "tags": [
         "Agents"
       ],
@@ -515,6 +366,34 @@
         "agents"
       ],
       "score": 49
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "published_at": "2026-11-13T23:49:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Amazon has plans to build a vault of data on every product sold anywhere on the internet, even products Amazon doesn't sell, and make the information available through its own site",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 49
+    },
+    {
+      "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+      "url": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-12T18:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We are bringing Gemini 4 Hydrogen to Google Search globally to provide you with more helpful, visual, and intuitive responses.",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 47
     },
     {
       "title": "Try Tabletop: Customizable, collaborative spaces for groups to plan, play and do more together.",
@@ -531,32 +410,20 @@
       "score": 47
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "title": "Google Cloud launches Gemini for healthcare.",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/gemini-for-healthcare/",
       "source": "Google AI Blog",
-      "published_at": "2026-11-10T19:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
+      "published_at": "2026-11-10T13:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Cloud launches Gemini for healthcare to unify clinical data and automate workflows. Reduce administrative burnout. See how it works.",
       "tags": [
-        "Gemini/Google"
+        "Gemini/Google",
+        "Release"
       ],
       "buckets": [
-        "llm"
+        "llm",
+        "hot"
       ],
-      "score": 47
-    },
-    {
-      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
-      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
-      "source": "Google AI Blog",
-      "published_at": "2026-11-10T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
-      "tags": [
-        "Gemini/Google"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 47
+      "score": 45
     },
     {
       "title": "The latest AI news we announced in October 2026",
@@ -623,11 +490,11 @@
       "score": 45
     },
     {
-      "title": "Turning a 22-year-old Postgres type-confusion primitive into RCE",
-      "url": "https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/",
+      "title": "Security Agencies Worldwide Found to Use Ad-Based Surveillance System",
+      "url": "https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T18:22:22.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/ Comments URL: https://news.ycombinator",
+      "published_at": "2026-11-14T02:15:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://citizenlab.ca/security-agencies-worldwide-found-to-use-ad-based-surveillance-system/ Comments URL: https://news.ycombinator.com/item?id=50492950 Points: 34 # C",
       "tags": [
         "Hot"
       ],
@@ -637,49 +504,76 @@
       "score": 45
     },
     {
-      "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-13T02:23:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: SAM 2-style trackers (SAM 2.1, EdgeTAM) are more accurate and flexible than box trackers: point at anything once and get its exact outline on every frame. But on live cameras they'",
+      "title": "How Not to Build a Music Player",
+      "url": "https://alichraghi.github.io/blog/how-not-to-build-a-music-player/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-13T23:04:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://alichraghi.github.io/blog/how-not-to-build-a-music-player/ Comments URL: https://news.ycombinator.com/item?id=50491400 Points: 58 # Comments: 23",
       "tags": [
-        "Hot"
+        "RAG/Vector"
       ],
       "buckets": [
-        "hot"
+        "rag"
       ],
       "score": 45
     },
     {
-      "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-12T01:51:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/9fqm4f70731i1.png?width=3200&format=png&auto=webp&s=62bc97590b0eee3ac664a06caa92e66a15e987b6 I went through every NeurIPS, ICML and ICLR call for papers, au",
+      "title": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "url": "https://www.perplexity.ai/hub/blog/perplexity-decider",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-13T19:24:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.perplexity.ai/hub/blog/perplexity-decider Comments URL: https://news.ycombinator.com/item?id=50488464 Points: 108 # Comments: 21",
       "tags": [
-        "Hot",
+        "Eval/Observability"
+      ],
+      "buckets": [
+        "eval"
+      ],
+      "score": 43
+    },
+    {
+      "title": "Oh, Palantir is ‘progressive’ now, is it?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032126/alex-baby-you-were-recorded-on-video",
+      "source": "The Verge AI",
+      "published_at": "2026-11-12T18:06:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The future’s so bright, he’s gotta wear sunglasses. | Photo by Scott Olson/Getty Images I had other things to do today, but Alex Karp's pathetic attempt to pivot back to the left g",
+      "tags": [
+        "RAG/Vector",
         "Release"
       ],
       "buckets": [
+        "rag",
         "hot"
       ],
       "score": 42
     },
     {
-      "title": "A zero-cost curvature proxy predicts Euler step error for flow matching, but per-sample step control adds nothing over a static grid (Anima, 12 units; related to CAT-Flow) [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtq4vl/a_zerocost_curvature_proxy_predicts_euler_step/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-11T18:51:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Question. A multistep sampler has consecutive velocity evaluations for free. Is the angle between them a usable curvature signal for adaptive stepping, and does using it online bea",
+      "title": "Gemini Intelligence: New features, on more devices",
+      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T19:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Gemini Intelligence is rolling out to more devices. See how expanded capabilities across these devices help you do more.",
       "tags": [
-        "Eval/Observability",
-        "Release"
+        "Gemini/Google"
       ],
       "buckets": [
-        "eval",
-        "hot"
+        "llm"
       ],
-      "score": 40
+      "score": 35
+    },
+    {
+      "title": "We’re bringing Adobe’s creative and productivity tools closer to your everyday Google apps.",
+      "url": "https://blog.google/company-news/inside-google/company-announcements/adobe-google-partnership-integration/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-10T14:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google and Adobe are integrating creative and productivity tools. Edit PDFs in Drive and use Adobe AI in Gemini. See what’s new in this partnership.",
+      "tags": [
+        "Gemini/Google"
+      ],
+      "buckets": [
+        "llm"
+      ],
+      "score": 35
     },
     {
       "title": "Our newest AI Quest: Mapping the human brain",
@@ -780,11 +674,11 @@
       "score": 35
     },
     {
-      "title": "UMAP 0.6: new initialization, new optimizers and faster performance [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xudaah/umap_06_new_initialization_new_optimizers_and/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-12T13:51:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: UMAP 0.6 is out! A new initialization, new optimizers, and faster nearest neighbour search make UMAP much faster and far better at large scale. On 3 million arXiv papers it finishe",
+      "title": "Ggml v1.0.0",
+      "url": "https://github.com/ggml-org/ggml/releases/tag/v1.0.0",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-14T02:28:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/ggml-org/ggml/releases/tag/v1.0.0 Comments URL: https://news.ycombinator.com/item?id=50493062 Points: 92 # Comments: 15",
       "tags": [
         "Release"
       ],
@@ -794,11 +688,11 @@
       "score": 35
     },
     {
-      "title": "Creating author burdens to reduce paper submissions is STUPID [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xul9u7/creating_author_burdens_to_reduce_paper/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-12T18:55:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Over the past two years, conferences have been trying to add different administrative nonsense. Initially, it was author/reviewer sign-up, then reciprocal reviewing, and now CVPR h",
+      "title": "Unsloth Qwen3.8-27B Quantizations – Dynamic v3.1 Update",
+      "url": "https://unsloth.ai/docs/models/qwen3.8",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-14T00:06:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://unsloth.ai/docs/models/qwen3.8 Comments URL: https://news.ycombinator.com/item?id=50491980 Points: 46 # Comments: 5",
       "tags": [
         "Release"
       ],
@@ -808,11 +702,11 @@
       "score": 35
     },
     {
-      "title": "CVPR 2027 Author enrollment form [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xue879/cvpr_2027_author_enrollment_form_d/",
+      "title": "Paid surveys for Machine Learning Scientists for SnorkelAI: Absolutely not worth it [R]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xv4rjy/paid_surveys_for_machine_learning_scientists_for/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-12T14:30:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I just realized that CVPR 2027 requires a separate author enrollment form to be completed by the abstract deadline, in addition to having a complete OpenReview profile. My OpenRevi",
+      "published_at": "2026-11-13T10:50:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am here writing about my experience with this. I was contacted to fill out a paid survey for SnorkelAI because I have a PhD and have published at A* conferences in the field, so ",
       "tags": [
         "Release"
       ],
@@ -822,11 +716,25 @@
       "score": 35
     },
     {
-      "title": "Read Nvidia’s internal emails about the ‘extraordinarily difficult period’ amid CEO shakeup",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032028/read-nvidias-internal-emails-jensen-huang",
+      "title": "Back Propagation [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xvnob6/back_propagation_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-11-13T23:52:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hello everyone I am currently studying neural network development in graduate school and I’m having a hard time conceptualizing the stages of training. I understand that forward pr",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "What&#8217;s really at stake in the Jensen Huang saga",
+      "url": "https://www.theverge.com/podcast/1032866/jensen-huang-nvidia-china-trump-vergecast",
       "source": "The Verge AI",
-      "published_at": "2026-11-12T15:48:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Jensen Huang resigned as CEO of Nvidia this morning, a company he co-founded in 1993. The decision came following the company's board opening an investigation into multiple extrama",
+      "published_at": "2026-11-13T14:47:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One part of the saga surrounding Nvidia CEO Jensen Huang ended on Thursday, when Huang resigned from his position at the top of AI's most important company. But in the coming weeks",
       "tags": [
         "Release"
       ],
@@ -836,11 +744,11 @@
       "score": 35
     },
     {
-      "title": "I built an explorer of 2,100+ robotics papers covering 10 years of CoRL; with TLDRs, links to code, project pages, and research trends [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xtul3j/i_built_an_explorer_of_2100_robotics_papers/",
+      "title": "I built tamserve to make real-time video tracking 2x cheaper [P]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xuvxke/i_built_tamserve_to_make_realtime_video_tracking/",
       "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-11T21:42:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Heya roboticists and mind minders ~ I built a complete CoRL paper explorer, indexing 2,100+ robotics papers from the last 10 years (2017–2026). Added paper TLDRs, project pages, co",
+      "published_at": "2026-11-13T02:23:51.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: SAM 2-style trackers (SAM 2.1, EdgeTAM) are more accurate and flexible than box trackers: point at anything once and get its exact outline on every frame. But on live cameras they'",
       "tags": [
         "Hot"
       ],
@@ -850,71 +758,125 @@
       "score": 32
     },
     {
-      "title": "Show HN: I built a Rick and Morty explainer video generator",
-      "url": "https://usediorama.com/rick-and-morty",
+      "title": "How to get desk-rejected at NeurIPS/ICML/ICLR [D]",
+      "url": "https://www.reddit.com/r/MachineLearning/comments/1xu08e7/how_to_get_deskrejected_at_neuripsicmliclr_d/",
+      "source": "Reddit r/MachineLearning",
+      "published_at": "2026-11-12T01:51:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Different kinds of rules at ML conferences I went through every NeurIPS, ICML and ICLR call for papers, author guide and ethics/LLM policy page since 2013 (Wayback snapshots near e",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 32
+    },
+    {
+      "title": "Nvidia Allegedly Engineered Scarcity by Funding AI Startups to Buy Its GPUs",
+      "url": "https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-13T03:47:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: > paste any site or article or a script > we turn it into a Rick and Morty sketch with dialogues, scenes, action and Rick and Morty of course > click generate to turn the script in",
+      "published_at": "2026-11-14T02:52:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.techpowerup.com/354814/nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus Comments URL: https://news.ycombinator.com/item?id=50493",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Switcher (2004)",
-      "url": "https://folklore.org/Switcher.html",
+      "title": "Nvidia director sold nearly $1B in stock weeks before the Jensen Huang scandal",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-13T03:14:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://folklore.org/Switcher.html Comments URL: https://news.ycombinator.com/item?id=50477714 Points: 48 # Comments: 8",
+      "published_at": "2026-11-14T02:21:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://finance.yahoo.com/markets/stocks/articles/nvidia-director-sold-nearly-1b-160000846.html Comments URL: https://news.ycombinator.com/item?id=50492993 Points: 89 ",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Nvidia employees petition to bring back Jensen Huang",
-      "url": "https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/",
+      "title": "Elephants found to be increasingly isolated leading to fractured social networks",
+      "url": "https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-13T02:16:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/ Comments URL: https://news.ycombinator.com/item?id=50477231 Points: 260 # Comments: 210",
+      "published_at": "2026-11-14T02:02:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://today.ucsd.edu/story/elephants-found-to-be-increasingly-isolated-leading-to-fractured-social-networks Comments URL: https://news.ycombinator.com/item?id=504928",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
-      "url": "https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+      "title": "Philip Roth and David Remnick getting personal (2001)",
+      "url": "https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T23:06:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer Comments URL: https://news.ycombinator.com/item?id=50475713 Points: 145 # Co",
+      "published_at": "2026-11-14T00:21:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://salmagundi.skidmore.edu/articles/2001-philip-roth-david-remnick Comments URL: https://news.ycombinator.com/item?id=50492098 Points: 10 # Comments: 0",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs",
-      "url": "https://unemploymentlabs.com/checkpoint-forensics",
+      "title": "What Happened to 3Com?",
+      "url": "https://dfarq.homeip.net/what-happened-to-3com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T21:56:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://unemploymentlabs.com/checkpoint-forensics Comments URL: https://news.ycombinator.com/item?id=50474883 Points: 225 # Comments: 60",
+      "published_at": "2026-11-13T23:48:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://dfarq.homeip.net/what-happened-to-3com/ Comments URL: https://news.ycombinator.com/item?id=50491830 Points: 86 # Comments: 51",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech",
-      "url": "https://github.com/KoljaB/RealtimeVAD",
+      "title": "Show HN: Live map of U.S. flights during tonight's FAA nationwide ground stop",
+      "url": "https://grounds.top/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T21:30:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey guys. I recently watched the latency reports for my local voice assistant, which show a waveform plus silero probability for voice activity. I noticed silero lags visibly on th",
+      "published_at": "2026-11-13T23:17:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://grounds.top/ Comments URL: https://news.ycombinator.com/item?id=50491545 Points: 77 # Comments: 10",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Foundation Models framework",
-      "url": "https://developer.apple.com/foundation-models-framework/",
+      "title": "Terminal borders that don't cost a cell",
+      "url": "https://www.joshka.net/cell-borders/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-12T21:13:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://developer.apple.com/foundation-models-framework/ Comments URL: https://news.ycombinator.com/item?id=50474361 Points: 169 # Comments: 22",
+      "published_at": "2026-11-13T23:06:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.joshka.net/cell-borders/ Comments URL: https://news.ycombinator.com/item?id=50491423 Points: 156 # Comments: 75",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "url": "https://orcasairband.com/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-13T22:04:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://orcasairband.com/ Comments URL: https://news.ycombinator.com/item?id=50490593 Points: 238 # Comments: 54",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "All US airports are currently ground stopped",
+      "url": "https://twitter.com/flightradar24/status/2121347654714077605",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-13T21:06:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://twitter.com/flightradar24/status/2121347654714077605 Comments URL: https://news.ycombinator.com/item?id=50489652 Points: 183 # Comments: 33",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "FAA issues national ground stop – lifted 4.5 hours later",
+      "url": "https://www.nbcnews.com/news/us-news/faa-orders-nationwide-ground-stop-departing-flights-reasons-safety-rcna609247",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-13T21:05:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11132026&a... https://www.fly.faa.gov/adv/adv_otherdis?adv_date=11142026&a... https://www.nytimes.com/live/2026/11/13/us/ground-st",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Live-migration support in FreeBSD and bhyve coming",
+      "url": "https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-13T19:58:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://gyptazy.com/blog/freebsd-bhyve-live-migration-support-rfc/ Comments URL: https://news.ycombinator.com/item?id=50488835 Points: 81 # Comments: 20",
       "tags": [],
       "buckets": [],
       "score": 25

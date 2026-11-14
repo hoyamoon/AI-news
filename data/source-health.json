@@ -1,69 +1,76 @@
 {
-  "generated_at": "2026-11-13T05:08:36.996Z",
+  "generated_at": "2026-11-14T04:59:06.226Z",
   "sources": {
     "Google AI Blog": {
       "status": "ok",
       "url": "https://blog.google/technology/ai/rss/",
-      "fetchedAt": "2026-11-13T05:07:35.918Z"
+      "fetchedAt": "2026-11-14T04:58:11.783Z"
     },
     "Hacker News (LLM)": {
       "status": "ok",
       "url": "https://hnrss.org/frontpage",
-      "fetchedAt": "2026-11-13T05:07:40.861Z"
+      "fetchedAt": "2026-11-14T04:58:14.518Z"
     },
     "Reddit r/MachineLearning": {
       "status": "ok",
       "url": "https://www.reddit.com/r/MachineLearning/.rss",
-      "fetchedAt": "2026-11-13T05:07:42.632Z"
+      "fetchedAt": "2026-11-14T04:58:16.388Z"
     },
     "MIT News AI": {
       "status": "ok",
       "url": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
-      "fetchedAt": "2026-11-13T05:07:43.911Z"
+      "fetchedAt": "2026-11-14T04:58:17.550Z"
     },
     "The Verge AI": {
       "status": "ok",
       "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml",
-      "fetchedAt": "2026-11-13T05:07:45.067Z"
+      "fetchedAt": "2026-11-14T04:58:18.635Z"
+    },
+    "Hacker News (Automation)": {
+      "status": "fail",
+      "url": "https://hnrss.org/newest?q=automation+workflow+no-code",
+      "statusCode": 502,
+      "error": "Status code 502",
+      "checkedAt": "2026-11-14T04:58:21.192Z"
     },
     "Reddit r/n8n": {
-      "status": "ok",
-      "url": "https://www.reddit.com/r/n8n/new/.rss",
-      "fetchedAt": "2026-11-13T05:08:03.757Z"
+      "status": "fail",
+      "url": "https://www.reddit.com/r/n8n/top/.rss?t=week",
+      "statusCode": 429,
+      "error": "Status code 429",
+      "checkedAt": "2026-11-14T04:58:32.500Z"
     },
     "Reddit r/automation": {
       "status": "fail",
       "url": "https://www.reddit.com/r/automation/new/.rss",
       "statusCode": 429,
       "error": "Status code 429",
-      "checkedAt": "2026-11-13T05:08:09.942Z"
+      "checkedAt": "2026-11-14T04:58:43.761Z"
     },
     "Dev.to Automation": {
       "status": "ok",
       "url": "https://dev.to/feed/tag/automation",
-      "fetchedAt": "2026-11-13T05:08:16.161Z"
+      "fetchedAt": "2026-11-14T04:58:49.996Z"
     },
     "Dev.to n8n": {
       "status": "ok",
       "url": "https://dev.to/feed/tag/n8n",
-      "fetchedAt": "2026-11-13T05:08:17.228Z"
+      "fetchedAt": "2026-11-14T04:58:51.156Z"
     },
     "Notion Releases": {
       "status": "ok",
       "url": "https://www.notion.com/releases/rss.xml",
-      "fetchedAt": "2026-11-13T05:08:18.414Z"
+      "fetchedAt": "2026-11-14T04:58:52.269Z"
     },
     "Reddit r/Notion": {
-      "status": "fail",
+      "status": "ok",
       "url": "https://www.reddit.com/r/Notion/top/.rss?t=week",
-      "statusCode": 429,
-      "error": "Status code 429",
-      "checkedAt": "2026-11-13T05:08:29.790Z"
+      "fetchedAt": "2026-11-14T04:59:04.058Z"
     },
     "Dev.to Notion": {
       "status": "ok",
       "url": "https://dev.to/feed/tag/notion",
-      "fetchedAt": "2026-11-13T05:08:35.986Z"
+      "fetchedAt": "2026-11-14T04:59:05.216Z"
     }
   }
 }

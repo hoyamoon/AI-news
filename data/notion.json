@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-13T05:08:36.995Z",
+  "updated_at": "2026-11-14T04:59:06.225Z",
   "items": [
     {
       "title": "What a template actually sells: the decision, not the file",
@@ -25,6 +25,45 @@
         "hot"
       ],
       "score": 130
+    },
+    {
+      "title": "Zero Data Retention Was in the Contract. Why Did Notion AI Chats Remain Stored?",
+      "url": "https://dev.to/inclinq_founder/zero-data-retention-was-in-the-contract-why-did-notion-ai-chats-remain-stored-2cc7",
+      "source": "Dev.to Notion",
+      "published_at": "2026-11-13T16:31:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Fireworks AI incident exposes a trust boundary that security teams often overlook: the difference between an API's documented retention policy and the storage behavior of the a",
+      "tags": [
+        "RAG/Vector",
+        "Eval/Observability",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "eval",
+        "status",
+        "hot"
+      ],
+      "score": 113
+    },
+    {
+      "title": "Ditch Notion AI for external LLM via MCP?",
+      "url": "https://www.reddit.com/r/Notion/comments/1xu38so/ditch_notion_ai_for_external_llm_via_mcp/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-12T04:21:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Like many, me and my small business are frustrated about the changes and security concerns with Notion AI. I am therefore thinking about moving our members back down to the guest l",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 96
     },
     {
       "title": "From spreadsheet to template: the row that keeps a price table honest",
@@ -67,20 +106,36 @@
       "score": 72
     },
     {
-      "title": "Why do Notion life dashboards stop being used, and what keeps one alive?",
-      "url": "https://dev.to/yvoolab/why-do-notion-life-dashboards-stop-being-used-and-what-keeps-one-alive-e6m",
+      "title": "How to put a live clock, countdown or habit tracker on a Notion page",
+      "url": "https://dev.to/fhewson/how-to-put-a-live-clock-countdown-or-habit-tracker-on-a-notion-page-4if5",
       "source": "Dev.to Notion",
-      "published_at": "2026-11-04T16:20:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A Notion life dashboard stops being used when opening it costs more than it gives back. Broken widgets, a crowded home page, sample data to delete and a hard start all raise that c",
+      "published_at": "2026-11-13T09:10:50.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Notion does not have a clock block. It does not have a countdown, a weather block or a Pomodoro timer either. If you want one of those on a page, the way to do it is the /embed blo",
       "tags": [
-        "Notion Update",
-        "Creators",
+        "RAG/Vector",
+        "Multimodal",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "multimodal",
+        "hot"
+      ],
+      "score": 71
+    },
+    {
+      "title": "Notion AI Changed my Life! And I've just finished migrating to Obsidian",
+      "url": "https://www.reddit.com/r/Notion/comments/1xsh6n2/notion_ai_changed_my_life_and_ive_just_finished/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-10T07:58:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I know there is a lot of negativity here around Notion and Notion AI, but this is not one of those posts. I love the company, the rapid pace of innovation and the tool the've made ",
+      "tags": [
+        "GPT/OpenAI",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "update",
-        "creators",
+        "llm",
         "hot"
       ],
       "score": 70
@@ -105,56 +160,38 @@
       "score": 68
     },
     {
-      "title": "Asymmetrical State Drift: Why 5-Layer Notion Workspaces Collapse on Tuesday at 3 PM",
-      "url": "https://dev.to/portalkinetic/asymmetrical-state-drift-why-5-layer-notion-workspaces-collapse-on-tuesday-at-3-pm-2kaj",
-      "source": "Dev.to Notion",
-      "published_at": "2026-11-03T23:32:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why a five-layer relational workspace built on Sunday evening at 100% mental bandwidth collapses on Tuesday at 3:15 PM, and why flat-table execution survives. Figure 1: Minimalist ",
+      "title": "Notion-Fireworks incident is a downplayed betrayal of trust",
+      "url": "https://www.reddit.com/r/Notion/comments/1xsy98z/notionfireworks_incident_is_a_downplayed_betrayal/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-10T20:48:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Got the Fireworks incident email from Notion. They say the exposed chats are “unattributable” and no other workspace data was affected, so I downloaded my export and went through i",
       "tags": [
-        "Multimodal",
-        "Creators",
-        "Hot",
-        "Release"
+        "Agents",
+        "Notion Status",
+        "Hot"
       ],
       "buckets": [
-        "multimodal",
-        "creators",
+        "agents",
+        "status",
         "hot"
       ],
       "score": 64
     },
     {
-      "title": "Notion vs Obsidian vs Bear in 3 Questions: Which Fits You?",
-      "url": "https://dev.to/daylongs/notion-vs-obsidian-vs-bear-in-3-questions-which-fits-you-2n0m",
-      "source": "Dev.to Notion",
-      "published_at": "2026-11-10T08:32:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Notion, Obsidian, and Bear are built for different people, so the right answer depends on what you want from a note app. Notion suits teams and anyone who wants one tool for almost",
+      "title": "Thank you for letting us connect ChatGPT Business usage to Notion",
+      "url": "https://www.reddit.com/r/Notion/comments/1xtg672/thank_you_for_letting_us_connect_chatgpt_business/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-11T12:11:20.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I know we've seen a lot of people complaining on this subreddit/around the topic lately, and I've been one of them, but thank you to whoever's team finally put ChatGPT Business pla",
       "tags": [
-        "Creators",
-        "Hot",
+        "GPT/OpenAI",
         "Release"
       ],
       "buckets": [
-        "creators",
+        "llm",
         "hot"
       ],
-      "score": 60
-    },
-    {
-      "title": "Daily Wake-Up Shuffle: A Notion Formula for Morning Tasks",
-      "url": "https://dev.to/itsevilduck/daily-wake-up-shuffle-a-notion-formula-for-morning-tasks-2g0e",
-      "source": "Dev.to Notion",
-      "published_at": "2026-11-12T11:08:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've built and shipped Daily Wake-Up Shuffle, a Notion formula designed to introduce a small amount of variability into your morning routine. The core idea is simple: upon waking, ",
-      "tags": [
-        "Notion Update",
-        "Release"
-      ],
-      "buckets": [
-        "update",
-        "hot"
-      ],
-      "score": 57
+      "score": 62
     },
     {
       "title": "What I Check Before Trusting a Digital Product Automation Workflow",
@@ -223,6 +260,57 @@
       "score": 50
     },
     {
+      "title": "Important security notice about the Fireworks AI incident that may impact your Notion workspace",
+      "url": "https://www.reddit.com/r/Notion/comments/1xsddi7/important_security_notice_about_the_fireworks_ai/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-10T04:15:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi WIT, We are writing to inform you of a security incident at one of our vendors, Fireworks AI, that may impact you. For the latest on the Fireworks AI incident, see their officia",
+      "tags": [
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
+      "score": 50
+    },
+    {
+      "title": "Notion AI security incident: how to check if you’re affected without clicking the email link",
+      "url": "https://www.reddit.com/r/Notion/comments/1xsfw4i/notion_ai_security_incident_how_to_check_if_youre/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-10T06:36:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I see many people asking if that email letting us know that a security breach happened is just phishing. Sadly, the incident did happen. Here is Notion's website official statement",
+      "tags": [
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
+      "score": 50
+    },
+    {
+      "title": "Notion vs Obsidian vs Bear in 3 Questions: Which Fits You?",
+      "url": "https://dev.to/daylongs/notion-vs-obsidian-vs-bear-in-3-questions-which-fits-you-2n0m",
+      "source": "Dev.to Notion",
+      "published_at": "2026-11-10T08:32:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Notion, Obsidian, and Bear are built for different people, so the right answer depends on what you want from a note app. Notion suits teams and anyone who wants one tool for almost",
+      "tags": [
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "creators",
+        "hot"
+      ],
+      "score": 48
+    },
+    {
       "title": "Gemini 3 Pro is live",
       "url": "https://www.notion.so/releases/2025-11-19",
       "source": "Notion Releases",
@@ -237,6 +325,54 @@
         "hot"
       ],
       "score": 45
+    },
+    {
+      "title": "Daily Wake-Up Shuffle: A Notion Formula for Morning Tasks",
+      "url": "https://dev.to/itsevilduck/daily-wake-up-shuffle-a-notion-formula-for-morning-tasks-2g0e",
+      "source": "Dev.to Notion",
+      "published_at": "2026-11-12T11:08:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've built and shipped Daily Wake-Up Shuffle, a Notion formula designed to introduce a small amount of variability into your morning routine. The core idea is simple: upon waking, ",
+      "tags": [
+        "Notion Update",
+        "Release"
+      ],
+      "buckets": [
+        "update",
+        "hot"
+      ],
+      "score": 44
+    },
+    {
+      "title": "If you rebuilt your Notion workspace today, what would you deliberately leave out?",
+      "url": "https://www.reddit.com/r/Notion/comments/1xtje0f/if_you_rebuilt_your_notion_workspace_today_what/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-11T14:38:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Moving to another app gets discussed a lot here. But copying the entire workspace over seems like a good way to bring all the clutter with you. The empty databases. The dashboard t",
+      "tags": [
+        "RAG/Vector",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "hot"
+      ],
+      "score": 42
+    },
+    {
+      "title": "Look on the bright side",
+      "url": "https://www.reddit.com/r/Notion/comments/1xsmf3z/look_on_the_bright_side/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-10T13:06:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Look on the bright side. Now that they’ve worsened the Notion AI plan, the next data leak will be much smaller. https://www.notion.com/en-gb/security/advisories/security-incident-i",
+      "tags": [
+        "Notion Status",
+        "Hot"
+      ],
+      "buckets": [
+        "status",
+        "hot"
+      ],
+      "score": 40
     },
     {
       "title": "How to Run a One-Person Business in Notion: The 5-Database System That Replaces 4 Tools",
@@ -285,6 +421,34 @@
         "hot"
       ],
       "score": 40
+    },
+    {
+      "title": "Sam Altman called",
+      "url": "https://www.reddit.com/r/Notion/comments/1xv6leb/sam_altman_called/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-13T12:28:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/rckj1fnkid1i1.png?width=693&format=png&auto=webp&s=940d0d2afe74c1ea5c85472e3f06c8ffe2aab349 submitted by /u/Stotugle_Utito [link] [comments]",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Notion on Android slow and crashing",
+      "url": "https://www.reddit.com/r/Notion/comments/1xv4e61/notion_on_android_slow_and_crashing/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-13T10:27:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Notion on my OnePlus 9 recently started crashing 10-15 seconds after loading up. It slows down first and then is no longer responsive to swipes or any typing. This started happenin",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
     },
     {
       "title": "Agents, rebuilt to do more for less",
@@ -591,6 +755,20 @@
       "score": 34
     },
     {
+      "title": "Sorting new to old isn't working",
+      "url": "https://www.reddit.com/r/Notion/comments/1xuvloc/sorting_new_to_old_isnt_working/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-13T02:07:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: So, I would like to sort my database by a formula property that outputs the time I watched the latest episode of a show. However, what's odd is that notion is not sorting the outpu",
+      "tags": [
+        "Notion Update"
+      ],
+      "buckets": [
+        "update"
+      ],
+      "score": 34
+    },
+    {
       "title": "Rollups now as currency, percent, and more",
       "url": "https://www.notion.so/releases/2026-04-27",
       "source": "Notion Releases",
@@ -637,6 +815,104 @@
       "score": 28
     },
     {
+      "title": "AI free alternative, specifically for working with databases?",
+      "url": "https://www.reddit.com/r/Notion/comments/1xv5cit/ai_free_alternative_specifically_for_working_with/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-13T11:23:09.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Haven't used Notion in a while, I've been using Obsidian for my notes instead. I've been thinking about creating a digital recipe book + knit/crochet pattern book, and haven't mana",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Basta ya!! Notion",
+      "url": "https://www.reddit.com/r/Notion/comments/1xuf14x/basta_ya_notion/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-12T15:02:21.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Llevo usando desde hace años notion, desde 2022, siempre he sido un defensor de la herramienta, pero cada dia me decepcionan más y más con sus continuos cambios, no puedes dar nada",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 22
+    },
+    {
+      "title": "Recurring tasks without cluttering templates?",
+      "url": "https://www.reddit.com/r/Notion/comments/1xssm2k/recurring_tasks_without_cluttering_templates/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-10T17:14:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi! I have my company's Notion set up with one \"All Tasks\" database that houses every task across our various focus areas. Each focus area has specific views that filter the \"All T",
+      "tags": [
+        "Creators"
+      ],
+      "buckets": [
+        "creators"
+      ],
+      "score": 18
+    },
+    {
+      "title": "What is this?!",
+      "url": "https://www.reddit.com/r/Notion/comments/1xu924j/what_is_this/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-12T10:10:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: submitted by /u/OldSports-- [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "I'm starting to get p***** off",
+      "url": "https://www.reddit.com/r/Notion/comments/1xu473b/im_starting_to_get_p_off/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-12T05:12:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Like, seriously, are they going to keep doing this?? submitted by /u/I_Love_Curry_610 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "Beginning of the end?",
+      "url": "https://www.reddit.com/r/Notion/comments/1xt9lgv/beginning_of_the_end/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-11T05:32:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When the basic essential function that 95% users only care about starts to be buried deeper in the UI that's a telltale of bloat and corporate product decay submitted by /u/fake_er",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "So, basically...",
+      "url": "https://www.reddit.com/r/Notion/comments/1xuixiu/so_basically/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-12T17:28:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A picture's worth a thousand words, Curry! submitted by /u/StrokeOfEcstasy [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "How do you use Notion in your personal life?",
+      "url": "https://www.reddit.com/r/Notion/comments/1xusciq/how_do_you_use_notion_in_your_personal_life/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-12T23:37:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ​Hey everyone! Besides work or school, what do you actually use Notion for in your day-to-day personal life? submitted by /u/onlyexisting0 [link] [comments]",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
+      "title": "You can stop trusting Notion before you stop using it",
+      "url": "https://www.reddit.com/r/Notion/comments/1xtj9s4/you_can_stop_trusting_notion_before_you_stop/",
+      "source": "Reddit r/Notion",
+      "published_at": "2026-11-11T14:33:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A workspace can be useful enough to keep and still no longer be where you'd put everything. Recipes and reading lists are one thing. Private journals, client notes and medical reco",
+      "tags": [],
+      "buckets": [],
+      "score": 12
+    },
+    {
       "title": "Your Developer Portal, now in the sidebar",
       "url": "https://www.notion.so/releases/2026-08-19",
       "source": "Notion Releases",
@@ -655,286 +931,6 @@
       "url": "https://www.notion.so/releases/2026-08-14",
       "source": "Notion Releases",
       "published_at": "2026-08-14T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "High contrast mode",
-      "url": "https://www.notion.so/releases/2026-07-30",
-      "source": "Notion Releases",
-      "published_at": "2026-07-30T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Workers, now in your Notion credits dashboard",
-      "url": "https://www.notion.so/releases/2026-07-24",
-      "source": "Notion Releases",
-      "published_at": "2026-07-24T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Share Notion Workers across your team",
-      "url": "https://www.notion.so/releases/2026-07-09",
-      "source": "Notion Releases",
-      "published_at": "2026-07-09T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Merge cells in simple tables",
-      "url": "https://www.notion.so/releases/2026-05-26",
-      "source": "Notion Releases",
-      "published_at": "2026-05-26T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "3.5: Notion Developer Platform",
-      "url": "https://www.notion.so/releases/2026-05-13",
-      "source": "Notion Releases",
-      "published_at": "2026-05-13T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Plan Mode",
-      "url": "https://www.notion.so/releases/2026-05-07",
-      "source": "Notion Releases",
-      "published_at": "2026-05-07T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "A new home on mobile",
-      "url": "https://www.notion.so/releases/2026-05-04",
-      "source": "Notion Releases",
-      "published_at": "2026-05-04T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Find pages faster from the breadcrumb",
-      "url": "https://www.notion.so/releases/2026-04-24",
-      "source": "Notion Releases",
-      "published_at": "2026-04-24T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Mail & Calendar, now in your settings",
-      "url": "https://www.notion.so/releases/2026-04-17",
-      "source": "Notion Releases",
-      "published_at": "2026-04-17T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Opus 4.7, now in Notion",
-      "url": "https://www.notion.so/releases/2026-04-16",
-      "source": "Notion Releases",
-      "published_at": "2026-04-16T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Notion 3.4, part 2",
-      "url": "https://www.notion.so/releases/2026-04-14",
-      "source": "Notion Releases",
-      "published_at": "2026-04-14T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Customize your tabs in databases",
-      "url": "https://www.notion.so/releases/2026-04-10",
-      "source": "Notion Releases",
-      "published_at": "2026-04-10T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "New page cover art from timeless collections",
-      "url": "https://www.notion.so/releases/2026-04-09",
-      "source": "Notion Releases",
-      "published_at": "2026-04-09T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Mute discussion replies",
-      "url": "https://www.notion.so/releases/2026-04-08",
-      "source": "Notion Releases",
-      "published_at": "2026-04-08T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Share Notion AI chats as a link",
-      "url": "https://www.notion.so/releases/2026-04-07",
-      "source": "Notion Releases",
-      "published_at": "2026-04-07T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Voice input on desktop",
-      "url": "https://www.notion.so/releases/2026-04-06",
-      "source": "Notion Releases",
-      "published_at": "2026-04-06T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Keep pages tidy with tabs",
-      "url": "https://www.notion.so/releases/2026-03-30",
-      "source": "Notion Releases",
-      "published_at": "2026-03-30T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Archive outdated pages to keep your workspace fresh",
-      "url": "https://www.notion.so/releases/2026-03-27",
-      "source": "Notion Releases",
-      "published_at": "2026-03-27T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Notion 3.4, part 1",
-      "url": "https://www.notion.so/releases/2026-03-26",
-      "source": "Notion Releases",
-      "published_at": "2026-03-26T00:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨.",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 10
-    },
-    {
-      "title": "Custom skills for Notion AI",
-      "url": "https://www.notion.so/releases/2026-03-20",
-      "source": "Notion Releases",
-      "published_at": "2026-03-20T00:00:00.000Z",
       "summary_ko": "ìì½ ìì± ì¤í¨.",
       "tags": [
         "Release"
