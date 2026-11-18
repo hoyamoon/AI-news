@@ -1,27 +1,27 @@
 {
-  "updated_at": "2026-11-17T06:36:09.561Z",
+  "updated_at": "2026-11-18T05:56:52.962Z",
   "items": [
     {
-      "title": "Struggled in my Infosys interview as a fresher. How should I strengthen my fundamentals to become an AI/ML Engineer?[D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xy92xo/struggled_in_my_infosys_interview_as_a_fresher/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-17T02:48:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Yesterday, I attended an Infosys interview as a fresher, but unfortunately, I couldn't perform well. I managed to answer only a few questions correctly. The interview covered a mix",
+      "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos",
+      "url": "https://starsling.dev",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T19:01:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We’re Yonas and Daniel and we’re building StarSling (https://starsling.dev), fast GitHub Actions runners with AI agents that ship PRs to continuously improve your tests and workflo",
       "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Hot"
+        "Hot",
+        "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
         "rag",
-        "eval",
-        "prod",
         "hot"
       ],
-      "score": 129
+      "score": 179
     },
     {
       "title": "California sues OpenAI over rogue AI hacking incidents",
@@ -41,132 +41,52 @@
         "status",
         "hot"
       ],
-      "score": 129
+      "score": 116
     },
     {
-      "title": "Hackathon project for MariaDB's Wikipedia Through Time challenge: matching sentences across seven Wikipedia editions at any past date [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwttxo/hackathon_project_for_mariadbs_wikipedia_through/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T12:03:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Built at Junction, a hackathon in Espoo, this weekend. Parallax takes an article and lines up its Finnish, Swedish, German, English, Russian, Estonian and Ukrainian editions statem",
+      "title": "Not even Sam Altman is safe from AI deepfakes on Instagram",
+      "url": "https://www.theverge.com/news/1035957/meta-alexandr-wang-sam-altman-instagram-ai-deepfake",
+      "source": "The Verge AI",
+      "published_at": "2026-11-17T21:00:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Open AI CEO Sam Altman does a television interview | Getty Images Instagram is filled with people posting deepfaked content - including, as of late, from one of Meta's most promine",
       "tags": [
-        "Gemini/Google",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Multimodal",
-        "Release"
+        "GPT/OpenAI",
+        "Agents",
+        "Multimodal"
       ],
       "buckets": [
         "llm",
-        "rag",
-        "eval",
-        "multimodal",
-        "hot"
-      ],
-      "score": 111
-    },
-    {
-      "title": "Social Simulation with LLMs - From Proxies to Population (CFP @ AAAI'27) Due Nov. 20 [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xxc63w/social_simulation_with_llms_from_proxies_to/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-16T01:07:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Say you simulate a population of LLM agents and get polarization, norm formation or an information cascade. How do you know the population produced it, and not the prompt, the base",
-      "tags": [
-        "Agents",
-        "Eval/Observability",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
         "agents",
-        "eval",
-        "prod",
-        "hot"
+        "multimodal"
       ],
-      "score": 106
+      "score": 105
     },
     {
-      "title": "Training-free early exit for reasoning models: a linear probe folded into the </think> row of the output layer [p]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1xdm/trainingfree_early_exit_for_reasoning_models_a/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T17:52:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Reasoning models often reach the right answer early and then keep double-checking it for thousands of tokens. I got the model to stop at that point by changing a single row of weig",
+      "title": "Google’s Spark AI agent becomes ‘Tasks’ — and now it’s free",
+      "url": "https://www.theverge.com/tech/1035756/google-spark-ai-tasks-free",
+      "source": "The Verge AI",
+      "published_at": "2026-11-17T18:58:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You can now switch from the “Chat” toggle to “Tasks.” | Image: Google Google is rebranding its Spark AI agent as \"Tasks\" and making it free to use. The feature, which is powered by",
       "tags": [
+        "Gemini/Google",
         "Agents",
-        "RAG/Vector",
-        "Notion Update",
         "Hot"
       ],
       "buckets": [
-        "agents",
-        "rag",
-        "update",
-        "hot"
-      ],
-      "score": 98
-    },
-    {
-      "title": "OpenAI wants to stop deepfakes from overwhelming child abuse tiplines",
-      "url": "https://www.theverge.com/policy/1034527/openai-csam-classifier",
-      "source": "The Verge AI",
-      "published_at": "2026-11-16T19:23:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI is announcing a tool that it says will help child sexual abuse investigators cut through the noise to find harmful material they can act on quickly. At a Monday press briefi",
-      "tags": [
-        "GPT/OpenAI",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
         "llm",
+        "agents",
         "hot"
       ],
-      "score": 95
+      "score": 104
     },
     {
-      "title": "Launch HN: Axonnic (YC F26) – Sleeves that track fingers and estimate force",
-      "url": "https://news.ycombinator.com/item?id=50522776",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T20:29:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi HN! We’re Arsh and Max, founders of Axonnic (https://axonnic.com). We’ve developed a forearm sleeve that reads muscle activity to decode finger movements and estimate fingertip ",
-      "tags": [
-        "Eval/Observability",
-        "Multimodal",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "multimodal",
-        "hot"
-      ],
-      "score": 89
-    },
-    {
-      "title": "Technical issue at JPMorgan Chase triggers online banking delays for US banks",
-      "url": "https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T18:31:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://apnews.com/article/bank-outage-chase-wells-fargo-truist-50fee2693c22f597fa6ca51a97ef2cda Comments URL: https://news.ycombinator.com/item?id=50521045 Points: 75",
-      "tags": [
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "status",
-        "hot"
-      ],
-      "score": 75
-    },
-    {
-      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
       "source": "The Verge AI",
-      "published_at": "2026-11-16T20:41:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lo",
+      "published_at": "2026-11-17T23:41:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft CEO Satya Nadella onstage at Microsoft Ignite. | Image: Microsoft / YouTube Microsoft CEO Satya Nadella says he's AGI-pilled, at least when it comes to how AI might make ",
       "tags": [
-        "GPT/OpenAI",
+        "Claude/Anthropic",
         "Release"
       ],
       "buckets": [
@@ -194,63 +114,13 @@
       "score": 71
     },
     {
-      "title": "We logged 621k changes from 127k papers' ablations: 26% didn't help by the papers' own numbers [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xybvju/we_logged_621k_changes_from_127k_papers_ablations/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-17T05:11:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Follow-up to the scime atlas posts from earlier this month. We read 126,758 papers in full (ICML, NeurIPS, ICLR, CVPR, AAAI, ICCV, ECCV, TPAMI, IJCV, JMLR, 2016–2026) and extracted",
-      "tags": [
-        "Multimodal",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 71
-    },
-    {
-      "title": "Google Maps can now create trip itineraries for you",
-      "url": "https://www.theverge.com/tech/1034110/google-ask-maps-ai-trip-planning",
+      "title": "Sam Altman says he wants everyone ‘to have a lot of RAM’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1034787/sam-altman-ram-shortage-semafor",
       "source": "The Verge AI",
-      "published_at": "2026-11-16T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google is launching a new AI trip-planning feature for Maps that allows the app to create custom itineraries for you and provide real-time details about each stop. The update, whic",
+      "published_at": "2026-11-16T20:41:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Sam… thank you. | Image: Getty Images OpenAI CEO Sam Altman is once again addressing his controversial comments on PC RAM purchases. \"I want to be clear, I want people to have a lo",
       "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 70
-    },
-    {
-      "title": "ACM Multimedia 2026: TimeCues Studio - a free, open-source tool for annotating music structure [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwh3mw/acm_multimedia_2026_timecues_studio_a_free/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-14T23:59:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hey all, I wanted to share TimeCues Studio with you. It's part of my PhD work (ACM Multimedia 2026), and I thought you might find it useful. It's an open-source web app for annotat",
-      "tags": [
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 64
-    },
-    {
-      "title": "Hands-on ML Orchestration Tutorial with Airflow3 [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xxa13x/handson_ml_orchestration_tutorial_with_airflow3_p/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T23:28:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It's available in English and Spanish. I wanted to learn ML orchestration by building something, and the best material I found was Made With ML's orchestration lesson. Two things h",
-      "tags": [
-        "Claude/Anthropic",
+        "GPT/OpenAI",
         "Release"
       ],
       "buckets": [
@@ -260,11 +130,11 @@
       "score": 62
     },
     {
-      "title": "New Ask Maps features to help with holiday travel and prep",
-      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
       "source": "Google AI Blog",
-      "published_at": "2026-11-16T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
+      "published_at": "2026-11-17T17:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Tasks in Gemini is now free of charge in six countries, with new features starting in the U.S. and deeper Google Workspace integration to get things done on your behalf.",
       "tags": [
         "Gemini/Google"
       ],
@@ -274,45 +144,25 @@
       "score": 60
     },
     {
-      "title": "[Meta FAIR + NYU] Unbundling Multimodal Vision Encoding: training 200+ MLLMs to find encoder pretraining is optional but vision-only parameters are not [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx1k2o/meta_fair_nyu_unbundling_multimodal_vision/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T17:38:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: X threads (with videos!): https://x.com/choang333/status/2121335484236386574 https://x.com/_ellisbrown/status/2121335477244428419 Paper: https://www.alphaxiv.org/abs/2611.17334 Blo",
+      "title": "Why is Gemini 4 Carbon taking so long?",
+      "url": "https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-18T04:14:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://kernel.dev/blog/why-is-gemini-4-carbon-taking-so-long/ Comments URL: https://news.ycombinator.com/item?id=50541790 Points: 22 # Comments: 8",
       "tags": [
-        "Eval/Observability",
-        "Multimodal",
-        "Release"
+        "Gemini/Google"
       ],
       "buckets": [
-        "eval",
-        "multimodal",
-        "hot"
+        "llm"
       ],
-      "score": 56
+      "score": 60
     },
     {
-      "title": "Steering a pretrained music transformer at sampling time into a real-time jazz partner (no fine-tuning) [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xxkyh3/steering_a_pretrained_music_transformer_at/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-16T09:19:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I've been working on duetto, a real-time jazz partner for a MIDI keyboard: it plays a standard with you as a small band (solo, comping, walking bass), comps while you play and take",
-      "tags": [
-        "RAG/Vector",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "US data centers now burn more electricity than a midsized country",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1034668/data-centers-electricity-climate-pollution-study-harvard",
+      "title": "The DOJ says it’s investigating Megaspeed",
+      "url": "https://www.theverge.com/policy/1035410/doj-megaspeed-nvidia-investigation-update",
       "source": "The Verge AI",
-      "published_at": "2026-11-16T20:27:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Fossil fuels are still the biggest source of electricity for hyperscale data centers in the US, a new paper published in the journal Nature Sustainability shows. They likely burn t",
+      "published_at": "2026-11-17T16:19:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Justice and Commerce Departments said that they are investigating Megaspeed, the Singapore-based data center company intertwined with the resignation of Nvidia CEO Jensen Huang",
       "tags": [
         "Hot",
         "Release"
@@ -321,53 +171,6 @@
         "hot"
       ],
       "score": 55
-    },
-    {
-      "title": "Nvidia’s board is reportedly ‘not considering’ hiring Jensen Huang back",
-      "url": "https://www.theverge.com/tech/1034501/nvidia-board-jensen-huang-not-bringing-back",
-      "source": "The Verge AI",
-      "published_at": "2026-11-16T18:43:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nvidia's board of directors \"isn't considering\" having Jensen Huang return as CEO, according to a report from CNBC. A source tells the outlet the board \"is focused on an investigat",
-      "tags": [
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 55
-    },
-    {
-      "title": "Anyone working in AML / transaction monitoring / sanctions screening using ML? Looking for advice on where to start [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx9za4/anyone_working_in_aml_transaction_monitoring/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T23:25:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Hi everyone, I’m a data analyst on a financial crime team, and I’m trying to get a machine learning project started to improve how we handle AML (anti-money laundering) work. I’d l",
-      "tags": [
-        "NotebookLM",
-        "Hot"
-      ],
-      "buckets": [
-        "prod",
-        "hot"
-      ],
-      "score": 54
-    },
-    {
-      "title": "Marimba: A System One Model for Speech. [R]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xxsqro/marimba_a_system_one_model_for_speech_r/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-16T15:47:18.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Paper: https://arxiv.org/abs/2611.18330 Follow-up to last week's post, now with the paper. You ask a typed question about an audio window (yes/no, a choice, or a score) and get a c",
-      "tags": [
-        "Eval/Observability",
-        "Release"
-      ],
-      "buckets": [
-        "eval",
-        "hot"
-      ],
-      "score": 53
     },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -402,27 +205,11 @@
       "score": 51
     },
     {
-      "title": "Apple is testing daily usage limits for more complex Siri AI interactions",
-      "url": "https://www.theverge.com/tech/1034581/apple-intelligence-siri-ai-daily-usage-limits-icloud-subscription",
-      "source": "The Verge AI",
-      "published_at": "2026-11-16T19:24:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Apple released betas of iOS 27.3, iPadOS 27.3, and macOS 27.3 today, and the company is using the update to test new per device daily usage limits for some Siri AI and Apple Intell",
-      "tags": [
-        "Multimodal",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 51
-    },
-    {
-      "title": "Running coding agents without handing them my credentials",
-      "url": "https://blog.antonio.cx/running-agents-with-lend",
+      "title": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
+      "url": "https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-17T01:18:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.antonio.cx/running-agents-with-lend Comments URL: https://news.ycombinator.com/item?id=50526152 Points: 84 # Comments: 39",
+      "published_at": "2026-11-17T21:16:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://complexdiscovery.com/harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review/ Comments URL: https://news.ycombinator.com/item?id=505383",
       "tags": [
         "Agents"
       ],
@@ -432,34 +219,18 @@
       "score": 49
     },
     {
-      "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use",
-      "url": "https://xusheng.dev/posts/windows-coding-agent-telemetry/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T22:58:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://xusheng.dev/posts/windows-coding-agent-telemetry/ Comments URL: https://news.ycombinator.com/item?id=50524736 Points: 445 # Comments: 284",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-16T14:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Plan holiday road trips, get route tips, find local appointments, and search your saved lists with new Ask Maps features.",
       "tags": [
-        "Agents"
+        "Gemini/Google"
       ],
       "buckets": [
-        "agents"
+        "llm"
       ],
-      "score": 49
-    },
-    {
-      "title": "Making cudaMemcpy 5x faster on a B300 [P]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xx2n25/making_cudamemcpy_5x_faster_on_a_b300_p/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T18:20:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://preview.redd.it/cjz9xy3rht1i1.png?width=1600&format=png&auto=webp&s=0eea8a5d9e53d5ea4593ce1a629bc7342a049ffa Hi everyone, I made a tool that can speed up pageable transfers",
-      "tags": [
-        "Agents",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "hot"
-      ],
-      "score": 46
+      "score": 47
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -542,27 +313,11 @@
       "score": 45
     },
     {
-      "title": "Making global data easier to explore",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/google-un-data-commons-platform/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-17T20:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google and the UN system have launched the UN System Data Commons, a new open platform making global statistics accessible and easy to search.",
-      "tags": [
-        "Gemini/Google",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "How to Break into Security, Ptacek Edition (2012)",
-      "url": "https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/",
+      "title": "Java4Shell: RCE in OpenJDK when processing Base64",
+      "url": "https://calif.io/java4shell/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T22:19:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://krebsonsecurity.com/2012/06/how-to-break-into-security-ptacek-edition/ Comments URL: https://news.ycombinator.com/item?id=50524225 Points: 97 # Comments: 24",
+      "published_at": "2026-11-17T21:11:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://calif.io/java4shell/ Comments URL: https://news.ycombinator.com/item?id=50538240 Points: 706 # Comments: 189",
       "tags": [
         "Hot"
       ],
@@ -570,50 +325,6 @@
         "hot"
       ],
       "score": 45
-    },
-    {
-      "title": "Comcast's \"fiber-powered Wi-Fi\" is cable, AT&T says in false advertising case",
-      "url": "https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T20:48:08.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arstechnica.com/tech-policy/2026/11/comcast-falsely-advertises-cable-internet-as-fiber-powered-att-lawsuit-says/ Comments URL: https://news.ycombinator.com/ite",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "Is anyone's AC playing the role of \"discussion moderator\" for ICLR? [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xy6t7g/is_anyones_ac_playing_the_role_of_discussion/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-17T00:59:53.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: According to the guide, they are supposed to encourage reviewers to respond to author rebuttals, yet we've gotten nothing but radio silence. Is anyone else having better luck? subm",
-      "tags": [
-        "RAG/Vector"
-      ],
-      "buckets": [
-        "rag"
-      ],
-      "score": 45
-    },
-    {
-      "title": "ICLR 2027 Rebuttal [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xw5uwe/iclr_2027_rebuttal_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-14T16:00:01.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For anyone who’s updating their manuscript during rebuttals - the guidelines seems to suggest a pdf diff will be applied automatically to the updated pdf. Can anyone see this? I ca",
-      "tags": [
-        "Multimodal",
-        "Release"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 38
     },
     {
       "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
@@ -756,11 +467,11 @@
       "score": 35
     },
     {
-      "title": "The most expensive bargaining chip in history",
-      "url": "https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/",
+      "title": "Cerebras Disaggregated Inference",
+      "url": "https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-17T02:23:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://unrelatedfindings.com/essays/the-most-expensive-bargaining-chip-in-history/ Comments URL: https://news.ycombinator.com/item?id=50526621 Points: 16 # Comments: ",
+      "published_at": "2026-11-18T00:56:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.cerebras.ai/blog/cerebras-launches-disaggregated-inference Comments URL: https://news.ycombinator.com/item?id=50540472 Points: 58 # Comments: 14",
       "tags": [
         "Release"
       ],
@@ -770,11 +481,11 @@
       "score": 35
     },
     {
-      "title": "My Quest to push native Three.js quality match AAA Game Engines",
-      "url": "https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs",
+      "title": "Latent Lattice Language Models",
+      "url": "https://shivamduggal4.github.io/latent-lattice-language-models/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T21:07:43.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ben3d.ca/blog/building-the-aaa-lighting-pipeline-in-threejs Comments URL: https://news.ycombinator.com/item?id=50523291 Points: 125 # Comments: 46",
+      "published_at": "2026-11-17T22:17:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://shivamduggal4.github.io/latent-lattice-language-models/ Comments URL: https://news.ycombinator.com/item?id=50539039 Points: 45 # Comments: 5",
       "tags": [
         "Release"
       ],
@@ -784,11 +495,11 @@
       "score": 35
     },
     {
-      "title": "Grazing sheep in fields with solar arrays",
-      "url": "https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains",
+      "title": "jQuery 4.1.0",
+      "url": "https://github.com/jquery/jquery/releases/tag/4.1.0",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T17:27:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains Comments URL: https://news.ycombinator.com/item?id=5052018",
+      "published_at": "2026-11-17T19:50:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/jquery/jquery/releases/tag/4.1.0 Comments URL: https://news.ycombinator.com/item?id=50537156 Points: 287 # Comments: 154",
       "tags": [
         "Release"
       ],
@@ -798,11 +509,11 @@
       "score": 35
     },
     {
-      "title": "AISTATS 2027 paper discussion [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xxqa3i/aistats_2027_paper_discussion_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-16T14:09:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Creating this post since the reviews are supposed to go live today. What do you guys think? submitted by /u/LongjumpingAd4741 [link] [comments]",
+      "title": "Phrack 73 Released",
+      "url": "https://phrack.org/issues/73/introduction_md",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T18:31:25.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://phrack.org/issues/73/introduction_md Comments URL: https://news.ycombinator.com/item?id=50535992 Points: 339 # Comments: 49",
       "tags": [
         "Release"
       ],
@@ -810,6 +521,184 @@
         "hot"
       ],
       "score": 35
+    },
+    {
+      "title": "Nvidia’s Q3 earnings hit the mark, without mentioning the whole Jensen Huang thing",
+      "url": "https://www.theverge.com/tech/1036032/nvidia-q3-2027-jensen-huang",
+      "source": "The Verge AI",
+      "published_at": "2026-11-17T21:40:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Interim Nvidia CEO Colette Kress announced the company's Q3 earnings on Tuesday, without initially mentioning former CEO Jensen Huang or the details of his departure, or possible a",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Interviewed at a YC startup, found out they used my LinkedIn without permission",
+      "url": "https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-18T05:11:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://reddit.com/r/recruitinghell/comments/1xyr6ml/interviewed_at_a_yc_startup_spent_30_hours/ Comments URL: https://news.ycombinator.com/item?id=50542135 Points: 33",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "H-1B Executive Actions in 2026 [pdf]",
+      "url": "https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-18T03:37:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.everycrsreport.com/files/2026-10-14_IN12747_fcb1389788aa7b9102b795882af042e85d20532c.pdf Comments URL: https://news.ycombinator.com/item?id=50541550 Points",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "GoGoGrandparent (YC S16) Is a Front End JavaScript / TypeScript Engineer",
+      "url": "https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-18T03:35:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ycombinator.com/companies/gogograndparent/jobs/05woouL-front-end-javascript-typescript-engineer Comments URL: https://news.ycombinator.com/item?id=50541538",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "ID.me terms required for IRS sign-in",
+      "url": "https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-18T00:51:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://consumerrights.wiki/w/ID.me_terms_required_for_IRS_sign-in Comments URL: https://news.ycombinator.com/item?id=50540437 Points: 252 # Comments: 108",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Google's AI answers reducing search traffic by 40%",
+      "url": "https://revscope.co/blog/search-seo-geo-2026/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-18T00:17:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://revscope.co/blog/search-seo-geo-2026/ Comments URL: https://news.ycombinator.com/item?id=50540178 Points: 252 # Comments: 173",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Archive Team is archiving the Apple Support Community (closes November 20, 2026)",
+      "url": "https://wiki.archiveteam.org/index.php/Apple_Discussions",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T23:32:58.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://wiki.archiveteam.org/index.php/Apple_Discussions Comments URL: https://news.ycombinator.com/item?id=50539747 Points: 150 # Comments: 51",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Microsoft's ONNX Runtime has disappeared from GitHub",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T23:18:49.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/microsoft/onnxruntime Comments URL: https://news.ycombinator.com/item?id=50539610 Points: 225 # Comments: 56",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Quad9's withdrawal from France: A canary in the coal mine",
+      "url": "https://blog.cloudflare.com/quad9-withdrawal-from-france/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T22:13:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.cloudflare.com/quad9-withdrawal-from-france/ Comments URL: https://news.ycombinator.com/item?id=50538994 Points: 415 # Comments: 131",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Tencent Hy4 Flash",
+      "url": "https://hy.tencent.ai/research/hy4-flash",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T21:06:08.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://hy.tencent.ai/research/hy4-flash Comments URL: https://news.ycombinator.com/item?id=50538184 Points: 94 # Comments: 14",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Web Browser Engineering (2021)",
+      "url": "https://browser.engineering/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T20:01:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://browser.engineering/ Comments URL: https://news.ycombinator.com/item?id=50537290 Points: 147 # Comments: 20",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "350 years ago, Ole Rømer discovered that light has a finite speed",
+      "url": "https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T19:25:27.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.sciencenorway.no/culture-history-history-of-science/350-years-ago-this-man-discovered-that-light-has-a-finite-speed/2737969 Comments URL: https://news.ycom",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Solid 2.0",
+      "url": "https://www.solidjs.com/blog/solid-2-0-the-long-hold/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-17T18:56:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.solidjs.com/blog/solid-2-0-the-long-hold/ Comments URL: https://news.ycombinator.com/item?id=50536387 Points: 269 # Comments: 75",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Helping AI text detectors keep up with changing conditions",
+      "url": "https://news.mit.edu/2026/helping-ai-text-detectors-keep-up-with-changing-conditions-1118",
+      "source": "MIT News AI",
+      "published_at": "2026-11-18T05:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A more flexible training method can make AI text detectors more robust when new models emerge or AI-generated text is disguised to appear human.",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Putting a spotlight on AI, society, and humanity",
+      "url": "https://news.mit.edu/2026/putting-spotlight-ai-society-humanity-1117",
+      "source": "MIT News AI",
+      "published_at": "2026-11-17T20:40:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Supported by the MIT Human Insight Collaborative, scholars are exploring how AI is impacting the human experience and reshaping higher education.",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Jensen Huang says he’s willing to return as Nvidia CEO",
+      "url": "https://www.theverge.com/tech/1035420/jensen-huang-nvidia-return-as-ceo-statement",
+      "source": "The Verge AI",
+      "published_at": "2026-11-17T16:09:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Jensen Huang, who resigned as Nvidia's CEO last week, would be willing to return as CEO if the company's board of directors wanted it, he said in a statement reported on by The Wal",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "New formulation helps RNA vaccines withstand high temperatures",
+      "url": "https://news.mit.edu/2026/new-formulation-helps-rna-vaccines-withstand-high-temperatures-0928",
+      "source": "MIT News AI",
+      "published_at": "2026-09-28T09:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: MIT engineers have found a way to stabilize the lipid nanoparticles used to deliver RNA vaccines, which could allow the vaccines to be more widely distributed.",
+      "tags": [
+        "Notion Update"
+      ],
+      "buckets": [
+        "update"
+      ],
+      "score": 22
     },
     {
       "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
@@ -823,91 +712,119 @@
       "buckets": [
         "hot"
       ],
-      "score": 35
+      "score": 22
     },
     {
-      "title": "I don't think double-blind review systems work [D]",
-      "url": "https://www.reddit.com/r/MachineLearning/comments/1xwuwqd/i_dont_think_doubleblind_review_systems_work_d/",
-      "source": "Reddit r/MachineLearning",
-      "published_at": "2026-11-15T13:00:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Reviewers can see the authors’ names and affiliations in many cases, making this system closer to single-blind review than double-blind review. I have personally witnessed cases wh",
+      "title": "MIT-led team receives funding to develop next-generation alternatives to modern weed killers ",
+      "url": "https://news.mit.edu/2026/mit-led-team-receives-funding-next-generation-alternatives-modern-weed-killers-1110",
+      "source": "MIT News AI",
+      "published_at": "2026-11-10T05:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: With up to $53 million from ARPA-H, the researchers will use AI to generate safer herbicides that reduce dependence on imports and improve the security of the U.S. food supply.",
       "tags": [
-        "Eval/Observability"
+        "Hot"
       ],
       "buckets": [
-        "eval"
+        "hot"
       ],
-      "score": 30
+      "score": 20
     },
     {
-      "title": "If an App Asks for Full Disk Access or System and App Protection Override",
-      "url": "https://support.apple.com/en-us/149699",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-17T02:17:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://support.apple.com/en-us/149699 Comments URL: https://news.ycombinator.com/item?id=50526560 Points: 67 # Comments: 45",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "3 Questions: Why infrastructure is entering a defining era ",
+      "url": "https://news.mit.edu/2026/3-questions-why-infrastructure-is-entering-defining-era-1028",
+      "source": "MIT News AI",
+      "published_at": "2026-10-28T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Professor Ali Jadbabaie describes how AI, digital transformation, climate change, and complex geopolitics are forcing engineers and policymakers to rethink how infrastructure is de",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     },
     {
-      "title": "Mem Is Shutting Down",
-      "url": "https://get.mem.ai/blog/mem-is-shutting-down",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-17T02:13:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://get.mem.ai/blog/mem-is-shutting-down Comments URL: https://news.ycombinator.com/item?id=50526537 Points: 40 # Comments: 47",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "Making machines that can listen",
+      "url": "https://news.mit.edu/2026/making-machines-that-can-listen-paris-smaragdis-1028",
+      "source": "MIT News AI",
+      "published_at": "2026-10-28T04:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Professor Paris Smaragdis develops computers with superhuman hearing for applications like speech recognition, music understanding, and environmental monitoring.",
+      "tags": [
+        "RAG/Vector"
+      ],
+      "buckets": [
+        "rag"
+      ],
+      "score": 20
     },
     {
-      "title": "Why 3dfx 1 cards had such a washed out color output?",
-      "url": "https://twitter.com/id_aa_carmack/status/2122478083319992513",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-17T00:16:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://twitter.com/id_aa_carmack/status/2122478083319992513 Comments URL: https://news.ycombinator.com/item?id=50525575 Points: 66 # Comments: 9",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "This design software reimagines everyday objects as self-aware devices",
+      "url": "https://news.mit.edu/2026/design-software-reimagines-everyday-objects-as-self-aware-devices-1022",
+      "source": "MIT News AI",
+      "published_at": "2026-10-22T20:45:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: “X-Hinges” helps design and 3D print items like lamps and gloves with an interactive twist: automatically embedded sensors that perceive and adaptively respond to human contact.",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     },
     {
-      "title": "Show HN: Sutra-OS – A self-hosted ontology platform",
-      "url": "https://github.com/0nelight/sutra-os",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T23:25:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/0nelight/sutra-os Comments URL: https://news.ycombinator.com/item?id=50525052 Points: 47 # Comments: 24",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "Fostering community amid Kendall Square’s innovation",
+      "url": "https://news.mit.edu/2026/fostering-community-amid-kendall-square-innovation-1016",
+      "source": "MIT News AI",
+      "published_at": "2026-10-16T16:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The 18th annual Kendall Square Association Annual Meeting explored how new technologies could be a force for shared prosperity in society.",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     },
     {
-      "title": "Optimizely compromised, served malware on Zoom, GitLab",
-      "url": "https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T23:00:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/ Comments URL: https://news.ycombinator.com/item?id=50524767 Points: 242 # Comme",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "MIT Lincoln Laboratory hosts National Security Commission on Emerging Biotechnology",
+      "url": "https://news.mit.edu/2026/mit-lincoln-laboratory-hosts-national-security-commission-emerging-biotechnology-1013",
+      "source": "MIT News AI",
+      "published_at": "2026-10-13T20:40:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Roadshow event highlights Massachusetts' defense-biotechnology ecosystem.",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     },
     {
-      "title": "Spamhaus new email sender requirements in November",
-      "url": "https://www.spamhaus.org/sender-guidelines/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T21:47:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.spamhaus.org/sender-guidelines/ Comments URL: https://news.ycombinator.com/item?id=50523784 Points: 93 # Comments: 83",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "Computational tools for society’s most complex challenges",
+      "url": "https://news.mit.edu/2026/computational-tools-for-societys-most-complex-challenges-cathy-wu-1002",
+      "source": "MIT News AI",
+      "published_at": "2026-10-02T19:30:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Associate Professor Cathy Wu uses reinforcement learning to help map out improvements to transportation and other multifaceted systems.",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     },
     {
-      "title": "BugMeNot has closed",
-      "url": "https://www.bugmenot.com/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-16T21:32:17.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bugmenot.com/ Comments URL: https://news.ycombinator.com/item?id=50523601 Points: 442 # Comments: 210",
-      "tags": [],
-      "buckets": [],
-      "score": 25
+      "title": "3 Questions: A new resource to empower young entrepreneurs",
+      "url": "https://news.mit.edu/2026/3-questions-new-resource-empower-young-entrepreneurs-1002",
+      "source": "MIT News AI",
+      "published_at": "2026-10-02T04:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Martin Trust Center Managing Director Bill Aulet introduces Dear Dreamer, a free platform for middle and high school students who want to learn about entrepreneurship.",
+      "tags": [
+        "Hot"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 20
     }
   ]
 }
