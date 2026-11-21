@@ -1,346 +1,141 @@
 {
-  "updated_at": "2026-11-20T05:46:20.442Z",
+  "updated_at": "2026-11-21T05:41:25.217Z",
   "items": [
     {
-      "title": "How I Built a Real-Time AI Voice Call Recovery Pipeline in n8n to Rescue Lost Leads",
-      "url": "https://dev.to/reigen/how-i-built-a-real-time-ai-voice-call-recovery-pipeline-in-n8n-to-rescue-lost-leads-4f83",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-20T00:58:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ⚡ TL;DR — Ready-to-Deploy Automation Blueprints: 🚀 Turnkey Production Package (This Guide): Instant Access on Whop | Download on Gumroad (Use code **EARLYBIRD* for -20%)* 🎁 Free ",
+      "title": "Artificial Intelligence News: Anthropic, Google, OpenAI",
+      "url": "https://dev.to/autonomous/artificial-intelligence-news-anthropic-google-openai-3e14",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T04:00:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Artificial intelligence news often moves fastest when it touches money, safety, and science in the same week. Today’s verified updates fit that pattern: Anthropic said it closed it",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
-        "Agents",
+        "Gemini/Google",
         "RAG/Vector",
         "Eval/Observability",
-        "NotebookLM",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "rag",
+        "eval",
+        "hot"
+      ],
+      "score": 208
+    },
+    {
+      "title": "n8n vs Zapier for Small Business Automation: An Honest Comparison",
+      "url": "https://dev.to/sohel_ahmed_43118ea146970/n8n-vs-zapier-for-small-business-automation-an-honest-comparison-3786",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T05:14:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you run a small business and want to automate repetitive work, you will meet two names first: n8n and Zapier. Both connect your apps and move data between them. They are not the",
+      "tags": [
+        "GPT/OpenAI",
+        "Agents",
+        "RAG/Vector",
         "n8n",
         "Zapier",
-        "Hot"
+        "Release"
       ],
       "buckets": [
         "llm",
         "agents",
         "rag",
-        "eval",
-        "prod",
         "n8n",
         "zapier",
-        "hot"
-      ],
-      "score": 253
-    },
-    {
-      "title": "Microsoft launches IQ to feed company context to AI agents",
-      "url": "https://dev.to/mikefluff/microsoft-launches-iq-to-feed-company-context-to-ai-agents-54ag",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:30:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Microsoft used its Ignite event on November 17 to announce Microsoft IQ, described in a post on the Azure Blog by corporate vice president Yitzhak Kesselman. Everything below is Mi",
-      "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "creators",
-        "hot"
-      ],
-      "score": 237
-    },
-    {
-      "title": "Make.com vs n8n (2026): Which One Wins?",
-      "url": "https://dev.to/heliatech/makecom-vs-n8n-2026-which-one-wins-4a08",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-20T02:01:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Duel: Make vs n8n (2026) Managed Cloud Workflow Agility vs Self-Hosted Open-Source Sovereignty As Chief Operating Officer at HeliaTech, I am frequently asked to settle the debate b",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Make",
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "make",
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 207
-    },
-    {
-      "title": "SageMaker now flags latency drift and idle GPUs on its own",
-      "url": "https://dev.to/mikefluff/sagemaker-now-flags-latency-drift-and-idle-gpus-on-its-own-ag1",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:26:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Amazon has added default monitoring to SageMaker AI inference endpoints, according to a post on the AWS Machine Learning Blog. The idea is that an endpoint tuned at launch slowly d",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Make",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "prod",
-        "make",
         "hot"
       ],
       "score": 163
     },
     {
-      "title": "I describe an n8n workflow in plain English and Claude Code builds it: the setup and the 4 rules that stop it breaking things",
-      "url": "https://dev.to/arwahyn_ai_a9134e083fcc3d/i-describe-an-n8n-workflow-in-plain-english-and-claude-code-builds-it-the-setup-and-the-4-rules-1epe",
+      "title": "n8n OpenAI Costs Too High? 5 Fixes That Work",
+      "url": "https://dev.to/scorpion4ik26lang/n8n-openai-costs-too-high-5-fixes-that-work-ll5",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-19T20:01:31.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: We build n8n automations for clients every week, and the slowest part used to be clicking nodes together and hunting for the right field names. Now I describe the workflow to Claud",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 161
-    },
-    {
-      "title": "AI video from n8n with the HTTP Request node: start the job, poll it, download the file",
-      "url": "https://dev.to/alex_uberllm/ai-video-from-n8n-with-the-http-request-node-start-the-job-poll-it-download-the-file-3off",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:35:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I run UberLLM; the examples use its API, but the setup works the same with any compatible provider where noted. AI video is not a normal request/response call. A clip t",
-      "tags": [
-        "Gemini/Google",
-        "RAG/Vector",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "rag",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 152
-    },
-    {
-      "title": "Mitigating legal, privacy, and governance risks in self-hosted music automation with Aurral 3.0",
-      "url": "https://dev.to/elenbit/mitigating-legal-privacy-and-governance-risks-in-self-hosted-music-automation-with-aurral-30-5189",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:37:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: On paper, Aurral 3.0 sells a clean inversion of commercial streaming: deploy one container, mount a few media directories, and obtain recommendation loops, scheduled mixes, and pla",
-      "tags": [
-        "RAG/Vector",
-        "Eval/Observability",
-        "Multimodal",
-        "NotebookLM",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "eval",
-        "multimodal",
-        "prod",
-        "status",
-        "hot"
-      ],
-      "score": 151
-    },
-    {
-      "title": "Prompt, Workflow, Agent or Agentic System: Which One Does Your Process Need?",
-      "url": "https://dev.to/rushabh_3f5acfe17e0cb07b7/prompt-workflow-agent-or-agentic-system-which-one-does-your-process-need-3l0k",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T04:31:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: \"We want to build an agent\" is how most automation conversations start now. Half the time, the process doesn't need one. It needs a workflow. Sometimes it needs a better prompt. Pi",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "n8n",
-        "hot"
-      ],
-      "score": 143
-    },
-    {
-      "title": "x402 Protocol: Machine-Native Micro-Settlements for AI Agents",
-      "url": "https://dev.to/nindhita/x402-protocol-machine-native-micro-settlements-for-ai-agents-4on2",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:11:55.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most payment systems assume humans are slow and settlements can wait. An invoice takes 30 days. A wire transfer clears overnight. Even \"instant\" payment apps batch transactions and",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Multimodal",
-        "NotebookLM",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "multimodal",
-        "prod",
-        "hot"
-      ],
-      "score": 137
-    },
-    {
-      "title": "Nemotron 3.5 models arrive on Microsoft Foundry",
-      "url": "https://dev.to/mikefluff/nemotron-35-models-arrive-on-microsoft-foundry-28hh",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:28:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: NVIDIA says it is widening its work with Microsoft across cloud, edge and desktop, according to a post on the NVIDIA Blog published around Microsoft Ignite. For teams that automate",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Multimodal",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "multimodal",
-        "hot"
-      ],
-      "score": 133
-    },
-    {
-      "title": "Best AI Video Editor for YouTube in 2026: 7 Tools Compared",
-      "url": "https://dev.to/saad_abusaad_a3601876c923/best-ai-video-editor-for-youtube-in-2026-7-tools-compared-1b31",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:29:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published on AIToolsGet. Last updated: 12 November 2026 Choosing an AI video editor for YouTube is harder than it looks, because tools sold under that label do very diff",
-      "tags": [
-        "RAG/Vector",
-        "Multimodal",
-        "NotebookLM",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "multimodal",
-        "prod",
-        "creators",
-        "hot"
-      ],
-      "score": 131
-    },
-    {
-      "title": "AI Agents for Order-to-Cash Deduction Resolution in Enterprise Distribution",
-      "url": "https://dev.to/techforce_global/ai-agents-for-order-to-cash-deduction-resolution-in-enterprise-distribution-2e3e",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-20T04:32:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Across the European consumer goods, pharmaceutical, and industrial distribution sectors, finance leaders contend with a quiet erosion of operational margin: trade deductions and re",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "rag",
-        "eval",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "n8n Filter Node: Six Leases In, Three Out. Open the Discarded Pile Before You Trust It (Then Clean Up With Edit Fields)",
-      "url": "https://dev.to/robert_breen_d96e41ecd765/n8n-filter-node-six-leases-in-three-out-open-the-discarded-pile-before-you-trust-it-then-clean-2kf4",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-19T19:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most office lists are mostly noise. Forty rows, and six need something done today. In n8n the step that finds those six is the Filter node, and the step that turns each one into so",
-      "tags": [
-        "RAG/Vector",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 117
-    },
-    {
-      "title": "9 n8n Automations for Video Editors: Shorts, B-Roll, Thumbnails and Finding Clients",
-      "url": "https://dev.to/jitendrakavire/9-n8n-automations-for-video-editors-shorts-b-roll-thumbnails-and-finding-clients-3k75",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-20T05:30:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was first published on n8nebooks.com. Video editors usually have two problems at once: too much repetitive editing work, and not enough new clients. These nine n8n aut",
+      "published_at": "2026-11-20T14:00:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I am the founder of PromptUnit. This post first appeared on the PromptUnit blog, where it is kept up to date. The fastest way to cut your n8n OpenAI bill is to stop sending every s",
       "tags": [
         "GPT/OpenAI",
-        "Multimodal",
+        "Agents",
+        "RAG/Vector",
         "n8n",
+        "Hot",
         "Release"
       ],
       "buckets": [
         "llm",
-        "multimodal",
+        "agents",
+        "rag",
         "n8n",
         "hot"
       ],
-      "score": 115
+      "score": 163
     },
     {
-      "title": "An AI sales assistant on Telegram that knows when to hand off",
-      "url": "https://dev.to/gfirik/an-ai-sales-assistant-on-telegram-that-knows-when-to-hand-off-1pe1",
+      "title": "SAAX Protocol Is Now Listed on Coinstancy",
+      "url": "https://dev.to/brudy_dev24/saax-protocol-is-now-listed-on-coinstancy-4g45",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T05:22:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: SAAX Protocol is now listed on Coinstancy. The listing is live at app.coinstancy.com/agents/services/saax-protocol. Coinstancy requires sign-in to view listings, so you need a Coin",
+      "tags": [
+        "Agents",
+        "Make",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "make",
+        "creators",
+        "hot"
+      ],
+      "score": 121
+    },
+    {
+      "title": "Email Scanners Are Clicking Your One-Click Approve Links (n8n, 2026)",
+      "url": "https://dev.to/vietautomation/email-scanners-are-clicking-your-one-click-approve-links-n8n-2026-4f0",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-19T20:09:56.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Aviago is a tour operator that sells through its own Telegram bot. Its sales team had the problem every chat-based business knows: they were answering the same questions over and o",
+      "published_at": "2026-11-21T02:18:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why do my one-click approval links break (or approve by themselves)? Short answer: because something other than the person is opening the link. Many corporate mail filters follow U",
+      "tags": [
+        "Agents",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "hot"
+      ],
+      "score": 103
+    },
+    {
+      "title": "From Chatbots to Economic Agents: Autonomous Treasury Management on Base",
+      "url": "https://dev.to/nindhita/from-chatbots-to-economic-agents-autonomous-treasury-management-on-base-3i0k",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T02:52:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most AI agents today are conversational toys. They answer questions, generate text, maybe book a meeting if you're lucky. But the next wave is different: agents that hold assets an",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "hot"
+      ],
+      "score": 99
+    },
+    {
+      "title": "Get Alerted When an n8n Workflow Fails",
+      "url": "https://dev.to/admin_pontaviaconsulting/get-alerted-when-an-n8n-workflow-fails-35np",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T13:44:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Key takeaways Build one workflow that starts with the Error Trigger node and sends you a message. Point every workflow you care about at it under Settings, then Error workflow. The",
       "tags": [
         "Claude/Anthropic",
         "n8n",
@@ -354,32 +149,32 @@
       "score": 99
     },
     {
-      "title": "n8n workflow: enrich a Google Sheet of domains with company data (name, size, funding), plus a 99-domain benchmark",
-      "url": "https://dev.to/jackdang_replynodes/n8n-workflow-enrich-a-google-sheet-of-domains-with-company-data-name-size-funding-plus-a-2c7",
+      "title": "A \"company brain\" over your own documents (RAG in n8n) that keeps the data in your own database",
+      "url": "https://dev.to/arwahyn_ai_a9134e083fcc3d/a-company-brain-over-your-own-documents-rag-in-n8n-that-keeps-the-data-in-your-own-database-26co",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-20T03:30:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What you get: an n8n workflow that takes a column of company domains in Google Sheets and fills in name, description, industry, HQ, employee range and funding on the same rows. On ",
+      "published_at": "2026-11-20T09:46:24.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A common request from clients: \"our staff keep asking the same questions about policies, products and old decisions, can AI answer from our own documents?\" Yes, and you don't need ",
       "tags": [
+        "RAG/Vector",
         "n8n",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "rag",
         "n8n",
-        "creators",
         "hot"
       ],
-      "score": 97
+      "score": 99
     },
     {
-      "title": "Anthropic lists on Nasdaq as ANT, raising about $106 billion",
-      "url": "https://dev.to/mikefluff/anthropic-lists-on-nasdaq-as-ant-raising-about-106-billion-f32",
+      "title": "OpenAI ties GPT-6.2 reasoning to chat history to block copying",
+      "url": "https://dev.to/mikefluff/openai-ties-gpt-62-reasoning-to-chat-history-to-block-copying-41nj",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:31:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic, the company behind Claude, began trading on Nasdaq on Thursday under the ticker ANT. According to Crunchbase News, the shares closed up 17% on the first day, even though",
+      "published_at": "2026-11-21T04:43:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: OpenAI published details on November 20, 2026 of how it fights adversarial distillation: using a frontier model's outputs without authorization to train another model that has weak",
       "tags": [
-        "Claude/Anthropic",
+        "GPT/OpenAI",
         "Hot",
         "Release"
       ],
@@ -390,62 +185,131 @@
       "score": 95
     },
     {
-      "title": "Your AI Outreach Read \"No\" as \"Yes\": Classify Replies Before the Next Step (n8n / Make, 2026)",
-      "url": "https://dev.to/vietautomation/your-ai-outreach-read-no-as-yes-classify-replies-before-the-next-step-n8n-make-2026-3nlg",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-20T02:11:38.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Why does my AI email automation treat \"no\" as \"yes\"? Short answer: because the sequence is usually wired to advance on any reply. The AI writes a polite follow-up, and the workflow",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
-      "score": 79
-    },
-    {
-      "title": "Save New Telegram Channel Posts to Google Sheets with n8n",
-      "url": "https://dev.to/monkeydscraping/save-new-telegram-channel-posts-to-google-sheets-with-n8n-5bk2",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-20T00:06:49.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: To save new posts from a public Telegram channel to Google Sheets, run the same saved Apify Monitor task from n8n and use each post’s original URL as the row key. This works for a ",
-      "tags": [
-        "n8n",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "hot"
-      ],
-      "score": 79
-    },
-    {
-      "title": "Comment \"LINK\" to get it in DMs: how Instagram auto-replies actually work under the hood",
-      "url": "https://dev.to/heydm/comment-link-to-get-it-in-dms-how-instagram-auto-replies-actually-work-under-the-hood-51pc",
+      "title": "Windows Server 2028 Starts Hardened, but Your Workloads Need Proof",
+      "url": "https://dev.to/yanoai/windows-server-2028-starts-hardened-but-your-workloads-need-proof-34j2",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:25:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You've seen these posts everywhere on Instagram. A creator says \"comment LINK and I'll send it to you\" and a few seconds later there's a DM sitting in your inbox. I used to think t",
+      "published_at": "2026-11-21T04:26:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Windows Server 2028 Starts Hardened, but Your Workloads Need Proof More than 85.9 million records were exposed across at least 83 reported breach incidents in the Philippines durin",
       "tags": [
-        "Creators",
+        "Eval/Observability",
+        "Notion Status",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "creators",
+        "eval",
+        "status",
+        "hot"
+      ],
+      "score": 93
+    },
+    {
+      "title": "Automating Tier-1 Inbound Support Calls With AI Voice Agents: A Reference Architecture",
+      "url": "https://dev.to/gokul_krishna_5cb68b2138c/automating-tier-1-inbound-support-calls-with-ai-voice-agents-a-reference-architecture-152f",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T04:53:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Summary: Tier-1 inbound support automation with AI voice agents works best as a replacement for the IVR layer, not as a replacement for agents. The agent answers every call, resolv",
+      "tags": [
+        "Agents",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "Reddit posts and comments scraper with n8n (free workflow)",
+      "url": "https://dev.to/scraperfinder/reddit-posts-and-comments-scraper-with-n8n-free-workflow-11ce",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T14:01:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last updated: 20 November 2026 This Reddit posts and comments scraper returns normalized rows from subreddit posts and their comments in n8n. Import the workflow, add your Apify to",
+      "tags": [
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "Automatic n8n backups: cron, encrypted copies and a tested restore",
+      "url": "https://dev.to/nuvits/automatic-n8n-backups-cron-encrypted-copies-and-a-tested-restore-2hbj",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T12:36:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This guide turns the manual n8n backup into a daily one that runs on its own: a script dumps PostgreSQL, saves the .n8n folder and the .env with the encryption key, sends everythin",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "Model ML and Noeri land big rounds for business AI",
+      "url": "https://dev.to/mikefluff/model-ml-and-noeri-land-big-rounds-for-business-ai-4hig",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T04:45:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Crunchbase News published its weekly list of the ten largest U.S. startup rounds, covering Nov. 14-20, 2026. Two entries are AI built for business customers. Model ML builds an AI ",
+      "tags": [
+        "Eval/Observability",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "eval",
         "hot"
       ],
       "score": 73
     },
     {
-      "title": "n8n Code Node: Replace the Friday Pivot Table With Eight Lines of JavaScript (and the Same Job in Python)",
-      "url": "https://dev.to/robert_breen_d96e41ecd765/n8n-code-node-replace-the-friday-pivot-table-with-eight-lines-of-javascript-and-the-same-job-in-4nka",
+      "title": "Receive inbound email in n8n with a webhook",
+      "url": "https://dev.to/receivehq/receive-inbound-email-in-n8n-with-a-webhook-5304",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-19T22:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: n8n has a ready-made node for most office jobs. Then there's the leftover: a total nobody planned for, a format that's slightly off, a rule with too many exceptions. That's what th",
+      "published_at": "2026-11-20T20:22:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Receive inbound email in n8n with a webhook ReceiveHQ receives mail for your domain (MX → mx.receivehq.com) and POSTs each message to an HTTPS URL. n8n's Webhook node can be that U",
+      "tags": [
+        "Agents",
+        "n8n"
+      ],
+      "buckets": [
+        "agents",
+        "n8n"
+      ],
+      "score": 73
+    },
+    {
+      "title": "n8n for Beginners: Automate Anything Without Writing Code",
+      "url": "https://dev.to/arhan_khan/n8n-for-beginners-automate-anything-without-writing-code-2df5",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T15:32:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most of your workday is small, repetitive glue: when a form is submitted, add a row to a spreadsheet; when a payment succeeds, send a Slack message; when a new GitHub issue opens, ",
+      "tags": [
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 69
+    },
+    {
+      "title": "5 Silent Failures That Break n8n Workflows in Production (and How to Catch Them)",
+      "url": "https://dev.to/abdellah_elkharraze_6a64/5-silent-failures-that-break-n8n-workflows-in-production-and-how-to-catch-them-apk",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T17:30:35.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A workflow that crashes loudly is easy to fix. The dangerous ones keep \"running\" while quietly dropping data. After years of running n8n in production for small businesses and trai",
       "tags": [
         "n8n",
         "Release"
@@ -457,11 +321,85 @@
       "score": 59
     },
     {
-      "title": "Stop writing glue code for email verification: MailValid is now on Integrately",
-      "url": "https://dev.to/mailvalid/stop-writing-glue-code-for-email-verification-mailvalid-is-now-on-integrately-28p1",
+      "title": "Backup automático do n8n: cron, cópia criptografada e restauração testada",
+      "url": "https://dev.to/nuvits/backup-automatico-do-n8n-cron-copia-criptografada-e-restauracao-testada-43l",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T12:36:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Este guia transforma o backup manual do n8n num backup diário que roda sozinho: um script faz o dump do PostgreSQL, guarda a pasta .n8n e o .env com a chave de criptografia, manda ",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "Together AI adds Qwen3 TTS voice model at $20 per 1M characters",
+      "url": "https://dev.to/mikefluff/together-ai-adds-qwen3-tts-voice-model-at-20-per-1m-characters-4j4",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-20T05:12:26.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A lot of \"verify this email\" code isn't in a signup form at all. It's glue: a small handler that receives a webhook from a form tool or an ad platform, calls a verification API, an",
+      "published_at": "2026-11-21T04:27:38.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Together AI announced that Qwen3 TTS, an open text-to-speech model from Qwen, can now be run on its platform, both on Together Serverless Inference and on dedicated endpoints. Serv",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
+    },
+    {
+      "title": "Three weeks of 'Crawled - not indexed' on a fresh domain: what the GSC data actually shows",
+      "url": "https://dev.to/saintzzz/three-weeks-of-crawled-not-indexed-on-a-fresh-domain-what-the-gsc-data-actually-shows-amm",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T02:48:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: What “Crawled - currently not indexed” means It means Google fetched a page and chose not to add it to the index yet. It does not mean the URL is invisible forever, and it does not",
+      "tags": [
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 55
+    },
+    {
+      "title": "Pulling investor follow signals into your own scripts (MCP + HTTP API)",
+      "url": "https://dev.to/li_wujie_0995d9c1bca1f2e3/pulling-investor-follow-signals-into-your-own-scripts-mcp-http-api-3o07",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T04:26:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I wanted the \"who just followed which new AI startup\" signal to land in my own scripts, not just in a browser tab. Notes from wiring that up, using Earlyfollow's MCP server and HTT",
+      "tags": [
+        "Agents"
+      ],
+      "buckets": [
+        "agents"
+      ],
+      "score": 49
+    },
+    {
+      "title": "n8n error handling that actually wakes you up (and doesn't wake you up for nothing)",
+      "url": "https://dev.to/arwahyn_ai_a9134e083fcc3d/n8n-error-handling-that-actually-wakes-you-up-and-doesnt-wake-you-up-for-nothing-epk",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-20T09:51:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The worst automation failure isn't the one that crashes loudly. It's the one that quietly stops, so a client finds out three days later that no follow-ups went out. Here's the setu",
+      "tags": [
+        "n8n"
+      ],
+      "buckets": [
+        "n8n"
+      ],
+      "score": 49
+    },
+    {
+      "title": "How to Make Desktop Automation Recover Safely After a Failure",
+      "url": "https://dev.to/macro8n/how-to-make-desktop-automation-recover-safely-after-a-failure-178a",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-21T04:41:34.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A desktop automation that works once is a demo. One that can explain a failure and resume safely is useful in a real workflow. Desktop workflows break for ordinary reasons: a windo",
       "tags": [
         "Release"
       ],
