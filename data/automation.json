@@ -1,42 +1,18 @@
 {
-  "updated_at": "2026-11-23T05:50:10.249Z",
+  "updated_at": "2026-11-24T08:28:51.534Z",
   "items": [
     {
-      "title": "Set Up n8n Nod Agent on Hostinger VPS",
-      "url": "https://dev.to/f9xrteam/set-up-n8n-nod-agent-on-hostinger-vps-l2g",
+      "title": "One agent, invoked from anywhere: n8n, SDKs, MCP and channels",
+      "url": "https://dev.to/oliveiraronan/one-agent-invoked-from-anywhere-n8n-sdks-mcp-and-channels-2085",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-22T11:17:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most AI agents still live in a chat window. You ask, they answer, and you still have to do the actual work. Nod from n8n Labs flips that. It is a personal agent with its own Linux ",
+      "published_at": "2026-11-23T10:45:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The scenario is common: the automation team builds a flow in n8n that calls the model directly. The product team writes another prompt in code. Someone connects an AI assistant to ",
       "tags": [
         "GPT/OpenAI",
         "Claude/Anthropic",
         "Gemini/Google",
         "Agents",
         "RAG/Vector",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 256
-    },
-    {
-      "title": "How to Automate Lead Follow-Up With n8n or Make in 6 Steps",
-      "url": "https://dev.to/fun_fun_19313eced54af3c68/how-to-automate-lead-follow-up-with-n8n-or-make-in-6-steps-1pml",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T13:14:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The quickest way to automate lead follow-up is a single workflow: a form sends each new lead to n8n or Make, the workflow logs it in your CRM, drafts a reply, waits for your one-cl",
-      "tags": [
-        "Agents",
-        "NotebookLM",
         "Make",
         "n8n",
         "Zapier",
@@ -45,120 +21,131 @@
         "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
-        "prod",
+        "rag",
         "make",
         "n8n",
         "zapier",
         "creators",
         "hot"
       ],
-      "score": 187
+      "score": 300
     },
     {
-      "title": "Scraping a Bot-Walled Marketplace With a Warm Browser Session",
-      "url": "https://dev.to/hoelee/scraping-a-bot-walled-marketplace-with-a-warm-browser-session-2jfm",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:25:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published on my blog — read it there with the full context, code and updates. A client asked me to build something that sounds simple: every day, list the second-hand ph",
+      "title": "How to Enrich B2B Company Domains with Tech Stack & Hiring Signals for $0.02 (No LLM Tokens Required)",
+      "url": "https://dev.to/rafaelalejandro_065a3467/how-to-enrich-b2b-company-domains-with-tech-stack-hiring-signals-for-002-no-llm-tokens-55ch",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-24T06:44:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most B2B lead enrichment pipelines suffer from two annoying trade-offs: Enterprise tools like Clay or ZoomInfo quickly run $150–$500/month. DIY scraping scripts dump 40KB of raw HT",
       "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
-        "Eval/Observability",
         "n8n",
+        "Notion Update",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
         "rag",
-        "eval",
         "n8n",
+        "update",
         "creators",
         "hot"
       ],
-      "score": 159
+      "score": 243
     },
     {
-      "title": "Build a Daily Job Alert for Any Company with n8n (Greenhouse, Lever, Ashby)",
-      "url": "https://dev.to/zoabiyazeed/build-a-daily-job-alert-for-any-company-with-n8n-greenhouse-lever-ashby-3mmh",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T12:28:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In 15 minutes you can build an alert that checks the career pages of any companies you choose every morning and sends you only the new jobs that match your criteria. Job boards are",
+      "title": "Cutting n8n & OpenWebUI AI Costs by 80% in 2026: $5.40 OpenAI-Compatible Token Plans + Voice AI Webhooks",
+      "url": "https://dev.to/chi_hoang_a16d99d5b4c2097/cutting-n8n-openwebui-ai-costs-by-80-in-2026-540-openai-compatible-token-plans-voice-ai-4enh",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T08:25:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: ⚡ 2026 Modular AI Stack Cost Breakdown Traditional SaaS Stack: 5 ChatGPT Team Seats ($150/mo) + Zapier ($89/mo) + Manual Video/Voice Studio ($49/mo) = $288/month. Modular Self-Host",
       "tags": [
         "GPT/OpenAI",
+        "Claude/Anthropic",
         "Agents",
+        "NotebookLM",
         "n8n",
+        "Zapier",
         "Creators",
         "Hot"
       ],
       "buckets": [
         "llm",
         "agents",
+        "prod",
         "n8n",
+        "zapier",
         "creators",
         "hot"
       ],
-      "score": 151
+      "score": 233
     },
     {
-      "title": "Faceless YouTube Channel Ideas: 10 Niches to Start in 2026",
-      "url": "https://dev.to/saad_abusaad_a3601876c923/faceless-youtube-channel-ideas-10-niches-to-start-in-2026-13fd",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T05:08:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published on AIToolsGet Looking for faceless YouTube channel ideas that can actually grow? You do not need a camera, a studio or an on-screen personality to build a chan",
+      "title": "How I Replaced $120/mo of Zapier & Brittle Scrapers with 5 Zero-Proxy n8n Workflows",
+      "url": "https://dev.to/shawn1905/how-i-replaced-120mo-of-zapier-brittle-scrapers-with-5-zero-proxy-n8n-workflows-3e1e",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-23T22:32:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you run automated market intelligence, competitor monitoring, or B2B lead pipelines on Zapier + headless browser scrapers, you already know the two pain points: Monthly bills ba",
       "tags": [
-        "RAG/Vector",
-        "NotebookLM",
-        "Make",
+        "Claude/Anthropic",
+        "Agents",
+        "n8n",
+        "Zapier",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
-        "prod",
-        "make",
+        "llm",
+        "agents",
+        "n8n",
+        "zapier",
         "creators",
         "hot"
       ],
-      "score": 139
+      "score": 181
     },
     {
-      "title": "The Role of Test Automation in Delivering High-Performing Mobile Apps",
-      "url": "https://dev.to/ankit_sinha_39958d4c20c84/the-role-of-test-automation-in-delivering-high-performing-mobile-apps-29l3",
+      "title": "Track competitor prices on any Shopify store with Python (and get alerts only when something changes)",
+      "url": "https://dev.to/realrakhat/track-competitor-prices-on-any-shopify-store-with-python-and-get-alerts-only-when-something-4g0k",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-23T05:06:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Mobile users expect applications to be fast, responsive, and reliable. Whether they are making a payment, browsing products, or accessing essential services, even a brief delay or ",
+      "published_at": "2026-11-24T08:06:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you sell online, your competitors' prices are your most important market data. The good news: if a competitor runs on Shopify, their whole catalog is already public as JSON. No ",
       "tags": [
+        "Agents",
         "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Make",
+        "n8n",
+        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "agents",
         "rag",
-        "eval",
-        "prod",
-        "make",
+        "n8n",
+        "zapier",
         "hot"
       ],
-      "score": 139
+      "score": 143
     },
     {
-      "title": "Zoho Books: Auto-Email Invoices and Payment Reminders with Deluge",
-      "url": "https://dev.to/sarasvi/zoho-books-auto-email-invoices-and-payment-reminders-with-deluge-51hc",
+      "title": "Small Language Models: Choosing Hybrid AI for Optimal Efficiency",
+      "url": "https://dev.to/imversion_tech/small-language-models-choosing-hybrid-ai-for-optimal-efficiency-3b0h",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-23T05:31:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Manual invoicing and chasing overdue payments drain hours from operations teams every week. When you manage dozens or hundreds of recurring invoices, missing a single reminder can ",
+      "published_at": "2026-11-24T08:02:03.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Small language models vs frontier models: which one should you choose? If you send every AI task to the biggest model available, you usually pay for it twice: once in cost, and aga",
       "tags": [
         "Agents",
         "RAG/Vector",
         "Eval/Observability",
-        "Creators",
+        "NotebookLM",
         "Hot",
         "Release"
       ],
@@ -166,78 +153,98 @@
         "agents",
         "rag",
         "eval",
-        "creators",
+        "prod",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "King AI: an AI agent that does the computer work for you (beta open)",
+      "url": "https://dev.to/usekingai/king-ai-an-ai-agent-that-does-the-computer-work-for-you-beta-open-hec",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T07:52:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: King AI is an AI agent that does the computer work a person would do. You give it a job in a chat, it works through the job on its own computer, and it reports back with the result",
+      "tags": [
+        "GPT/OpenAI",
+        "Claude/Anthropic",
+        "Agents",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "hot"
+      ],
+      "score": 139
+    },
+    {
+      "title": "Comment utiliser Claude Ship : /ship, approvals.yml et règles de fusion",
+      "url": "https://dev.to/antoine_laurentt/comment-utiliser-claude-ship-ship-approvalsyml-et-regles-de-fusion-41ga",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T07:30:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Pour apprendre à utiliser Claude Ship, ouvrez Claude Code dans votre clone GitHub local et exécutez /ship sur une modification terminée. Claude peut ouvrir la pull request, relire ",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "Multimodal",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "multimodal",
         "hot"
       ],
       "score": 135
     },
     {
-      "title": "AWS Quick adds a Meta ads connector for campaign work",
-      "url": "https://dev.to/mikefluff/aws-quick-adds-a-meta-ads-connector-for-campaign-work-1abd",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:59:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AWS has added a Meta ads connector to Quick, its AI workspace, according to a post on the AWS Machine Learning Blog. The connector gives Quick access to operations on Meta's ads Mo",
+      "title": "90% of Modern Dev & AI Companies Already Ship /llms.txt: Live Benchmark on Pricing, Contacts & AI Briefs",
+      "url": "https://dev.to/adpulselabs/90-of-modern-dev-ai-companies-already-ship-llmstxt-live-benchmark-on-pricing-contacts-ai-fag",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-24T03:05:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When you wire an n8n workflow, Clay table, or AI sales agent to research a company domain, scraping raw HTML usually wastes thousands of tokens on cookie banners, nav menus, and JS",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "n8n",
+        "hot"
+      ],
+      "score": 133
+    },
+    {
+      "title": "AI agents now sign in, book and buy for customers",
+      "url": "https://dev.to/alfazreviews/ai-agents-now-sign-in-book-and-buy-for-customers-4pc9",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-24T04:00:14.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AI agents stopped just reading pages. They now sign in, book and buy. Cequence Security tracked six months of agent traffic on the sites it protects — 16 May to 15 November 2026 — ",
       "tags": [
         "Agents",
-        "NotebookLM",
-        "Make",
+        "RAG/Vector",
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
-        "prod",
-        "make",
-        "hot"
-      ],
-      "score": 125
-    },
-    {
-      "title": "Your digital-product store runs 24/7 — the 10 automations that stop you from being the ops team",
-      "url": "https://dev.to/nexusfoundry/your-digital-product-store-runs-247-the-10-automations-that-stop-you-from-being-the-ops-team-4k5m",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T10:32:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Selling digital products sounds passive until you count the manual loops: welcome email after every sale, review ask 3 days after delivery, refund follow-up, weekly churn win-back,",
-      "tags": [
-        "Agents",
+        "rag",
         "n8n",
-        "Notion Update",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
-        "n8n",
-        "update",
-        "creators",
         "hot"
       ],
       "score": 123
     },
     {
-      "title": "How to Automate PDF Invoice OCR and Math Reconciliation in Google Sheets Using n8n and GPT-4o-mini",
-      "url": "https://dev.to/kronix700/how-to-automate-pdf-invoice-ocr-and-math-reconciliation-in-google-sheets-using-n8n-and-gpt-4o-mini-1mh",
+      "title": "I hand-ported dozens of n8n AI templates into standalone agents. Here is what broke.",
+      "url": "https://dev.to/druveai/i-hand-ported-dozens-of-n8n-ai-templates-into-standalone-agents-here-is-what-broke-c04",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-23T02:46:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Manual invoice data entry is slow, and relying solely on Large Language Models (LLMs) to extract financial figures introduces a hidden risk: arithmetic hallucinations. While models",
-      "tags": [
-        "GPT/OpenAI",
-        "n8n",
-        "Creators"
-      ],
-      "buckets": [
-        "llm",
-        "n8n",
-        "creators"
-      ],
-      "score": 107
-    },
-    {
-      "title": "Zero-Dependency Python for EU B2B Ops: Official Open-Data MCP (SIRENE, TED) + Factur-X 2027 Validation",
-      "url": "https://dev.to/yannabadie/zero-dependency-python-for-eu-b2b-ops-official-open-data-mcp-sirene-ted-factur-x-2027-30ag",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T11:27:36.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Developers building European B2B workflows often hit two recurring friction points: Company & tender lookups: Scraping directory websites with headless browsers and proxy pools whe",
+      "published_at": "2026-11-24T02:10:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Over the last ten days I have been porting n8n AI templates into single-file JavaScript agents, one at a time, by hand, and offered each one to the template's author. The goal is s",
       "tags": [
         "Agents",
         "n8n",
@@ -253,208 +260,217 @@
       "score": 101
     },
     {
-      "title": "n8n cold email auto reply handler: prevent duplicates and spam",
-      "url": "https://dev.to/jitendrakavire/n8n-cold-email-auto-reply-handler-prevent-duplicates-and-spam-4jkc",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-23T05:30:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was first published on n8nebooks.com. If you want to auto-reply to cold email responses in n8n, without sending duplicates or causing spam, the Email Reply Handler wor",
+      "title": "Hiring signals - find companies that are about to buy your product by reading their job posts",
+      "url": "https://dev.to/realrakhat/hiring-signals-find-companies-that-are-about-to-buy-your-product-by-reading-their-job-posts-1979",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T08:13:05.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When a company opens a role called \"Founding Security Engineer\", it is about to buy security tools. When it hires its first RevOps manager, a CRM migration is coming. When ten new ",
       "tags": [
-        "GPT/OpenAI",
         "n8n",
-        "Release"
+        "Zapier",
+        "Hot"
       ],
       "buckets": [
-        "llm",
         "n8n",
+        "zapier",
         "hot"
       ],
-      "score": 99
+      "score": 89
     },
     {
-      "title": "Enriching European Companies Without Paid B2B Databases: 6 Official Open-Registry JSON APIs + n8n",
-      "url": "https://dev.to/pulse-extract/enriching-european-companies-without-paid-b2b-databases-6-official-open-registry-json-apis-n8n-3ocn",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T18:23:14.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most B2B company enrichment pipelines jump straight to $99+/mo commercial data brokers or brittle Chromium scrapers even when validating European entities. Yet almost every major E",
+      "title": "Combine Substack and Vinted scrapers in n8n for a weekly curated digest",
+      "url": "https://dev.to/pulse-extract/combine-substack-and-vinted-scrapers-in-n8n-for-a-weekly-curated-digest-2d2n",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T07:27:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I recently needed a simple way to pull the latest posts from a handful of Substack newsletters and the newest listings from Vinted searches, then mash them into a single weekly ema",
       "tags": [
-        "RAG/Vector",
+        "n8n",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 87
+    },
+    {
+      "title": "n8n \"Error connecting to n8n. Could not connect to server\" after an upgrade: read the first console line",
+      "url": "https://dev.to/grain64/n8n-error-connecting-to-n8n-could-not-connect-to-server-after-an-upgrade-read-the-first-console-50oo",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-24T07:04:43.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You upgraded n8n, opened the editor, and a red box says Error connecting to n8n. Could not connect to server. Refresh to try again. That box is the editor failing to reach its back",
+      "tags": [
         "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "rag",
         "n8n",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "n8n error alerts for small teams: who gets told, what they see, and how to avoid alert fatigue",
-      "url": "https://dev.to/alecasgari/n8n-error-alerts-for-small-teams-who-gets-told-what-they-see-and-how-to-avoid-alert-fatigue-33am",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T09:12:25.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most small teams find out an automation broke the same way: a customer asks why nobody replied to their form, or the finance person notices invoices stopped arriving in the sheet. ",
-      "tags": [
-        "n8n",
-        "Notion Status",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "n8n",
-        "status",
-        "hot"
-      ],
-      "score": 99
-    },
-    {
-      "title": "How to Automate Linkedin Remote Salary Filter in 2026 with Python & n8n",
-      "url": "https://dev.to/deepak_sheoran_4754c2e34c/how-to-automate-linkedin-remote-salary-filter-in-2026-with-python-n8n-4f2d",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:30:05.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Automate Linkedin Remote Salary Filter in 2026 Extracting, parsing, and monitoring modern data streams manually is slow, error-prone, and expensive. Whether you are building",
-      "tags": [
-        "n8n",
-        "Notion Update",
-        "Hot"
-      ],
-      "buckets": [
-        "n8n",
-        "update",
-        "hot"
-      ],
-      "score": 91
-    },
-    {
-      "title": "How to Automate Social Bio Contact Email Extractor in 2026 with Python & n8n",
-      "url": "https://dev.to/deepak_sheoran_4754c2e34c/how-to-automate-social-bio-contact-email-extractor-in-2026-with-python-n8n-3lih",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:30:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Automate Social Bio Contact Email Extractor in 2026 Extracting, parsing, and monitoring modern data streams manually is slow, error-prone, and expensive. Whether you are bui",
-      "tags": [
-        "n8n",
-        "Notion Update",
-        "Hot"
-      ],
-      "buckets": [
-        "n8n",
-        "update",
-        "hot"
-      ],
-      "score": 91
-    },
-    {
-      "title": "Build an AI citation audit you can rerun.",
-      "url": "https://dev.to/nexvolu/build-an-ai-citation-audit-you-can-rerun-a91",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:51:09.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Start a spreadsheet with prompt, tool, date, brand mention and source URL. Open the source URL and verify it supports the specific claim. When revising docs or product pages, answe",
-      "tags": [
-        "GPT/OpenAI",
-        "Hot"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 85
-    },
-    {
-      "title": "Finding menu items in 31 languages by reading the app's own translation files",
-      "url": "https://dev.to/vladtarrow/finding-menu-items-in-31-languages-by-reading-the-apps-own-translation-files-l2c",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:04:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Part 3 of a series on Movie Engine, where an AI agent edits Kdenlive video projects while the editor stays open. Earlier: Part 1, the overview, Part 2, UI Automation without steali",
-      "tags": [
-        "Agents",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "agents",
         "hot"
       ],
       "score": 79
     },
     {
-      "title": "How to Scrape Ricardo.ch Listings with Python and Apify",
-      "url": "https://dev.to/reventadata/how-to-scrape-ricardoch-listings-with-python-and-apify-20lb",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-23T05:07:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By the end of this tutorial you will have a short Python script that searches Ricardo.ch, the Swiss marketplace for auctions and fixed-price sales, and prints each listing with its",
+      "title": "Stripe dunning by decline reason: stop treating every failed payment the same",
+      "url": "https://dev.to/milos_mrsovic_a3afb26a467/stripe-dunning-by-decline-reason-stop-treating-every-failed-payment-the-same-5cd0",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-23T19:43:41.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A low balance, an expired card and a stolen card are three different problems. Most dunning setups treat them as one: same retries, same email, same silence in the CRM. Good dunnin",
       "tags": [
-        "Creators",
+        "RAG/Vector",
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "StackCost weekly n8n hosting price check (Nov 23, 2026)",
+      "url": "https://dev.to/selfhostcalc/stackcost-weekly-n8n-hosting-price-check-nov-23-2026-1a37",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-23T15:20:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: My weekly check of what it really costs to run n8n on the hosts people ask about most. I re-checked every price against each host's own pricing page (or public API) on Nov 23, 2026",
+      "tags": [
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 79
+    },
+    {
+      "title": "How to Automate Stripe Payout & Fee Reconciliation in Google Sheets Using n8n",
+      "url": "https://dev.to/kronix700/how-to-automate-stripe-payout-fee-reconciliation-in-google-sheets-using-n8n-4mh7",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-23T19:15:46.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Reconciling Stripe bank deposits against accounting ledgers is a recurring bottleneck for bookkeepers and SaaS operators. Stripe settles funds as net lump-sum payouts—bundling doze",
+      "tags": [
+        "n8n",
+        "Creators",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
         "creators",
         "hot"
       ],
-      "score": 73
+      "score": 77
     },
     {
-      "title": "Automate Your Weekly SEO Audit with n8n",
-      "url": "https://dev.to/sohel_ahmed_43118ea146970/automate-your-weekly-seo-audit-with-n8n-4oeo",
+      "title": "Podsqueeze Review (2026): AI Voice, Audio & Cost",
+      "url": "https://dev.to/heliatech/podsqueeze-review-2026-ai-voice-audio-cost-8b3",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-23T04:28:50.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most small businesses never audit their own website. Not because they do not care — because doing it by hand every week is boring, slow, and easy to put off. So rankings drift, pag",
+      "published_at": "2026-11-24T07:41:23.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Podsqueeze Unit Economics & Technical Tear-Down: Dismantling the $14,200 Audio Pipeline Fallacy Operating a manual B2B media pipeline incurs a 412% unit-cost penalty over automated",
       "tags": [
         "RAG/Vector",
-        "n8n"
+        "Hot",
+        "Release"
       ],
       "buckets": [
         "rag",
-        "n8n"
+        "hot"
       ],
-      "score": 69
+      "score": 75
     },
     {
-      "title": "Render a Remotion composition from n8n or Make with one HTTP request",
-      "url": "https://dev.to/buildngrowsv/render-a-remotion-composition-from-n8n-or-make-with-one-http-request-7fe",
+      "title": "How to Sync NetSuite to Google Sheets with n8n (SuiteQL + Schedule Trigger)",
+      "url": "https://dev.to/entechsolutions/how-to-sync-netsuite-to-google-sheets-with-n8n-suiteql-schedule-trigger-15pb",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-23T02:13:45.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You already have a Remotion bundle on a public URL, and you want n8n or Make to render it without standing up your own Chrome and FFmpeg box. This walkthrough uses PennyCompute's r",
+      "published_at": "2026-11-23T18:00:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: NetSuite exports search results to CSV, PDF and Microsoft Excel (XLSX). Those files are one-off copies. If a team works from a Google Sheet every morning, you want the sheet to ref",
       "tags": [
         "n8n",
-        "Hot"
+        "Release"
       ],
       "buckets": [
         "n8n",
         "hot"
       ],
-      "score": 69
+      "score": 59
     },
     {
-      "title": "Professional Commercial Removalists in Brisbane – SS Removals and Rentals",
-      "url": "https://dev.to/ss_removal_f1a04a0e3cd83d/professional-commercial-removalists-in-brisbane-ss-removals-and-rentals-2ggg",
+      "title": "Connecting GoHighLevel to n8n with Webhooks: A Practical Pattern",
+      "url": "https://dev.to/shawncarter_autoesta/connecting-gohighlevel-to-n8n-with-webhooks-a-practical-pattern-86l",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-23T13:31:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By Shawn Carter, Manager at Autoesta. We connect GoHighLevel to other systems for service businesses. GoHighLevel handles pipelines, texting and booking well. The moment you need t",
+      "tags": [
+        "n8n",
+        "Release"
+      ],
+      "buckets": [
+        "n8n",
+        "hot"
+      ],
+      "score": 59
+    },
+    {
+      "title": "Our Back Order Automation Gave Each Delivery to the Oldest Order and Many of Those Customers Were on Stop",
+      "url": "https://dev.to/serguey_shinder_4ab9b87b1/our-back-order-automation-gave-each-delivery-to-the-oldest-order-and-many-of-those-customers-were-11nk",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-23T05:34:46.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: House Removalists Whether you’re shifting from a studio apartment in Fortitude Valley or a four-bedroom home in the suburbs, house to house removals don’t have to turn into a two-d",
+      "published_at": "2026-11-24T07:23:39.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: When a branch is out of a product, orders for it wait as back orders. In 2023 we automated what had been a branch manager's morning job. When a delivery from a supplier is booked i",
       "tags": [
         "RAG/Vector",
-        "NotebookLM"
+        "Release"
       ],
       "buckets": [
         "rag",
-        "prod"
+        "hot"
       ],
-      "score": 67
+      "score": 55
     },
     {
-      "title": "Back Up n8n Workflows and Credentials from the Command Line",
-      "url": "https://dev.to/admin_pontaviaconsulting/back-up-n8n-workflows-and-credentials-from-the-command-line-428b",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-22T12:24:41.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Key takeaways n8n can export every workflow and credential with n8n export:workflow and n8n export:credentials. Exported credentials stay encrypted, so a backup is useless without ",
+      "title": "How I Built a Markdown-to-Blogger Publishing Pipeline with Python and Google OAuth 2.0",
+      "url": "https://dev.to/kadesh123/how-i-built-a-markdown-to-blogger-publishing-pipeline-with-python-and-google-oauth-20-5322",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T07:59:06.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By Fashel Creations | FASHSYST — Digital Systems Builder and Cloud/DevOps Engineer Building cloud and automation projects is only part of the work. If I cannot explain what I built",
       "tags": [
-        "n8n"
+        "Hot"
       ],
       "buckets": [
-        "n8n"
+        "hot"
       ],
-      "score": 49
+      "score": 45
+    },
+    {
+      "title": "Keep Short Drama Storyboard Audio in Sync With Python",
+      "url": "https://dev.to/danielfoster5/keep-short-drama-storyboard-audio-in-sync-with-python-4lfk",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T08:09:44.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You add two seconds to a storyboard shot so the audience can see a clue. Suddenly the dialogue in the next shot starts before the clue appears. Fixing one timing mistake by hand is",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "How Small Businesses Can Automate Invoice Reminders (and Get Paid Faster)",
+      "url": "https://dev.to/sohel_ahmed_43118ea146970/how-small-businesses-can-automate-invoice-reminders-and-get-paid-faster-59e7",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-24T07:36:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: For most small businesses, late payment is not a money problem. It is a memory problem. The client meant to pay, the invoice slipped down the inbox, and nobody thought about it aga",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
     }
   ]
 }

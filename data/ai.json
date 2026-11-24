@@ -1,31 +1,25 @@
 {
-  "updated_at": "2026-11-23T05:49:44.887Z",
+  "updated_at": "2026-11-24T08:27:55.861Z",
   "items": [
     {
-      "title": "Can Anthropic afford to put safety first?",
-      "url": "https://www.theverge.com/podcast/1038701/anthropic-ipo-ai-safety-openai-nvidia-structure",
+      "title": "Claude AI can review pull requests and ship fixes on its own now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040134/anthropic-claude-ship-ai-pull-requests",
       "source": "The Verge AI",
-      "published_at": "2026-11-21T15:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Today, I’m talking with Hayden Field, The Verge’s senior AI reporter, about the Anthropic IPO for the third and final episode in our series about AI in real life. The AI lab behind",
+      "published_at": "2026-11-23T20:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic is launching some new Claude AI features to help software engineers ship code. As part of a new Claude Ship product being announced today, Claude now can review, fix, and",
       "tags": [
-        "GPT/OpenAI",
         "Claude/Anthropic",
         "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "NotebookLM",
-        "Hot",
+        "Notion Update",
         "Release"
       ],
       "buckets": [
         "llm",
         "agents",
-        "rag",
-        "eval",
-        "prod",
+        "update",
         "hot"
       ],
-      "score": 206
+      "score": 121
     },
     {
       "title": "Introducing Tool Retrieval in the Gemini API",
@@ -50,53 +44,37 @@
       "score": 107
     },
     {
-      "title": "Anthropic mathematician claims to have solved prestigious Millennium Prize problem with Claude",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1010051/anthropic-riemann-hypothesis-millennium-prize-problem",
+      "title": "Nvidia CEO Jensen Huang is back. What happens next?",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1030422/nvidia-jensen-huang-ai-china-alice-huang",
       "source": "The Verge AI",
-      "published_at": "2026-11-20T16:34:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Anthropic went public on November 19th, 2026. | Photo: Getty Images Anthropic mathematician Levent Alpöge claims he has proved the Riemann hypothesis, one of mathematics's most not",
+      "published_at": "2026-11-23T22:10:32.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After the leather-jacketed CEO, president, and co-founder of Nvidia, Jensen Huang, acknowledged an affair with Megaspeed exec Alice Huang, his company initially announced an invest",
       "tags": [
-        "GPT/OpenAI",
-        "Claude/Anthropic",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "hot"
-      ],
-      "score": 102
-    },
-    {
-      "title": "We haven’t seen the last of the major tech outages",
-      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
-      "source": "The Verge AI",
-      "published_at": "2026-11-22T22:48:02.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Over the last week or so, we have seen a nationwide FAA ground stop, a multi-day Outlook outage that brought entire companies to a standstill, and a banking outage at JPMorgan Chas",
-      "tags": [
-        "Notion Status",
+        "RAG/Vector",
+        "Multimodal",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "status",
+        "rag",
+        "multimodal",
         "hot"
       ],
-      "score": 75
+      "score": 91
     },
     {
-      "title": "Binding of Isaac developer removes AI music from Repentance Plus",
-      "url": "https://www.theverge.com/games/1039770/binding-of-isaac-ai-music",
+      "title": "White House brags that Trump was ‘totally involved’ in getting Jensen reinstated",
+      "url": "https://www.theverge.com/policy/1040096/trump-nvidia-jensen-huang-reinstated",
       "source": "The Verge AI",
-      "published_at": "2026-11-22T17:25:20.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Binding of Isaac: Repentance Plus has spent the last few days getting review-bombed on Steam after it was discovered that a particular segment of the game used AI music. Reddit",
+      "published_at": "2026-11-23T16:30:11.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It sure looked like President Donald Trump played a role in Jensen Huang's reinstatement as Nvidia CEO - and now the White House is making sure everyone knows he was. \"President Tr",
       "tags": [
-        "NotebookLM",
-        "Creators",
+        "RAG/Vector",
+        "Hot",
         "Release"
       ],
       "buckets": [
-        "prod",
-        "creators",
+        "rag",
         "hot"
       ],
       "score": 75
@@ -120,55 +98,25 @@
       "score": 71
     },
     {
-      "title": "Signal is blocking Gemini and Siri AI from reading your screen",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1038390/signal-blocking-ai-agent-screenshots-mobile-app",
-      "source": "The Verge AI",
-      "published_at": "2026-11-20T12:30:47.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Signal users on iOS will see this option to toggle blocking screenshots and preventing Siri AI from scanning on-screen content. | Image: Signal Signal is restricting the ability to",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI Blog",
+      "published_at": "2026-11-23T17:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Get more helpful Search responses by securely opting in to connect Google Wallet, Drive, and the Gemini app to Personal Intelligence in AI Mode.",
       "tags": [
-        "Gemini/Google",
-        "Agents"
-      ],
-      "buckets": [
-        "llm",
-        "agents"
-      ],
-      "score": 71
-    },
-    {
-      "title": "Progress map for the Lean formalization of Alessandro Masullo's manuscript",
-      "url": "https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T23:12:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://claude.ai/artifact/CtQyX8qfYAF822bgHJHHE3 Comments URL: https://news.ycombinator.com/item?id=50605045 Points: 197 # Comments: 154",
-      "tags": [
-        "Claude/Anthropic"
+        "Gemini/Google"
       ],
       "buckets": [
         "llm"
       ],
-      "score": 65
+      "score": 60
     },
     {
-      "title": "Perplexity and Intelligence",
-      "url": "https://openai.com/index/perplexity-and-intelligence/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T17:06:27.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://openai.com/index/perplexity-and-intelligence/ Comments URL: https://news.ycombinator.com/item?id=50601525 Points: 539 # Comments: 365",
-      "tags": [
-        "GPT/OpenAI"
-      ],
-      "buckets": [
-        "llm"
-      ],
-      "score": 65
-    },
-    {
-      "title": "The vibe-coding revolution is coming to all the gadgets",
-      "url": "https://www.theverge.com/column/1039139/vibe-coding-gadgets-tv-camera",
+      "title": "Oregon and Virginia sue SpaceX over Grok’s porn deepfakes",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040255/x-grok-ai-deepfakes-oregon-virginia-lawsuit",
       "source": "The Verge AI",
-      "published_at": "2026-11-22T13:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on the vibe-hacking of everything, follow David Pierce. The Stepback arriv",
+      "published_at": "2026-11-23T18:26:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: In separate but similar lawsuits filed on Monday, Oregon Attorney General Dan Rayfield and Virginia Attorney General Jay Jones accused SpaceX of violating state consumer protection",
       "tags": [
         "Hot",
         "Release"
@@ -177,22 +125,6 @@
         "hot"
       ],
       "score": 55
-    },
-    {
-      "title": "The week everything fell apart",
-      "url": "https://www.theverge.com/podcast/1038419/outage-outlook-ground-stop-tech-failure-vergecast",
-      "source": "The Verge AI",
-      "published_at": "2026-11-20T14:06:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: There was a dayslong Outlook outage. A nationwide ground stop for only the second time in 25 years. Banks seemed to suddenly stop working. Even iCloud couldn't stay up and running.",
-      "tags": [
-        "Notion Status",
-        "Hot"
-      ],
-      "buckets": [
-        "status",
-        "hot"
-      ],
-      "score": 52
     },
     {
       "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
@@ -209,38 +141,6 @@
         "multimodal"
       ],
       "score": 51
-    },
-    {
-      "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "url": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-      "source": "Google AI Blog",
-      "published_at": "2026-09-28T19:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-      "tags": [
-        "Gemini/Google",
-        "Multimodal"
-      ],
-      "buckets": [
-        "llm",
-        "multimodal"
-      ],
-      "score": 51
-    },
-    {
-      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
-      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
-      "source": "MIT News AI",
-      "published_at": "2026-11-20T21:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models",
-      "tags": [
-        "Multimodal",
-        "Hot"
-      ],
-      "buckets": [
-        "multimodal",
-        "hot"
-      ],
-      "score": 48
     },
     {
       "title": "Experience the art and legacy of Dr. Esther Mahlangu",
@@ -323,46 +223,20 @@
       "score": 45
     },
     {
-      "title": "GL.iNet Security Notice 2026-11-20",
-      "url": "https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T23:06:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.gl-inet.com/en-us/blogs/blog/glinet-security-notice-2026-11-20 Comments URL: https://news.ycombinator.com/item?id=50604988 Points: 142 # Comments: 66",
-      "tags": [
-        "Hot"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 45
-    },
-    {
-      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
-      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "title": "Q&A: Enabling more human-like interactions and understanding in multimodal foundation models",
+      "url": "https://news.mit.edu/2026/qa-enabling-more-human-interactions-understanding-multimodal-foundation-models-1120",
       "source": "MIT News AI",
-      "published_at": "2026-11-23T05:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
+      "published_at": "2026-11-20T21:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Senior Research Scientist Jim Glass discusses how his MIT-IBM Computing Research Lab collaboration connects perception and language, and addresses the shortcoming of current models",
       "tags": [
+        "Multimodal",
         "Hot"
       ],
       "buckets": [
+        "multimodal",
         "hot"
       ],
-      "score": 45
-    },
-    {
-      "title": "A Partial Evaluator for C",
-      "url": "https://phoenix.labri.fr/software/tempo/",
-      "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T04:51:48.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://phoenix.labri.fr/software/tempo/ Comments URL: https://news.ycombinator.com/item?id=50607627 Points: 6 # Comments: 0",
-      "tags": [
-        "Eval/Observability"
-      ],
-      "buckets": [
-        "eval"
-      ],
-      "score": 43
+      "score": 36
     },
     {
       "title": "Walter Isaacson on curiosity and creativity in the AI age.",
@@ -519,11 +393,11 @@
       "score": 35
     },
     {
-      "title": "DeFlock Amerca Facebook Group Suspended as a Dangerous Organization",
-      "url": "https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/",
+      "title": "Kagi Mail (public beta)",
+      "url": "https://blog.kagi.com/kagi-mail-public-beta",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T04:31:32.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.facebook.com/shugvermonte/posts/the-deflock-america-group-with-over-840k-members-has-been-suspended-by-meta-what/10165140280736049/ Comments URL: https://n",
+      "published_at": "2026-11-23T17:17:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://blog.kagi.com/kagi-mail-public-beta Comments URL: https://news.ycombinator.com/item?id=50615481 Points: 411 # Comments: 323",
       "tags": [
         "Release"
       ],
@@ -533,11 +407,11 @@
       "score": 35
     },
     {
-      "title": "The Birds of GTA 6: A Field Guide to Vice City and Leonida's Wildlife",
-      "url": "https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife",
+      "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T19:10:34.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.audubon.org/magazine/birds-of-gta-6-field-guide-vice-city-wildlife Comments URL: https://news.ycombinator.com/item?id=50602843 Points: 424 # Comments: 212",
+      "published_at": "2026-11-23T17:07:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://twitter.com/ylecun/status/2124550037912920090 Comments URL: https://news.ycombinator.com/item?id=50615308 Points: 1583 # Comments: 889",
       "tags": [
         "Release"
       ],
@@ -547,11 +421,67 @@
       "score": 35
     },
     {
-      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
-      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
+      "title": "Welcome to elite impunity, Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040819/welcome-to-elite-impunity-jensen-huang",
       "source": "The Verge AI",
-      "published_at": "2026-11-20T18:50:19.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: President Donald Trump promised to put a \"tremendous tax\" on companies that build data centers outside of the US, even as states and cities around the country are placing restricti",
+      "published_at": "2026-11-23T22:09:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Too big to fail, the sequel. | Image: The Verge; Getty Images I suppose I must issue a hearty congratulations to Jensen Huang. Huang is CEO of Nvidia again, to the surprise of basi",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "AI data centers throw another wrench into chaotic UN climate talks",
+      "url": "https://www.theverge.com/science/1040497/ai-data-centers-electricity-un-climate-summit",
+      "source": "The Verge AI",
+      "published_at": "2026-11-23T21:09:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: People protest outside the plenary ahead of the closing plenary session on the final day of the COP31 UNFCCC climate conference on November 20th in Antalya, Turkey. | Photo: Getty ",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "How Jensen Huang ended up as Nvidia CEO again",
+      "url": "https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return",
+      "source": "The Verge AI",
+      "published_at": "2026-11-23T19:57:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resi",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "Nothing’s upcoming Ear Note is a pair of earbuds with AI transcription",
+      "url": "https://www.theverge.com/gadgets/1040357/nothing-ear-note-earbuds-ai-recording",
+      "source": "The Verge AI",
+      "published_at": "2026-11-23T19:04:52.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Nothing's new AI device is the Ear Note, a set of earbuds and their microphone-equipped charging case that can record and transcribe conversations, with a connected app to manage t",
+      "tags": [
+        "Release"
+      ],
+      "buckets": [
+        "hot"
+      ],
+      "score": 35
+    },
+    {
+      "title": "AI-driven technique could help engineers design analog chips faster and with less expense",
+      "url": "https://news.mit.edu/2026/ai-driven-technique-could-help-engineers-design-analog-chips-faster-and-less-expensive-1123",
+      "source": "MIT News AI",
+      "published_at": "2026-11-23T05:00:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: The “SLIC” training method enables a small LLM to compete with much more resource-intensive models in complex circuit design tasks.",
       "tags": [
         "Hot"
       ],
@@ -561,141 +491,211 @@
       "score": 32
     },
     {
-      "title": "Mass destruction of weapons",
-      "url": "https://computer.rip/2026-11-22-mass-destruction-of-weapons.html",
+      "title": "2035 Came Early",
+      "url": "https://fzakaria.com/2026/11/23/2035-came-early",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T04:47:35.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://computer.rip/2026-11-22-mass-destruction-of-weapons.html Comments URL: https://news.ycombinator.com/item?id=50607591 Points: 7 # Comments: 3",
+      "published_at": "2026-11-24T06:30:33.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fzakaria.com/2026/11/23/2035-came-early Comments URL: https://news.ycombinator.com/item?id=50624497 Points: 8 # Comments: 0",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "XNU Linux: Full OS X GUI Userspace on Linux",
-      "url": "https://github.com/AFK-surf/xnulinux",
+      "title": "India's opposition storms Meta's offices to get its Instagram accounts back",
+      "url": "https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T03:49:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/AFK-surf/xnulinux Comments URL: https://news.ycombinator.com/item?id=50607261 Points: 81 # Comments: 29",
+      "published_at": "2026-11-24T06:28:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://korben.info/en/india-opposition-storms-meta-offices-instagram-accounts.html Comments URL: https://news.ycombinator.com/item?id=50624487 Points: 189 # Comments:",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The New Docker: Built to Run on Trust",
-      "url": "https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/",
+      "title": "AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years",
+      "url": "https://www.phoronix.com/review/amd-epyc-9006-7601",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T03:34:29.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.docker.com/blog/meet-the-new-docker-built-to-run-on-trust/ Comments URL: https://news.ycombinator.com/item?id=50607194 Points: 23 # Comments: 31",
+      "published_at": "2026-11-24T05:15:22.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.phoronix.com/review/amd-epyc-9006-7601 Comments URL: https://news.ycombinator.com/item?id=50624061 Points: 41 # Comments: 10",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Treemap of the Riemann Hypothesis Lean Proof",
-      "url": "https://pengowray.github.io/riemann-zeta-proof-visualizer/",
+      "title": "Drone Maps of Salvage Yards",
+      "url": "https://salvageyarddrone.wordpress.com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T01:50:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://pengowray.github.io/riemann-zeta-proof-visualizer/ Comments URL: https://news.ycombinator.com/item?id=50606499 Points: 22 # Comments: 3",
+      "published_at": "2026-11-24T04:00:28.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://salvageyarddrone.wordpress.com/ Comments URL: https://news.ycombinator.com/item?id=50623515 Points: 64 # Comments: 24",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Free alternative TV network built from the Internet Archive's forgotten videos",
-      "url": "https://spelunkr.tv",
+      "title": "Making a dumb TV just smart enough",
+      "url": "https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T01:13:51.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://spelunkr.tv Comments URL: https://news.ycombinator.com/item?id=50606192 Points: 304 # Comments: 48",
+      "published_at": "2026-11-24T02:46:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/ Comments URL: https://news.ycombinator.com/item?id=50622934 Points: 61 # Comments: 19",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "What we learned operating auth for 1k APIs",
-      "url": "https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/",
+      "title": "Declare is a UI language for you and your AI",
+      "url": "https://davidtemkin.github.io/declarelang/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-23T01:01:11.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nango.dev/blog/lessons-from-operating-api-auth-for-900-apis/ Comments URL: https://news.ycombinator.com/item?id=50606072 Points: 27 # Comments: 3",
+      "published_at": "2026-11-24T02:36:56.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://davidtemkin.github.io/declarelang/ Comments URL: https://news.ycombinator.com/item?id=50622854 Points: 46 # Comments: 36",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "0rwx – A simple model of AI usage, inspired by Unix permissions",
-      "url": "https://0rwx.com/",
+      "title": "Rune: Rust VM for Emacs",
+      "url": "https://github.com/CeleritasCelery/rune",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T23:53:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://0rwx.com/ Comments URL: https://news.ycombinator.com/item?id=50605445 Points: 34 # Comments: 6",
+      "published_at": "2026-11-24T02:30:47.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/CeleritasCelery/rune Comments URL: https://news.ycombinator.com/item?id=50622804 Points: 32 # Comments: 8",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The Usefulness of Useless Knowledge [pdf] (1939)",
-      "url": "https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf",
+      "title": "New York Bans Subscription and Post-Purchase Fees on Cars",
+      "url": "https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T22:10:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.ias.edu/sites/default/files/library/UsefulnessHarpers.pdf Comments URL: https://news.ycombinator.com/item?id=50604472 Points: 97 # Comments: 17",
+      "published_at": "2026-11-24T02:27:02.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription Comments URL: https://news.ycombinator.com",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "The struggle for freedom: How BSD escaped AT&T licensing",
-      "url": "https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/",
+      "title": "The Power of GraphQL, Without GraphQL",
+      "url": "https://cobalt27.dev/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T21:33:12.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://fosscomics.com/posts/16.%20BSD%20Unix%20Part%206%20-%20The%20Struggle%20for%20Freedom/ Comments URL: https://news.ycombinator.com/item?id=50604123 Points: 85 #",
+      "published_at": "2026-11-24T00:03:59.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://cobalt27.dev/ Comments URL: https://news.ycombinator.com/item?id=50621466 Points: 47 # Comments: 22",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
-      "url": "https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth",
+      "title": "The search for a top dark matter candidate",
+      "url": "https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T21:01:16.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.gpupartner.com/blog/beginners-guide-local-ai-inkling-qwen-unsloth Comments URL: https://news.ycombinator.com/item?id=50603845 Points: 370 # Comments: 149",
+      "published_at": "2026-11-23T23:12:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "A miniature San Francisco with live buses, planes and boats",
-      "url": "https://smallsf.com/",
+      "title": "Freeing the iPod Nano 5G",
+      "url": "https://viktorkrapivin.com/blog/nano5g-priv-prvd",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T20:33:23.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://smallsf.com/ Comments URL: https://news.ycombinator.com/item?id=50603589 Points: 209 # Comments: 82",
+      "published_at": "2026-11-23T23:03:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://viktorkrapivin.com/blog/nano5g-priv-prvd Comments URL: https://news.ycombinator.com/item?id=50620721 Points: 97 # Comments: 9",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Nyx, the Oldest Internet Service Provider",
-      "url": "https://nyx.net/",
+      "title": "Stalwart is now a drop-in replacement for Microsoft Exchange",
+      "url": "https://stalw.art/blog/microsoft-exchange-replacement/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T20:15:59.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://nyx.net/ Comments URL: https://news.ycombinator.com/item?id=50603465 Points: 119 # Comments: 15",
+      "published_at": "2026-11-23T22:32:29.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://stalw.art/blog/microsoft-exchange-replacement/ Comments URL: https://news.ycombinator.com/item?id=50620349 Points: 413 # Comments: 211",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "Assume People Are Not Interested in Your Blog Post",
-      "url": "https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/",
+      "title": "Latent Introspection: LLMs Can Detect Prior Concept Injections",
+      "url": "https://arxiv.org/abs/2602.20031",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T19:41:30.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://danielsada.tech/blog/assume-people-are-not-interested-in-your-blog-post/ Comments URL: https://news.ycombinator.com/item?id=50603143 Points: 130 # Comments: 60",
+      "published_at": "2026-11-23T22:29:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arxiv.org/abs/2602.20031 Comments URL: https://news.ycombinator.com/item?id=50620328 Points: 55 # Comments: 4",
       "tags": [],
       "buckets": [],
       "score": 25
     },
     {
-      "title": "What Happened to Silicon Valley?",
-      "url": "https://www.oreilly.com/radar/what-happened-to-silicon-valley/",
+      "title": "Bored.com: Fun, interesting and cool websites to explore when bored",
+      "url": "https://www.bored.com/",
       "source": "Hacker News (LLM)",
-      "published_at": "2026-11-22T19:20:15.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.oreilly.com/radar/what-happened-to-silicon-valley/ Comments URL: https://news.ycombinator.com/item?id=50602947 Points: 546 # Comments: 295",
+      "published_at": "2026-11-23T21:01:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://www.bored.com/ Comments URL: https://news.ycombinator.com/item?id=50619207 Points: 223 # Comments: 47",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "GPUI is getting its own repository",
+      "url": "https://github.com/zed-industries/gpui",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-23T20:52:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://github.com/zed-industries/gpui Comments URL: https://news.ycombinator.com/item?id=50619103 Points: 240 # Comments: 89",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Per Arm's request, this site will be discontinued on 4 December 2026 :(",
+      "url": "https://arm.jonpalmisc.com/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-23T19:17:55.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://arm.jonpalmisc.com/ Comments URL: https://news.ycombinator.com/item?id=50617499 Points: 1002 # Comments: 230",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Ladybird is now in alpha",
+      "url": "https://ladybird.org/posts/alpha/",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-23T16:13:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Article URL: https://ladybird.org/posts/alpha/ Comments URL: https://news.ycombinator.com/item?id=50614249 Points: 1798 # Comments: 415",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Nvidia Reinstates Jensen Huang as CEO",
+      "url": "https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html",
+      "source": "Hacker News (LLM)",
+      "published_at": "2026-11-23T14:00:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: https://nvidianews.nvidia.com/news/nvidia-board-reinstates-j... https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-congress... Comments URL: https://news.ycombinator.com/item?id=5",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Many languages, one common neural code",
+      "url": "https://news.mit.edu/2026/many-languages-one-common-neural-code-1123",
+      "source": "MIT News AI",
+      "published_at": "2026-11-23T21:15:00.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Analyzing speakers of 21 languages, an MIT study using multilingual AI finds the human brain may represent meaning in much the same way.",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge AI",
+      "published_at": "2026-11-23T22:25:12.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After Nvidia's board accepted Jensen Huang's resignation as CEO, following reports that Huang had an affair with an alleged Chinese spy, President Donald Trump, too, appeared to su",
+      "tags": [],
+      "buckets": [],
+      "score": 25
+    },
+    {
+      "title": "Tech leaders are celebrating Jensen Huang’s return",
+      "url": "https://www.theverge.com/tech/1040069/jensen-huang-return-elon-musk-sam-altman-yay",
+      "source": "The Verge AI",
+      "published_at": "2026-11-23T16:14:04.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Let's say you're Jensen Huang. You (allegedly) cheated on your wife with an alleged Chinese spy, allegedly had an affair with not one, but two subordinates, and (allegedly!) \"terro",
       "tags": [],
       "buckets": [],
       "score": 25
@@ -711,34 +711,6 @@
       ],
       "buckets": [
         "update"
-      ],
-      "score": 22
-    },
-    {
-      "title": "The UN fails to agree on rules regulating ‘killer robots’",
-      "url": "https://www.theverge.com/tech/1039554/un-regulations-killer-robots",
-      "source": "The Verge AI",
-      "published_at": "2026-11-21T20:03:37.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: One of the items on the agenda for UN diplomats meeting in Geneva this week was working towards rules regarding the use of autonomous weapons, or so-called \"killer robots.\" Eventua",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
-      ],
-      "score": 22
-    },
-    {
-      "title": "Chess.com’s next move is a new hub for classic games, from mahjong to sudoku",
-      "url": "https://www.theverge.com/games/1038099/chess-classic-games-expansion-ai",
-      "source": "The Verge AI",
-      "published_at": "2026-11-21T14:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Chess.com is ready to go a lot bigger than chess. After launching Gambit, a gambling-free poker site, earlier this year, the company is now adding 10 more games: backgammon, checke",
-      "tags": [
-        "Release"
-      ],
-      "buckets": [
-        "hot"
       ],
       "score": 22
     },
@@ -823,20 +795,6 @@
       ],
       "buckets": [
         "hot"
-      ],
-      "score": 20
-    },
-    {
-      "title": "Who we become when we talk to machines",
-      "url": "https://news.mit.edu/2026/when-we-talk-to-machines-sherry-turkle-book-0929",
-      "source": "MIT News AI",
-      "published_at": "2026-09-29T04:00:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Professor Sherry Turkle’s new book, “Artificial Intimacy,” offers a withering critique of chatbots and the antisocial dynamics she believes they encourage.",
-      "tags": [
-        "RAG/Vector"
-      ],
-      "buckets": [
-        "rag"
       ],
       "score": 20
     }
