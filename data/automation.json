@@ -1,158 +1,40 @@
 {
-  "updated_at": "2026-11-27T06:48:08.809Z",
+  "updated_at": "2026-11-28T06:21:55.165Z",
   "items": [
     {
-      "title": "Why 90% of 'Best VPS for n8n' Benchmarks Lie: Live 4K fsync Tail Latency, SQLite Lock Death & What Survived on a $4/mo Xeon",
-      "url": "https://dev.to/yuanqiang_leng_79a0c309a2/why-90-of-best-vps-for-n8n-benchmarks-lie-live-4k-fsync-tail-latency-sqlite-lock-death-what-3a5l",
+      "title": "Track Chinese market trends (Weibo & Bilibili) in English with Claude — and cut RAG PDF bills by 80%",
+      "url": "https://dev.to/aliasdatastudio/how-to-feed-real-time-chinese-social-intelligence-bilibili-weibo-and-clean-pdf-markdown-into-1jg",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-27T01:34:24.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published with interactive calculators & raw Linux 6.8 telemetry at NodeBudget. TL;DR: Almost every cheap-VPS review prints a cached sequential dd number and recommends ",
+      "published_at": "2026-11-27T18:58:45.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Two recurring problems come up for teams doing market research or building RAG pipelines: You want to know what Chinese consumers, gamers, or investors are actually saying about yo",
       "tags": [
-        "GPT/OpenAI",
         "Claude/Anthropic",
         "Agents",
         "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 239
-    },
-    {
-      "title": "The AI Agent Billing Trap: Why One Multi-Step Agent Destroys Zapier & Make Budgets (And 3 Cases Where Self-Hosting Is a Mistake)",
-      "url": "https://dev.to/yuanqiang_leng_79a0c309a2/the-ai-agent-billing-trap-why-one-multi-step-agent-destroys-zapier-make-budgets-and-3-cases-178j",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-27T01:34:28.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published with interactive calculators & raw Linux 6.8 telemetry at NodeBudget. TL;DR: SaaS automation meters were built for 2-step deterministic Zaps, not 10-step tool-",
-      "tags": [
-        "Agents",
-        "RAG/Vector",
-        "Multimodal",
         "NotebookLM",
-        "Make",
         "n8n",
-        "Zapier",
-        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
+        "llm",
         "agents",
         "rag",
-        "multimodal",
         "prod",
-        "make",
         "n8n",
-        "zapier",
-        "creators",
         "hot"
       ],
-      "score": 223
+      "score": 185
     },
     {
-      "title": "Oracle Cloud Free Tier Reclamation & Sudden Account Bans (Nov 2026): The 15-Minute Zero-Data-Loss n8n Escape Guide",
-      "url": "https://dev.to/yuanqiang_leng_79a0c309a2/oracle-cloud-free-tier-reclamation-sudden-account-bans-nov-2026-the-15-minute-zero-data-loss-oh",
+      "title": "Build an n8n AI Agent with GMI Cloud's community node",
+      "url": "https://dev.to/himanshu_748/build-an-n8n-ai-agent-with-gmi-clouds-community-node-30m6",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-27T04:24:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published with interactive calculators & raw Linux 6.8 telemetry at NodeBudget. TL;DR: Oracle Cloud’s Always Free 4-OCPU / 24 GB Ampere A1 tier is unbeatable for throwaw",
+      "published_at": "2026-11-27T15:47:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I wanted an n8n AI Agent that talks to GMI Cloud without me pasting a custom OpenAI base URL into the generic OpenAI credentials every time. So I built a community node for it, n8n",
       "tags": [
         "GPT/OpenAI",
-        "Agents",
-        "RAG/Vector",
-        "Multimodal",
-        "n8n",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "multimodal",
-        "n8n",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 217
-    },
-    {
-      "title": "OpenClaw vs Hermes Agent vs NanoClaw vs ZeroClaw (Nov 2026): Security Blast Radius, Real RAM Footprint & the 24/7 Heartbeat Tax",
-      "url": "https://dev.to/yuanqiang_leng_79a0c309a2/openclaw-vs-hermes-agent-vs-nanoclaw-vs-zeroclaw-nov-2026-security-blast-radius-real-ram-2j52",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-27T03:55:44.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Originally published with interactive calculators & raw Linux 6.8 telemetry at NodeBudget. TL;DR: OpenClaw is not dead—it sits near 390k GitHub stars and shipped v2026.11.10 this m",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Multimodal",
-        "n8n",
-        "Notion Status",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "multimodal",
-        "n8n",
-        "status",
-        "creators",
-        "hot"
-      ],
-      "score": 217
-    },
-    {
-      "title": "Audit Google Workspace OAuth Risks with MCP & n8n",
-      "url": "https://dev.to/jvccvctus/audit-google-workspace-oauth-risks-with-mcp-n8n-493i",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-27T01:47:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Google Workspace OAuth auditing maps add-on permission URIs (drive, gmail.*, admin.*) to Google's official restricted, sensitive, and non-sensitive verification tiers so security t",
-      "tags": [
-        "Claude/Anthropic",
-        "Agents",
-        "RAG/Vector",
-        "Eval/Observability",
-        "n8n",
-        "Creators",
-        "Hot",
-        "Release"
-      ],
-      "buckets": [
-        "llm",
-        "agents",
-        "rag",
-        "eval",
-        "n8n",
-        "creators",
-        "hot"
-      ],
-      "score": 199
-    },
-    {
-      "title": "Agentic AI Trainer in Pune: Fixed Workflow, AI Step or Full Agent?",
-      "url": "https://dev.to/rushabh_3f5acfe17e0cb07b7/agentic-ai-trainer-in-pune-fixed-workflow-ai-step-or-full-agent-37fk",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-27T04:31:39.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: By Rushabh Mehta, corporate AI trainer and coach, and founder of Special Forces of AI (Mumbai). Adapted from his guide on agentic AI trainer in Pune. If a team rebuilds the same re",
-      "tags": [
-        "Claude/Anthropic",
+        "Gemini/Google",
         "Agents",
         "n8n",
         "Hot",
@@ -164,160 +46,273 @@
         "n8n",
         "hot"
       ],
-      "score": 143
+      "score": 178
     },
     {
-      "title": "GitHub's Agent Host Protocol: your coding agent finally outlives the editor window",
-      "url": "https://dev.to/alfazreviews/githubs-agent-host-protocol-your-coding-agent-finally-outlives-the-editor-window-35of",
+      "title": "AI News Today: Schools, Billing, and Cyberattacks",
+      "url": "https://dev.to/autonomous/ai-news-today-schools-billing-and-cyberattacks-4hm",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T04:37:40.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Your coding agent used to die when you closed the editor. GitHub Copilot began as a VS Code extension with its own bundled harness. That gave you agents inside VS Code, but it tied",
+      "published_at": "2026-11-28T04:00:57.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: \\n\\nArtificial intelligence is creating very different kinds of pressure this week: school districts are tightening controls, a major AI vendor is correcting how usage gets billed,",
       "tags": [
+        "GPT/OpenAI",
+        "Gemini/Google",
+        "Agents",
+        "Notion Status",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "status",
+        "hot"
+      ],
+      "score": 174
+    },
+    {
+      "title": "How to Get Exact Unrounded Sold Counts & Live Bags from Shopee Across 8 Markets (Python, Node.js & n8n)",
+      "url": "https://dev.to/jistudio/how-to-get-exact-unrounded-sold-counts-live-bags-from-shopee-across-8-markets-python-nodejs--3k9i",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-28T06:16:18.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you have ever built a price or competitor tracker for Shopee across Southeast Asia, Taiwan, or Brazil (VN, ID, TH, PH, MY, SG, TW, BR), you quickly hit two annoying problems: Ro",
+      "tags": [
+        "Claude/Anthropic",
         "Agents",
         "NotebookLM",
         "n8n",
-        "Hot",
-        "Release"
+        "Creators",
+        "Hot"
       ],
       "buckets": [
+        "llm",
         "agents",
         "prod",
         "n8n",
+        "creators",
         "hot"
       ],
-      "score": 125
+      "score": 173
     },
     {
-      "title": "5 things Zapier, n8n and Make can't do (and why that's not a bug)",
-      "url": "https://dev.to/tamtree_io/5-things-zapier-n8n-and-make-cant-do-and-why-thats-not-a-bug-2l1g",
+      "title": "How to Connect n8n AI Agents to B2B Lead Scrapers via MCP & Zero-Key APIs (16 Free Workflows)",
+      "url": "https://dev.to/truonggiang0111/how-to-connect-n8n-ai-agents-to-b2b-lead-scrapers-via-mcp-zero-key-apis-16-free-workflows-145b",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-26T23:32:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Zapier, n8n and Make are good at the job they were built for: something happens The five things below aren't features you can file a ticket for. Each one needs Think of a workflow ",
+      "published_at": "2026-11-27T16:16:10.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: If you wire @n8n/n8n-nodes-langchain.agent to market data, B2B lead sources, or Google News RAG feeds, here are 3 ways to connect without local Chromium containers or brittle regex",
       "tags": [
         "Agents",
+        "RAG/Vector",
+        "NotebookLM",
         "n8n",
-        "Zapier",
+        "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
+        "rag",
+        "prod",
         "n8n",
-        "zapier",
+        "creators",
+        "hot"
+      ],
+      "score": 163
+    },
+    {
+      "title": "Half my Claude Code usage limit went to typing, so I made a free model do it",
+      "url": "https://dev.to/brenoalvim/half-my-claude-code-usage-limit-went-to-typing-so-i-made-a-free-model-do-it-20po",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-28T04:55:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: You hit the Claude Code limit at 3pm. You scroll back through the session and half the tokens went to typing: a rename across 20 files, boilerplate, tests from a spec you had alrea",
+      "tags": [
+        "Claude/Anthropic",
+        "Agents",
+        "RAG/Vector",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "llm",
+        "agents",
+        "rag",
+        "creators",
+        "hot"
+      ],
+      "score": 157
+    },
+    {
+      "title": "Amazon Seller REST API Data: How to Automate Catalog, Margin, and Keyword Pipelines Without Fragile Scrapers",
+      "url": "https://dev.to/sellerscope_2682e8a5/amazon-seller-rest-api-data-how-to-automate-catalog-margin-and-keyword-pipelines-without-fragile-5bfe",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-28T04:03:37.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: AEO Quick Answer / AI Overview Snapshot: Automating amazon seller rest api data eliminates brittle DOM scrapers, CAPTCHA blocks, and repetitive CSV exports by querying structured J",
+      "tags": [
+        "RAG/Vector",
+        "Multimodal",
+        "NotebookLM",
+        "Creators",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "rag",
+        "multimodal",
+        "prod",
+        "creators",
+        "hot"
+      ],
+      "score": 131
+    },
+    {
+      "title": "Emails and phones from a contact page scraper with n8n (free workflow)",
+      "url": "https://dev.to/scraperfinder/emails-and-phones-from-a-contact-page-scraper-with-n8n-free-workflow-51d0",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-27T14:15:16.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last updated: 27 November 2026 This n8n workflow returns one normalized record per website with public emails, phone numbers and social profile links. Import it, add your Apify tok",
+      "tags": [
+        "Agents",
+        "RAG/Vector",
+        "n8n",
+        "Hot",
+        "Release"
+      ],
+      "buckets": [
+        "agents",
+        "rag",
+        "n8n",
         "hot"
       ],
       "score": 123
     },
     {
-      "title": "Ansible Explained: Configuration Management and Automation for Beginners",
-      "url": "https://dev.to/mayur_bodhare/ansible-explained-configuration-management-and-automation-for-beginners-15h0",
+      "title": "How I put out a weekly newsletter on what's new in audio tech",
+      "url": "https://dev.to/audiotechnews/how-i-put-out-a-weekly-newsletter-on-whats-new-in-audio-tech-2jf9",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:19:07.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Imagine you are managing ten Linux servers. You need to install Java on all ten servers, configure Nginx on five servers, create application directories, deploy your application, a",
+      "published_at": "2026-11-28T04:26:01.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: I edit AudioTech News, a free weekly newsletter on the gear, software, and standards that change how sound gets made. It is written for audio engineers, producers, podcasters, broa",
       "tags": [
         "Agents",
         "RAG/Vector",
-        "NotebookLM",
+        "Notion Update",
         "Hot",
         "Release"
       ],
       "buckets": [
         "agents",
         "rag",
-        "prod",
+        "update",
         "hot"
       ],
       "score": 121
     },
     {
-      "title": "Lab-test booking by voice: catalogue, collection slots and approved instructions",
-      "url": "https://dev.to/umashree_ha/lab-test-booking-by-voice-catalogue-collection-slots-and-approved-instructions-4hjk",
+      "title": "Laravel AutoBuilder: Visual Workflow Automation for Laravel",
+      "url": "https://dev.to/devtalk94/laravel-autobuilder-visual-workflow-automation-for-laravel-28me",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:12:21.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Lab-booking automation should match catalogue IDs, collection eligibility and approved preparation wording. We keep clinical judgement and private results outside a general schedul",
+      "published_at": "2026-11-28T06:11:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Last updated: 27 November 2026. Verified against Packagist's package page, LaraPlugins.io's package analysis, and a cached project-context file for the GitHub repository; seeHow th",
       "tags": [
-        "Agents",
-        "Eval/Observability",
-        "Make",
+        "RAG/Vector",
+        "n8n",
+        "Zapier",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "agents",
-        "eval",
-        "make",
+        "rag",
+        "n8n",
+        "zapier",
         "hot"
       ],
-      "score": 121
+      "score": 119
     },
     {
-      "title": "Debugging Silent Failures in n8n Workflows – A Practical Checklist",
-      "url": "https://dev.to/mr_thankyou_58b14997d0c77/debugging-silent-failures-in-n8n-workflows-a-practical-checklist-4im7",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-27T00:08:00.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Debugging Silent Failures in n8n Workflows – A Practical Checklist When an n8n workflow finishes without errors but the expected result never appears, you’re dealing with a silent ",
+      "title": "Self-host n8n on a $6.49 VPS: the full setup, start to finish",
+      "url": "https://dev.to/startonline/self-host-n8n-on-a-649-vps-the-full-setup-start-to-finish-49bj",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-28T04:55:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: this post contains affiliate links. If you buy through them, I may earn a commission at no extra cost to you. Prices were checked on 28 November 2026 on hostinger.com a",
       "tags": [
-        "Make",
+        "NotebookLM",
         "n8n",
         "Creators",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "make",
+        "prod",
         "n8n",
         "creators",
         "hot"
       ],
-      "score": 121
+      "score": 119
     },
     {
-      "title": "Connecting an AI Agent to Social Media Scheduling With MCP",
-      "url": "https://dev.to/autoposterai/connecting-an-ai-agent-to-social-media-scheduling-with-mcp-2lmf",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:31:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I'm the developer behind Auto Poster AI. This post was drafted with AI assistance and reviewed by me. AI assistants are good at drafting posts, but they usually stop at",
+      "title": "Automate EU CBAM 2026 Certificate Liability Calculations in n8n & AI Agents (API + MCP)",
+      "url": "https://dev.to/eduardo_pinto_a9f6d50f9a2/automate-eu-cbam-2026-certificate-liability-calculations-in-n8n-ai-agents-api-mcp-3nek",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-27T22:23:36.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: 2026 marks the start of the EU CBAM definitive period (Regulation (EU) 2023/956 + Implementing Regulations 2025/2620 & 2025/2621). Spreadsheets break fast when you have to track: P",
       "tags": [
         "Claude/Anthropic",
         "Agents",
-        "Hot",
-        "Release"
+        "n8n"
       ],
       "buckets": [
         "llm",
         "agents",
-        "hot"
+        "n8n"
       ],
-      "score": 119
+      "score": 113
     },
     {
-      "title": "How to Diagnose and Fix Silent Failures in n8n Workflows",
-      "url": "https://dev.to/mr_thankyou_58b14997d0c77/how-to-diagnose-and-fix-silent-failures-in-n8n-workflows-4om3",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-27T00:09:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: How to Diagnose and Fix Silent Failures in n8n Workflows Published: 2026‑11‑27 When you open an n8n workflow and see the reassuring green checkmark, you expect everything to run sm",
+      "title": "How to Safely Expand Shortened URLs and Detect Phishing Redirect Chains in Bulk",
+      "url": "https://dev.to/godedi/how-to-safely-expand-shortened-urls-and-detect-phishing-redirect-chains-in-bulk-1e14",
+      "source": "Dev.to Automation",
+      "published_at": "2026-11-28T03:58:13.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Shortened links (bit.ly, tinyurl.com, t.co, or custom marketing redirectors) are everywhere in user-generated content, support tickets, and automated data pipelines. Unfortunately,",
       "tags": [
+        "Agents",
         "Eval/Observability",
-        "Make",
         "n8n",
-        "Creators",
-        "Release"
+        "Hot"
       ],
       "buckets": [
+        "agents",
         "eval",
-        "make",
         "n8n",
-        "creators",
         "hot"
       ],
-      "score": 119
+      "score": 111
     },
     {
-      "title": "How Do You Pace Authorized Web Scrapers So You Stay Within a Site's Fair-Use Limits?",
-      "url": "https://dev.to/mafzalkalwardev/how-do-you-pace-authorized-web-scrapers-so-you-stay-within-a-sites-fair-use-limits-5god",
+      "title": "How do I build an instant lead-reply workflow in n8n?",
+      "url": "https://dev.to/jahangiralamai/how-do-i-build-an-instant-lead-reply-workflow-in-n8n-1ool",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-27T20:32:48.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Short answer: use a trigger that receives the lead (a Webhook or Form Trigger node), save the lead to a sheet or CRM, send the first reply by email or WhatsApp right away, and noti",
+      "tags": [
+        "RAG/Vector",
+        "n8n",
+        "Zapier",
+        "Hot"
+      ],
+      "buckets": [
+        "rag",
+        "n8n",
+        "zapier",
+        "hot"
+      ],
+      "score": 109
+    },
+    {
+      "title": "White-label AI voice agents: build, rent or done for you?",
+      "url": "https://dev.to/halyardops/white-label-ai-voice-agents-build-rent-or-done-for-you-33lo",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:56:58.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Short answer Pace an authorized scraper by making the client polite by default: one shared rate limiter, a concurrency cap, retries that honor Retry-After and exponential backoff, ",
+      "published_at": "2026-11-28T04:16:40.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This is a copy of a guide first published on the Halyard Ops site. The original is the version we keep up to date: halyardops.pages.dev/guides/done-for-you-vs-diy-white-label-ai-vo",
       "tags": [
         "Agents",
         "NotebookLM",
@@ -332,11 +327,11 @@
       "score": 101
     },
     {
-      "title": "n8n cold email personalization with AI: step-by-step workflow",
-      "url": "https://dev.to/jitendrakavire/n8n-cold-email-personalization-with-ai-step-by-step-workflow-1f94",
+      "title": "Track new jobs at 50 target companies daily with n8n (almost no code)",
+      "url": "https://dev.to/neverbreakdata/track-new-jobs-at-50-target-companies-daily-with-n8n-almost-no-code-3clb",
       "source": "Dev.to n8n",
-      "published_at": "2026-11-27T05:30:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: This article was first published on n8nebooks.com. If you want to send cold emails that actually get replies, you need to mention something real about each lead. With n8n cold emai",
+      "published_at": "2026-11-27T14:04:26.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I work on NeverBreak Data, which publishes the ATS Jobs Scraper used below on Apify. The workflow is free to copy. The scraper is pay-per-result (about $1.50 per 1,000 ",
       "tags": [
         "GPT/OpenAI",
         "n8n",
@@ -350,129 +345,96 @@
       "score": 99
     },
     {
-      "title": "Building an Integrated ERP Workflow for Indian Businesses with Zoho",
-      "url": "https://dev.to/techvaria/building-an-integrated-erp-workflow-for-indian-businesses-with-zoho-455n",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-27T06:25:03.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: As businesses grow, managing finance, inventory, procurement and manufacturing through separate applications becomes increasingly difficult. Data gets duplicated, reporting takes l",
+      "title": "Lightweight E-Commerce Price Drop & Stock Alert Monitor (Shopify JSON + Schema.org + MCP)",
+      "url": "https://dev.to/eduardo_pinto_a9f6d50f9a2/lightweight-e-commerce-price-drop-stock-alert-monitor-shopify-json-schemaorg-mcp-2nn5",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-27T22:30:31.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most e-commerce price monitors spin up heavy headless Chrome browsers for every product URL—burning RAM and proxy budgets. In reality, 80%+ of online stores expose structured produ",
       "tags": [
-        "Eval/Observability",
-        "Make",
+        "Agents",
+        "n8n",
+        "Hot"
+      ],
+      "buckets": [
+        "agents",
+        "n8n",
+        "hot"
+      ],
+      "score": 93
+    },
+    {
+      "title": "How I Built a 2-Stage Google Maps Cold Email Pipeline in n8n (Free Template)",
+      "url": "https://dev.to/insideai/how-i-built-a-2-stage-google-maps-cold-email-pipeline-in-n8n-free-template-4odn",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-27T18:06:54.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Getting a cold email list is easy. Getting one that doesn't burn your domain is the hard part. Most people do one of three things: Buy a \"10,000 verified leads\" list for $99 → 30% ",
+      "tags": [
+        "n8n",
+        "Creators",
+        "Hot"
+      ],
+      "buckets": [
+        "n8n",
+        "creators",
+        "hot"
+      ],
+      "score": 87
+    },
+    {
+      "title": "Verify signed HelloHop webhooks in n8n and auto-reply on WhatsApp",
+      "url": "https://dev.to/hellohop/verify-signed-hellohop-webhooks-in-n8n-and-auto-reply-on-whatsapp-85p",
+      "source": "Dev.to n8n",
+      "published_at": "2026-11-28T01:38:42.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: A webhook URL is public. Anyone who finds it can POST to it, so a workflow that sends WhatsApp messages in response to webhook events should check that each event really came from ",
+      "tags": [
+        "n8n",
         "Hot",
         "Release"
       ],
       "buckets": [
-        "eval",
-        "make",
-        "hot"
-      ],
-      "score": 97
-    },
-    {
-      "title": "How much RAM and vCPU for n8n, Evolution API and Coolify",
-      "url": "https://dev.to/nuvits/how-much-ram-and-vcpu-for-n8n-evolution-api-and-coolify-79h",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-26T21:10:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: To run Coolify, n8n and Evolution API together on one Ubuntu VPS, the workable floor for light production is 4 vCPU and 8 GB of RAM (tight during Docker builds) and the balanced sw",
-      "tags": [
-        "RAG/Vector",
-        "Multimodal",
-        "n8n"
-      ],
-      "buckets": [
-        "rag",
-        "multimodal",
-        "n8n"
-      ],
-      "score": 85
-    },
-    {
-      "title": "Quanta RAM e vCPU usar para n8n, Evolution API e Coolify",
-      "url": "https://dev.to/nuvits/quanta-ram-e-vcpu-usar-para-n8n-evolution-api-e-coolify-15md",
-      "source": "Dev.to n8n",
-      "published_at": "2026-11-26T21:09:54.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Para rodar Coolify, n8n e Evolution API juntos na mesma VPS Ubuntu, o piso funcional em produção leve é 4 vCPU e 8 GB de RAM (apertado durante builds) e o ponto equilibrado é 6 vCP",
-      "tags": [
-        "RAG/Vector",
-        "n8n",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
         "n8n",
         "hot"
       ],
       "score": 79
     },
     {
-      "title": "How to Schedule LinkedIn Posts for Free: Native Scheduler vs. Auto-Posting",
-      "url": "https://dev.to/autoposterai/how-to-schedule-linkedin-posts-for-free-native-scheduler-vs-auto-posting-3d02",
+      "title": "TrueLayer trial: AI agent pays Papa John's from bank account",
+      "url": "https://dev.to/mikefluff/truelayer-trial-ai-agent-pays-papa-johns-from-bank-account-4h56",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:17:57.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I'm the developer of Auto Poster AI, one of the tools mentioned below. If you publish on LinkedIn a few times a week, posting live every day gets in the way of deep wor",
-      "tags": [
-        "RAG/Vector",
-        "Creators",
-        "Release"
-      ],
-      "buckets": [
-        "rag",
-        "creators",
-        "hot"
-      ],
-      "score": 73
-    },
-    {
-      "title": "AI Chatbots for Real Estate: Answering Buyers While You're Out Showing Homes",
-      "url": "https://dev.to/sohel_ahmed_43118ea146970/ai-chatbots-for-real-estate-answering-buyers-while-youre-out-showing-homes-21nd",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-27T04:49:06.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: It is Saturday morning. You are out showing a home, your phone is on silent, and a buyer is messaging about a listing they saw last night. By the time you check your phone, six mes",
+      "published_at": "2026-11-28T05:54:30.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An AI agent has paid for a Papa John's order directly from a customer's bank account, according to Tech.eu. TrueLayer, the open banking provider behind the payment, describes it as",
       "tags": [
         "Agents",
-        "Release"
+        "Hot"
       ],
       "buckets": [
         "agents",
         "hot"
       ],
-      "score": 59
+      "score": 69
     },
     {
-      "title": "BoostBot Hub: Automating 37 Mobile Strategy Games on Windows PC",
-      "url": "https://dev.to/boostbot/boostbot-hub-automating-37-mobile-strategy-games-on-windows-pc-49db",
+      "title": "Automate Your Sales Process with AI: Follow-Ups, Quotes and CRM Without Hiring More Staff",
+      "url": "https://dev.to/sohel_ahmed_43118ea146970/automate-your-sales-process-with-ai-follow-ups-quotes-and-crm-without-hiring-more-staff-2c9j",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:31:42.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: BoostBot has been building Windows PC and cloud automation bots for mobile strategy games since 2015, covering 37 titles including Kingshot, Whiteout Survival, Last War, Rise of Ki",
+      "published_at": "2026-11-28T04:19:17.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Most lost sales are not lost because the product is wrong. They are lost because a follow-up came too late, a quote sat unsent, or a good lead was simply forgotten. For a small bus",
       "tags": [
-        "Hot",
+        "Creators",
         "Release"
       ],
       "buckets": [
+        "creators",
         "hot"
       ],
-      "score": 55
+      "score": 53
     },
     {
-      "title": "5dive freedom: choose how often ai employees ask for approval",
-      "url": "https://dev.to/lodar/5dive-freedom-choose-how-often-ai-employees-ask-for-approval-2f41",
+      "title": "How I Split a 60-Minute Recording into Four Stems with Demucs and FFmpeg",
+      "url": "https://dev.to/stemsplitter/how-i-split-a-60-minute-recording-into-four-stems-with-demucs-and-ffmpeg-52pm",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T06:14:13.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: An AI employee that asks about everything gives you a new job: clicking “approve” all day. Most of those clicks were going to be yes anyway. In an August 23 check of our own team's",
-      "tags": [
-        "Agents"
-      ],
-      "buckets": [
-        "agents"
-      ],
-      "score": 49
-    },
-    {
-      "title": "Scheduling Bluesky Posts: App Passwords, Limits and Threads Explained",
-      "url": "https://dev.to/autoposterai/scheduling-bluesky-posts-app-passwords-limits-and-threads-explained-410j",
-      "source": "Dev.to Automation",
-      "published_at": "2026-11-27T05:21:04.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Disclosure: I'm the developer of Auto Poster AI, which I use as the example scheduler below. Bluesky runs on the open AT Protocol, which makes it friendly to automation. If you wan",
+      "published_at": "2026-11-28T03:22:15.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: Split an hour of audio into four chunks and give each pair of neighboring chunks a four-second overlap. Add up the lengths of those chunks, and you get 60 minutes and 12 seconds. T",
       "tags": [
         "Hot"
       ],
@@ -482,11 +444,11 @@
       "score": 45
     },
     {
-      "title": "ปลดล็อก Legacy Systems ด้วย AI-Driven Data Pipeline สำหรับสถาปัตยกรรมองค์กร",
-      "url": "https://dev.to/syacoth/pldlk-legacy-systems-dwy-ai-driven-data-pipeline-samhrabsthaapatykrrmngkhkr-449m",
+      "title": "Catch SEO regressions after every release with a scheduled crawl diff",
+      "url": "https://dev.to/fuloxdev/catch-seo-regressions-after-every-release-with-a-scheduled-crawl-diff-1ebp",
       "source": "Dev.to Automation",
-      "published_at": "2026-11-27T04:34:10.000Z",
-      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: การเชื่อมต่อระบบไอทีดั้งเดิมเข้ากับแอปพลิเคชันสมัยใหม่มักสร้างความปวดหัวให้กับทีมวิศวกรเสมอ ปัญหาหลักไม่ใช่แค่เรื่องความแตกต่างของเทคโนโลยี แต่เป็นความซับซ้อนของการแปลสคีมาข้อมูลระ",
+      "published_at": "2026-11-28T05:20:53.000Z",
+      "summary_ko": "ìì½ ìì± ì¤í¨. ìë¬¸ ì¼ë¶: After a release or a migration, the question is not \"what is our SEO score\" but \"what got worse since last time\". Here is how to answer that with the Website SEO Audit Actor (I bui",
       "tags": [
         "Release"
       ],
